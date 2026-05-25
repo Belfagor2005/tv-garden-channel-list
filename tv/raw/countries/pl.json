@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "fooBWNn7lAf85s",
-    "name": "4 Fun Kids",
-    "stream_urls": [
-      "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gnXbQSLxnNAtTV",
     "name": "4 Fun TV",
     "stream_urls": [
@@ -67,20 +54,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JwjTtBdIXCgMJP",
-    "name": "BTB",
-    "stream_urls": [
-      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
-      "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DHR1El8JiIdfUH",
     "name": "BTB 3",
     "stream_urls": [
@@ -116,19 +89,6 @@
     "youtube_urls": [],
     "languages": [
       "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QpkwHa7GwFnKLp",
-    "name": "BTB Music",
-    "stream_urls": [
-      "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
       "pol"
     ],
     "country": "pl",
@@ -226,6 +186,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DN6TpQ0x9cD41t",
+    "name": "HORYZONT TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fBpxZZgTTTU"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SPKf8qiF4zzrz5",
     "name": "Jail",
     "stream_urls": [
@@ -241,7 +214,7 @@
     "name": "Kapitan Bomba",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OfUHOCXXVxw"
+      "https://www.youtube-nocookie.com/embed/xxCmjgAoMnw"
     ],
     "languages": [
       "pol"
@@ -357,6 +330,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cVaJUABGdrFesO",
+    "name": "Radiowa Czworka",
+    "stream_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uro7Gvibaed6g8",
     "name": "Rakuten Viki Poland",
     "stream_urls": [
@@ -396,17 +382,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oaaUd8YKnYqPUc",
-    "name": "Shades of Black",
+    "nanoid": "coRLnGknftkVsQ",
+    "name": "Sfera TV",
     "stream_urls": [
-      "https://xumo-fusebeats.amagi.tv/playlist.m3u8"
+      "https://stream.sferatv.pl/sferatvlive/live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "pol"
     ],
     "country": "pl",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "sXIYhdVUv4mPZv",
@@ -463,7 +449,7 @@
     "name": "Telewizja Gorzów",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pGlpMHhyca8"
+      "https://www.youtube-nocookie.com/embed/rIjmDE7TyNE"
     ],
     "languages": [
       "pol"
@@ -567,7 +553,20 @@
     "name": "Telewizja Zabrze",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/luOZ42j3TXA"
+      "https://www.youtube-nocookie.com/embed/G27kQOkIVnU"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zfdmNYbszO1KPF",
+    "name": "Telewizja Żary",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Nbsg20YMsF0"
     ],
     "languages": [
       "pol"
@@ -647,7 +646,7 @@
     "name": "TV Relax",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jaoq4y93ZyU"
+      "https://www.youtube-nocookie.com/embed/zxMBGU-IbZ8"
     ],
     "languages": [
       "pol"
@@ -758,6 +757,19 @@
     "youtube_urls": [],
     "languages": [
       "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "moehtnlcI4ChMQ",
+    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bqBdguGwTOg"
+    ],
+    "languages": [
       "pol"
     ],
     "country": "pl",

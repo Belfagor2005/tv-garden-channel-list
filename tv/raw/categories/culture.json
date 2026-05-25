@@ -119,19 +119,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four UK HD",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "bYTvtLA2rlhnbu",
     "name": "Bonaire.tv",
     "stream_urls": [
@@ -211,14 +198,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RMJta2uB0RhiFk",
     "name": "Channel One",
     "stream_urls": [
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2AlO6zcpcxs"
-    ],
+    "youtube_urls": [],
     "languages": [
       "fas"
     ],
@@ -486,6 +484,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "stream_urls": [
@@ -617,21 +628,6 @@
       "kur"
     ],
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra",
-      "kon",
-      "lin"
-    ],
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -821,6 +817,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1wMsK4nhJMBFCb",
+    "name": "MRTV NRC",
+    "stream_urls": [
+      "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bt1m1v4h1CmExI",
     "name": "NHK World-Japan",
     "stream_urls": [
@@ -849,19 +858,6 @@
       "eng"
     ],
     "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dEANspwI90Hs8o",
-    "name": "NTV Mir",
-    "stream_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -928,19 +924,6 @@
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DKHLUT1IqpMkXM",
-    "name": "Presumiendo Mexico",
-    "stream_urls": [
-      "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

@@ -437,17 +437,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NTVSvKBJVIIEgI",
-    "name": "MYZen Fit",
-    "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "nl",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "cz0NSemk409jgG",
     "name": "NOOS TV",
     "stream_urls": [
@@ -933,7 +922,8 @@
     "nanoid": "bdBmeA8W9ieof9",
     "name": "RTV Noordoost Friesland",
     "stream_urls": [
-      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8"
+      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
+      "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1112,19 +1102,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gWYRYemYkNyMGQ",
-    "name": "SBS6 Classics",
-    "stream_urls": [
-      "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "4qAiXmvkgXlKqP",
     "name": "Schie TV",
     "stream_urls": [
@@ -1155,6 +1132,19 @@
     "name": "Slotstad TV",
     "stream_urls": [
       "https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O0kpowmkTJLDCA",
+    "name": "SRC TV",
+    "stream_urls": [
+      "https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

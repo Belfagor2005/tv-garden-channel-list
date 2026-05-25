@@ -28,19 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AxkHU8DJYXqb2o",
-    "name": "ACI Sport TV",
-    "stream_urls": [
-      "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EgspbzPRaIJYXi",
     "name": "ADO TV",
     "stream_urls": [
@@ -306,20 +293,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ps5SHG9loIy0eR",
     "name": "F1 Channel US",
     "stream_urls": [
@@ -387,20 +360,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRBUacm9msNRQ8",
-    "name": "Fight Network",
-    "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
-      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c9pnrtpK60eR4M",
     "name": "FITE 24/7",
     "stream_urls": [
@@ -445,8 +404,7 @@
     "nanoid": "vJVb5mO9wEX9a8",
     "name": "Fox Deportes",
     "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
-      "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -558,19 +516,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "440EBhNILeBYuU",
-    "name": "Futbol",
-    "stream_urls": [
-      "https://live.teleradiocom.tj/8/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tgk"
-    ],
-    "country": "tj",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "lagHJficp6nYbz",
@@ -860,28 +805,14 @@
     "nanoid": "waNiTP0zBhMtU6",
     "name": "Pac-12 Insider",
     "stream_urls": [
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-firetv.amagi.tv/playlist.m3u8",
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T0WISoye0VXycS",
-    "name": "Persiana Fight",
-    "stream_urls": [
-      "https://fighthls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -910,32 +841,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vX2Vm81TXt010f",
-    "name": "Premier Sports",
-    "stream_urls": [
-      "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSj74UmnkvuvdN",
-    "name": "Premier Sports 2",
-    "stream_urls": [
-      "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -1166,24 +1071,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "PQO3nTobe9PoFo",
-    "name": "SOS Kanal Plus",
-    "stream_urls": [
-      "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "stream_urls": [
-      "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
-      "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+      "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1196,9 +1087,8 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "stream_urls": [
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1237,19 +1127,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4Me0RU4rvtok1Y",
-    "name": "Tele Rebelde",
-    "stream_urls": [
-      "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QCubHZSGzvkAVk",
     "name": "Teletrak TV",
     "stream_urls": [
@@ -1267,8 +1144,7 @@
     "name": "Tennis Channel",
     "stream_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-      "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1293,16 +1169,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PoFjoPeTQSvrgP",
-    "name": "TR Sport",
+    "nanoid": "MF8dCK1EmeF821",
+    "name": "Tour Spot TV",
     "stream_urls": [
-      "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+      "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "ita"
+      "spa"
     ],
-    "country": "it",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -1310,8 +1186,7 @@
     "name": "Trace Sport Stars",
     "stream_urls": [
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
-      "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
+      "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1505,6 +1380,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AuMbxXj62GSpIG",
+    "name": "W14DK-D 14.5",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jZEkpGlt5AGs91",
     "name": "WCW",
     "stream_urls": [],
@@ -1609,24 +1497,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8Ndns6qOA3E0TP",
-    "name": "WWE",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CGRuhWbd4LU"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KfPyDEuOOc6z6o",
     "name": "WWE Vault",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FDyJpNEpV44"
+      "https://www.youtube-nocookie.com/embed/yt-D6A6siVQ"
     ],
     "languages": [
       "eng"

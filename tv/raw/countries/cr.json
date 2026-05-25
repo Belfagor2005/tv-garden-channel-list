@@ -55,8 +55,7 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -70,6 +69,19 @@
     "name": "Canal 1",
     "stream_urls": [
       "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -169,19 +181,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g2oDIGkwBMwsy6",
-    "name": "Extrema TV",
-    "stream_urls": [
-      "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WGsDfHy5YE0QGF",
     "name": "GAMTV.cr",
     "stream_urls": [
@@ -235,6 +234,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YEWQw0DloTzS1o",
+    "name": "Limon TV",
+    "stream_urls": [
+      "https://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L0Xj3EMr6sq9Oz",
     "name": "Los Santos TV",
     "stream_urls": [
@@ -252,7 +264,7 @@
     "name": "Multimedios Costa Rica",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/igjWXEONBDQ"
+      "https://www.youtube-nocookie.com/embed/KMnZpEWrT3Q"
     ],
     "languages": [
       "spa"
@@ -303,7 +315,7 @@
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
+      "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -430,19 +442,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "aeI6TVNDKNvZiP",
-    "name": "TeleSUR Costa Rica",
-    "stream_urls": [
-      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xLJatClo1nNRli",
     "name": "TicaVision",
     "stream_urls": [
@@ -499,6 +498,19 @@
     "name": "Vintage Music",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KTfqjR2nJysy7l",
+    "name": "VM Latino",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

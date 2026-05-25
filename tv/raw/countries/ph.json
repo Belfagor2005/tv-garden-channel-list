@@ -29,6 +29,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "k6kILJ1P88D8yy",
+    "name": "CLTV 36",
+    "stream_urls": [
+      "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "pam",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "k1le9DNzsDpeDQ",
     "name": "DZRH News TV",
     "stream_urls": [],
@@ -90,32 +105,6 @@
     "stream_urls": [
       "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
       "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vX2Vm81TXt010f",
-    "name": "Premier Sports",
-    "stream_urls": [
-      "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSj74UmnkvuvdN",
-    "name": "Premier Sports 2",
-    "stream_urls": [
-      "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
