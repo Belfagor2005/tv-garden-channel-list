@@ -1,11 +1,40 @@
 [
   {
+    "nanoid": "EEjElvcDWe1Onh",
+    "name": "4U TV",
+    "stream_urls": [
+      "https://hls.4utv.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TFUyUrLKl7M3tP",
     "name": "24 TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+      "https://tv.ensonhaber.com/tv24/tv24.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/qFKEi2BqHYc"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lrea5Bd65wnCJm",
+    "name": "360",
+    "stream_urls": [
+      "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -65,14 +94,27 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mmz7MUwsZ62HWK",
-    "name": "Almahriah TV",
+    "nanoid": "7COae96uG7VRpK",
+    "name": "Aksu TV",
     "stream_urls": [
-      "https://starmenajo.com/hls/almahriah/index.m3u8"
+      "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "ara"
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3GgXVbdK2cjuBg",
+    "name": "Alanya Posta TV",
+    "stream_urls": [
+      "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
     ],
     "country": "tr",
     "isGeoBlocked": false
@@ -501,6 +543,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qgqjKHkHjQzR2F",
+    "name": "Finans Turk TV",
+    "stream_urls": [
+      "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I6D9IHQIDu6y7l",
     "name": "Güldür Güldür Show",
     "stream_urls": [],
@@ -627,7 +682,7 @@
     "name": "ibrahimlive",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OBLJFiiD0xM"
+      "https://www.youtube-nocookie.com/embed/2cElUaq6wtU"
     ],
     "languages": [
       "tur"
@@ -655,6 +710,19 @@
     "name": "Kanal 3",
     "stream_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YTsctuJa7qKVvB",
+    "name": "Kanal 7",
+    "stream_urls": [
+      "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -837,20 +905,7 @@
     "name": "KRT TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZKqXbdJ-BxI"
-    ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UDmlskBaSdu1z8",
-    "name": "Kurtlar Vadisi",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FpHquhm1-3o"
+      "https://www.youtube-nocookie.com/embed/LBffKHlCx8U"
     ],
     "languages": [
       "tur"
@@ -956,6 +1011,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/0dmPGl8HV3A"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GIntzeUgHcQOIa",
+    "name": "Number 1 Ask",
+    "stream_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -1227,7 +1295,9 @@
   {
     "nanoid": "brUJhCIZbgC3FC",
     "name": "TGRT Haber",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://canli.tgrthaber.com/tgrt.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/0SAUIyvNA5s"
     ],
@@ -1548,19 +1618,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jR1pEYmA9cImfH",
-    "name": "UU TV 2",
-    "stream_urls": [
-      "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o42XfPEZyBkZVI",
     "name": "Vav TV",
     "stream_urls": [
@@ -1593,7 +1650,7 @@
     "name": "WildBrain Çocuklar: Twirlywoos",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CSpTI1OI0wI"
+      "https://www.youtube-nocookie.com/embed/LZAszOd6pLQ"
     ],
     "languages": [
       "tur"

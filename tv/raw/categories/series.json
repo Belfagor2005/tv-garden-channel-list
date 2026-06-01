@@ -84,7 +84,8 @@
     "name": "Are We There Yet?",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8",
-      "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8"
+      "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -138,8 +139,8 @@
     "name": "Baywatch US",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8",
-      "https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8",
-      "https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8"
+      "https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8",
+      "https://baywatch-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -243,7 +244,7 @@
     "name": "Deal or No Deal",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8",
-      "https://amg00627-amg00627c21-samsung-gb-3869.playouts.now.amagi.tv/playlist.m3u8",
+      "https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8",
       "https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8"
     ],
     "youtube_urls": [],
@@ -309,8 +310,7 @@
     "nanoid": "dQ9sIG5xcxVjIW",
     "name": "Dog the Bounty Hunter UK",
     "stream_urls": [
-      "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8",
-      "https://amg00276-amg00276c11-samsung-gb-3484.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -334,19 +334,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "BtGcx9v6eZu6vK",
-    "name": "Dog Whisperer UK",
-    "stream_urls": [
-      "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "rQiaZ0oiIHQJ8O",
     "name": "Don't Tell The Bride",
     "stream_urls": [
@@ -359,6 +346,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "stream_urls": [
+      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "RQLjZpBmmmFy6U",
@@ -375,9 +375,7 @@
     "nanoid": "6DT2CZ9jL47ilp",
     "name": "Duck Dynasty UK",
     "stream_urls": [
-      "https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8",
-      "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8"
+      "https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -480,20 +478,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V1f6w7hVGBkZca",
-    "name": "Ghost Hunters UK",
-    "stream_urls": [
-      "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "o7sYxVV5UOCp3h",
     "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "stream_urls": [],
@@ -525,9 +509,7 @@
     "nanoid": "X0zblbZ45u2Fyw",
     "name": "Hell's Kitchen UK",
     "stream_urls": [
-      "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
-      "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8",
-      "https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8"
+      "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -603,19 +585,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UDmlskBaSdu1z8",
-    "name": "Kurtlar Vadisi",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FpHquhm1-3o"
-    ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cwqY1fSd0UvwAg",
     "name": "Land Of The Lost",
     "stream_urls": [],
@@ -639,19 +608,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tdRees8XYenS7X",
-    "name": "McLeod's Daughters UK",
-    "stream_urls": [
-      "https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -697,7 +653,8 @@
     "nanoid": "D0c4Jvigf5dKNp",
     "name": "Mystery Science Theater 3000",
     "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
+      "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -711,8 +668,7 @@
     "name": "Mythbusters UK",
     "stream_urls": [
       "https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8",
-      "https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8",
-      "https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8"
+      "https://d1cgf0ptrv4t22.cloudfront.net/Mythbusters_GB.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -741,7 +697,7 @@
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/f111d6c2-02bf-45fb-9a90-2e55b18d9f70/playlist.m3u8",
       "https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8",
-      "https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -784,6 +740,7 @@
     "nanoid": "WjQsJ6SPRLhezs",
     "name": "PBS Nature",
     "stream_urls": [
+      "https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8",
       "https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8",
       "https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8"
     ],
@@ -834,16 +791,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rkSBlkz2deLyQZ",
-    "name": "Shout! Studios: Get A Life",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TRbQbwK-K_M"
+    "nanoid": "R193ToXFYYRnV4",
+    "name": "Serie Max",
+    "stream_urls": [
+      "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
-      "eng"
+      "fra"
     ],
-    "country": "us",
+    "country": "ci",
     "isGeoBlocked": false
   },
   {
@@ -1002,7 +959,7 @@
     "name": "TokuSHOUTsu: Kamen Rider",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jbayK21_mnQ"
+      "https://www.youtube-nocookie.com/embed/5CF_uiirxFg"
     ],
     "languages": [
       "jpn"

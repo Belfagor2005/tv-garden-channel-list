@@ -128,19 +128,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MV7j6dHcEiwyvr",
-    "name": "Antenne Reunion",
-    "stream_urls": [
-      "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cGjSaev20uBBta",
     "name": "Banijay Mr Bean Animé",
     "stream_urls": [
@@ -176,10 +163,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D2NSPfcewUnhFP",
+    "name": "BFM Business",
+    "stream_urls": [
+      "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QdwgxpSy3GxyBy",
     "name": "BFM Lyon",
     "stream_urls": [
       "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "su9d0YBQVTBx5Z",
+    "name": "BFM TV",
+    "stream_urls": [
+      "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -232,6 +245,19 @@
     "name": "Canal 32",
     "stream_urls": [
       "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tiXtRLicL19CEx",
+    "name": "Cannes Lerins TV",
+    "stream_urls": [
+      "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -544,12 +570,12 @@
     "nanoid": "oTQxI54nBGEd6Z",
     "name": "France 24 English",
     "stream_urls": [
-      "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
-      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
+      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
+      "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ap-UM1O9RBU"
+      "https://www.youtube-nocookie.com/embed/HvZt-nh9sGg"
     ],
     "languages": [
       "eng"
@@ -577,7 +603,7 @@
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/l8PMl7tUDIE"
+      "https://www.youtube-nocookie.com/embed/a47ckXKZjxI"
     ],
     "languages": [
       "fra"
@@ -599,10 +625,47 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ok1XbdadbIAXgd",
+    "name": "Francophonie24",
+    "stream_urls": [
+      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7MLHT3jxe1OcD2",
     "name": "Frequence Novelas",
     "stream_urls": [
       "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cZHuVSqX1X1VrE",
+    "name": "Generation Sitcoms",
+    "stream_urls": [
+      "https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NXr5JJCUZWuMub",
+    "name": "Generations TV",
+    "stream_urls": [
+      "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -629,6 +692,41 @@
     "name": "Homicide la chaîne du fait divers",
     "stream_urls": [
       "https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Grm4rZFIs5yHyN",
+    "name": "ILTV",
+    "stream_urls": [
+      "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BHURXFJmympW7l",
+    "name": "INA 70s",
+    "stream_urls": [
+      "https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wBjzvW6WzUB3nI",
+    "name": "INA Ardivision",
+    "stream_urls": [
+      "https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -792,19 +890,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aRYM4hJmBP444c",
-    "name": "My Gospel TV",
-    "stream_urls": [
-      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hDKihfnR1gIzAi",
     "name": "MyZen TV",
     "stream_urls": [
@@ -916,6 +1001,7 @@
     "nanoid": "PGDjufEBywGkq1",
     "name": "Qwest TV Jazz & Beyond",
     "stream_urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
       "https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -941,7 +1027,7 @@
     "name": "RFI",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lio3xyb-y-o"
+      "https://www.youtube-nocookie.com/embed/5r1vzOpvW1E"
     ],
     "languages": [
       "fra"
@@ -970,6 +1056,19 @@
       "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3Jb7rDYF89I"
+    ],
     "languages": [
       "fra"
     ],
@@ -1065,7 +1164,7 @@
     "name": "SQOOL TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZymesTI9uys"
+      "https://www.youtube-nocookie.com/embed/WNkOsgyaL0k"
     ],
     "languages": [
       "fra"
@@ -1116,7 +1215,6 @@
     "nanoid": "URBHUsZAHdGmEN",
     "name": "Trace Brazuca",
     "stream_urls": [
-      "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1143,7 +1241,6 @@
     "nanoid": "RcxxzdMu6ZS2Ab",
     "name": "Trace Latina",
     "stream_urls": [
-      "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8"
     ],
@@ -1155,27 +1252,12 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "8sJgzboMg4ThSQ",
-    "name": "Trace Sport Stars",
-    "stream_urls": [
-      "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-      "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "wIUeNDlNNSx9pm",
     "name": "Trace Urban",
     "stream_urls": [
       "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
-      "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
+      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8",
+      "https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

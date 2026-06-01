@@ -26,19 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aMfHfOa13YZ4ZC",
-    "name": "ARTV",
-    "stream_urls": [
-      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "stream_urls": [],
@@ -101,6 +88,32 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UTKM2yB8tUj85p",
+    "name": "Camera dei Deputati",
+    "stream_urls": [
+      "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mCYSTDjXapnUpp",
+    "name": "Canal del Congreso 45.1",
+    "stream_urls": [
+      "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -215,6 +228,19 @@
     "name": "City of Fort Pierce",
     "stream_urls": [
       "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p9TPCkNNGjcV0i",
+    "name": "City of Monroe Government Channel",
+    "stream_urls": [
+      "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -339,19 +365,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C4Sr2pkQenk"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -524,19 +537,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xupLUhlUhMmQst",
-    "name": "Duma TV",
-    "stream_urls": [
-      "https://dumatv.iptv2022.com/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1045,7 +1045,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/B5up5S5sAfo"
+      "https://www.youtube-nocookie.com/embed/64dNpfstJE8"
     ],
     "languages": [
       "por"
@@ -1221,7 +1221,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6SpDHfr1pSA"
+      "https://www.youtube-nocookie.com/embed/aulVuhDXWm4"
     ],
     "languages": [
       "por"
@@ -1247,7 +1247,7 @@
     "name": "TV Câmara Porto Alegre",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Al1Vpm4gQgk"
+      "https://www.youtube-nocookie.com/embed/pMFkwBKjklM"
     ],
     "languages": [
       "por"

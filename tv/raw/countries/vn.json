@@ -55,7 +55,7 @@
     "name": "DGV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ma0MZoCuUec"
+      "https://www.youtube-nocookie.com/embed/-NdIDh3Kt2Y"
     ],
     "languages": [
       "vie"
@@ -68,6 +68,19 @@
     "name": "Dong Thap TV",
     "stream_urls": [
       "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "exPdjFAwdnd4RU",
+    "name": "Ha Tinh TV",
+    "stream_urls": [
+      "https://wse.hatinhtv.net/live/httv1/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -297,19 +310,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pr9APH9dYjEJHa",
-    "name": "Thai Nguyen TV",
-    "stream_urls": [
-      "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3ssQc7PdBXGpNU",
     "name": "Tien Giang TV",
     "stream_urls": [
@@ -330,20 +330,6 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ixbj5BMW5hNHQj",
-    "name": "Vietnam Today",
-    "stream_urls": [
-      "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
       "vie"
     ],
     "country": "vn",

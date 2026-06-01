@@ -57,8 +57,7 @@
     "nanoid": "BdWu9IrQ3fzNGW",
     "name": "Ayush TV",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/221/master.m3u8",
-      "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+      "https://cdn-6.pishow.tv/live/221/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -108,19 +107,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cuxA3La6G9rkzp",
-    "name": "CineLife",
-    "stream_urls": [
-      "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WNVyhRAYooRBZY",
     "name": "CVR Health",
     "stream_urls": [
@@ -158,6 +144,19 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "IgIhtSlDnhWcsL",
+    "name": "El Futuro En tu Mano",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZT4VuRfsHhU"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "sNGgqsLaPmiNb6",
@@ -268,7 +267,7 @@
     "name": "HGTV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FKldeYQ3x7k"
+      "https://www.youtube-nocookie.com/embed/P-QPneQYQLQ"
     ],
     "languages": [
       "eng"
@@ -283,19 +282,6 @@
       "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I5e1TQ7ZXE1hGu",
-    "name": "Hobbycraft",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/a5tcX9LGLP4"
-    ],
     "languages": [
       "eng"
     ],

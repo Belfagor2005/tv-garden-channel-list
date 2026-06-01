@@ -30,7 +30,7 @@
     "name": "ANN News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5_XMa5A7ACc"
+      "https://www.youtube-nocookie.com/embed/SaDQBTrlawo"
     ],
     "languages": [
       "jpn"
@@ -70,6 +70,19 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/JDQLBA8E4rI"
+    ],
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p6qHyum8xkT7Yw",
+    "name": "FNNプライムオンライン",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/eJ54az8aYig"
     ],
     "languages": [
       "jpn"
@@ -143,19 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6PZ8XlrYGQMPu",
-    "name": "Luiger: Japanese City Pop Radio",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G5x_DqYSbUo"
-    ],
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ihnGwU2sIXqoDQ",
     "name": "Nagoya TV News",
     "stream_urls": [],
@@ -164,19 +164,6 @@
     ],
     "languages": [
       "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GUSggBQ6IDRV8m",
-    "name": "Neko Atsume's Yard",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KvdBC_mqC2A"
-    ],
-    "languages": [
-      "eng"
     ],
     "country": "jp",
     "isGeoBlocked": false
@@ -239,19 +226,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PjUU6ZmfuLbOka",
-    "name": "RCC News 24",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3anpg4gYbq8"
-    ],
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dS0Hi9Oo1lT24W",
     "name": "RKB News 24",
     "stream_urls": [],
@@ -280,7 +254,9 @@
   {
     "nanoid": "VFHPY4Y8ToG3zS",
     "name": "Shop Channel",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://stream3.shopch.jp/HLS/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Vq3jz0c7oMs"
     ],
@@ -360,7 +336,7 @@
     "name": "Tokai TV News ONE",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/stRQSrq9d6M"
+      "https://www.youtube-nocookie.com/embed/hgogqv0lZpE"
     ],
     "languages": [
       "jpn"
