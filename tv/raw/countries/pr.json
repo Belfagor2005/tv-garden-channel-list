@@ -107,32 +107,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bD45kzyCkGUkuS",
-    "name": "Familia Vision HD",
-    "stream_urls": [
-      "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P4mxJMVl2wyiPi",
-    "name": "Faro de Santidad TV",
-    "stream_urls": [
-      "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ESeEpgafREEMIe",
     "name": "La-X",
     "stream_urls": [
@@ -150,6 +124,19 @@
     "name": "Nueva Vida FM",
     "stream_urls": [
       "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fxoiDSXZnOUswM",
+    "name": "Paraiso TV",
+    "stream_urls": [
+      "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -198,10 +185,37 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mus49kJTQfTCmk",
-    "name": "Telenorte",
+    "nanoid": "WRhrhAcp8QVCZv",
+    "name": "TeleOnce",
     "stream_urls": [
-      "https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8"
+      "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
+      "https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QYv70qSnNhaax1",
+    "name": "Triunfo 96.9 FM",
+    "stream_urls": [
+      "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vETwdWDS6Ys3LC",
+    "name": "WDWL 58.1",
+    "stream_urls": [
+      "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

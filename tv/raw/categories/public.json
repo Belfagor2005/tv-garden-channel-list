@@ -152,7 +152,7 @@
       "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Jes7v5Mm0Jc"
+      "https://www.youtube-nocookie.com/embed/IDATjO45An8"
     ],
     "languages": [
       "spa"
@@ -187,20 +187,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pILTgjKOONeKEW",
-    "name": "El 33 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ry2G3plOdgjsxG",
     "name": "ETB Events 1",
     "stream_urls": [
@@ -210,6 +196,19 @@
     "languages": [
       "eus",
       "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FoK0YKKb6b6lKd",
+    "name": "ETB1 On",
+    "stream_urls": [
+      "https://cdn1.etbon.eus/etb1on/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eus"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -226,34 +225,6 @@
     ],
     "country": "es",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pV0og9AjUUraI8",
-    "name": "La 1",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/1688877.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "3A0Eci8EhuLpsb",
-    "name": "La 1 Canarias",
-    "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/5190066.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "LEP2yAUVAvVur6",

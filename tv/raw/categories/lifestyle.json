@@ -57,7 +57,8 @@
     "nanoid": "BdWu9IrQ3fzNGW",
     "name": "Ayush TV",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/221/master.m3u8"
+      "https://cdn-6.pishow.tv/live/221/master.m3u8",
+      "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -104,6 +105,32 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "stream_urls": [
+      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/47519/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -211,19 +238,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NiVgCy0mmGxAMD",
-    "name": "GEM Life",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oA2uTAVn9Fd59h",
     "name": "Global Fashion Channel",
     "stream_urls": [
@@ -267,7 +281,7 @@
     "name": "HGTV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/P-QPneQYQLQ"
+      "https://www.youtube-nocookie.com/embed/7F6lR1MlJIQ"
     ],
     "languages": [
       "eng"
@@ -556,5 +570,18 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "1PSkwvPNlldAvj",
+    "name": "UA Fashion TV",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch216/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783109682&st=xTgqNzpx4NJPo6cfuf5oLA"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
   }
 ]

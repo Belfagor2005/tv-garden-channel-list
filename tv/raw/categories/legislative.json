@@ -26,6 +26,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aMfHfOa13YZ4ZC",
+    "name": "ARTV",
+    "stream_urls": [
+      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "stream_urls": [],
@@ -290,19 +303,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CI4BtTpHkRl4IU",
-    "name": "CityTV San Diego",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LWkzNCIwYTynxm",
     "name": "CityTV Whittier",
     "stream_urls": [
@@ -365,6 +365,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3Baub1Uj5KM"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -540,6 +553,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zXnZtysd9jWieA",
+    "name": "Escambia County TV",
+    "stream_urls": [
+      "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "stream_urls": [
@@ -595,8 +621,7 @@
     "nanoid": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
     "stream_urls": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
-      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -887,7 +912,7 @@
     "name": "Nova24TV 2",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XG5HJEfcguc"
+      "https://www.youtube-nocookie.com/embed/4Id91mChRbw"
     ],
     "languages": [
       "slv"
@@ -947,19 +972,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hKXziqHmvJRVZi",
-    "name": "Parlamentsfernsehen 1",
-    "stream_urls": [
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "pGZdS7NMq1FAlR",
@@ -1045,7 +1057,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/64dNpfstJE8"
+      "https://www.youtube-nocookie.com/embed/VZp2c8MPaxg"
     ],
     "languages": [
       "por"
@@ -1190,19 +1202,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ztNrNzCLndWIQ7",
-    "name": "The Parliamentary Channel",
-    "stream_urls": [
-      "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "bs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "am21AdPLsYEXMM",
     "name": "The Peninsula Channel",
     "stream_urls": [
@@ -1221,7 +1220,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aulVuhDXWm4"
+      "https://www.youtube-nocookie.com/embed/_WBw_1GdsSw"
     ],
     "languages": [
       "por"
@@ -1247,7 +1246,7 @@
     "name": "TV Câmara Porto Alegre",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pMFkwBKjklM"
+      "https://www.youtube-nocookie.com/embed/6W4sIpK4oNA"
     ],
     "languages": [
       "por"

@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "stream_urls": [
+      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "btaTHB02v7Y9B8",
     "name": "F10 HD",
     "stream_urls": [
@@ -78,6 +91,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JLRlLiosJOhAzH",
+    "name": "UMSA TVU Internacional",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fcllzx7ENtLcnw",
+    "name": "UMSA TVU LP",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9u6WNgsEYDn11w",
     "name": "Univalle Television",
     "stream_urls": [
@@ -87,6 +126,17 @@
     "languages": [
       "spa"
     ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T3D6a3NyVvl2H9",
+    "name": "UniversidadMayordeSanAndres",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8190/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "bo",
     "isGeoBlocked": false
   },
