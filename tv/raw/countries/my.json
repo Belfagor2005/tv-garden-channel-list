@@ -17,7 +17,7 @@
     "name": "Berita RTM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NpVkmPLAx2Q"
+      "https://www.youtube-nocookie.com/embed/HxgK1_xItSI"
     ],
     "languages": [
       "msa"
@@ -30,7 +30,7 @@
     "name": "Molek TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mIaYkjKTfXI"
+      "https://www.youtube-nocookie.com/embed/uRMrToRteyE"
     ],
     "languages": [
       "msa"
@@ -52,13 +52,28 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "68Yr0ZtgcyFDZd",
-    "name": "Susun TV",
+    "nanoid": "IcGdnIewAbFaS2",
+    "name": "Susun TV International",
     "stream_urls": [
       "https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "msa"
+    ],
+    "country": "my",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Wjw5EXshbNP0xk",
+    "name": "TV3",
+    "stream_urls": [
+      "https://m3u.chanox97.workers.dev/tv3.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "msa"
+    ],
     "country": "my",
     "isGeoBlocked": false
   }

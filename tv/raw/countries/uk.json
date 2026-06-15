@@ -12,7 +12,7 @@
   },
   {
     "nanoid": "Ppn5dhp1iiI1tV",
-    "name": "A New Life In The Sun",
+    "name": "A New Life in the Sun",
     "stream_urls": [
       "https://d36zu8tswi4fqu.cloudfront.net/playlist.m3u8"
     ],
@@ -188,10 +188,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "A7FjWEoxfZfQRg",
-    "name": "BBC News Europe",
+    "nanoid": "31U63I8METsDXI",
+    "name": "BBC News (HEVC)",
     "stream_urls": [
-      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -201,11 +202,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "31U63I8METsDXI",
-    "name": "BBC News HD",
+    "nanoid": "A7FjWEoxfZfQRg",
+    "name": "BBC News Europe",
     "stream_urls": [
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
+      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -498,7 +498,7 @@
     "name": "Create & Craft TV Extra",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DQPdq4Gaf3E"
+      "https://www.youtube-nocookie.com/embed/zmv4btFToTk"
     ],
     "languages": [
       "eng"
@@ -939,7 +939,7 @@
     "stream_urls": [
       "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
       "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
-      "https://amg00654-itvstudios-hellskitchen-samsunguk-c8rgt.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsunguk/playlist.m3u8"
+      "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1162,6 +1162,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ShZM1jb9O7Uguf",
+    "name": "Kanshi TV",
+    "stream_urls": [
+      "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e8nAySYBqJpeIt",
     "name": "Latest TV",
     "stream_urls": [
@@ -1315,13 +1328,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KAUyMj1FhX2oLB",
-    "name": "Most Haunted",
+    "nanoid": "lUe0NaFHoGcU2K",
+    "name": "Most Haunted UK",
     "stream_urls": [
       "https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1519,6 +1534,7 @@
     "nanoid": "MDjiS0YoXPCIql",
     "name": "Mystery TV UK",
     "stream_urls": [
+      "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
       "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
       "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
     ],
@@ -1570,7 +1586,7 @@
   },
   {
     "nanoid": "T0TMY0MmpuHlBC",
-    "name": "NatureTime UK",
+    "name": "Nature Time",
     "stream_urls": [
       "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
     ],
@@ -1892,6 +1908,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
+    "stream_urls": [
+      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uHYtTL2fEDHMX0",
     "name": "Rally.TV FAST+",
     "stream_urls": [
@@ -1901,6 +1928,17 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "stream_urls": [
+      "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -2013,19 +2051,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CkqK0vHvwZKLiX",
-    "name": "Sky News Weather",
-    "stream_urls": [
-      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0VsTkNT1aPTgCg",
     "name": "Smurf TV",
     "stream_urls": [
@@ -2052,7 +2077,7 @@
     "name": "Soviet Toons: Ну, погоди!",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GosXuqZgphY"
+      "https://www.youtube-nocookie.com/embed/2nJ8pU3XKGE"
     ],
     "languages": [
       "rus"
@@ -2064,7 +2089,6 @@
     "nanoid": "cfBOOiTtczD84z",
     "name": "Space Live powered by sen",
     "stream_urls": [
-      "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8",
       "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
       "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
     ],
@@ -2345,7 +2369,8 @@
     "nanoid": "QMKR1Xfs0rC7EV",
     "name": "Trace UK",
     "stream_urls": [
-      "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8"
+      "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
+      "https://channels.trace.plus/Traceprod/UK_FAST/abr.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -276,24 +276,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lRKUVxSJLWtW94",
-    "name": "City TV Channel 3/41",
+    "nanoid": "wsxEmspfNhwYCf",
+    "name": "CityTV 20 Santa Monica",
     "stream_urls": [
-      "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8"
+      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng",
-      "spa"
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wsxEmspfNhwYCf",
-    "name": "CityTV 20 Santa Monica",
+    "nanoid": "CI4BtTpHkRl4IU",
+    "name": "CityTV San Diego",
     "stream_urls": [
-      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
+      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -365,19 +364,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3Baub1Uj5KM"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -544,19 +530,6 @@
     "name": "District of Columbia Network",
     "stream_urls": [
       "https://video.oct.dc.gov/out/u/DCN.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zXnZtysd9jWieA",
-    "name": "Escambia County TV",
-    "stream_urls": [
-      "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -843,6 +816,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c9GCwVR0qdOyVK",
+    "name": "MBG TV FHD",
+    "stream_urls": [
+      "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kDdnzcMq5qo5B2",
     "name": "MBTV",
     "stream_urls": [
@@ -974,6 +960,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hKXziqHmvJRVZi",
+    "name": "Parlamentsfernsehen 1",
+    "stream_urls": [
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "stream_urls": [
@@ -1057,7 +1056,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VZp2c8MPaxg"
+      "https://www.youtube-nocookie.com/embed/N5x63bWabO4"
     ],
     "languages": [
       "por"
@@ -1202,6 +1201,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ztNrNzCLndWIQ7",
+    "name": "The Parliamentary Channel",
+    "stream_urls": [
+      "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "bs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "am21AdPLsYEXMM",
     "name": "The Peninsula Channel",
     "stream_urls": [
@@ -1220,7 +1232,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_WBw_1GdsSw"
+      "https://www.youtube-nocookie.com/embed/O3vqXnATp9A"
     ],
     "languages": [
       "por"

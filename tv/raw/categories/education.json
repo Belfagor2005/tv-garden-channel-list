@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "rWtKJSewbglBpX",
+    "name": "Agro TV",
+    "stream_urls": [
+      "https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2iEMu7y7Pfmad9",
     "name": "Al Hiwar TV",
     "stream_urls": [
@@ -16,6 +27,7 @@
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "stream_urls": [
+      "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
       "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
     ],
     "youtube_urls": [],
@@ -102,6 +114,19 @@
       "spa"
     ],
     "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAS6xjp5V4DYwH",
+    "name": "Canal Universidad",
+    "stream_urls": [
+      "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -579,19 +604,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DuJd4u0fDHyZVy",
-    "name": "Eduvision",
-    "stream_urls": [
-      "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Qo704xbyXZJTCe",
     "name": "En Lengua de Senas TV",
     "stream_urls": [
@@ -624,7 +636,7 @@
     "name": "FGN Channel",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/X7BUbq5IYlI"
+      "https://www.youtube-nocookie.com/embed/FGU1XJSzvx4"
     ],
     "languages": [
       "urd"
@@ -682,19 +694,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Pz1CuDeSJYHivR",
-    "name": "Jalisco TV",
-    "stream_urls": [
-      "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -802,16 +801,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vGCm6ufhO0hHv0",
-    "name": "MediBizTV",
+    "nanoid": "uvGkHvj4kYuGpc",
+    "name": "MCPSS TV",
     "stream_urls": [
-      "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
+      "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "in",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1077,19 +1076,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ilmq7YqEXqJqfJ",
-    "name": "Rai Scuola",
-    "stream_urls": [
-      "https://srv1.adriatelekom.com/RaiScuola/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "uOeqeeP7q9Tix0",
     "name": "Red Apple 21",
     "stream_urls": [
@@ -1155,6 +1141,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IYaHECLKltBJ5V",
+    "name": "STVE Telebasica",
+    "stream_urls": [
+      "https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wG03qaF80rSneK",
+    "name": "Telepace 3",
+    "stream_urls": [
+      "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x4lyf4pNwLJhfT",
+    "name": "The Indonesia Channel",
+    "stream_urls": [
+      "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3JgrZVIyLGdoxu",
     "name": "TRT EBA",
     "stream_urls": [
@@ -1181,10 +1206,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ufquGR4ncw7ZpB",
-    "name": "TV BUAP",
+    "nanoid": "LSV8LWxmVrWxS3",
+    "name": "TV Cuatro 4.4",
     "stream_urls": [
-      "https://tvenvivo.buap.mx/livestream/stream/index.m3u8"
+      "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1243,6 +1268,19 @@
       "spa"
     ],
     "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VxXPHwWoMl0QhJ",
+    "name": "TV Universidad",
+    "stream_urls": [
+      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -1324,6 +1362,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "igJmo5J6YhgXmV",
+    "name": "Unifranz",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8192/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "Unisul TV",
     "stream_urls": [
@@ -1341,7 +1392,7 @@
     "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OcEqLTB7-d0"
+      "https://www.youtube-nocookie.com/embed/IUASbrfk-lM"
     ],
     "languages": [
       "pol"
@@ -1430,10 +1481,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5X15DRPWWS1LoX",
-    "name": "XHMNL-TDT",
+    "nanoid": "MvxVdnZ8G06Wbd",
+    "name": "XHPBZC-TDT2",
     "stream_urls": [
-      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+      "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1443,10 +1494,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MvxVdnZ8G06Wbd",
-    "name": "XHPBZC-TDT2",
+    "nanoid": "47o1HNzoeOQk95",
+    "name": "XHUNES-TDT",
     "stream_urls": [
-      "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
+      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

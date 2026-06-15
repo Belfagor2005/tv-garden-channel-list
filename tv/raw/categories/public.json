@@ -26,6 +26,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KB99Wa2uILCWk1",
+    "name": "3Cat Exclusiu 1",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Kwb4zYk9mkeksQ",
+    "name": "3Cat Exclusiu 3",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "MsBPAtiznwuBpL",
     "name": "3Cat Plats bruts",
     "stream_urls": [
@@ -187,6 +213,60 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pILTgjKOONeKEW",
+    "name": "El 33 Originals",
+    "stream_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "stream_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UwOjLzXnioCc12",
+    "name": "ETB 1",
+    "stream_urls": [
+      "https://cdn1.etbon.eus/etb1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eus"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Z9Fl1El6fiaKQC",
+    "name": "ETB 2",
+    "stream_urls": [
+      "https://cdn1.etbon.eus/etb2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "ry2G3plOdgjsxG",
     "name": "ETB Events 1",
     "stream_urls": [
@@ -227,11 +307,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pV0og9AjUUraI8",
+    "name": "La 1",
+    "stream_urls": [
+      "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "3A0Eci8EhuLpsb",
+    "name": "La 1 Canarias",
+    "stream_urls": [
+      "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "LEP2yAUVAvVur6",
     "name": "La 1 Catalunya",
     "stream_urls": [
-      "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8",
-      "https://ztnr.rtve.es/ztnr/3293681.m3u8"
+      "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

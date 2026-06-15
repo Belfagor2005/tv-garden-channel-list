@@ -13,10 +13,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aMfHfOa13YZ4ZC",
-    "name": "ARTV",
+    "nanoid": "k9YVnaB9vAhdV8",
+    "name": "Angel TV Portuguese",
     "stream_urls": [
-      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+      "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -26,10 +26,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xoEKmYJhUCh2jH",
-    "name": "Famatv",
+    "nanoid": "aMfHfOa13YZ4ZC",
+    "name": "ARTV",
     "stream_urls": [
-      "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
+      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -360,6 +360,19 @@
     "youtube_urls": [],
     "languages": [
       "rus"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8Zval48r5m3T99",
+    "name": "TVI",
+    "stream_urls": [
+      "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
     ],
     "country": "pt",
     "isGeoBlocked": false

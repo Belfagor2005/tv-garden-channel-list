@@ -181,19 +181,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GDeVF43cbBphiD",
     "name": "ClickTV Chile",
     "stream_urls": [
@@ -317,6 +304,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uC0jraL1VNPnXr",
+    "name": "DocuBox",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch93/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2fMuVMErYSbQJN",
     "name": "Documentary+ International",
     "stream_urls": [
@@ -406,6 +406,20 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GOMdLvvyu3y5ss",
+    "name": "GZT",
+    "stream_urls": [
+      "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -507,6 +521,32 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "tE3WIvWTPSPArw",
+    "name": "Love The Planet ES",
+    "stream_urls": [
+      "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "wzCVcOtwYxi096",
+    "name": "Love The Planet IT",
+    "stream_urls": [
+      "https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "29K3gt1fuyfoWN",
     "name": "Lucky Dog",
     "stream_urls": [
@@ -575,7 +615,7 @@
   },
   {
     "nanoid": "SbCVyIRCGshv9Z",
-    "name": "Nature Time France",
+    "name": "Nature Time",
     "stream_urls": [
       "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8"
     ],
@@ -584,6 +624,19 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T0TMY0MmpuHlBC",
+    "name": "Nature Time",
+    "stream_urls": [
+      "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -612,19 +665,6 @@
       "eng"
     ],
     "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T0TMY0MmpuHlBC",
-    "name": "NatureTime UK",
-    "stream_urls": [
-      "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -671,7 +711,8 @@
     "nanoid": "x77twNOeEoFaIl",
     "name": "Safari TV",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/1513/master.m3u8"
+      "https://cdn-6.pishow.tv/live/1513/master.m3u8",
+      "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

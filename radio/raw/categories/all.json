@@ -124541,7 +124541,7 @@
     "stream_urls": [
       "https://jenny.torontocast.com:2000/stream/J1HITS"
     ],
-    "country": "jp",
+    "country": "ca",
     "languages": [
       "jpn"
     ],
@@ -159631,6 +159631,19 @@
     "country": "my",
     "languages": [
       "msa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1qToUwo7cGKceX",
+    "name": "Michi-FM",
+    "stream_urls": [
+      "https://kathy.torontocast.com:4115/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng",
+      "jpn"
     ],
     "isGeoBlocked": false
   },
@@ -224898,6 +224911,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Jy6Uc5nijRRHhC",
+    "name": "Radio Maisha",
+    "stream_urls": [
+      "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SG7LNEY9CDNryp",
     "name": "Radio Majevica",
     "stream_urls": [
@@ -276444,8 +276469,9 @@
   },
   {
     "nanoid": "yBrRbgcObTNMkr",
-    "name": "Shonan Beach FM",
+    "name": "Shonan Beach FM 78.9",
     "stream_urls": [
+      "https://shonanbeachfm.out.airtime.pro/shonanbeachfm_c",
       "https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a"
     ],
     "country": "jp",
@@ -284039,6 +284065,18 @@
     "languages": [
       "eng",
       "tgl"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f0EHjH5g7QzDZk",
+    "name": "Star FM 101.9 Grenada",
+    "stream_urls": [
+      "https://starchild.radioca.st/;"
+    ],
+    "country": "gd",
+    "languages": [
+      "eng"
     ],
     "isGeoBlocked": false
   },
@@ -304011,6 +304049,19 @@
     "country": "cn",
     "languages": [
       "uig"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cpAgi1xnIDEx8E",
+    "name": "Urumwe FM 93.5",
+    "stream_urls": [
+      "https://s1.free-shoutcast.com/stream/18084"
+    ],
+    "country": "ke",
+    "languages": [
+      "kik",
+      "swa"
     ],
     "isGeoBlocked": false
   },

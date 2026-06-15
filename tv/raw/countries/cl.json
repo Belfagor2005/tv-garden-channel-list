@@ -69,7 +69,7 @@
     "name": "24 Horas",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xE_ap6IQRRc"
+      "https://www.youtube-nocookie.com/embed/CGJZYtM7T7s"
     ],
     "languages": [
       "spa"
@@ -95,6 +95,19 @@
     "name": "Antofagasta TV",
     "stream_urls": [
       "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kc3HHZPOGrmJWv",
+    "name": "Atacama Noticias",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -196,24 +209,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Eoeb9ldORywfM0",
     "name": "CHV Noticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IEVv3T4ujj0"
+      "https://www.youtube-nocookie.com/embed/JlfU-9SbqUs"
     ],
     "languages": [
       "spa"
@@ -278,19 +278,6 @@
     "name": "EnerGeek",
     "stream_urls": [
       "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Fho666tDNHtuPI",
-    "name": "EnerGeek FAN",
-    "stream_urls": [
-      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
     ],
     "youtube_urls": [],
     "languages": [
@@ -369,7 +356,7 @@
     "name": "Meganoticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ooukxkN2RkI"
+      "https://www.youtube-nocookie.com/embed/alWv5Qyv1DQ"
     ],
     "languages": [],
     "country": "cl",
@@ -448,7 +435,7 @@
       "https://pnt.janusmedia.tv/hls/pnt.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/snqXdpCYsOs"
+      "https://www.youtube-nocookie.com/embed/W8rXl1qbA5w"
     ],
     "languages": [
       "spa"
@@ -499,8 +486,7 @@
     "nanoid": "RtV9rPOW8b3zIG",
     "name": "Solo Bailalo",
     "stream_urls": [
-      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
-      "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -540,7 +526,7 @@
     "name": "T13",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/V1mn3KjPBqc"
+      "https://www.youtube-nocookie.com/embed/Pd9Xv_CkzIk"
     ],
     "languages": [
       "spa"
@@ -628,19 +614,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aE41LbUT8Fnd7w",
-    "name": "Turf Movil",
-    "stream_urls": [
-      "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "byUbvXPv80AteN",
     "name": "TV Senado",
     "stream_urls": [
@@ -678,6 +651,19 @@
     ],
     "country": "cl",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "xTf3bbxqRJQgMl",
+    "name": "TVO San Vicente",
+    "stream_urls": [
+      "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "HeeVS1iRWuDC3B",
@@ -722,7 +708,6 @@
     "nanoid": "kTSEb5mta8wgr6",
     "name": "UATV",
     "stream_urls": [
-      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],

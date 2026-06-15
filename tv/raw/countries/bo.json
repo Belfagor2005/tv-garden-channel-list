@@ -1,9 +1,22 @@
 [
   {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
+    "nanoid": "iLcflI1KSBOjbJ",
+    "name": "Agenda Minera TV",
     "stream_urls": [
-      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      "https://stv2.boliviaplay.com.bo/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "szKNdNWx1GqWTX",
+    "name": "Coral TV",
+    "stream_urls": [
+      "https://tv.mediacp.eu:8081/coraltv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -117,6 +130,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "igJmo5J6YhgXmV",
+    "name": "Unifranz",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8192/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9u6WNgsEYDn11w",
     "name": "Univalle Television",
     "stream_urls": [
@@ -145,19 +171,6 @@
     "name": "UPEA TV",
     "stream_urls": [
       "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bXD4q6ffj1GZXZ",
-    "name": "VTV Canal 17",
-    "stream_urls": [
-      "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
