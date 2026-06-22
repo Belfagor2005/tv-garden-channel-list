@@ -128660,8 +128660,8 @@
     "nanoid": "wqjKodsPnJC3Vk",
     "name": "Jozi FM",
     "stream_urls": [
-      "https://edge.iono.fm/xice/51_medium.aac",
-      "https://edge.iono.fm/xice/51_high.aac"
+      "https://edge.iono.fm/xice/51_high.aac",
+      "https://edge.iono.fm/xhls/51_high.m3u8"
     ],
     "country": "za",
     "languages": [
@@ -144063,6 +144063,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oIIghr4KiWS6yv",
+    "name": "La Universidad del Cuarteto",
+    "stream_urls": [
+      "https://srv7.streamingradio.ar/8370/stream"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wqLbgGIYMGtl0d",
     "name": "La Uno 103.1",
     "stream_urls": [
@@ -155995,7 +156007,7 @@
     "stream_urls": [
       "https://maximusrockfm.stream.laut.fm/maximusrockfm"
     ],
-    "country": "de",
+    "country": "co",
     "languages": [
       "eng"
     ],
@@ -168825,6 +168837,18 @@
     "country": "mx",
     "languages": [
       "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YIaqLgDaAAYnr2",
+    "name": "NEXT KIDS WORLDWIDE",
+    "stream_urls": [
+      "https://usa14.fastcast4u.com/proxy/tigreene?mp=/1"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ],
     "isGeoBlocked": false
   },
@@ -238973,6 +238997,19 @@
     "country": "bz",
     "languages": [
       "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6dUTlFDjhaaNxc",
+    "name": "Radio RET Branché",
+    "stream_urls": [
+      "https://stream.zeno.fm/tpurfoixfdfvv"
+    ],
+    "country": "ht",
+    "languages": [
+      "fra",
+      "hat"
     ],
     "isGeoBlocked": false
   },

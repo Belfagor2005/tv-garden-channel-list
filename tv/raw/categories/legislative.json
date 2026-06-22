@@ -39,19 +39,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1q3kaCpiJgYIgc",
-    "name": "Assembleia SC: AO VIVO",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DKTR1v3Aj-s"
-    ],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "I5etK19ZRT3eHn",
     "name": "ATXN1",
     "stream_urls": [
@@ -539,19 +526,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xnU10BQX3X7Kmm",
-    "name": "Fernandina Beach Channel",
-    "stream_urls": [
-      "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zgZETkiLQsKXGO",
     "name": "Glendale 11 AZ",
     "stream_urls": [
@@ -594,7 +568,8 @@
     "nanoid": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
     "stream_urls": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
+      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -739,26 +714,13 @@
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "stream_urls": [
-      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng",
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "stream_urls": [
-      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -859,6 +821,19 @@
     "name": "Monroe County TV",
     "stream_urls": [
       "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N5DSemYKHwZBaz",
+    "name": "MPTV",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1056,7 +1031,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N5x63bWabO4"
+      "https://www.youtube-nocookie.com/embed/lFCwIZEvil4"
     ],
     "languages": [
       "por"
@@ -1225,19 +1200,6 @@
       "spa"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qIar6axvqjptwG",
-    "name": "TV Assembleia Minas Gerais",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O3vqXnATp9A"
-    ],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {

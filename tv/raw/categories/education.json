@@ -91,29 +91,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kmgZCVMju22EeN",
-    "name": "Canal Educativo",
+    "nanoid": "hrsVs9qqIiOboO",
+    "name": "Canal FDR",
     "stream_urls": [
-      "https://tv.picta.cu/educativo/educativo_0.m3u8"
+      "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "spa"
+      "por"
     ],
-    "country": "cu",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K3el31a2gq3vxi",
-    "name": "Canal Educativo 2",
+    "nanoid": "SB7baTrTU4uzJM",
+    "name": "Canal Saude",
     "stream_urls": [
-      "https://tv.picta.cu/educativo2/educativo2_0.m3u8"
+      "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "spa"
+      "por"
     ],
-    "country": "cu",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -231,6 +231,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9L2pscQHcBOxS5",
+    "name": "Da Vinci",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -604,6 +617,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DuJd4u0fDHyZVy",
+    "name": "Eduvision",
+    "stream_urls": [
+      "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qo704xbyXZJTCe",
     "name": "En Lengua de Senas TV",
     "stream_urls": [
@@ -642,6 +668,19 @@
       "urd"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xZPdiS2AIsXbXV",
+    "name": "GVision",
+    "stream_urls": [
+      "https://videostream.chileservidores.com:8081/tome/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -684,16 +723,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
+    "nanoid": "Pz1CuDeSJYHivR",
+    "name": "Jalisco TV",
     "stream_urls": [
-      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+      "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "por"
+      "spa"
     ],
-    "country": "br",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -811,6 +850,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vGCm6ufhO0hHv0",
+    "name": "MediBizTV",
+    "stream_urls": [
+      "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1102,19 +1154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sI8hLOEw48l5jP",
-    "name": "Santa Cecilia TV",
-    "stream_urls": [
-      "https://video10.logicahost.com.br/unisanta/unisanta/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xT4SS5ryo4F6PC",
     "name": "SMCTV Channel 24",
     "stream_urls": [
@@ -1203,6 +1242,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ufquGR4ncw7ZpB",
+    "name": "TV BUAP",
+    "stream_urls": [
+      "https://tvenvivo.buap.mx/livestream/stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1326,6 +1378,7 @@
     "nanoid": "JLRlLiosJOhAzH",
     "name": "UMSA TVU Internacional",
     "stream_urls": [
+      "https://edge.enhdtv.com/8026/index.m3u8",
       "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
@@ -1339,6 +1392,7 @@
     "nanoid": "fcllzx7ENtLcnw",
     "name": "UMSA TVU LP",
     "stream_urls": [
+      "https://edge.enhdtv.com/8190/index.m3u8",
       "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
@@ -1362,16 +1416,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "igJmo5J6YhgXmV",
-    "name": "Unifranz",
+    "nanoid": "JvGEcuMecAcih8",
+    "name": "Unison TV",
     "stream_urls": [
-      "https://live.enhdtv.com:8081/8192/index.m3u8"
+      "https://stream.unison.mx/hls/unisontvatem.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "spa"
     ],
-    "country": "bo",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1478,6 +1532,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5X15DRPWWS1LoX",
+    "name": "XHMNL-TDT",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {

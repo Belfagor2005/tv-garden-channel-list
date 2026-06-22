@@ -31,7 +31,8 @@
     "nanoid": "FWhDbCLuy2F57c",
     "name": "BIZ Cinema",
     "stream_urls": [
-      "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8"
+      "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
+      "https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -44,7 +45,8 @@
     "nanoid": "Xmm3LX5dLU22wn",
     "name": "BIZ Music",
     "stream_urls": [
-      "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8"
+      "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+      "https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -57,7 +59,8 @@
     "nanoid": "B57EXBA3NLspPl",
     "name": "BIZ TV",
     "stream_urls": [
-      "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8"
+      "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8",
+      "https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -252,6 +255,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AZ7Ksh1ozbVk5Y",
+    "name": "Nurafshon TV",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "uzb"
+    ],
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3aVcjaCk9E1yIS",
     "name": "O'zbekiston",
     "stream_urls": [
@@ -332,19 +348,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eYcafCQpoKdrr4",
-    "name": "Sport",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "a71xtV9XZ9keoH",
     "name": "Taraqqiyot TV",
     "stream_urls": [
@@ -407,20 +410,6 @@
       "https://www.youtube-nocookie.com/embed/v5D3XvVtz98"
     ],
     "languages": [
-      "uzb"
-    ],
-    "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y67heKltErviMJ",
-    "name": "Zo'r TV",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus",
       "uzb"
     ],
     "country": "uz",

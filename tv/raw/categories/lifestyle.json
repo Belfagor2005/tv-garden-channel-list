@@ -97,14 +97,27 @@
     "nanoid": "JLfNH2O2h1Ue2z",
     "name": "Biz TV",
     "stream_urls": [
-      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SB7baTrTU4uzJM",
+    "name": "Canal Saude",
+    "stream_urls": [
+      "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -189,7 +202,8 @@
     "nanoid": "cihRbiX7gws0cD",
     "name": "FashionBox",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch369/index.m3u8"
+      "https://iptv.prosto.tv/ch369/index.m3u8",
+      "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -222,6 +236,33 @@
       "eng"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wKjb76m31kcro9",
+    "name": "Food Food",
+    "stream_urls": [
+      "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WDQpCRq4dLb0NU",
+    "name": "Fortuna TV",
+    "stream_urls": [
+      "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+      "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -608,6 +649,19 @@
       "ukr"
     ],
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LmMmHAVWfMTaiO",
+    "name": "Wapp",
+    "stream_urls": [
+      "https://stream.wapptv.cl/video/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   }
 ]

@@ -6,7 +6,7 @@
       "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HxEcfPpyLMA"
+      "https://www.youtube-nocookie.com/embed/ulKEgOktCeU"
     ],
     "languages": [
       "eng"
@@ -110,7 +110,7 @@
     "name": "Aqua Teen Hunger Force",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O61hD9QNbds"
+      "https://www.youtube-nocookie.com/embed/5U20q0tr6eU"
     ],
     "languages": [
       "eng"
@@ -214,7 +214,7 @@
     "name": "CONtv: Yu-Gi-Oh! Duel Monsters (Español)",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1GPXTMzdetY"
+      "https://www.youtube-nocookie.com/embed/9VQxy0wyrd8"
     ],
     "languages": [
       "spa"
@@ -253,6 +253,19 @@
     "name": "EnerGeek",
     "stream_urls": [
       "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "stream_urls": [
+      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
     ],
     "youtube_urls": [],
     "languages": [
@@ -423,7 +436,7 @@
     "name": "Kapitan Bomba",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xxCmjgAoMnw"
+      "https://www.youtube-nocookie.com/embed/atGseg3uH8w"
     ],
     "languages": [
       "pol"
@@ -494,6 +507,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GEzXSmIDYp7kSV",
+    "name": "MAX Anime",
+    "stream_urls": [
+      "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -695,6 +721,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Sw0hJi8gVOMHbV",
+    "name": "Regular Show",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/tXWDcMPg0SE"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Br53BhiHjkS3op",
     "name": "RetroCrush",
     "stream_urls": [
@@ -788,6 +827,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9O197zg8eEKLG6",
+    "name": "Spacetoon Arabic",
+    "stream_urls": [
+      "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pIMH6WPwb6VNHf",
+    "name": "SX3",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "yua0MMLiJjjDoi",
     "name": "Talking Tom & Friends TV: Garfield",
     "stream_urls": [],
@@ -805,7 +871,7 @@
     "name": "Teenage Mutant Ninja Turtles: TMNT",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qtW9lVhQatA"
+      "https://www.youtube-nocookie.com/embed/GZsC-vVxJMA"
     ],
     "languages": [
       "eng"

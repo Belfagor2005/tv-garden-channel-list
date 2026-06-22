@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "mljCXXuG95o31y",
+    "name": "America Television",
+    "stream_urls": [
+      "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yPFftXaL6zAl9S",
     "name": "Antares Television",
     "stream_urls": [
@@ -17,6 +30,19 @@
     "name": "Antena SUR",
     "stream_urls": [
       "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "stream_urls": [
+      "https://video2.lhdserver.es/asiritv/live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -104,6 +130,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PCHpCRc0yRAZbi",
+    "name": "Canal IPe",
+    "stream_urls": [
+      "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JWF3Hmgh7M8jJ3",
     "name": "Conecta2TV",
     "stream_urls": [
@@ -146,6 +185,7 @@
     "nanoid": "XzRqOxUzNRtPhH",
     "name": "ECO Television",
     "stream_urls": [
+      "https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8",
       "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
@@ -208,6 +248,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3hbUF3ouea162A",
+    "name": "La Fabulosa TV",
+    "stream_urls": [
+      "https://eu1.servers10.com:8081/8004/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qm7kjjw4XjKxtz",
     "name": "Mega TV Jaen",
     "stream_urls": [
@@ -241,19 +294,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GanSEAudCfBZ2t",
-    "name": "Monterrico TV",
-    "stream_urls": [
-      "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
     "country": "pe",
     "isGeoBlocked": false
   },
@@ -310,6 +350,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wipt0975o9TTyh",
+    "name": "PBO",
+    "stream_urls": [
+      "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rIUi7QauvvK3mU",
     "name": "Radio Master",
     "stream_urls": [
@@ -340,19 +393,6 @@
     "name": "RadioTV Oriente",
     "stream_urls": [
       "https://live.obslivestream.com/tvoriente/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4xzap5YbXqGoha",
-    "name": "RCR",
-    "stream_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -401,10 +441,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uycnDk5RgNSyIc",
+    "name": "Solar Television",
+    "stream_urls": [
+      "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BsVGc0NetKyHUo",
     "name": "SolTV",
     "stream_urls": [
-      "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -418,6 +471,19 @@
     "name": "Telecolor Yurimaguas",
     "stream_urls": [
       "https://live.obslivestream.com/telecolormux/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IzsSiDZXZvJ27Q",
+    "name": "Telelima",
+    "stream_urls": [
+      "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -453,10 +519,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K0qZuL6YkWBA5O",
+    "name": "Tevesur",
+    "stream_urls": [
+      "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IimzzIwURjFsYr",
+    "name": "Top TV",
+    "stream_urls": [
+      "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mdiVt9k5G6ApIq",
     "name": "Trivu",
     "stream_urls": [
-      "https://www.chasquirouter.com/salida/sd/trivu.m3u8"
+      "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -469,6 +561,7 @@
     "nanoid": "gh6WHvpQmXShdI",
     "name": "Turbo Mix Radio TV",
     "stream_urls": [
+      "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
       "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
     ],
     "youtube_urls": [],
@@ -479,12 +572,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XOM9Q1cGWigMXK",
-    "name": "TVLibertad",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eSbkQxgSxQ8"
+    "nanoid": "kzdXF1h7tKZGcP",
+    "name": "TV Cosmos",
+    "stream_urls": [
+      "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ha82k7k0qWc0Us",
+    "name": "TV+ Chincha",
+    "stream_urls": [
+      "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -587,6 +693,19 @@
     "name": "VNP",
     "stream_urls": [
       "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3IUBVhMnjgOvDA",
+    "name": "Wayra TV",
+    "stream_urls": [
+      "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

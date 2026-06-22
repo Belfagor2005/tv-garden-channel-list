@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "stream_urls": [
@@ -52,23 +65,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AS45XKoNM4hcAi",
-    "name": "Canal C del Zulia",
+    "nanoid": "1GpRDoekUac7eR",
+    "name": "Canal I",
     "stream_urls": [
-      "https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fUuKAKoxR67afP",
-    "name": "Canal Once",
-    "stream_urls": [
-      "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
+      "https://streaming.canal-i.com/canal-i/live/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -95,19 +95,6 @@
     "name": "Contactv",
     "stream_urls": [
       "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EBZkwFw2avmA6X",
-    "name": "Fortuna TV",
-    "stream_urls": [
-      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -169,19 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MIcJy2C1jnLtEJ",
-    "name": "KandelaTV",
-    "stream_urls": [
-      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3E5bqWDK2SMWXh",
     "name": "Latina TV",
     "stream_urls": [
@@ -221,6 +195,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GEzXSmIDYp7kSV",
+    "name": "MAX Anime",
+    "stream_urls": [
+      "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kE8N5CkT9Xc9Iu",
     "name": "Nortena Tv",
     "stream_urls": [
@@ -248,10 +235,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y5blHOrOCn0tLM",
-    "name": "Portuguesa Television",
+    "nanoid": "YQGNpYUE3gQTO4",
+    "name": "PromarTV",
     "stream_urls": [
-      "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
+      "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -274,10 +261,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qRZZMGSFXehDnV",
-    "name": "TAM TV",
+    "nanoid": "Hf8hQXiCJxWSk6",
+    "name": "Somos TV",
     "stream_urls": [
-      "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
+      "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -287,10 +274,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LkfWLnGLDxyqrs",
-    "name": "Telebocono",
+    "nanoid": "qRZZMGSFXehDnV",
+    "name": "TAM TV",
     "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8"
+      "https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -384,32 +371,6 @@
     "name": "TRT",
     "stream_urls": [
       "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b3aSHeBRmQKpi4",
-    "name": "TV Oasis Monay",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XdOMLij5yy08uC",
-    "name": "TVM para ti",
-    "stream_urls": [
-      "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
