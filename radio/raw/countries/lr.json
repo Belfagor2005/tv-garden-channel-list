@@ -2,13 +2,15 @@
   {
     "nanoid": "iTsIkkXFuh4EjJ",
     "name": "Hott FM 107.9",
-    "stream_urls": [
-      "https://stream-173.zeno.fm/n6ua7veqgcdvv"
-    ],
-    "country": "lr",
+    "sources": {
+      "streams": [
+        "https://stream-173.zeno.fm/n6ua7veqgcdvv"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "lr",
     "isGeoBlocked": false
   }
 ]

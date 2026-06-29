@@ -2,13 +2,15 @@
   {
     "nanoid": "osIgm84TKHkKRy",
     "name": "Radio Mucodec",
-    "stream_urls": [
-      "https://cdnradio.streamakaci.com/radiomucodec.mp3"
-    ],
-    "country": "cg",
+    "sources": {
+      "streams": [
+        "https://cdnradio.streamakaci.com/radiomucodec.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "cg",
     "isGeoBlocked": false
   }
 ]

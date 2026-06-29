@@ -2,27 +2,31 @@
   {
     "nanoid": "ob4chBiKDQ4bc2",
     "name": "Grandes Clássicos da Música Moçambicana",
-    "stream_urls": [
-      "https://stream.zeno.fm/bm29ouxe0hrtv"
-    ],
-    "country": "mz",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/bm29ouxe0hrtv"
+      ]
+    },
     "languages": [
       "por"
     ],
+    "country": "mz",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Yi8FiZe7z5i2UE",
     "name": "LM Radio",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/392_medium.mp3",
-      "https://ukwesta.streaming.broadcast.radio/lmradio"
-    ],
-    "country": "mz",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/392_medium.mp3",
+        "https://ukwesta.streaming.broadcast.radio/lmradio"
+      ]
+    },
     "languages": [
       "eng",
       "por"
     ],
+    "country": "mz",
     "isGeoBlocked": false
   }
 ]

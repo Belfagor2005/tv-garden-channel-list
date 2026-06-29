@@ -2,13 +2,15 @@
   {
     "nanoid": "TwO1ySLHA7DXG3",
     "name": "Joy FM",
-    "stream_urls": [
-      "https://ice5.securenetsystems.net:80/JOYFM"
-    ],
-    "country": "mh",
+    "sources": {
+      "streams": [
+        "https://ice5.securenetsystems.net:80/JOYFM"
+      ]
+    },
     "languages": [
       "mah"
     ],
+    "country": "mh",
     "isGeoBlocked": false
   }
 ]

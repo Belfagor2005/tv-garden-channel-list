@@ -2,37 +2,43 @@
   {
     "nanoid": "6uggOWnNznjVSy",
     "name": "English Radio 90.4 FM",
-    "stream_urls": [
-      "https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8"
-    ],
-    "country": "om",
+    "sources": {
+      "streams": [
+        "https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "om",
     "isGeoBlocked": false
   },
   {
     "nanoid": "nf8KMK09lDBFGX",
     "name": "Hala FM 102.7",
-    "stream_urls": [
-      "https://listen-halafm.sharp-stream.com/halafmlow.mp3"
-    ],
-    "country": "om",
+    "sources": {
+      "streams": [
+        "https://listen-halafm.sharp-stream.com/halafmlow.mp3"
+      ]
+    },
     "languages": [
       "ara"
     ],
+    "country": "om",
     "isGeoBlocked": false
   },
   {
     "nanoid": "JpK25BpTnPvdXI",
     "name": "Hi FM",
-    "stream_urls": [
-      "https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3"
-    ],
-    "country": "om",
+    "sources": {
+      "streams": [
+        "https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "om",
     "isGeoBlocked": false
   }
 ]

@@ -2,50 +2,58 @@
   {
     "nanoid": "vmjb6vEq5PRhJ0",
     "name": "Chérie FM Guyane",
-    "stream_urls": [
-      "https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac"
-    ],
-    "country": "gf",
+    "sources": {
+      "streams": [
+        "https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "gf",
     "isGeoBlocked": false
   },
   {
     "nanoid": "1zaGqt4MXflzop",
     "name": "Chwitiweb",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/190309/stream/232540",
-      "https://www.radioking.com/play/chwitiweb"
-    ],
-    "country": "gf",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/190309/stream/232540",
+        "https://www.radioking.com/play/chwitiweb"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "gf",
     "isGeoBlocked": false
   },
   {
     "nanoid": "PVY0QefAAEL2gZ",
     "name": "Guyane La 1ère",
-    "stream_urls": [
-      "https://guyane.ice.infomaniak.ch/guyane-128.mp3"
-    ],
-    "country": "gf",
+    "sources": {
+      "streams": [
+        "https://guyane.ice.infomaniak.ch/guyane-128.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "gf",
     "isGeoBlocked": false
   },
   {
     "nanoid": "lmfsOSwRTh2Q9Y",
     "name": "Radio Contact Vosges",
-    "stream_urls": [
-      "https://s2.ssl-stream.com/listen/radio_contact/radio.mp3"
-    ],
-    "country": "gf",
+    "sources": {
+      "streams": [
+        "https://s2.ssl-stream.com/listen/radio_contact/radio.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "gf",
     "isGeoBlocked": false
   }
 ]

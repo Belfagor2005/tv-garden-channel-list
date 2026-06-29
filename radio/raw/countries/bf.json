@@ -2,73 +2,85 @@
   {
     "nanoid": "OHkjEEQfNRwTaY",
     "name": "Horizon FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/0945crn4bf9uv"
-    ],
-    "country": "bf",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/0945crn4bf9uv"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "bf",
     "isGeoBlocked": false
   },
   {
     "nanoid": "qfuOVzJzv9vYrt",
     "name": "Horizon FM Koudougou",
-    "stream_urls": [
-      "https://stream.zeno.fm/s2ypmeg0cf9uv"
-    ],
-    "country": "bf",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/s2ypmeg0cf9uv"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "bf",
     "isGeoBlocked": false
   },
   {
     "nanoid": "wcNrJnl9t28mBK",
     "name": "Radio Balafon",
-    "stream_urls": [
-      "https://stream.zeno.fm/v3ddfda0cf9uv"
-    ],
-    "country": "bf",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/v3ddfda0cf9uv"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "bf",
     "isGeoBlocked": false
   },
   {
     "nanoid": "w90Q9vuJK8safa",
     "name": "Radio Legende",
-    "stream_urls": [
-      "https://stream.zeno.fm/p1e2466d6ehvv"
-    ],
-    "country": "bf",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/p1e2466d6ehvv"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "bf",
     "isGeoBlocked": false
   },
   {
     "nanoid": "bfboI3ZU9tmHxC",
     "name": "Radio Pulsar",
-    "stream_urls": [
-      "https://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-128.mp3"
-    ],
-    "country": "bf",
+    "sources": {
+      "streams": [
+        "https://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-128.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "bf",
     "isGeoBlocked": false
   },
   {
     "nanoid": "MXKI5b0e0OyDbr",
     "name": "Savane FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/97fyu5a10bruv"
-    ],
-    "country": "bf",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/97fyu5a10bruv"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "bf",
     "isGeoBlocked": false
   }
 ]

@@ -2,174 +2,202 @@
   {
     "nanoid": "DrsEF8tv39HHeY",
     "name": "Avtoradio",
-    "stream_urls": [
-      "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "RT3CrgfS8nFMwC",
     "name": "LF Radio",
-    "stream_urls": [
-      "https://rtn.cdnstream1.com/2582_96.aac"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://rtn.cdnstream1.com/2582_96.aac"
+      ]
+    },
     "languages": [
       "eng",
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "lcST2mrbJkPWXB",
     "name": "Mutant Radio",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/282820/stream/328621"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/282820/stream/328621"
+      ]
+    },
     "languages": [
       "eng",
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "f5jBy64SQnpbhN",
     "name": "Radio Adjara",
-    "stream_urls": [
-      "https://edge.mixlr.com/channel/bzorq"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://edge.mixlr.com/channel/bzorq"
+      ]
+    },
     "languages": [
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "PmXY8zrKx6mJnA",
     "name": "Radio Amra International",
-    "stream_urls": [
-      "https://streamer.radio.co/s34b5469e0/listen"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://streamer.radio.co/s34b5469e0/listen"
+      ]
+    },
     "languages": [
       "eng",
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "WowJKkWxDm46jk",
     "name": "Radio Ar Daidardo",
-    "stream_urls": [
-      "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "uAjmezILxrMZ1R",
     "name": "Radio Chveneburi",
-    "stream_urls": [
-      "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "86tQRYt2943voC",
     "name": "Radio Imedi",
-    "stream_urls": [
-      "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
+      ]
+    },
     "languages": [
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "z6ZRQkRyisVHO0",
     "name": "Radio Obieqtivi",
-    "stream_urls": [
-      "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8"
+      ]
+    },
     "languages": [
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "3OBD5JDSL4Bigy",
     "name": "Radio Palitra",
-    "stream_urls": [
-      "https://radiostream.palitra.ge/stream.mp3"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://radiostream.palitra.ge/stream.mp3"
+      ]
+    },
     "languages": [
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "6BjD1gFHeqSAwn",
     "name": "Radio Positive",
-    "stream_urls": [
-      "https://stream.radiojar.com/sr4vzamzfnruv"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/sr4vzamzfnruv"
+      ]
+    },
     "languages": [
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "kZoVAVhMSZq3DS",
     "name": "Radio Sivrce",
-    "stream_urls": [
-      "https://proxy.streamer.mediabox.ge/ice/8000/sivrce"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://proxy.streamer.mediabox.ge/ice/8000/sivrce"
+      ]
+    },
     "languages": [
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "E8XDXmeHkwQw9X",
     "name": "Red Wine Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/pcbduafehg0uv"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/pcbduafehg0uv"
+      ]
+    },
     "languages": [
       "eng",
       "kat"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   },
   {
     "nanoid": "jbjA8JGHs4EMix",
     "name": "Sputnik Аҧсны",
-    "stream_urls": [
-      "https://icecast-rian.cdnvideo.ru/voicesuh"
-    ],
-    "country": "ge",
+    "sources": {
+      "streams": [
+        "https://icecast-rian.cdnvideo.ru/voicesuh"
+      ]
+    },
     "languages": [
       "abk",
       "rus"
     ],
+    "country": "ge",
     "isGeoBlocked": false
   }
 ]

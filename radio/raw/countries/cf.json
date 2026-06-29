@@ -2,13 +2,15 @@
   {
     "nanoid": "NWxF1lFsESrIuf",
     "name": "Mambokadzi DreamRadio",
-    "stream_urls": [
-      "https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3"
-    ],
-    "country": "cf",
+    "sources": {
+      "streams": [
+        "https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "cf",
     "isGeoBlocked": false
   }
 ]

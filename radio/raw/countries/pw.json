@@ -2,13 +2,15 @@
   {
     "nanoid": "N27bQkAh1SqFip",
     "name": "UpBeat Radio",
-    "stream_urls": [
-      "https://live.upbeat.pw/"
-    ],
-    "country": "pw",
+    "sources": {
+      "streams": [
+        "https://live.upbeat.pw/"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "pw",
     "isGeoBlocked": false
   }
 ]

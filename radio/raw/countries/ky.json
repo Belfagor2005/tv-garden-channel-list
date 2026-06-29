@@ -2,73 +2,85 @@
   {
     "nanoid": "MGCBbhvSHG8ZKb",
     "name": "Big Fish 95.5 FM",
-    "stream_urls": [
-      "https://ice41.securenetsystems.net/BIGFISH"
-    ],
-    "country": "ky",
+    "sources": {
+      "streams": [
+        "https://ice41.securenetsystems.net/BIGFISH"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "ky",
     "isGeoBlocked": false
   },
   {
     "nanoid": "46GJqA1ygwunrT",
     "name": "Island FM",
-    "stream_urls": [
-      "https://iriefm-hurleysmedia.radioca.st/stream"
-    ],
-    "country": "ky",
+    "sources": {
+      "streams": [
+        "https://iriefm-hurleysmedia.radioca.st/stream"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "ky",
     "isGeoBlocked": false
   },
   {
     "nanoid": "3VjuqCiH9sddnW",
     "name": "Paradise Radio",
-    "stream_urls": [
-      "https://radiostreamcast.com/listen/paradise_radio/radio.mp3"
-    ],
-    "country": "ky",
+    "sources": {
+      "streams": [
+        "https://radiostreamcast.com/listen/paradise_radio/radio.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "ky",
     "isGeoBlocked": false
   },
   {
     "nanoid": "TEpsDyTxR2Nbaf",
     "name": "Rooster 101",
-    "stream_urls": [
-      "https://rooster101-hurleysmedia.radioca.st/stream"
-    ],
-    "country": "ky",
+    "sources": {
+      "streams": [
+        "https://rooster101-hurleysmedia.radioca.st/stream"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "ky",
     "isGeoBlocked": false
   },
   {
     "nanoid": "5P9fv4MMU1Kkli",
     "name": "X107.1",
-    "stream_urls": [
-      "https://ice23.securenetsystems.net/X1071"
-    ],
-    "country": "ky",
+    "sources": {
+      "streams": [
+        "https://ice23.securenetsystems.net/X1071"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "ky",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Xfo9LFGvign1eA",
     "name": "Z99",
-    "stream_urls": [
-      "https://z99-hurleysmedia.radioca.st/stream"
-    ],
-    "country": "ky",
+    "sources": {
+      "streams": [
+        "https://z99-hurleysmedia.radioca.st/stream"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "ky",
     "isGeoBlocked": false
   }
 ]

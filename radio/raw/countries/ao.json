@@ -2,61 +2,71 @@
   {
     "nanoid": "Uvjn6MzMSE3jSy",
     "name": "AfriRadio 106.1 FM",
-    "stream_urls": [
-      "https://cast4.asurahosting.com/proxy/afriradi/stream"
-    ],
-    "country": "ao",
+    "sources": {
+      "streams": [
+        "https://cast4.asurahosting.com/proxy/afriradi/stream"
+      ]
+    },
     "languages": [
       "por"
     ],
+    "country": "ao",
     "isGeoBlocked": false
   },
   {
     "nanoid": "tZ7otwRdwVHM0i",
     "name": "Canal A",
-    "stream_urls": [
-      "https://paineldj5.com.br:20087/stream"
-    ],
-    "country": "ao",
+    "sources": {
+      "streams": [
+        "https://paineldj5.com.br:20087/stream"
+      ]
+    },
     "languages": [
       "por"
     ],
+    "country": "ao",
     "isGeoBlocked": false
   },
   {
     "nanoid": "IdiwpK0y8Xk56X",
     "name": "Rádio Fé Angola",
-    "stream_urls": [
-      "https://stream.zeno.fm/gsndh1xvczetv"
-    ],
-    "country": "ao",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gsndh1xvczetv"
+      ]
+    },
     "languages": [
       "por"
     ],
+    "country": "ao",
     "isGeoBlocked": false
   },
   {
     "nanoid": "MBZWsIpJb82EyB",
     "name": "Rádio Luanda",
-    "stream_urls": [
-      "https://paineldj5.com.br:20089/stream"
-    ],
-    "country": "ao",
+    "sources": {
+      "streams": [
+        "https://paineldj5.com.br:20089/stream"
+      ]
+    },
     "languages": [
       "por"
     ],
+    "country": "ao",
     "isGeoBlocked": false
   },
   {
     "nanoid": "WmLVtivXhRYkq3",
     "name": "Rádio Viana",
-    "stream_urls": [
-      "https://paineldj5.com.br:20093/stream"
-    ],
-    "country": "ao",
+    "sources": {
+      "streams": [
+        "https://paineldj5.com.br:20093/stream"
+      ]
+    },
     "languages": [
       "por"
     ],
+    "country": "ao",
     "isGeoBlocked": false
   }
 ]

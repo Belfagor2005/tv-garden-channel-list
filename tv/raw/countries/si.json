@@ -1,12 +1,69 @@
 [
   {
+    "nanoid": "riTvZK4f7UkKuV",
+    "name": "Arena Sport 1",
+    "sources": {
+      "streams": [
+        "https://lb.dstvmultimedia.com/AS1SLOHD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "slv"
+    ],
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5LjMemnpymkaN6",
+    "name": "Arena Sport 2",
+    "sources": {
+      "streams": [
+        "https://lb.dstvmultimedia.com/AS2SLOHD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "slv"
+    ],
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EhXSQ0Jhhv1tef",
     "name": "Exodus TV",
-    "stream_urls": [
-      "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
-      "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8"
+    "sources": {
+      "streams": [
+        "https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8",
+        "https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "slv"
     ],
-    "youtube_urls": [],
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Cyx2iKrKwsbWCZ",
+    "name": "H2 HD",
+    "sources": {
+      "streams": [
+        "https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "slv"
+    ],
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wkVoGyfxnfDSBc",
+    "name": "History",
+    "sources": {
+      "streams": [
+        "https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8"
+      ]
+    },
     "languages": [
       "slv"
     ],
@@ -16,10 +73,11 @@
   {
     "nanoid": "9N0REUHRJR4gUt",
     "name": "Nova24TV 2",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4Id91mChRbw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/4Id91mChRbw"
+      ]
+    },
     "languages": [
       "slv"
     ],
@@ -29,10 +87,11 @@
   {
     "nanoid": "RzdaiKv0XyuQZq",
     "name": "TV SLO 1",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "slv"
     ],
@@ -42,10 +101,11 @@
   {
     "nanoid": "W3bESkgy8BaAdk",
     "name": "TV SLO 2",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "slv"
     ],
@@ -55,10 +115,68 @@
   {
     "nanoid": "RUY0E07uXEVtfa",
     "name": "TV Veseljak Golica HD",
-    "stream_urls": [
-      "https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8"
+    "sources": {
+      "streams": [
+        "https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "slv"
     ],
-    "youtube_urls": [],
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5QtX4EViRlXRi5",
+    "name": "TV1000",
+    "sources": {
+      "streams": [
+        "https://lb.dstvmultimedia.com/NovaMax/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "slv"
+    ],
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S4Ps9soPruThWe",
+    "name": "Viasat Explore",
+    "sources": {
+      "streams": [
+        "https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8"
+      ]
+    },
+    "languages": [
+      "slv"
+    ],
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v9zeQCLLvv805T",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8"
+      ]
+    },
+    "languages": [
+      "slv"
+    ],
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fHRMNYezuLS4iE",
+    "name": "Viasat Nature",
+    "sources": {
+      "streams": [
+        "https://lb.dstvmultimedia.com/ViasatNature/index.m3u8"
+      ]
+    },
     "languages": [
       "slv"
     ],

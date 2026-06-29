@@ -2,25 +2,29 @@
   {
     "nanoid": "WBrTWV5E1m7ASF",
     "name": "Bachwezi Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/4vcb1euurnhvv"
-    ],
-    "country": "rw",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/4vcb1euurnhvv"
+      ]
+    },
     "languages": [
       "kin"
     ],
+    "country": "rw",
     "isGeoBlocked": false
   },
   {
     "nanoid": "URe63t4DE17Gh9",
     "name": "Gendana n'igihe Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/1ev107turnhvv"
-    ],
-    "country": "rw",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/1ev107turnhvv"
+      ]
+    },
     "languages": [
       "kin"
     ],
+    "country": "rw",
     "isGeoBlocked": false
   }
 ]

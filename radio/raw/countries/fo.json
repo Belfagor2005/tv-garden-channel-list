@@ -2,25 +2,29 @@
   {
     "nanoid": "sEhDuNB7xHtoW3",
     "name": "FM1",
-    "stream_urls": [
-      "https://stream-secure.midlar.fo/fm1-128"
-    ],
-    "country": "fo",
+    "sources": {
+      "streams": [
+        "https://stream-secure.midlar.fo/fm1-128"
+      ]
+    },
     "languages": [
       "fao"
     ],
+    "country": "fo",
     "isGeoBlocked": false
   },
   {
     "nanoid": "YM7kha9v8Wz2rR",
     "name": "Lindin",
-    "stream_urls": [
-      "https://high.lindin.fo/"
-    ],
-    "country": "fo",
+    "sources": {
+      "streams": [
+        "https://high.lindin.fo/"
+      ]
+    },
     "languages": [
       "fao"
     ],
+    "country": "fo",
     "isGeoBlocked": false
   }
 ]

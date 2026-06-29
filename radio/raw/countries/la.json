@@ -2,26 +2,30 @@
   {
     "nanoid": "Sc8D1sMG3SsGNX",
     "name": "Lao National Radio",
-    "stream_urls": [
-      "https://radio.lnr.org.la/fm103",
-      "https://radio.lnr.org.la/fm94"
-    ],
-    "country": "la",
+    "sources": {
+      "streams": [
+        "https://radio.lnr.org.la/fm103",
+        "https://radio.lnr.org.la/fm94"
+      ]
+    },
     "languages": [
       "lat"
     ],
+    "country": "la",
     "isGeoBlocked": false
   },
   {
     "nanoid": "bMYoAaNmVNvgNO",
     "name": "Toki Pona Radio",
-    "stream_urls": [
-      "https://kute.pona.la/stream/tpr"
-    ],
-    "country": "la",
+    "sources": {
+      "streams": [
+        "https://kute.pona.la/stream/tpr"
+      ]
+    },
     "languages": [
       "tok"
     ],
+    "country": "la",
     "isGeoBlocked": false
   }
 ]

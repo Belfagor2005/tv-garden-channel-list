@@ -2,50 +2,58 @@
   {
     "nanoid": "EGd2rm7Nlkc8Pi",
     "name": "Cherry FM",
-    "stream_urls": [
-      "https://cherry.akiyaresearch.com:444/stream/89/;",
-      "https://cherry.akiyaresearch.com:444/stream/89"
-    ],
-    "country": "mm",
+    "sources": {
+      "streams": [
+        "https://cherry.akiyaresearch.com:444/stream/89/;",
+        "https://cherry.akiyaresearch.com:444/stream/89/"
+      ]
+    },
     "languages": [
       "mya"
     ],
+    "country": "mm",
     "isGeoBlocked": false
   },
   {
     "nanoid": "nu7Cc1W4gsgDxx",
     "name": "DWG Radio",
-    "stream_urls": [
-      "https://server32349.streamplus.de/;"
-    ],
-    "country": "mm",
+    "sources": {
+      "streams": [
+        "https://server32349.streamplus.de/;"
+      ]
+    },
     "languages": [
       "mya"
     ],
+    "country": "mm",
     "isGeoBlocked": false
   },
   {
     "nanoid": "FQdAs9EBtGBwJ3",
     "name": "Mandalay FM",
-    "stream_urls": [
-      "https://edge.mixlr.com/channel/nmtev"
-    ],
-    "country": "mm",
+    "sources": {
+      "streams": [
+        "https://edge.mixlr.com/channel/nmtev"
+      ]
+    },
     "languages": [
       "mya"
     ],
+    "country": "mm",
     "isGeoBlocked": false
   },
   {
     "nanoid": "xEwGMWZEk2Drcn",
     "name": "Padamyar FM",
-    "stream_urls": [
-      "https://stream-153.zeno.fm/og9btsnj00tuv"
-    ],
-    "country": "mm",
+    "sources": {
+      "streams": [
+        "https://stream-153.zeno.fm/og9btsnj00tuv"
+      ]
+    },
     "languages": [
       "mya"
     ],
+    "country": "mm",
     "isGeoBlocked": false
   }
 ]

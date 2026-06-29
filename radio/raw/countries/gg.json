@@ -2,25 +2,29 @@
   {
     "nanoid": "xtNbYb40QVl8tH",
     "name": "Island FM",
-    "stream_urls": [
-      "https://n19a-eu.rcs.revma.com/epatpyebanzuv"
-    ],
-    "country": "gg",
+    "sources": {
+      "streams": [
+        "https://n19a-eu.rcs.revma.com/epatpyebanzuv"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "gg",
     "isGeoBlocked": false
   },
   {
     "nanoid": "a3rNwqTM92nQbv",
     "name": "Riduna Radio",
-    "stream_urls": [
-      "https://stream.radio.co/sa70b464db/listen"
-    ],
-    "country": "gg",
+    "sources": {
+      "streams": [
+        "https://stream.radio.co/sa70b464db/listen"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "gg",
     "isGeoBlocked": false
   }
 ]

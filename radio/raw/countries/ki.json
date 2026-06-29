@@ -2,11 +2,13 @@
   {
     "nanoid": "MjeGm6Kd6enhhC",
     "name": "Radio Kiribati",
-    "stream_urls": [
-      "https://streamer5.rightclickitservices.com:19790/stream"
-    ],
-    "country": "ki",
+    "sources": {
+      "streams": [
+        "https://streamer5.rightclickitservices.com:19790/stream"
+      ]
+    },
     "languages": [],
+    "country": "ki",
     "isGeoBlocked": false
   }
 ]

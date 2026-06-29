@@ -1,11 +1,27 @@
 [
   {
+    "nanoid": "d5k9RHTOOkIzsq",
+    "name": "A2i Music",
+    "sources": {
+      "streams": [
+        "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra",
+      "wol"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qnZnUMjCzgKR22",
     "name": "A2i Religion",
-    "stream_urls": [
-      "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra",
       "wol"
@@ -16,10 +32,11 @@
   {
     "nanoid": "T0IEZPe03CJ8Jv",
     "name": "Diaspora 24",
-    "stream_urls": [
-      "https://vdo3.pro-fhi.net:3218/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vdo3.pro-fhi.net:3218/stream/play.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -27,42 +44,99 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "JUnTXwYpoyd7Ny",
-    "name": "Louga TV",
-    "stream_urls": [
-      "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "nanoid": "zpTt3vP2V1Xpqc",
+    "name": "GMS TV",
+    "sources": {
+      "streams": [
+        "https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JUnTXwYpoyd7Ny",
+    "name": "Louga TV",
+    "sources": {
+      "streams": [
+        "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vgSSpzzDQ4JMdz",
+    "name": "RTS 1",
+    "sources": {
+      "streams": [
+        "https://live1.acangroup.org:1929/larts/rts1_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra",
+      "wol"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ajdSaaNIu8sGEL",
+    "name": "RTS 2",
+    "sources": {
+      "streams": [
+        "https://live1.acangroup.org:1929/larts/rts2.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra",
+      "wol"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nlHRC1EER9kWOE",
+    "name": "RTS 3",
+    "sources": {
+      "streams": [
+        "https://live1.acangroup.org:1929/larts/rts3/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eHM605p4bMlMA0",
+    "name": "RTS 4",
+    "sources": {
+      "streams": [
+        "https://live1.acangroup.org:1929/larts/rts4/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "sn",
     "isGeoBlocked": false
   },
   {
     "nanoid": "tIKVEzb2A3i7Cz",
     "name": "Seneweb TV",
-    "stream_urls": [
-      "https://vdo2.pro-fhi.net:3297/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vdo2.pro-fhi.net:3297/stream/play.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
     "country": "sn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "RfhIP8Ek1pr7to",
-    "name": "SenJeunes TV",
-    "stream_urls": [
-      "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "sn",
-    "isGeoBlocked": false
   }
 ]

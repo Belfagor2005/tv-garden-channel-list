@@ -2,25 +2,29 @@
   {
     "nanoid": "BY78AZxr3CFpMF",
     "name": "City Sound 97.5 FM",
-    "stream_urls": [
-      "https://auds1.intacs.com/citysoundfm"
-    ],
-    "country": "gd",
+    "sources": {
+      "streams": [
+        "https://auds1.intacs.com/citysoundfm"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "gd",
     "isGeoBlocked": false
   },
   {
     "nanoid": "f0EHjH5g7QzDZk",
     "name": "Star FM 101.9 Grenada",
-    "stream_urls": [
-      "https://starchild.radioca.st/;"
-    ],
-    "country": "gd",
+    "sources": {
+      "streams": [
+        "https://starchild.radioca.st/;"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "gd",
     "isGeoBlocked": false
   }
 ]

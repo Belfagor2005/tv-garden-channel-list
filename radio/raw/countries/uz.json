@@ -2,25 +2,29 @@
   {
     "nanoid": "AaAMaBbMEC8K2H",
     "name": "Islom.uz Radio",
-    "stream_urls": [
-      "https://radio.islom.uz/islomuz"
-    ],
-    "country": "uz",
+    "sources": {
+      "streams": [
+        "https://radio.islom.uz/islomuz"
+      ]
+    },
     "languages": [
       "uzb"
     ],
+    "country": "uz",
     "isGeoBlocked": false
   },
   {
     "nanoid": "gdEJp2oEyA9UkE",
     "name": "Radio Qalbim Navosi",
-    "stream_urls": [
-      "https://live.qalbimnavosi.uz/qalbimnavosi"
-    ],
-    "country": "uz",
+    "sources": {
+      "streams": [
+        "https://live.qalbimnavosi.uz/qalbimnavosi"
+      ]
+    },
     "languages": [
       "uzb"
     ],
+    "country": "uz",
     "isGeoBlocked": false
   }
 ]

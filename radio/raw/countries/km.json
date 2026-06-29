@@ -2,13 +2,15 @@
   {
     "nanoid": "wHI6tNt7Bz184O",
     "name": "M'Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/gzsfna8zxqzuv"
-    ],
-    "country": "km",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gzsfna8zxqzuv"
+      ]
+    },
     "languages": [
       "khm"
     ],
+    "country": "km",
     "isGeoBlocked": false
   }
 ]

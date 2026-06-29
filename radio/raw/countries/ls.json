@@ -2,13 +2,15 @@
   {
     "nanoid": "EA4krZjGzpgzbO",
     "name": "Harvest FM",
-    "stream_urls": [
-      "https://stream-159.zeno.fm/gbttqnabh3vtv"
-    ],
-    "country": "ls",
+    "sources": {
+      "streams": [
+        "https://stream-159.zeno.fm/gbttqnabh3vtv"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "ls",
     "isGeoBlocked": false
   }
 ]

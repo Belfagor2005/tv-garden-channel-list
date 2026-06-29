@@ -2,25 +2,29 @@
   {
     "nanoid": "eZS8wPmA3XTe8A",
     "name": "Radio Daljir",
-    "stream_urls": [
-      "https://stream.zeno.fm/uru8h6ahv6duv"
-    ],
-    "country": "bw",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/uru8h6ahv6duv"
+      ]
+    },
     "languages": [
       "som"
     ],
+    "country": "bw",
     "isGeoBlocked": false
   },
   {
     "nanoid": "dmGSnAFr1ByeQp",
     "name": "Yarona FM 106.6",
-    "stream_urls": [
-      "https://iceant.antfarm.co.za/yarona"
-    ],
-    "country": "bw",
+    "sources": {
+      "streams": [
+        "https://iceant.antfarm.co.za/yarona"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "bw",
     "isGeoBlocked": false
   }
 ]

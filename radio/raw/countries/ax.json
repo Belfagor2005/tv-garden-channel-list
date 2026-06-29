@@ -2,13 +2,15 @@
   {
     "nanoid": "JRO477dljMyhcS",
     "name": "Ålands Radio 91.3",
-    "stream_urls": [
-      "https://stream.alandsradio.ax/stream.mp3"
-    ],
-    "country": "ax",
+    "sources": {
+      "streams": [
+        "https://stream.alandsradio.ax/stream.mp3"
+      ]
+    },
     "languages": [
       "swe"
     ],
+    "country": "ax",
     "isGeoBlocked": false
   }
 ]

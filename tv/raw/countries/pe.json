@@ -1,11 +1,26 @@
 [
   {
+    "nanoid": "YeKuxDQNxxKjD2",
+    "name": "Altura TV",
+    "sources": {
+      "streams": [
+        "https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mljCXXuG95o31y",
     "name": "America Television",
-    "stream_urls": [
-      "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -15,10 +30,11 @@
   {
     "nanoid": "yPFftXaL6zAl9S",
     "name": "Antares Television",
-    "stream_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -28,10 +44,25 @@
   {
     "nanoid": "FEKfCiEsgtQUuf",
     "name": "Antena SUR",
-    "stream_urls": [
-      "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4DBElJ7eVRBwAz",
+    "name": "Arpegio TV",
+    "sources": {
+      "streams": [
+        "https://vdo.oyotunserver.com/arpegio/video.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -41,10 +72,11 @@
   {
     "nanoid": "d4L8PBtWXj8rtD",
     "name": "AsiriTV",
-    "stream_urls": [
-      "https://video2.lhdserver.es/asiritv/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/asiritv/live.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -52,12 +84,41 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UK5AJk7OQWI1Jf",
-    "name": "Autentica Television",
-    "stream_urls": [
-      "https://live.obslivestream.com/autenticatvmux/index.m3u8"
+    "nanoid": "0vujAjUQp2jlO3",
+    "name": "ATV",
+    "sources": {
+      "streams": [
+        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6WuGahJ0fZnc1G",
+    "name": "ATV Sur",
+    "sources": {
+      "streams": [
+        "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3vdt32eJcnfcz9",
+    "name": "ATV+",
+    "sources": {
+      "streams": [
+        "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -67,10 +128,11 @@
   {
     "nanoid": "SKenE1GgpUv74S",
     "name": "Bethel TV",
-    "stream_urls": [
-      "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -80,10 +142,11 @@
   {
     "nanoid": "ml8W50urKeRzrc",
     "name": "BHTV",
-    "stream_urls": [
-      "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -93,10 +156,11 @@
   {
     "nanoid": "NcbX3D5e7HA0Yx",
     "name": "Cadena TV",
-    "stream_urls": [
-      "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -106,10 +170,11 @@
   {
     "nanoid": "1Tx6FQUGbACDss",
     "name": "Canal 8 Catacaos",
-    "stream_urls": [
-      "https://live.obslivestream.com/canal8/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/canal8/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -119,10 +184,12 @@
   {
     "nanoid": "FzS0czimg1wdVt",
     "name": "Canal 21 Huancayo",
-    "stream_urls": [
-      "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8",
+        "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -132,10 +199,11 @@
   {
     "nanoid": "PCHpCRc0yRAZbi",
     "name": "Canal IPe",
-    "stream_urls": [
-      "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -145,10 +213,25 @@
   {
     "nanoid": "JWF3Hmgh7M8jJ3",
     "name": "Conecta2TV",
-    "stream_urls": [
-      "https://live.obslivestream.com/conecta2/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/conecta2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/qpoM4o1f9wU"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -158,10 +241,11 @@
   {
     "nanoid": "mlTXxUmbTG3Ish",
     "name": "Controversia TV",
-    "stream_urls": [
-      "https://live.obslivestream.com/controversiatv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/controversiatv/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -171,10 +255,11 @@
   {
     "nanoid": "hHL0MOROCgmSKr",
     "name": "CR Television",
-    "stream_urls": [
-      "https://live.obslivestream.com/crtvmux/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/crtvmux/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -182,13 +267,83 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XzRqOxUzNRtPhH",
-    "name": "ECO Television",
-    "stream_urls": [
-      "https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8",
-      "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
+    "nanoid": "msqk8hFvDiwdDB",
+    "name": "Cultura 24",
+    "sources": {
+      "streams": [
+        "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fqDkRQsbGbe2La",
+    "name": "DeltaTV",
+    "sources": {
+      "streams": [
+        "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oJVLbx5goboavY",
+    "name": "Diaspora TV",
+    "sources": {
+      "streams": [
+        "https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PznIKu7D3Y7mgQ",
+    "name": "Doble C Television",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4il3e6LpN72PyH",
+    "name": "Estelar TV",
+    "sources": {
+      "streams": [
+        "https://srt.tvdatta.com/tvestelar/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T65qhUoWMWxGpE",
+    "name": "Evolucion TV",
+    "sources": {
+      "streams": [
+        "https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -198,10 +353,67 @@
   {
     "nanoid": "M8nsyNmz1k1pVX",
     "name": "Exitosa TV",
-    "stream_urls": [
-      "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BS0ylax2xhvlC5",
+    "name": "Folklore TV",
+    "sources": {
+      "streams": [
+        "https://play.folkloretv.pe/StreamSD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZkqHBLcBGBWJah",
+    "name": "Frecuencia Amazonica",
+    "sources": {
+      "streams": [
+        "https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mHRulAqsRUqjO2",
+    "name": "Genios TV",
+    "sources": {
+      "streams": [
+        "https://sc3.wasidata.com/Genios2_1902/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tuNSJmr0wEebhR",
+    "name": "Huacho Peru TV",
+    "sources": {
+      "streams": [
+        "https://tv.huachotv.com/stream.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -211,10 +423,25 @@
   {
     "nanoid": "qKV2RWLFM5rjJT",
     "name": "Impacto Television",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v8mYcT7BcnwNd4",
+    "name": "Imperial Television",
+    "sources": {
+      "streams": [
+        "https://sc1.wasidata.com/Imperial/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -224,10 +451,11 @@
   {
     "nanoid": "8VadQ9bvVXyzrj",
     "name": "Intuitiva TV",
-    "stream_urls": [
-      "https://video2.lhdserver.es/cableperu/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/cableperu/live.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -237,10 +465,25 @@
   {
     "nanoid": "UjSZg1tYKKZuy2",
     "name": "JN 19",
-    "stream_urls": [
-      "https://servilive.com:3028/live/jntv19live.m3u8"
+    "sources": {
+      "streams": [
+        "https://servilive.com:3028/live/jntv19live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kDus67YWLDmlSH",
+    "name": "JNE TV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -250,10 +493,39 @@
   {
     "nanoid": "3hbUF3ouea162A",
     "name": "La Fabulosa TV",
-    "stream_urls": [
-      "https://eu1.servers10.com:8081/8004/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/8004/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h1BWRJO21ytZsY",
+    "name": "Lider TV",
+    "sources": {
+      "streams": [
+        "https://chankillo.agenciastreaming.com/lidertv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nlIWMt52mBQ3do",
+    "name": "Master TV",
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/mastertv/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -263,10 +535,11 @@
   {
     "nanoid": "qm7kjjw4XjKxtz",
     "name": "Mega TV Jaen",
-    "stream_urls": [
-      "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -276,10 +549,25 @@
   {
     "nanoid": "ZgK3gN33Rh7QOj",
     "name": "Miel TV",
-    "stream_urls": [
-      "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
+    "sources": {
+      "streams": [
+        "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aUVq0M4bm1GMyx",
+    "name": "Millenium 109 FM",
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -289,21 +577,65 @@
   {
     "nanoid": "UDdMtzxSFo4KG2",
     "name": "MO Channel",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
+      ]
+    },
     "languages": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GanSEAudCfBZ2t",
+    "name": "Monterrico TV",
+    "sources": {
+      "streams": [
+        "https://h.jcp.live.opencaster.com/play_src/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XzSZitrjlgF4Zh",
+    "name": "Nacional Tv Peru",
+    "sources": {
+      "streams": [
+        "https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "pe",
     "isGeoBlocked": false
   },
   {
     "nanoid": "mi7Zl9xYkTcqpw",
     "name": "Nativa TV Satipo",
-    "stream_urls": [
-      "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
+    "sources": {
+      "streams": [
+        "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zJfNt7gPSar8fv",
+    "name": "NZK Television",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/8258/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -313,10 +645,11 @@
   {
     "nanoid": "zXicYaSu58NdOA",
     "name": "ONDA DIGITAL",
-    "stream_urls": [
-      "https://tv.ondadigital.pe/ondadigital/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv.ondadigital.pe/ondadigital/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -326,10 +659,11 @@
   {
     "nanoid": "ED9LIeqOxr36Iv",
     "name": "Ovacion TV",
-    "stream_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -339,10 +673,11 @@
   {
     "nanoid": "4C3gMyaIqWiPj3",
     "name": "Ozono TV",
-    "stream_urls": [
-      "https://vps.chasquirouter.com/salida/ozono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vps.chasquirouter.com/salida/ozono.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -352,10 +687,11 @@
   {
     "nanoid": "wipt0975o9TTyh",
     "name": "PBO",
-    "stream_urls": [
-      "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -363,12 +699,83 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIUi7QauvvK3mU",
-    "name": "Radio Master",
-    "stream_urls": [
-      "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8"
+    "nanoid": "XhIseoMDfufEFc",
+    "name": "Prattel TV",
+    "sources": {
+      "streams": [
+        "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5KzJxTUZ8XM9K0",
+    "name": "Qosqo Times",
+    "sources": {
+      "streams": [
+        "https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4BOCgwziwKJjLk",
+    "name": "Radio Chalaca",
+    "sources": {
+      "streams": [
+        "https://servilive.com:3414/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mb8oy05yGkCcpe",
+    "name": "Radio Onda Digital",
+    "sources": {
+      "streams": [
+        "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lyKMcAtKzoxbWQ",
+    "name": "Radio Rumba TV",
+    "sources": {
+      "streams": [
+        "https://tv.sistemasandinos.org/rumbatv/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kGCggKzMvsmQYi",
+    "name": "Radio San Borja TV",
+    "sources": {
+      "streams": [
+        "https://stream.mediacorp.pe/srt/3/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -378,10 +785,11 @@
   {
     "nanoid": "b7ZeRZC6NDPLni",
     "name": "Radio Tropical",
-    "stream_urls": [
-      "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -391,10 +799,39 @@
   {
     "nanoid": "3Wu9MC7OO3N4Ss",
     "name": "RadioTV Oriente",
-    "stream_urls": [
-      "https://live.obslivestream.com/tvoriente/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/tvoriente/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CTMJoIrDQnrlHz",
+    "name": "Region TV Callao",
+    "sources": {
+      "streams": [
+        "https://servilive.com:3757/live/regiontvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ugS1SgctKn6QTp",
+    "name": "Riku TV",
+    "sources": {
+      "streams": [
+        "https://amixtv.com:8081/rikutv/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -404,10 +841,11 @@
   {
     "nanoid": "ygSClri36pKd9x",
     "name": "RN Television",
-    "stream_urls": [
-      "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -417,10 +855,12 @@
   {
     "nanoid": "AQVGMaAFvW9hRl",
     "name": "RSelvaTV",
-    "stream_urls": [
-      "https://live.obslivestream.com/selvatv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
+        "https://live.obslivestream.com/selvatv/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -430,10 +870,25 @@
   {
     "nanoid": "3qgnWAKQV0prTA",
     "name": "Senal Peru TV",
-    "stream_urls": [
-      "https://livestream.perucast.com/hls/stream.m3u8"
+    "sources": {
+      "streams": [
+        "https://livestream.perucast.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zh2LPdg7e5WVXA",
+    "name": "Siscom TV",
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/siscomtv/live.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -443,10 +898,11 @@
   {
     "nanoid": "uycnDk5RgNSyIc",
     "name": "Solar Television",
-    "stream_urls": [
-      "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -456,10 +912,25 @@
   {
     "nanoid": "BsVGc0NetKyHUo",
     "name": "SolTV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yVJeYHLV12zwlK",
+    "name": "Super Canal",
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/supercanal/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -469,10 +940,11 @@
   {
     "nanoid": "FMvg6xgrss4nnA",
     "name": "Telecolor Yurimaguas",
-    "stream_urls": [
-      "https://live.obslivestream.com/telecolormux/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/telecolormux/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -482,10 +954,11 @@
   {
     "nanoid": "IzsSiDZXZvJ27Q",
     "name": "Telelima",
-    "stream_urls": [
-      "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -495,10 +968,11 @@
   {
     "nanoid": "wmJ1QxQIvPF4LM",
     "name": "Teleselva",
-    "stream_urls": [
-      "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -508,10 +982,12 @@
   {
     "nanoid": "StOVmvLhNdQ5uq",
     "name": "Television Tarapoto",
-    "stream_urls": [
-      "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -521,10 +997,11 @@
   {
     "nanoid": "K0qZuL6YkWBA5O",
     "name": "Tevesur",
-    "stream_urls": [
-      "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -534,10 +1011,11 @@
   {
     "nanoid": "IimzzIwURjFsYr",
     "name": "Top TV",
-    "stream_urls": [
-      "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -547,10 +1025,11 @@
   {
     "nanoid": "mdiVt9k5G6ApIq",
     "name": "Trivu",
-    "stream_urls": [
-      "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -560,11 +1039,26 @@
   {
     "nanoid": "gh6WHvpQmXShdI",
     "name": "Turbo Mix Radio TV",
-    "stream_urls": [
-      "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
-      "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
+        "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0B5nMeqSxIqapW",
+    "name": "TV Bella Asuncion",
+    "sources": {
+      "streams": [
+        "https://s2.tvdatta.com:3687/hybrid/play.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -574,10 +1068,39 @@
   {
     "nanoid": "kzdXF1h7tKZGcP",
     "name": "TV Cosmos",
-    "stream_urls": [
-      "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8"
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NDlCo3GFyqRAnN",
+    "name": "TV Kaliente",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U0xG42x0mE1GTr",
+    "name": "TV Peruanisima",
+    "sources": {
+      "streams": [
+        "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -587,10 +1110,25 @@
   {
     "nanoid": "Ha82k7k0qWc0Us",
     "name": "TV+ Chincha",
-    "stream_urls": [
-      "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8"
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XOM9Q1cGWigMXK",
+    "name": "TVLibertad",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/4LwRSexhrl8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -600,10 +1138,53 @@
   {
     "nanoid": "ghJvcjvVzHFJJM",
     "name": "TVUNO",
-    "stream_urls": [
-      "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
+    "sources": {
+      "streams": [
+        "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6huCeQGJavAeLu",
+    "name": "Ucayalina de Television",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dbLCjbraoPInRW",
+    "name": "Uchu TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aYohLShFUh3sGK",
+    "name": "Unicentro TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -613,10 +1194,11 @@
   {
     "nanoid": "EfKZO2yd4jlLmt",
     "name": "Unitel",
-    "stream_urls": [
-      "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -626,10 +1208,11 @@
   {
     "nanoid": "RTi7RphrlOJFLh",
     "name": "Uranio TV",
-    "stream_urls": [
-      "https://live.obslivestream.com/uraniotv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/uraniotv/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -639,10 +1222,11 @@
   {
     "nanoid": "KxjaJ1ncRz0dJp",
     "name": "Via Altomayo",
-    "stream_urls": [
-      "https://live.obslivestream.com/viaaltomayomux/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/viaaltomayomux/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -652,10 +1236,25 @@
   {
     "nanoid": "FpMvUnLuqy3CE9",
     "name": "Via Television",
-    "stream_urls": [
-      "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "trHTZPVHEp7Bhk",
+    "name": "Vision",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -665,10 +1264,11 @@
   {
     "nanoid": "mNTAjkmf0gBPSX",
     "name": "Vision Sur",
-    "stream_urls": [
-      "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -678,10 +1278,11 @@
   {
     "nanoid": "dpLqGa5wjsNEE1",
     "name": "Viva TV Yurimaguas",
-    "stream_urls": [
-      "https://live.obslivestream.com/vivatv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/vivatv/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -691,10 +1292,11 @@
   {
     "nanoid": "sAN5lqkNeMhvi8",
     "name": "VNP",
-    "stream_urls": [
-      "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -704,10 +1306,25 @@
   {
     "nanoid": "3IUBVhMnjgOvDA",
     "name": "Wayra TV",
-    "stream_urls": [
-      "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C3wFgRMIBFHtTG",
+    "name": "Zeleve TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],

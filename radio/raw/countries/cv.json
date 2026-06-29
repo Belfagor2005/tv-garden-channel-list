@@ -2,25 +2,29 @@
   {
     "nanoid": "QjLI03zjyX4q1d",
     "name": "CaboRadio",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/281506/stream/327253"
-    ],
-    "country": "cv",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/281506/stream/327253"
+      ]
+    },
     "languages": [
       "por"
     ],
+    "country": "cv",
     "isGeoBlocked": false
   },
   {
     "nanoid": "5wnR95aJuvanv8",
     "name": "Radio Ribeira Brava",
-    "stream_urls": [
-      "https://stream.zeno.fm/ca6s5cwk1wzuv"
-    ],
-    "country": "cv",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ca6s5cwk1wzuv"
+      ]
+    },
     "languages": [
       "por"
     ],
+    "country": "cv",
     "isGeoBlocked": false
   }
 ]

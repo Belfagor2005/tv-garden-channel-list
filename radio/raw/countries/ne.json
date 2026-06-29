@@ -2,13 +2,15 @@
   {
     "nanoid": "GeEnxlSxWnczrm",
     "name": "Wadata Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/1y2c3qbgbchvv"
-    ],
-    "country": "ne",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/1y2c3qbgbchvv"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "ne",
     "isGeoBlocked": false
   }
 ]

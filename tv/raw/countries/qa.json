@@ -2,13 +2,15 @@
   {
     "nanoid": "2H7AGmwfBbb0P2",
     "name": "Al Araby TV",
-    "stream_urls": [
-      "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e2RgSa1Wt5o"
-    ],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/e2RgSa1Wt5o"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -18,12 +20,13 @@
   {
     "nanoid": "VyhE2uMDKGWvi8",
     "name": "Al Araby TV 2",
-    "stream_urls": [
-      "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
-      "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
+        "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -33,10 +36,11 @@
   {
     "nanoid": "o5kbiFCgZZTyJH",
     "name": "Al Jazeera 2",
-    "stream_urls": [
-      "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -46,14 +50,16 @@
   {
     "nanoid": "mIaAqLMCDH73r4",
     "name": "Al Jazeera Arabic",
-    "stream_urls": [
-      "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
-      "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
-      "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bNyUyrR0PHo"
-    ],
+    "sources": {
+      "streams": [
+        "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+        "https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8",
+        "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/bNyUyrR0PHo"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -63,14 +69,16 @@
   {
     "nanoid": "uBMBUsrNVel77O",
     "name": "Al Jazeera English",
-    "stream_urls": [
-      "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
-      "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
-      "https://cdn-7.pishow.tv/live/429/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gCNeDWCI0vo"
-    ],
+    "sources": {
+      "streams": [
+        "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+        "https://cdn-7.pishow.tv/live/429/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gCNeDWCI0vo"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -80,14 +88,16 @@
   {
     "nanoid": "zXY3iyHS9joFvJ",
     "name": "Al Jazeera Mubasher",
-    "stream_urls": [
-      "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
-      "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
-      "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8D5QY5gw_Xk"
-    ],
+    "sources": {
+      "streams": [
+        "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+        "https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8",
+        "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8D5QY5gw_Xk"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -97,12 +107,13 @@
   {
     "nanoid": "WVCjkBMypSAImO",
     "name": "Al Jazeera Mubasher 24",
-    "stream_urls": [
-      "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
-      "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
-      "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -112,12 +123,13 @@
   {
     "nanoid": "pPCtUkOMoSQ0hW",
     "name": "Al Jazeera Mubasher Broadcast 2",
-    "stream_urls": [
-      "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
-      "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
-      "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8",
+        "https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -127,10 +139,11 @@
   {
     "nanoid": "HHV5a8cn94GYcS",
     "name": "Al Maaref TV",
-    "stream_urls": [
-      "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -140,10 +153,11 @@
   {
     "nanoid": "z0QVI0gadd5X4p",
     "name": "Al Rayyan Old TV",
-    "stream_urls": [
-      "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -153,10 +167,11 @@
   {
     "nanoid": "WhmO3Ns2GASpVE",
     "name": "Al Rayyan TV",
-    "stream_urls": [
-      "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -166,10 +181,11 @@
   {
     "nanoid": "K2pY7DHGd3QmlJ",
     "name": "Libya Al Ahrar TV",
-    "stream_urls": [
-      "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -179,10 +195,11 @@
   {
     "nanoid": "sCYZ4Box9Vsqsi",
     "name": "Qatar Television",
-    "stream_urls": [
-      "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -192,10 +209,11 @@
   {
     "nanoid": "nRS5DLp96YBtfJ",
     "name": "Qatar Television 2",
-    "stream_urls": [
-      "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],

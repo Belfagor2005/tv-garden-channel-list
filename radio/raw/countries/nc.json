@@ -2,49 +2,57 @@
   {
     "nanoid": "QrdTvyOKE5K1Iq",
     "name": "NIA Radio Lo-Fi",
-    "stream_urls": [
-      "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac"
-    ],
-    "country": "nc",
+    "sources": {
+      "streams": [
+        "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "nc",
     "isGeoBlocked": false
   },
   {
     "nanoid": "1Sf9cf3bwbH8qI",
     "name": "NIA Radio Pacifique",
-    "stream_urls": [
-      "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac"
-    ],
-    "country": "nc",
+    "sources": {
+      "streams": [
+        "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "nc",
     "isGeoBlocked": false
   },
   {
     "nanoid": "2HKD7KKHs2FTi9",
     "name": "Nouvelle-Calédonie La 1ère",
-    "stream_urls": [
-      "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3"
-    ],
-    "country": "nc",
+    "sources": {
+      "streams": [
+        "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "nc",
     "isGeoBlocked": false
   },
   {
     "nanoid": "xosSttZIAhCpiB",
     "name": "NRJ Nouvelle-Calédonie",
-    "stream_urls": [
-      "https://testradio01.ice.infomaniak.ch/testradio01-192.mp3"
-    ],
-    "country": "nc",
+    "sources": {
+      "streams": [
+        "https://testradio01.ice.infomaniak.ch/testradio01-192.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "nc",
     "isGeoBlocked": false
   }
 ]

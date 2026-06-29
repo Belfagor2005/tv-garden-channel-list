@@ -2,112 +2,130 @@
   {
     "nanoid": "H3U5AY8SwV2LJQ",
     "name": "ESDES Radio",
-    "stream_urls": [
-      "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3"
-    ],
-    "country": "mg",
+    "sources": {
+      "streams": [
+        "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3"
+      ]
+    },
     "languages": [
       "fra",
       "mlg"
     ],
+    "country": "mg",
     "isGeoBlocked": false
   },
   {
     "nanoid": "r9uUU6rT5siHoH",
     "name": "Hopefy Radio",
-    "stream_urls": [
-      "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3"
-    ],
-    "country": "mg",
+    "sources": {
+      "streams": [
+        "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3"
+      ]
+    },
     "languages": [
       "mlg"
     ],
+    "country": "mg",
     "isGeoBlocked": false
   },
   {
     "nanoid": "sIca09B9dfj3AB",
     "name": "Radio Hi&Fi",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/52108/stream/89122"
-    ],
-    "country": "mg",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/52108/stream/89122"
+      ]
+    },
     "languages": [
       "mlg"
     ],
+    "country": "mg",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Q8woKtEOa2KPur",
     "name": "Radio Oasis",
-    "stream_urls": [
-      "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3"
-    ],
-    "country": "mg",
+    "sources": {
+      "streams": [
+        "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3"
+      ]
+    },
     "languages": [
       "mlg"
     ],
+    "country": "mg",
     "isGeoBlocked": false
   },
   {
     "nanoid": "r4oxroZmIlfxNi",
     "name": "Radio Rock",
-    "stream_urls": [
-      "https://tanjona.radioca.st/stream"
-    ],
-    "country": "mg",
+    "sources": {
+      "streams": [
+        "https://tanjona.radioca.st/stream"
+      ]
+    },
     "languages": [
       "fra",
       "mlg"
     ],
+    "country": "mg",
     "isGeoBlocked": false
   },
   {
     "nanoid": "aDXrAYVoKN0wVj",
     "name": "Radio Vazo Gasy",
-    "stream_urls": [
-      "https://stream.radiovazogasy.com/stream"
-    ],
-    "country": "mg",
+    "sources": {
+      "streams": [
+        "https://stream.radiovazogasy.com/stream"
+      ]
+    },
     "languages": [
       "mlg"
     ],
+    "country": "mg",
     "isGeoBlocked": false
   },
   {
     "nanoid": "6prA8dFRfieorx",
     "name": "RNM",
-    "stream_urls": [
-      "https://direct.radiomadagasikara.com/listen/rnm/radio.mp3"
-    ],
-    "country": "mg",
+    "sources": {
+      "streams": [
+        "https://direct.radiomadagasikara.com/listen/rnm/radio.mp3"
+      ]
+    },
     "languages": [
       "fra",
       "mlg"
     ],
+    "country": "mg",
     "isGeoBlocked": false
   },
   {
     "nanoid": "8aFZaYf31LE4yB",
     "name": "Tiako Be",
-    "stream_urls": [
-      "https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac"
-    ],
-    "country": "mg",
+    "sources": {
+      "streams": [
+        "https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac"
+      ]
+    },
     "languages": [
       "mlg"
     ],
+    "country": "mg",
     "isGeoBlocked": false
   },
   {
     "nanoid": "H4wmiKKgL29hXk",
     "name": "Top Radio",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/309053/stream/356036"
-    ],
-    "country": "mg",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/309053/stream/356036"
+      ]
+    },
     "languages": [
       "mlg"
     ],
+    "country": "mg",
     "isGeoBlocked": false
   }
 ]

@@ -2,61 +2,71 @@
   {
     "nanoid": "jklWL62STQvfns",
     "name": "Dr. Dick's Dub Shack",
-    "stream_urls": [
-      "https://streamer.radio.co/s0635c8b0d/listen"
-    ],
-    "country": "bm",
+    "sources": {
+      "streams": [
+        "https://streamer.radio.co/s0635c8b0d/listen"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "bm",
     "isGeoBlocked": false
   },
   {
     "nanoid": "3bJ9X3K3vkMAm1",
     "name": "HOTT 107.5",
-    "stream_urls": [
-      "https://iic.streamguys1.com/HOTT"
-    ],
-    "country": "bm",
+    "sources": {
+      "streams": [
+        "https://iic.streamguys1.com/HOTT"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "bm",
     "isGeoBlocked": false
   },
   {
     "nanoid": "HdBMlKmPEWAxxe",
     "name": "Irie 98 FM",
-    "stream_urls": [
-      "https://usa19.fastcast4u.com:7430/;"
-    ],
-    "country": "bm",
+    "sources": {
+      "streams": [
+        "https://usa19.fastcast4u.com:7430/;"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "bm",
     "isGeoBlocked": false
   },
   {
     "nanoid": "FLw9eZeG8hVULe",
     "name": "Magic 102.7",
-    "stream_urls": [
-      "https://iic.streamguys1.com/MAGIC"
-    ],
-    "country": "bm",
+    "sources": {
+      "streams": [
+        "https://iic.streamguys1.com/MAGIC"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "bm",
     "isGeoBlocked": false
   },
   {
     "nanoid": "0dO6PEOYt87Plr",
     "name": "Vibe 103 FM",
-    "stream_urls": [
-      "https://cp11.serverse.com/proxy/fwincknq/stream"
-    ],
-    "country": "bm",
+    "sources": {
+      "streams": [
+        "https://cp11.serverse.com/proxy/fwincknq/stream"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "bm",
     "isGeoBlocked": false
   }
 ]

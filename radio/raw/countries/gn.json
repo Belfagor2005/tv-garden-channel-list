@@ -2,25 +2,29 @@
   {
     "nanoid": "5yMVPwG5ShJ2pT",
     "name": "Afrik Info",
-    "stream_urls": [
-      "https://stream-175.zeno.fm/mmd6ku3pn8vvv"
-    ],
-    "country": "gn",
+    "sources": {
+      "streams": [
+        "https://stream-175.zeno.fm/mmd6ku3pn8vvv"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "gn",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Sdu7ii5JM9q5lF",
     "name": "Radio Love",
-    "stream_urls": [
-      "https://stream.zeno.fm/uqveb600hyduv"
-    ],
-    "country": "gn",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/uqveb600hyduv"
+      ]
+    },
     "languages": [
       "fra"
     ],
+    "country": "gn",
     "isGeoBlocked": false
   }
 ]

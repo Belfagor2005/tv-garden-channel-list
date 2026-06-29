@@ -2,85 +2,99 @@
   {
     "nanoid": "N5LGbLBjKlS0b5",
     "name": "Amaryllis E-Radio",
-    "stream_urls": [
-      "https://s4.radio.co/s40c05d6b1/low"
-    ],
-    "country": "mw",
+    "sources": {
+      "streams": [
+        "https://s4.radio.co/s40c05d6b1/low"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "mw",
     "isGeoBlocked": false
   },
   {
     "nanoid": "sdXwb4YClDUTS9",
     "name": "Groove100 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/0r0xa792kwzuv"
-    ],
-    "country": "mw",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/0r0xa792kwzuv"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "mw",
     "isGeoBlocked": false
   },
   {
     "nanoid": "bfcZol1LjFvSjv",
     "name": "Mdubs Entertainment Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/ogxfqt7gumguv"
-    ],
-    "country": "mw",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ogxfqt7gumguv"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "mw",
     "isGeoBlocked": false
   },
   {
     "nanoid": "AnWscCfhy1CEd9",
     "name": "Power Global Radio",
-    "stream_urls": [
-      "https://a10.asurahosting.com:7270/radio.mp3"
-    ],
-    "country": "mw",
+    "sources": {
+      "streams": [
+        "https://a10.asurahosting.com:7270/radio.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "mw",
     "isGeoBlocked": false
   },
   {
     "nanoid": "G4hfoMpF9ZUdoB",
     "name": "Times Radio",
-    "stream_urls": [
-      "https://ice31.securenetsystems.net/TIMESFM"
-    ],
-    "country": "mw",
+    "sources": {
+      "streams": [
+        "https://ice31.securenetsystems.net/TIMESFM"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "mw",
     "isGeoBlocked": false
   },
   {
     "nanoid": "xqQ2iJ2hHa2Nz3",
     "name": "Timveni Radio",
-    "stream_urls": [
-      "https://play.streamafrica.net/timveni"
-    ],
-    "country": "mw",
+    "sources": {
+      "streams": [
+        "https://play.streamafrica.net/timveni"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "mw",
     "isGeoBlocked": false
   },
   {
     "nanoid": "znL0vF4uu5EJGg",
     "name": "Zodiak Radio",
-    "stream_urls": [
-      "https://ice31.securenetsystems.net/0079"
-    ],
-    "country": "mw",
+    "sources": {
+      "streams": [
+        "https://ice31.securenetsystems.net/0079"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "mw",
     "isGeoBlocked": false
   }
 ]
