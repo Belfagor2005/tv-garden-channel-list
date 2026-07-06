@@ -158,21 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UsfL1P0B59uvuE",
-    "name": "Diva Adria",
-    "sources": {
-      "streams": [
-        "https://lb.dstvmultimedia.com/Diva/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "srp"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lMbPpHBoCjzoLt",
     "name": "Doctor",
     "sources": {
@@ -205,7 +190,7 @@
     "name": "El Futuro En tu Mano",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZT4VuRfsHhU"
+        "https://www.youtube-nocookie.com/embed/ced5Kh3cQnI"
       ]
     },
     "languages": [
@@ -229,25 +214,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hWjqV9dGq58pYr",
-    "name": "Fashion TV",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cihRbiX7gws0cD",
     "name": "FashionBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch369/index.m3u8",
         "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8"
       ]
     },
@@ -300,6 +270,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WDQpCRq4dLb0NU",
+    "name": "Fortuna TV",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WNz7K4EFtMb3cU",
     "name": "Friends of Felines Rescue Center",
     "sources": {
@@ -319,6 +304,20 @@
     "sources": {
       "streams": [
         "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eGHy3rK88v9mBY",
+    "name": "Great American Faith & Living",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/82/index.m3u8"
       ]
     },
     "languages": [
@@ -360,7 +359,7 @@
     "name": "HGTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7F6lR1MlJIQ"
+        "https://www.youtube-nocookie.com/embed/g7ZXtDAM_VE"
       ]
     },
     "languages": [
@@ -381,6 +380,20 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pq2QgIInvNdEee",
+    "name": "Home Network",
+    "sources": {
+      "streams": [
+        "https://40.160.24.53/HGTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -457,6 +470,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "es6wiTOOe1y1gn",
+    "name": "Loupe",
+    "sources": {
+      "streams": [
+        "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LOoaceDLue8eJw",
     "name": "MediCOOL TV",
     "sources": {
@@ -485,6 +512,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AQcwe6Z9P7sz9G",
+    "name": "MRTV Farmer",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FWaOGPp6Dlex8v",
     "name": "NDTV Good Times",
     "sources": {
@@ -498,6 +539,20 @@
       "tam"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "to6WdXHX9Bv9Ju",
+    "name": "Nova",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/Nova/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -584,20 +639,6 @@
       "spa"
     ],
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dL9dqEvKPfjTXy",
-    "name": "QS24.tv",
-    "sources": {
-      "streams": [
-        "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "ch",
     "isGeoBlocked": false
   },
   {
@@ -726,20 +767,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1PSkwvPNlldAvj",
-    "name": "UA Fashion TV",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch216/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
     "isGeoBlocked": false
   },
   {

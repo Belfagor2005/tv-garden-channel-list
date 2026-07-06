@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7ww4XqjlIRbeax",
+    "name": "Asahi: Documentary",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/mbptU9ntHn8"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5ZGnLxWOqASmvp",
     "name": "Asharq Discovery",
     "sources": {
@@ -230,7 +244,7 @@
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
+        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
       ]
     },
     "languages": [
@@ -317,7 +331,7 @@
     "name": "DocuBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch93/index.m3u8"
+        "https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -441,31 +455,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Cyx2iKrKwsbWCZ",
-    "name": "H2 HD",
+    "nanoid": "D0kxX68lMX7LDk",
+    "name": "History East",
     "sources": {
       "streams": [
-        "https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8"
+        "https://206.212.244.63/91/index.m3u8"
       ]
     },
     "languages": [
-      "slv"
+      "eng"
     ],
-    "country": "si",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wkVoGyfxnfDSBc",
-    "name": "History",
-    "sources": {
-      "streams": [
-        "https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8"
-      ]
-    },
-    "languages": [
-      "slv"
-    ],
-    "country": "si",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -474,8 +474,8 @@
     "sources": {
       "streams": [
         "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
-        "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
@@ -513,6 +513,20 @@
     ],
     "country": "in",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "ydI9RzI56VdmqS",
+    "name": "Karbala Documentary",
+    "sources": {
+      "streams": [
+        "https://ktvlive.online/stream/hls/ch3.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KkqMuLxaMTBFSE",
@@ -632,6 +646,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "AQcwe6Z9P7sz9G",
+    "name": "MRTV Farmer",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yWqRPjIHcgYftM",
     "name": "Nano",
     "sources": {
@@ -660,6 +688,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hLMd0T3SoxEtoM",
+    "name": "National Geographic East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.53/NAT_GEO/index.m3u8",
+        "https://cdn.haititivi.net/NATIONAL-GEOGRAPHIC/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v63UFM91nMh49U",
     "name": "National Geographic Wild",
     "sources": {
@@ -671,6 +714,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pfvOjTL0SzRiOd",
+    "name": "National Geographic Wild East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -746,20 +803,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5dGASmS4TNjspn",
-    "name": "O'zbekiston Tarixi",
-    "sources": {
-      "streams": [
-        "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6nVDnHEbOf1hio",
     "name": "Persiana Docs",
     "sources": {
@@ -771,6 +814,20 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mFFUoffryCMwcN",
+    "name": "Reelz",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/REELZ/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -873,48 +930,6 @@
       "spa"
     ],
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "S4Ps9soPruThWe",
-    "name": "Viasat Explore",
-    "sources": {
-      "streams": [
-        "https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8"
-      ]
-    },
-    "languages": [
-      "slv"
-    ],
-    "country": "si",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v9zeQCLLvv805T",
-    "name": "Viasat History",
-    "sources": {
-      "streams": [
-        "https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8"
-      ]
-    },
-    "languages": [
-      "slv"
-    ],
-    "country": "si",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fHRMNYezuLS4iE",
-    "name": "Viasat Nature",
-    "sources": {
-      "streams": [
-        "https://lb.dstvmultimedia.com/ViasatNature/index.m3u8"
-      ]
-    },
-    "languages": [
-      "slv"
-    ],
-    "country": "si",
     "isGeoBlocked": false
   },
   {

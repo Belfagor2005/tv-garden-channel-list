@@ -18,7 +18,7 @@
     "name": "92 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/trsSEq0lX4Q"
+        "https://www.youtube-nocookie.com/embed/jhSwh8i6q3I"
       ]
     },
     "languages": [
@@ -116,25 +116,10 @@
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/flyebiWehmA"
+        "https://www.youtube-nocookie.com/embed/DfB2Y87ouEk"
       ]
     },
     "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SMZ90GrudLpWdN",
-    "name": "City 41",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/PhX2BijpCQM"
-      ]
-    },
-    "languages": [
-      "eng",
       "urd"
     ],
     "country": "pk",
@@ -355,15 +340,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NcmIJl0QEk2Pmg",
-    "name": "God Stands TV Chinese",
+    "nanoid": "v05zRUt0wtjOm3",
+    "name": "God Stands TV Hindi",
     "sources": {
       "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8"
+        "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
       ]
     },
     "languages": [
-      "zho"
+      "hin"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -407,20 +392,6 @@
     },
     "languages": [
       "tgl"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MJZCJdg9pFYsCd",
-    "name": "God Stands TV Urdu",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -530,7 +501,7 @@
     "name": "KTN NEWS TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/z9lVeO50tSc"
+        "https://www.youtube-nocookie.com/embed/r8_OfU3-T9g"
       ]
     },
     "languages": [
@@ -589,7 +560,7 @@
         "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HpxIGf6C9nU"
+        "https://www.youtube-nocookie.com/embed/u7QLznmn4vY"
       ]
     },
     "languages": [
@@ -632,6 +603,9 @@
     "sources": {
       "streams": [
         "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lE5kfB98XdM"
       ]
     },
     "languages": [
@@ -688,7 +662,7 @@
     "name": "PTV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8Fj5QIumKWM"
+        "https://www.youtube-nocookie.com/embed/edVrNd4kzIg"
       ]
     },
     "languages": [
@@ -747,7 +721,7 @@
     "name": "Sindh TV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/4VP73wmzEis"
+        "https://www.youtube-nocookie.com/embed/kqrX3jzTdB8"
       ]
     },
     "languages": [
@@ -766,6 +740,20 @@
     },
     "languages": [
       "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VEXklR7hnzsBoP",
+    "name": "VSH News",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/mlGe6B_mlnw"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "pk",
     "isGeoBlocked": false

@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HBG3RBKp2k9705",
+    "name": "Buendia TV",
+    "sources": {
+      "streams": [
+        "https://servilive.com:3508/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "sources": {
@@ -238,6 +252,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7jZdYZLmUugc11",
+    "name": "Guayape TV",
+    "sources": {
+      "streams": [
+        "https://tv.bitstreaming.net:8443/live/guayapetv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YFN0Wt8jkUTjZN",
     "name": "HCH",
     "sources": {
@@ -252,11 +280,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CLZTA8WF1pQ7a8",
-    "name": "ICN Digital",
+    "nanoid": "9jeKM3aw6Paup0",
+    "name": "Imagen FM 105.1",
     "sources": {
       "streams": [
-        "https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8"
+        "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -270,7 +298,8 @@
     "name": "JBN TV",
     "sources": {
       "streams": [
-        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8"
+        "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8",
+        "https://viewhn.com/jbn_live/enlace/playlist.m3u8"
       ]
     },
     "languages": [
@@ -336,6 +365,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kgGtkbabuK6Sj3",
+    "name": "Lenca TV",
+    "sources": {
+      "streams": [
+        "https://lencatelevision.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "onHiflHrZAd53s",
     "name": "Litoral Atlantico HD",
     "sources": {
@@ -350,11 +393,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sbO1MszTS501SB",
-    "name": "Maya TV",
+    "nanoid": "6yEAB7wBSHJOpu",
+    "name": "Mas Noticias Television",
     "sources": {
       "streams": [
-        "https://media.streambrothers.com:19360/8036/8036.m3u8"
+        "https://www.amixtv.com:8081/mntvh/index.m3u8"
       ]
     },
     "languages": [
@@ -397,6 +440,20 @@
     "sources": {
       "streams": [
         "https://tv.webmedialive.com/fiestatv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nsgQYKfhfBKpgj",
+    "name": "Radio Ideal",
+    "sources": {
+      "streams": [
+        "https://www.idealfm104-7.com/hls/0/stream.m3u8"
       ]
     },
     "languages": [

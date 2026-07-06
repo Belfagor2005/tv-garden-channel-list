@@ -1,47 +1,5 @@
 [
   {
-    "nanoid": "XloC7cDlCkrDyP",
-    "name": "4seven",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QawkhL6v0uShUD",
-    "name": "5SELECT",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VNIdiZr5TGqgic",
-    "name": "5STAR",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aliCtCUOpSPVVP",
     "name": "8 Out Of 10 Cats",
     "sources": {
@@ -231,20 +189,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qeGibjiweoCaEb",
-    "name": "BBC Four/CBeebies",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCFourCBeebies.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "31U63I8METsDXI",
     "name": "BBC News (HEVC)",
     "sources": {
@@ -272,6 +216,20 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "BUsm8kgtVtmneU",
+    "name": "BBC News North America",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/14/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "JhHpiYec647IOL",
@@ -304,20 +262,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CVNTJOH5kkv0QM",
-    "name": "BBC One London HD",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCOne.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "RQlB3Nwkn2RwIf",
     "name": "BBC Persian",
     "sources": {
@@ -341,7 +285,6 @@
     "name": "BBC Three/CBBC",
     "sources": {
       "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
         "https://41.205.77.102/BBC-THREE/index.m3u8"
       ]
     },
@@ -350,34 +293,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EohUZfaHu9Fw27",
-    "name": "BBC Two",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCTwo.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "lM7b4zFwGuvMGj",
-    "name": "Blaze",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "0LllhlpEzMQvfO",
@@ -522,20 +437,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/XfZetbS9084"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OeJiCXESX00gax",
-    "name": "Channel 4 UK HD",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8"
       ]
     },
     "languages": [
@@ -870,20 +771,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "NOygrZkydmJ7CX",
-    "name": "Enduro Life Media",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/u1qEWMadGiQ"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b9z8Esreszehk1",
     "name": "English Club TV",
     "sources": {
@@ -1143,7 +1030,7 @@
       "streams": [
         "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
         "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
-        "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
+        "https://amg00654-itvstudios-hellskitchen-samsunguk-c8rgt.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsunguk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1211,7 +1098,7 @@
     "name": "Horrid Henry",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/X3DkRnx3y8Q"
+        "https://www.youtube-nocookie.com/embed/cxMkHZIAsdQ"
       ]
     },
     "languages": [
@@ -1354,24 +1241,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5IfXYen2Q01eP",
-    "name": "JimJam Europe",
-    "sources": {
-      "streams": [
-        "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ces",
-      "eng",
-      "heb",
-      "por",
-      "slk"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2126,6 +1995,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ys9b9lAAuDchCF",
+    "name": "Rakuten TV Comedy Movies UK",
+    "sources": {
+      "streams": [
+        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
+    "sources": {
+      "streams": [
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uHYtTL2fEDHMX0",
     "name": "Rally.TV FAST+",
     "sources": {
@@ -2382,6 +2279,7 @@
     "name": "Tennis+",
     "sources": {
       "streams": [
+        "https://amg01935-amg01935c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0002/playlist.m3u8",
         "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
       ]
     },
@@ -2848,6 +2746,18 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "PdlsmNwPyLUBKV",
+    "name": "Wheels & Steel",
+    "sources": {
+      "streams": [
+        "https://amg01775-amg01775c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c2-amgplt0002/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "a70tGgKnt6OXwc",

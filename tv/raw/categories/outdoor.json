@@ -40,6 +40,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zLbErKeLWlYtjV",
+    "name": "Agro TV",
+    "sources": {
+      "streams": [
+        "https://play.agenciastreaming.com:8081/agrotv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dMrCOl6WOSXAzM",
+    "name": "Agro TV Moldova",
+    "sources": {
+      "streams": [
+        "https://ii.nfthost.net/static/streaming-playlists/hls/cd915b56-317a-415b-8556-871ee8a49d7c/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "baI44A3rZswWd9",
     "name": "Agrotendencia TV",
     "sources": {
@@ -384,7 +412,7 @@
       "streams": [
         "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
         "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
-        "https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8"
+        "https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8"
       ]
     },
     "languages": [
@@ -466,11 +494,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BfRApM9W5b36oN",
+    "name": "REV'N Action",
+    "sources": {
+      "streams": [
+        "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AJKlRqqS5ctnyc",
     "name": "Rybalka",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch88/index.m3u8",
         "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8"
       ]
     },
@@ -478,20 +519,6 @@
       "ukr"
     ],
     "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "93DsdscIFyGwKr",
-    "name": "Rybolov",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/Rybolov.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {

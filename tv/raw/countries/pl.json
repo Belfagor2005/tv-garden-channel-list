@@ -43,6 +43,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/X1XLgE_6mtE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vpmw5YCzbuvKxE",
     "name": "ATM Rozrywka REWORK",
     "sources": {
@@ -99,6 +113,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NHCXMxoKr3soBB",
+    "name": "BTB 2",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DHR1El8JiIdfUH",
     "name": "BTB 3",
     "sources": {
@@ -128,21 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zgg5DBKwX2XCJo",
-    "name": "BTB International",
-    "sources": {
-      "streams": [
-        "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QpkwHa7GwFnKLp",
     "name": "BTB Music",
     "sources": {
@@ -150,9 +163,7 @@
         "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
       ]
     },
-    "languages": [
-      "pol"
-    ],
+    "languages": [],
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -199,110 +210,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bQ8WrDlqEAV4mh",
-    "name": "Cartoonito Polska",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/kKm5NTYO41s"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MsdbQSAkSSWayB",
-    "name": "DAZN Combat Poland",
-    "sources": {
-      "streams": [
-        "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YVXMNDK2rpUCOO",
-    "name": "dlaCiebie.tv",
-    "sources": {
-      "streams": [
-        "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9IWJvqi8MKA5iX",
     "name": "Dr G Medical Examiner",
     "sources": {
       "streams": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n0Yrqu41VbuhX5",
-    "name": "Eska Rock TV",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/EskaRockTV.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "STOLjmeQ7MSyya",
-    "name": "Eska TV",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/EskaTV.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mOEBukBIla0Jvs",
-    "name": "Eska TV Extra",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/EskaTVExtra.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Yu5wceoQ17tjtg",
-    "name": "Euronews FAST",
-    "sources": {
-      "streams": [
-        "https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8",
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8"
       ]
     },
     "languages": [
@@ -354,34 +266,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GZJhClb3LwFqnH",
-    "name": "Home TV",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/HomeTV.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DN6TpQ0x9cD41t",
-    "name": "HORYZONT TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/fBpxZZgTTTU"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "sources": {
@@ -401,20 +285,6 @@
     "sources": {
       "streams": [
         "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9IfVKY5hLbrIvn",
-    "name": "MTV",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/MTVHDPoland.m3u8"
       ]
     },
     "languages": [
@@ -622,11 +492,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mRFyheBmrSRckk",
+    "name": "Telewizja Dami Radom",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Ps950rB6sV8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hjCXHjX41BNCM8",
     "name": "Telewizja Gorzów",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_IU6KSutVSg"
+        "https://www.youtube-nocookie.com/embed/dfohIVdvQAk"
       ]
     },
     "languages": [
@@ -738,7 +622,21 @@
     "name": "Telewizja wPolsce",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/x-3R6QHEkWQ"
+        "https://www.youtube-nocookie.com/embed/w6RW6C3oayo"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9s6DDTJkNu9V38",
+    "name": "Telewizja Zabrze",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/80TxT-VVVN8"
       ]
     },
     "languages": [
@@ -752,7 +650,7 @@
     "name": "Telewizja Żary",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XeRbBe2CWSc"
+        "https://www.youtube-nocookie.com/embed/7tKEwrV0rgM"
       ]
     },
     "languages": [
@@ -902,7 +800,7 @@
       "pol"
     ],
     "country": "pl",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "8fkva1GfM7tM4w",
@@ -928,20 +826,6 @@
     },
     "languages": [
       "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "moehtnlcI4ChMQ",
-    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/UKQDuatwxNY"
-      ]
-    },
-    "languages": [
       "pol"
     ],
     "country": "pl",
@@ -1014,20 +898,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bpwyCfxeYK07lR",
-    "name": "ZTV live",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/pebelKfvmrQ"
-      ]
-    },
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

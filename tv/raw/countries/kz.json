@@ -89,6 +89,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SD0NAzWeVoCwdJ",
+    "name": "Nickelodeon CIS",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1500/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PUtkKNBhatXQzk",
     "name": "Qazaqstan",
     "sources": {
@@ -134,11 +148,41 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "aryd9ltXWZSxq7",
+    "name": "Qonaev Media",
+    "sources": {
+      "streams": [
+        "https://s.qonaevtv.kz/live/qonaev/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UQ2tnaYuDB5seW",
+    "name": "Rika TV",
+    "sources": {
+      "streams": [
+        "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TomqBXbWstBWEq",
     "name": "Silk Way",
     "sources": {
       "streams": [
-        "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
+        "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
         "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8"
       ]
     },
@@ -151,11 +195,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MYbhEZtWxMLBpp",
+    "name": "Silk Way Cinema",
+    "sources": {
+      "streams": [
+        "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "kz",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "if2kwrLRFc4oRC",
     "name": "Телеканал 24kz",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cxdgmIsCntk"
+        "https://www.youtube-nocookie.com/embed/Dwx_Tqxouw0"
       ]
     },
     "languages": [

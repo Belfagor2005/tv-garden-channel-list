@@ -186,7 +186,7 @@
     "name": "Ecuador TV",
     "sources": {
       "streams": [
-        "https://samson.streamerr.co:8081/shogun/index.m3u8"
+        "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8"
       ]
     },
     "languages": [
@@ -313,6 +313,20 @@
     "sources": {
       "streams": [
         "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4Obz9x5Dfstl3c",
+    "name": "Kasterwey Media",
+    "sources": {
+      "streams": [
+        "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8"
       ]
     },
     "languages": [
@@ -593,6 +607,20 @@
     "sources": {
       "streams": [
         "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8GS07KlJ6wtlsy",
+    "name": "RTV",
+    "sources": {
+      "streams": [
+        "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
       ]
     },
     "languages": [

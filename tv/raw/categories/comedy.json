@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CYPaX2UVL5PBUV",
+    "name": "13 Humor",
+    "sources": {
+      "streams": [
+        "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "C7SK0S2RgKNZGi",
     "name": "AFV",
     "sources": {
@@ -127,17 +141,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mW0XW8knvFv3Gu",
-    "name": "Comedy Central",
+    "nanoid": "lwOO3yKfQFwVFA",
+    "name": "Comedy Central East",
     "sources": {
       "streams": [
-        "https://lb.dstvmultimedia.com/ComedyCentral/index.m3u8"
+        "https://cdn.haititivi.net/COMEDY-CENTRAL/index.m3u8"
       ]
     },
     "languages": [
-      "deu"
+      "eng"
     ],
-    "country": "de",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -196,20 +210,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I6D9IHQIDu6y7l",
-    "name": "Güldür Güldür Show",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Jv8HS8gqV78"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -366,20 +366,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O8tFJhKTZ0GylR",
-    "name": "Santa Cruz Feira Digital",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/59wmR2ltkcQ"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4VE8AYBTYbd8ii",
     "name": "Sirippoli TV",
     "sources": {
@@ -453,19 +439,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3KIbg37PQUOdm7",
-    "name": "Viasat Kino Comedy",
+    "nanoid": "lKPGETEt2FJ6ge",
+    "name": "USA Network East",
     "sources": {
       "streams": [
-        "https://ukr.ukrainske.tv/493/keytvainua/video.m3u8"
+        "https://40.160.24.55/USA_NETWORK/index.m3u8",
+        "https://206.212.244.63/168/index.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "lat",
-      "rus"
+      "eng"
     ],
-    "country": "ua",
+    "country": "us",
     "isGeoBlocked": false
   }
 ]

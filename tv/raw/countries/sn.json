@@ -15,16 +15,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qnZnUMjCzgKR22",
-    "name": "A2i Religion",
+    "nanoid": "ZPk3uBpYzL7r88",
+    "name": "Al Khadimiyyah TV",
     "sources": {
-      "streams": [
-        "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/q5ulLcqbjMs"
       ]
     },
     "languages": [
-      "fra",
-      "wol"
+      "fra"
     ],
     "country": "sn",
     "isGeoBlocked": false
@@ -72,60 +71,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vgSSpzzDQ4JMdz",
-    "name": "RTS 1",
-    "sources": {
-      "streams": [
-        "https://live1.acangroup.org:1929/larts/rts1_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "wol"
-    ],
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ajdSaaNIu8sGEL",
-    "name": "RTS 2",
-    "sources": {
-      "streams": [
-        "https://live1.acangroup.org:1929/larts/rts2.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "wol"
-    ],
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nlHRC1EER9kWOE",
-    "name": "RTS 3",
-    "sources": {
-      "streams": [
-        "https://live1.acangroup.org:1929/larts/rts3/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eHM605p4bMlMA0",
-    "name": "RTS 4",
-    "sources": {
-      "streams": [
-        "https://live1.acangroup.org:1929/larts/rts4/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tIKVEzb2A3i7Cz",
     "name": "Seneweb TV",
     "sources": {
@@ -138,5 +83,19 @@
     ],
     "country": "sn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "RfhIP8Ek1pr7to",
+    "name": "SenJeunes TV",
+    "sources": {
+      "streams": [
+        "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
   }
 ]

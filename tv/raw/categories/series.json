@@ -14,34 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3QRPAcVmVoh8UN",
-    "name": "4ever Drama",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch49/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "unFAtIKdGdKV06",
-    "name": "13T",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9yTrQThbXl1idJ",
     "name": "48 Hours US",
     "sources": {
@@ -379,8 +351,7 @@
     "sources": {
       "streams": [
         "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8",
-        "https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8"
+        "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -388,6 +359,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "sources": {
+      "streams": [
+        "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "RQLjZpBmmmFy6U",
@@ -451,7 +436,7 @@
     "name": "Farscape",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2iDrdlHUj48"
+        "https://www.youtube-nocookie.com/embed/wxO9iUr4g88"
       ]
     },
     "languages": [
@@ -573,7 +558,7 @@
       "streams": [
         "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
         "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
-        "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
+        "https://amg00654-itvstudios-hellskitchen-samsunguk-c8rgt.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsunguk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -787,34 +772,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Yz6QJMfl4vE5w1",
-    "name": "NTV Series",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/NTVSerial.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yM20acbzlpX0UI",
-    "name": "NTV-Hit",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/NTVHit.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KnQ1j8Phu3BSgy",
     "name": "OuterSphere",
     "sources": {
@@ -829,6 +786,21 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "s9YZ1VJSz718zN",
+    "name": "Paramount Network East",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/137/index.m3u8",
+        "https://cdn.haititivi.net/PARAMOUNT-CHANNEL/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "EqniGxixO4xx8t",
@@ -888,6 +860,20 @@
       "eng"
     ],
     "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BfRApM9W5b36oN",
+    "name": "REV'N Action",
+    "sources": {
+      "streams": [
+        "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -980,8 +966,7 @@
     "name": "Sony One Series Comedie",
     "sources": {
       "streams": [
-        "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
-        "https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8"
+        "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8"
       ]
     },
     "languages": [
@@ -995,14 +980,27 @@
     "name": "Sony One Series Thriller",
     "sources": {
       "streams": [
-        "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
-        "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8"
+        "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8"
       ]
     },
     "languages": [
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SZ2cNzXyjIL9do",
+    "name": "Start TV",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/150/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1027,6 +1025,21 @@
       "streams": [
         "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8",
         "https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jBHty7VgENQxrk",
+    "name": "SYFY East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/SYFY/index.m3u8",
+        "https://206.212.244.63/152/index.m3u8"
       ]
     },
     "languages": [
@@ -1195,10 +1208,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lKPGETEt2FJ6ge",
+    "name": "USA Network East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/USA_NETWORK/index.m3u8",
+        "https://206.212.244.63/168/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RBsulEFm06gD0b",
     "name": "We TV East",
     "sources": {
       "streams": [
+        "https://40.160.24.55/WE_TV/index.m3u8",
+        "https://206.212.244.63/172/index.m3u8",
         "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
       ]
     },

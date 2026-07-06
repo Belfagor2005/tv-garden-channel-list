@@ -32,7 +32,7 @@
     "name": "360TuneBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch141/index.m3u8"
+        "https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -99,25 +99,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "77E2xhr3RrP82t",
-    "name": "Cartoon Network Nederland",
+    "nanoid": "hxElXQEHI6wIHq",
+    "name": "BR6 TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/yODP4aldyhA"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qRRkHF68B9Vp9B",
-    "name": "Cartoonito Benelux",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/gibMWBSihe0"
+      "streams": [
+        "https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8"
       ]
     },
     "languages": [
@@ -160,21 +146,7 @@
     "name": "DocuBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch93/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f05TCpR6Yyq8JY",
-    "name": "E! Europe",
-    "sources": {
-      "streams": [
-        "https://lb.dstvmultimedia.com/E!/index.m3u8"
+        "https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -188,7 +160,6 @@
     "name": "FashionBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch369/index.m3u8",
         "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8"
       ]
     },
@@ -199,11 +170,38 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QC400UPdsbVwAc",
+    "name": "Fast&FunBox",
+    "sources": {
+      "streams": [
+        "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0eoKVJV2pq7Jz8",
+    "name": "Feel Good TV",
+    "sources": {
+      "streams": [
+        "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WFwHBC1wCRvRfv",
     "name": "FightBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch118/index.m3u8",
         "https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8"
       ]
     },
@@ -218,7 +216,7 @@
     "name": "FilmBox Arthouse",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch63/index.m3u8"
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
       ]
     },
     "languages": [
@@ -265,6 +263,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qCNy2ojifNspg9",
+    "name": "FomixTV",
+    "sources": {
+      "streams": [
+        "https://stream.fomixmedia.nl/FomixTV/video.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
     ],
     "country": "nl",
     "isGeoBlocked": false
@@ -344,11 +356,25 @@
     "name": "Gametoon",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch256/index.m3u8"
+        "https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8"
       ]
     },
     "languages": [
       "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A3vCuoFXBOegkR",
+    "name": "Gigant FM",
+    "sources": {
+      "streams": [
+        "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
     ],
     "country": "nl",
     "isGeoBlocked": false
@@ -512,6 +538,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YgwesPOmCiZn25",
+    "name": "LOE TV",
+    "sources": {
+      "streams": [
+        "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8nVftQpC76oxlC",
     "name": "Lokale Omroep Zeewolde",
     "sources": {
@@ -576,21 +616,6 @@
       ]
     },
     "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7DSi96Xgx28uw1",
-    "name": "Nickelodeon",
-    "sources": {
-      "streams": [
-        "https://193.239.186.231/NICK/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
       "nld"
     ],
     "country": "nl",
@@ -700,6 +725,20 @@
     "sources": {
       "streams": [
         "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nVpsvaBycf2VlN",
+    "name": "Omroep Lingewaard",
+    "sources": {
+      "streams": [
+        "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -949,6 +988,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W9VS8SRmkQmeJR",
+    "name": "Rararadio",
+    "sources": {
+      "streams": [
+        "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dSnoUTHQ6dYQnL",
     "name": "Regio TV De Bilt",
     "sources": {
@@ -1078,6 +1132,21 @@
     "sources": {
       "streams": [
         "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bdBmeA8W9ieof9",
+    "name": "RTV Noordoost Friesland",
+    "sources": {
+      "streams": [
+        "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
+        "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1297,11 +1366,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "N4Ek6KWXUdPOHS",
-    "name": "Sleutelstad TV",
+    "nanoid": "y9se3kSGZxxBBD",
+    "name": "Slotstad TV",
     "sources": {
       "streams": [
-        "https://samson.streamerr.co:8081/sleutelstad/index.m3u8"
+        "https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8"
       ]
     },
     "languages": [
@@ -1311,11 +1380,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y9se3kSGZxxBBD",
-    "name": "Slotstad TV",
+    "nanoid": "O0kpowmkTJLDCA",
+    "name": "SRC TV",
     "sources": {
       "streams": [
-        "https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8"
+        "https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1344,6 +1413,21 @@
     "sources": {
       "streams": [
         "https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "80Bzo5gghASeEz",
+    "name": "TV Ellef",
+    "sources": {
+      "streams": [
+        "https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8",
+        "https://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1610,6 +1694,20 @@
     "sources": {
       "streams": [
         "https://zfmzoetermeer.nl/live/master.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "misQ9uBxRPB1ww",
+    "name": "ZO!34",
+    "sources": {
+      "streams": [
+        "https://video.uitzending.tv:19360/zo34/zo34.m3u8"
       ]
     },
     "languages": [

@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FLJTgXx5Ik6ljh",
+    "name": "Angel TV Chinese",
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gcM2WWZ06H1U7r",
     "name": "Baicheng TV",
     "sources": {
@@ -411,20 +425,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VzepbqP86gbVbt",
-    "name": "Xinjiang TV 3",
-    "sources": {
-      "streams": [
-        "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qhvw7nkIuV1cQ9",
     "name": "Zhejiang International Channel",
     "sources": {
@@ -435,6 +435,18 @@
     "languages": [
       "zho"
     ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PQS6mmZySzL6Rf",
+    "name": "上虞1新闻综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -468,6 +480,18 @@
     "sources": {
       "streams": [
         "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4gpT2C61YO4gJy",
+    "name": "余姚姚江文化",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
       ]
     },
     "languages": [],
@@ -539,7 +563,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/L04IhOjAXUY"
+        "https://www.youtube-nocookie.com/embed/A8xJULrUzh4"
       ]
     },
     "languages": [
@@ -614,6 +638,18 @@
     "sources": {
       "streams": [
         "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tWjSdo4t72dhtd",
+    "name": "浙江 I 绍兴综合",
+    "sources": {
+      "streams": [
+        "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
       ]
     },
     "languages": [],

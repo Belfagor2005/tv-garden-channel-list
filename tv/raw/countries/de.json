@@ -5,6 +5,7 @@
     "sources": {
       "streams": [
         "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "https://41.205.77.102/3SAT/index.m3u8",
         "https://41.223.30.230/3SAT/index.m3u8"
       ]
     },
@@ -13,20 +14,6 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "36lN8WV2fDdHrJ",
-    "name": "13th Street Universal",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "LAPj7zIAvtxGKM",
@@ -57,6 +44,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Mn9IVvdpmAf7oU",
+    "name": "Altenburg TV",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "sources": {
@@ -77,7 +78,6 @@
     "sources": {
       "streams": [
         "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
-        "https://adpnetworkhd-cmd.github.io/iptv/Arte.m3u8",
         "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
       ]
     },
@@ -217,6 +217,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JSLwEcr5bsmuaF",
+    "name": "BR Fernsehen Sud",
+    "sources": {
+      "streams": [
+        "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dSBUaKYtXm09an",
     "name": "Cira TV",
     "sources": {
@@ -226,20 +240,6 @@
     },
     "languages": [
       "kur"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mW0XW8knvFv3Gu",
-    "name": "Comedy Central",
-    "sources": {
-      "streams": [
-        "https://lb.dstvmultimedia.com/ComedyCentral/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -263,8 +263,7 @@
     "name": "Das Erste",
     "sources": {
       "streams": [
-        "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
-        "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8"
+        "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
       ]
     },
     "languages": [
@@ -283,20 +282,6 @@
     },
     "languages": [
       "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E3Fuo7LqwAfWE9",
-    "name": "Deluxe Dance",
-    "sources": {
-      "streams": [
-        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -467,18 +452,6 @@
     "languages": [
       "deu"
     ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0deWs8tTLyJPRE",
-    "name": "FilmGold Germany",
-    "sources": {
-      "streams": [
-        "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -708,7 +681,7 @@
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vbKz0nMFKGY"
+        "https://www.youtube-nocookie.com/embed/DMpVvusgGgY"
       ]
     },
     "languages": [
@@ -1317,20 +1290,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "PGFyEoRa4S4ygM",
-    "name": "Ost West 24",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch237/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1472,30 +1431,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
+    "nanoid": "SMFkP3zTr5LosF",
+    "name": "Rakuten TV German Cinema",
     "sources": {
       "streams": [
-        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+        "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
       ]
     },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nYCXjvra9MA0zd",
-    "name": "Rakuten TV Drama Movies Germany",
-    "sources": {
-      "streams": [
-        "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },

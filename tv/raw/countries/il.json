@@ -1,5 +1,34 @@
 [
   {
+    "nanoid": "bxBN5jknhS0mp6",
+    "name": "Angel TV Hebrew",
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dpKdP2YlAMxUwm",
+    "name": "Channel 9",
+    "sources": {
+      "streams": [
+        "https://contact.gostreaming.tv/Con-11/index.m3u8"
+      ]
+    },
+    "languages": [
+      "heb",
+      "rus"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OxqDpNnYgAPFde",
     "name": "Channel 13",
     "sources": {
@@ -42,11 +71,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4dIuiVOqNKLrn",
-    "name": "Kabbalah for the People Israel",
+    "nanoid": "2bXbe76msjX006",
+    "name": "i24NEWS Hebrew",
     "sources": {
       "streams": [
-        "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8"
+        "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
       ]
     },
     "languages": [
@@ -56,15 +85,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hbcJB1RCRT6pmz",
-    "name": "Makan 33",
+    "nanoid": "C4dIuiVOqNKLrn",
+    "name": "Kabbalah for the People Israel",
     "sources": {
       "streams": [
-        "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
+        "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8"
       ]
     },
     "languages": [
-      "ara"
+      "heb"
     ],
     "country": "il",
     "isGeoBlocked": false
@@ -89,7 +118,7 @@
         "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cEx4PwqbqgI"
+        "https://www.youtube-nocookie.com/embed/ckG0bz_YDuc"
       ]
     },
     "languages": [

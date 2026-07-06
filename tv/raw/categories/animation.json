@@ -5,6 +5,9 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/qVgzbLwopFQ"
       ]
     },
     "languages": [
@@ -88,7 +91,7 @@
     "name": "Aqua Teen Hunger Force",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5U20q0tr6eU"
+        "https://www.youtube-nocookie.com/embed/ZeBIm8NStD8"
       ]
     },
     "languages": [
@@ -126,25 +129,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qeGibjiweoCaEb",
-    "name": "BBC Four/CBeebies",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCFourCBeebies.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bxrLpOnIw2cIku",
     "name": "BBC Three/CBBC",
     "sources": {
       "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
         "https://41.205.77.102/BBC-THREE/index.m3u8"
       ]
     },
@@ -166,34 +154,6 @@
       "eng"
     ],
     "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "77E2xhr3RrP82t",
-    "name": "Cartoon Network Nederland",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/yODP4aldyhA"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QwrXrJ43PZBFLz",
-    "name": "Cartoon Network România",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/AO_1W9XG2-A"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -267,25 +227,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VCUvM2AMC0JyGp",
-    "name": "DreamWorks Channel Latin America",
-    "sources": {
-      "streams": [
-        "https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LRgPxcQZ9T6wh6",
     "name": "EnerGeek",
     "sources": {
       "streams": [
         "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "sources": {
+      "streams": [
+        "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
       ]
     },
     "languages": [
@@ -335,6 +295,20 @@
       "jap"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oj7vX3xxxcxlj0",
+    "name": "Fugget About It",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ikorLLfhH4I"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -392,6 +366,20 @@
     ],
     "country": "sa",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gnovPIP6KioXwn",
+    "name": "Hasbro Legends",
+    "sources": {
+      "streams": [
+        "https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "6LMZLvrPTalkLd",
@@ -576,6 +564,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AEeYcID6Rdmmt5",
+    "name": "MeTV Toons",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/112/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "R6VpE6L98QcSep",
     "name": "Mr. Bean Animated",
     "sources": {
@@ -617,21 +619,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gcKdwQBnRSpRrD",
-    "name": "Multimania",
-    "sources": {
-      "streams": [
-        "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
-        "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -691,20 +678,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PyldYXsoAXUikk",
-    "name": "Pingviins",
-    "sources": {
-      "streams": [
-        "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
-      ]
-    },
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "yzZp6BhMvaS7qt",
     "name": "PJ Masks Brasil",
     "sources": {
@@ -759,20 +732,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "oubeKLPS2AIZdf",
-    "name": "Pro100TV",
-    "sources": {
-      "streams": [
-        "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Sw0hJi8gVOMHbV",
@@ -836,7 +795,7 @@
     "name": "Shout! Studios: Speed Racer",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/h9E70c3vSx8"
+        "https://www.youtube-nocookie.com/embed/hrskJwC9F38"
       ]
     },
     "languages": [
@@ -846,17 +805,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kgLIBciurHYpOo",
-    "name": "Slime",
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
     "sources": {
-      "streams": [
-        "https://slime.x1co.com.br/hls/stream.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8MG1UXKTETg"
       ]
     },
     "languages": [
-      "por"
+      "fra"
     ],
-    "country": "br",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -893,7 +852,7 @@
     "name": "Spacetoon Arabic",
     "sources": {
       "streams": [
-        "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
+        "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8"
       ]
     },
     "languages": [
@@ -936,7 +895,7 @@
     "name": "Teenage Mutant Ninja Turtles: TMNT",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/c2FavXF01ZU"
+        "https://www.youtube-nocookie.com/embed/EUimd-12rp8"
       ]
     },
     "languages": [
@@ -1034,7 +993,7 @@
     "name": "Universal Jr: Team Mekbots",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/zvi-hGfHed8"
+        "https://www.youtube-nocookie.com/embed/afg5nrQnd7s"
       ]
     },
     "languages": [

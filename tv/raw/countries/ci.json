@@ -99,20 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xwOsuFtBBGFvEi",
-    "name": "Life TV",
-    "sources": {
-      "streams": [
-        "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7M4Km5OQWJwKM0",
     "name": "LM TV French",
     "sources": {
@@ -132,6 +118,20 @@
     "sources": {
       "streams": [
         "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TXUC0mu2fNdDhw",
+    "name": "NTV",
+    "sources": {
+      "streams": [
+        "https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8"
       ]
     },
     "languages": [

@@ -70,39 +70,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oHpWSCiwHvXaJw",
-    "name": "Assirat TV",
-    "sources": {
-      "streams": [
-        "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "lb",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o4YWqt8qnKLyde",
     "name": "Charity TV",
     "sources": {
       "streams": [
         "https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "lb",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zbc7OvMJjNYiAj",
-    "name": "Future TV",
-    "sources": {
-      "streams": [
-        "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -243,6 +215,20 @@
     "sources": {
       "streams": [
         "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "lb",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sLzyXxJZk3tdfD",
+    "name": "Tele Liban",
+    "sources": {
+      "streams": [
+        "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8"
       ]
     },
     "languages": [

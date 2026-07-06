@@ -26,6 +26,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/X1XLgE_6mtE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "sources": {
@@ -123,6 +137,20 @@
       "spa"
     ],
     "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hrsVs9qqIiOboO",
+    "name": "Canal FDR",
+    "sources": {
+      "streams": [
+        "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -263,6 +291,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9L2pscQHcBOxS5",
+    "name": "Da Vinci",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -677,6 +719,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DuJd4u0fDHyZVy",
+    "name": "Eduvision",
+    "sources": {
+      "streams": [
+        "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qo704xbyXZJTCe",
     "name": "En Lengua de Senas TV",
     "sources": {
@@ -788,6 +844,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kqr3JHbCw7DAtR",
+    "name": "ISTV",
+    "sources": {
+      "streams": [
+        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1061,7 +1131,22 @@
     "name": "PBS Kids",
     "sources": {
       "streams": [
+        "https://206.212.244.63/669/index.m3u8",
         "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IDUBNLTYka9iGY",
+    "name": "PBS Kids 24/7",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/672/index.m3u8"
       ]
     },
     "languages": [
@@ -1199,6 +1284,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ilmq7YqEXqJqfJ",
+    "name": "Rai Scuola",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "uOeqeeP7q9Tix0",
     "name": "Red Apple 21",
     "sources": {
@@ -1224,6 +1323,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GyYMyUUtPptNeI",
+    "name": "Rinjani TV",
+    "sources": {
+      "streams": [
+        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1555,6 +1668,7 @@
     "name": "Unifranz",
     "sources": {
       "streams": [
+        "https://edge.enhdtv.com/8192/index.m3u8",
         "https://live.enhdtv.com:8081/8192/index.m3u8"
       ]
     },
@@ -1562,20 +1676,6 @@
       "spa"
     ],
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "sources": {
-      "streams": [
-        "https://stream.unison.mx/hls/unisontvatem.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1593,20 +1693,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "moehtnlcI4ChMQ",
-    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/UKQDuatwxNY"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vvLSrEdftAhFqe",
     "name": "Vyas Channel",
     "sources": {
@@ -1618,6 +1704,20 @@
       "eng"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JliijnACP4jH0u",
+    "name": "Wiki TV",
+    "sources": {
+      "streams": [
+        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
     "isGeoBlocked": false
   },
   {

@@ -660,6 +660,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3WdoCqxOwOfQeK",
+    "name": "Dreamstar Teleradio",
+    "sources": {
+      "streams": [
+        "https://usa2.server2028.com/listen/sdtv_radio/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZXFiY845s5bvXZ",
     "name": "DWHQ 98.1 FM",
     "sources": {
@@ -2482,21 +2497,6 @@
       "streams": [
         "https://stream.zeno.fm/c3z135w8zxhvv.mp3",
         "https://stream.zeno.fm/us9zu5w8zxhvv"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3WdoCqxOwOfQeK",
-    "name": "SDTV Radio",
-    "sources": {
-      "streams": [
-        "https://usa2.server2028.com/listen/sdtv_radio/radio.mp3"
       ]
     },
     "languages": [

@@ -84,20 +84,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X4xe5RrfPw7ILD",
-    "name": "Cartoonito Magyarország",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lwiWqNgWgbE"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KtUOjtUN5J2cOR",
     "name": "Csurgo TV",
     "sources": {
@@ -130,7 +116,8 @@
     "name": "Euronews Hungarian",
     "sources": {
       "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8"
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8",
+        "https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -339,6 +326,20 @@
     "sources": {
       "streams": [
         "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UxOgU5kfFfuxCm",
+    "name": "Tatai TV",
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
       ]
     },
     "languages": [

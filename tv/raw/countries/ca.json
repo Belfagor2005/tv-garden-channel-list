@@ -18,6 +18,7 @@
     "name": "Amazing Discoveries TV",
     "sources": {
       "streams": [
+        "https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8",
         "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
       ]
     },
@@ -44,11 +45,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YD8ihVxcEILfkx",
+    "name": "Azan TV",
+    "sources": {
+      "streams": [
+        "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vLJxCfSjAO72Wd",
     "name": "Belmedia TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IqCXy1957XQ"
+        "https://www.youtube-nocookie.com/embed/Gs4pkJDNH0s"
       ]
     },
     "languages": [
@@ -131,6 +146,18 @@
     "sources": {
       "streams": [
         "https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HyAPd9MDJcE3zJ",
+    "name": "CBC Kids Channel",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8"
       ]
     },
     "languages": [],
@@ -256,20 +283,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "C2IpSsj3CjIb2e",
-    "name": "CBKFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -499,6 +512,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZbGTjtTnpJzZYY",
+    "name": "CFJC Kamloops BC",
+    "sources": {
+      "streams": [
+        "https://videostream.jpbgdigital.com/CFJCTV.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4vXtjAL0sTXinF",
     "name": "CFTM-DT",
     "sources": {
@@ -653,6 +678,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ASydZvR4LEyQi6",
+    "name": "CKPG Prince George BC",
+    "sources": {
+      "streams": [
+        "https://videostream.jpbgdigital.com/CKPGTV.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V3BMBGhU6fGP7f",
     "name": "CKSH-DT",
     "sources": {
@@ -723,6 +760,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NYOzLMHn9DVS1q",
+    "name": "Doyel TV",
+    "sources": {
+      "streams": [
+        "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QtZoQSlu8071bX",
     "name": "Eawaz TV",
     "sources": {
@@ -732,21 +783,6 @@
     },
     "languages": [
       "urd"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nuCkj2isILRO5a",
-    "name": "EET TV",
-    "sources": {
-      "streams": [
-        "https://eu.streamjo.com/eetlive/eettv.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -800,8 +836,21 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oj7vX3xxxcxlj0",
+    "name": "Fugget About It",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ikorLLfhH4I"
       ]
     },
     "languages": [
@@ -859,7 +908,7 @@
       "streams": [
         "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -906,6 +955,20 @@
       ]
     },
     "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pq2QgIInvNdEee",
+    "name": "Home Network",
+    "sources": {
+      "streams": [
+        "https://40.160.24.53/HGTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1035,18 +1098,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KUROtebe5Hr0N",
-    "name": "Legislative Assembly of Ontario Committees (room 151)",
-    "sources": {
-      "streams": [
-        "https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ggVaTzuCKy1JEd",
     "name": "Legislative Assembly TV Nunavut",
     "sources": {
@@ -1162,36 +1213,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A4US6UvB9yJPDi",
-    "name": "NTD TV Canada East",
-    "sources": {
-      "streams": [
-        "https://live.ntdtv.com/mllive860/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "zho"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VMMy1tQO5Si6KO",
-    "name": "NTD TV Canada West",
-    "sources": {
-      "streams": [
-        "https://live.ntdtv.com/cwlive220/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "zho"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZPKmsmU04xl2Q3",
     "name": "NTV+",
     "sources": {
@@ -1288,6 +1309,18 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iAGIl1kw4w2Izl",
+    "name": "Schitt’s Creek Channel",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "NYodd4ZllT4qNK",
@@ -1763,7 +1796,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tB7JTEEHWa4"
+        "https://www.youtube-nocookie.com/embed/mhd9OUQ5Y6g"
       ]
     },
     "languages": [
@@ -1777,7 +1810,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yl8MhXvX4ug"
+        "https://www.youtube-nocookie.com/embed/y62H2P4qDm8"
       ]
     },
     "languages": [
@@ -1791,7 +1824,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5Sc5Tsvwmoo"
+        "https://www.youtube-nocookie.com/embed/9laTWEu_M-w"
       ]
     },
     "languages": [
@@ -1972,7 +2005,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/uKWPmcznTOE"
+        "https://www.youtube-nocookie.com/embed/ap0DhDsiGPs"
       ]
     },
     "languages": [
@@ -1996,15 +2029,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7MJcYnhqkdKmZp",
-    "name": "Watan-e-Maa TV",
+    "nanoid": "tfahh4mN8EFFmu",
+    "name": "Uvagut TV",
     "sources": {
       "streams": [
-        "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
+        "https://hls.uvagut.tv/hls/uvagut/playlist.m3u8"
       ]
     },
     "languages": [
-      "prd"
+      "eng",
+      "iku"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -2015,6 +2049,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/AHa_Uz50sJk"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yfBSi8T77pzJ7v",
+    "name": "WCGtv",
+    "sources": {
+      "streams": [
+        "https://wcgtv.ca/live-10/live/stream-1/live.m3u8"
       ]
     },
     "languages": [
