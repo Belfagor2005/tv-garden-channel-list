@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "UuxAvZJ7qbOfux",
+    "name": "Ayaz TV",
+    "sources": {
+      "streams": [
+        "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vnxbgWDlvR5HkO",
     "name": "Az TV",
     "sources": {
@@ -34,21 +48,7 @@
         "https://rtmp.baku.tv/hls/bakutv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cO4_KF7J-4o"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TCXWbbGwwhAA4s",
-    "name": "Dunya TV",
-    "sources": {
-      "streams": [
-        "https://stream.ftv.az/live/dunyatv.m3u8"
+        "https://www.youtube-nocookie.com/embed/ZX9FGwnnF6w"
       ]
     },
     "languages": [
@@ -63,6 +63,20 @@
     "sources": {
       "streams": [
         "https://live.eltv.az/live/eltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bTpfDJ5yQNPKEE",
+    "name": "Kanal 35",
+    "sources": {
+      "streams": [
+        "https://str2.yodacdn.net/kanal35/index.m3u8"
       ]
     },
     "languages": [
@@ -97,6 +111,21 @@
       "aze",
       "eng",
       "rus"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nJUg7d1NQf1aEX",
+    "name": "Vilayet TV",
+    "sources": {
+      "streams": [
+        "https://nl.livekadeh.com/hls2/vilayet.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "aze"
     ],
     "country": "az",
     "isGeoBlocked": false

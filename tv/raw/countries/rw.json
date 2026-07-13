@@ -15,6 +15,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YcQ8Y6oWUVxpk1",
+    "name": "BCN TV",
+    "sources": {
+      "streams": [
+        "https://live.bcntv.org/live/bcn_16_9.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "kin"
+    ],
+    "country": "rw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hRgd0Ypxitc2Uq",
+    "name": "BTN TV",
+    "sources": {
+      "streams": [
+        "https://tv.btnrwanda.com:3973/live/btnv2live.m3u8"
+      ]
+    },
+    "languages": [
+      "kin"
+    ],
+    "country": "rw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ImKv4xWjIX02Ek",
     "name": "Isibo TV",
     "sources": {

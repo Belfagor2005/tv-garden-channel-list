@@ -36011,6 +36011,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jAQxNCJusOLlCH",
+    "name": "Animal de Radio",
+    "sources": {
+      "streams": [
+        "https://streaming.gostreaming.com.ar:8322/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WKQh1IBLKb6VHn",
     "name": "Anime Para Ti",
     "sources": {
@@ -121413,20 +121428,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "151P9EGOyfRKQ3",
-    "name": "Garage Sounds",
-    "sources": {
-      "streams": [
-        "https://audio.gendercriminals.gay/listen/garage_sounds/radio.mp3"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -244286,6 +244287,63 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PKl2ODpXoxDu2R",
+    "name": "Radio Dylan",
+    "sources": {
+      "streams": [
+        "https://stream.laut.fm/radiodylan"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aEeCgFOAwbsGqe",
+    "name": "Radio Dylan Clásico",
+    "sources": {
+      "streams": [
+        "https://stream.laut.fm/venezuela"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AIe42eAB1LZfnL",
+    "name": "Radio Dylan Internacional",
+    "sources": {
+      "streams": [
+        "https://stream.laut.fm/radiodylaninternacional"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "r9gaJ3WsiBisvs",
+    "name": "Radio Dylan Suave",
+    "sources": {
+      "streams": [
+        "https://stream.laut.fm/dylansuave"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "66fwBa9lEfXtTb",
     "name": "Radio Dynamo",
     "sources": {
@@ -258757,6 +258815,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "18240C2V4vDtzb",
+    "name": "Radio La Luna AM 1140",
+    "sources": {
+      "streams": [
+        "https://ohradio.cc/9344/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5eSICYxOIDHf8a",
     "name": "Radio La Mexicana",
     "sources": {
@@ -263960,6 +264032,21 @@
       "spa"
     ],
     "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uZjJPBTSvIFOFc",
+    "name": "Radio Melodi-K",
+    "sources": {
+      "streams": [
+        "https://streams.radio.co/sbd5d07da5/listen"
+      ]
+    },
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "country": "ht",
     "isGeoBlocked": false
   },
   {
@@ -336637,7 +336724,8 @@
     "name": "Sveriges Radio P4 Blekinge",
     "sources": {
       "streams": [
-        "https://live1.sr.se/p4blek-mp3-96"
+        "https://live1.sr.se/p4blek-mp3-96",
+        "https://ljud1-cdn.sr.se/lc/p4blek.m3u8"
       ]
     },
     "languages": [
@@ -336651,7 +336739,22 @@
     "name": "Sveriges Radio P4 Dalarna",
     "sources": {
       "streams": [
-        "https://live1.sr.se/p4dala-aac-320"
+        "https://live1.sr.se/p4dala-aac-320",
+        "https://ljud1-cdn.sr.se/lc/p4dala.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "By4lX6PMJoQxVx",
+    "name": "Sveriges Radio P4 Gävleborg",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4gavl.m3u8"
       ]
     },
     "languages": [
@@ -336665,7 +336768,21 @@
     "name": "Sveriges Radio P4 Göteborg",
     "sources": {
       "streams": [
-        "https://live1.sr.se/p4gbg-aac-320"
+        "https://ljud1-cdn.sr.se/lc/p4gbg.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dVj6hYCwpJdkWl",
+    "name": "Sveriges Radio P4 Gotland",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4gotl.m3u8"
       ]
     },
     "languages": [
@@ -336679,6 +336796,7 @@
     "name": "Sveriges Radio P4 Halland",
     "sources": {
       "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4hall.m3u8",
         "https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3"
       ]
     },
@@ -336693,7 +336811,22 @@
     "name": "Sveriges Radio P4 Jämtland",
     "sources": {
       "streams": [
-        "https://live1.sr.se/p4jmtl-aac-320"
+        "https://live1.sr.se/p4jmtl-aac-320",
+        "https://ljud1-cdn.sr.se/lc/p4jmtl.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Uu4cZxQb96tlEK",
+    "name": "Sveriges Radio P4 Jönköping",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4jkpg.m3u8"
       ]
     },
     "languages": [
@@ -336707,7 +336840,36 @@
     "name": "Sveriges Radio P4 Kalmar",
     "sources": {
       "streams": [
-        "https://live1.sr.se/p4kalm-mp3-96"
+        "https://live1.sr.se/p4kalm-mp3-96",
+        "https://ljud1-cdn.sr.se/lc/p4kalm.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XRByFpJVloH6rA",
+    "name": "Sveriges Radio P4 Kristianstad",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4krist.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7AqZVosJKPxfFk",
+    "name": "Sveriges Radio P4 Kronoberg",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4kron.m3u8"
       ]
     },
     "languages": [
@@ -336721,8 +336883,37 @@
     "name": "Sveriges Radio P4 Malmöhus",
     "sources": {
       "streams": [
+        "https://live1.sr.se/p4malm-mp3-96",
         "https://sverigesradio.se/topsy/direkt/207-hi.mp3",
-        "https://live1.sr.se/p4malm-mp3-96"
+        "https://ljud1-cdn.sr.se/lc/p4malm.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0b6AIHQagvJ4H8",
+    "name": "Sveriges Radio P4 Norrbotten",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4nbtn.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RDhj84oD60jyUC",
+    "name": "Sveriges Radio P4 Örebro",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4oreb.m3u8"
       ]
     },
     "languages": [
@@ -336736,7 +336927,8 @@
     "name": "Sveriges Radio P4 Östergötland",
     "sources": {
       "streams": [
-        "https://live1.sr.se/p4ostg-mp3-96"
+        "https://live1.sr.se/p4ostg-mp3-96",
+        "https://ljud1-cdn.sr.se/lc/p4ostg.m3u8"
       ]
     },
     "languages": [
@@ -336760,12 +336952,98 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UxLkkqFKhg1XeJ",
+    "name": "Sveriges Radio P4 Sjuhärad",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4sju.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6mqW43nIUBwzew",
+    "name": "Sveriges Radio P4 Skaraborg",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4skbg.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PlVxPEg296f1ES",
+    "name": "Sveriges Radio P4 Sörmland",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4sorm.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "P8cXW8aNxeF94Y",
     "name": "Sveriges Radio P4 Stockholm",
     "sources": {
       "streams": [
         "https://edge1.sr.se/p4sth-aac-320",
-        "https://live1.sr.se/p4sth-aac-32"
+        "https://ljud1-cdn.sr.se/lc/p4sth.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Vd20Ub5YurnYNX",
+    "name": "Sveriges Radio P4 Uppland",
+    "sources": {
+      "streams": [
+        "https://ljud1-cdn.sr.se/lc/p4uppl.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l1QXZwM2h2aBAw",
+    "name": "Sveriges Radio P4 Värmland",
+    "sources": {
+      "streams": [
+        "https://live1.sr.se/p4vrml-aac-320",
+        "https://ljud1-cdn.sr.se/lc/p4vrml.m3u8"
+      ]
+    },
+    "languages": [
+      "swe"
+    ],
+    "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "chLDzGHNEs9A0w",
+    "name": "Sveriges Radio P4 Väst",
+    "sources": {
+      "streams": [
+        "https://live1.sr.se/p4vast-mp3-96",
+        "https://ljud1-cdn.sr.se/lc/p4vast.m3u8"
       ]
     },
     "languages": [
@@ -336779,7 +337057,7 @@
     "name": "Sveriges Radio P4 Västerbotten",
     "sources": {
       "streams": [
-        "https://live1.sr.se/p4vbtn-mp3-96"
+        "https://ljud1-cdn.sr.se/lc/p4vbtn.m3u8"
       ]
     },
     "languages": [
@@ -336794,7 +337072,8 @@
     "sources": {
       "streams": [
         "https://live1.sr.se/p4vnrl-aac-320",
-        "https://live1.sr.se/p4vnrl-mp3-96"
+        "https://live1.sr.se/p4vnrl-mp3-96",
+        "https://ljud1-cdn.sr.se/lc/p4vnrl.m3u8"
       ]
     },
     "languages": [
@@ -336808,7 +337087,8 @@
     "name": "Sveriges Radio P4 Västmanland",
     "sources": {
       "streams": [
-        "https://live1.sr.se/p4vstm-mp3-96"
+        "https://live1.sr.se/p4vstm-mp3-96",
+        "https://ljud1-cdn.sr.se/lc/p4vstm.m3u8"
       ]
     },
     "languages": [

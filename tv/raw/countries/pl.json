@@ -57,20 +57,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vpmw5YCzbuvKxE",
-    "name": "ATM Rozrywka REWORK",
-    "sources": {
-      "streams": [
-        "https://grupaatmrr.org.pl:8888/fallback/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kJrXloIeM5KZgw",
     "name": "Bialogardzka Telewizja Kablowa",
     "sources": {
@@ -224,6 +210,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Yu5wceoQ17tjtg",
+    "name": "Euronews FAST",
+    "sources": {
+      "streams": [
+        "https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8",
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BrhdrwsQAO4B4e",
     "name": "EWTN Poland",
     "sources": {
@@ -261,6 +262,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DN6TpQ0x9cD41t",
+    "name": "HORYZONT TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/tZxgmE7zUWI"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -492,25 +507,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mRFyheBmrSRckk",
-    "name": "Telewizja Dami Radom",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ps950rB6sV8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hjCXHjX41BNCM8",
     "name": "Telewizja Gorzów",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dfohIVdvQAk"
+        "https://www.youtube-nocookie.com/embed/DKpTQ7Z37Qc"
       ]
     },
     "languages": [
@@ -539,20 +540,6 @@
     "sources": {
       "streams": [
         "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1BgwlFIal9aEik",
-    "name": "Telewizja Olsztyn",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/SYbfyHMZ4Lc"
       ]
     },
     "languages": [
@@ -636,7 +623,7 @@
     "name": "Telewizja Zabrze",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/80TxT-VVVN8"
+        "https://www.youtube-nocookie.com/embed/P085VB1IGb0"
       ]
     },
     "languages": [
@@ -720,7 +707,7 @@
     "name": "TV Relax",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fAc2b4cZ4Xk"
+        "https://www.youtube-nocookie.com/embed/x9SrAm_InmM"
       ]
     },
     "languages": [
@@ -817,21 +804,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "sources": {
-      "streams": [
-        "https://stream.twoja.tv/ttv_hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fZI48V3oPHwUhn",
     "name": "W Polsce PL",
     "sources": {
@@ -898,6 +870,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bpwyCfxeYK07lR",
+    "name": "ZTV live",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8AaYj1nkUwE"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

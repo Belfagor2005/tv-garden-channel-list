@@ -54,17 +54,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dMrCOl6WOSXAzM",
-    "name": "Agro TV Moldova",
+    "nanoid": "CtdqbL5wtTjnvo",
+    "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://ii.nfthost.net/static/streaming-playlists/hls/cd915b56-317a-415b-8556-871ee8a49d7c/master.m3u8"
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
     "languages": [
-      "ron"
+      "por"
     ],
-    "country": "md",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -196,6 +197,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KWpkHYxq6dUNah",
+    "name": "Fish TV",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/FISH_TV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TKlUtkeJbMnBT7",
     "name": "Horse & Country TV",
     "sources": {
@@ -323,9 +338,9 @@
     "name": "Outdoor Channel",
     "sources": {
       "streams": [
+        "https://206.212.244.63/2507/index.m3u8",
         "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
-        "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G"
+        "https://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
       ]
     },
     "languages": [
@@ -340,7 +355,8 @@
     "sources": {
       "streams": [
         "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
-        "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
+        "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
+        "https://206.212.244.63/2508/index.m3u8"
       ]
     },
     "languages": [
@@ -622,5 +638,19 @@
     ],
     "country": "za",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "zho9vpe3CfnRYg",
+    "name": "World Fishing Network",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   }
 ]

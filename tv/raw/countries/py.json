@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c4VJcNzklIX0CI",
+    "name": "Alcance FM PLAY TV",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MC0Hkz9sP3iFPv",
     "name": "Almaya TV",
     "sources": {
@@ -42,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iyKm6r3aZi9gVV",
-    "name": "CAD TV",
+    "nanoid": "m9MWDoCCb8N1mw",
+    "name": "C9N",
     "sources": {
       "streams": [
-        "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8"
+        "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
@@ -140,20 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RszKNvM58V3E5m",
-    "name": "Dismar Radio TV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "u5b2On0IzN64A2",
     "name": "E40",
     "sources": {
@@ -213,11 +213,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
+    "nanoid": "8vX1XPEH9jNBSM",
+    "name": "HEi Now",
     "sources": {
       "streams": [
-        "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
+        "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
       ]
     },
     "languages": [
@@ -227,11 +227,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8vX1XPEH9jNBSM",
-    "name": "HEi Now",
+    "nanoid": "OETM24DdxaHZfM",
+    "name": "Invasiva TV",
     "sources": {
       "streams": [
-        "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
+        "https://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3",
+        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
       ]
     },
     "languages": [
@@ -269,53 +270,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vCORrvB9khbwBn",
-    "name": "Mega TV",
-    "sources": {
-      "streams": [
-        "https://www.desde-paraguay.com/mega.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ksZqh8hqVd6zjZ",
-    "name": "MiTV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QPORKefjqCpm3X",
     "name": "Monumental TV",
     "sources": {
       "streams": [
         "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KiwbZFxfIOXSsb",
-    "name": "Nande Portetepe TV",
-    "sources": {
-      "streams": [
-        "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
       ]
     },
     "languages": [
@@ -367,6 +326,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VI1f12kgFZ6WBR",
+    "name": "Oasis TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BIxYEYuD3nW89V",
     "name": "Obedira TV",
     "sources": {
@@ -386,6 +359,20 @@
     "sources": {
       "streams": [
         "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HxsHxTV92v3WvN",
+    "name": "Oviedo TV",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
       ]
     },
     "languages": [
@@ -438,48 +425,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IwiHkBn6cit4Xp",
-    "name": "Radio Ciudad 98.9 FM TV",
-    "sources": {
-      "streams": [
-        "https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UjRL7OkGaXKBmt",
-    "name": "Radio Colmenar 92.5 FM",
-    "sources": {
-      "streams": [
-        "https://tvdatta.com:3041/live/colmenarlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fzzlypsWlk6Y1E",
-    "name": "Radio Guaira TV",
-    "sources": {
-      "streams": [
-        "https://tvdatta.com:3991/live/guairatvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qwvxoPlN7mEsiI",
     "name": "Radio Nacional del Paraguay",
     "sources": {
@@ -499,6 +444,20 @@
     "sources": {
       "streams": [
         "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TeqRUHz0t6Kdc6",
+    "name": "Radio TV El Arca del Pacto",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
       ]
     },
     "languages": [
@@ -578,11 +537,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gYihzcn4I4Uc35",
-    "name": "RQP Paraguay",
+    "nanoid": "Y9Zfz6JHuFmN3C",
+    "name": "SNT",
     "sources": {
       "streams": [
-        "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8"
+        "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
@@ -597,6 +556,20 @@
     "sources": {
       "streams": [
         "https://live.enhdtv.com:8081/8060/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZeeVONu1t8gGrx",
+    "name": "Telequince",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8"
       ]
     },
     "languages": [
@@ -667,20 +640,6 @@
     "sources": {
       "streams": [
         "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9Ihh2szFUbQs2q",
-    "name": "Villa Elisa Radio TV",
-    "sources": {
-      "streams": [
-        "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion"
       ]
     },
     "languages": [

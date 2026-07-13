@@ -169,6 +169,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "SFsrKozwjoLj8R",
+    "name": "B SMART",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/m6zjylEfnWY"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kJYDf0pliJrAhX",
     "name": "BabyTV France HD",
     "sources": {
@@ -1012,18 +1026,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FSarTXtXzxj5ih",
-    "name": "Les Z'amours",
-    "sources": {
-      "streams": [
-        "https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rOt2GRHARiewoL",
     "name": "Littoral FM TV",
     "sources": {
@@ -1094,6 +1096,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OT7cC0iY15HoKp",
+    "name": "Mosaïk Cristal",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/h8jhsRixcJw"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kD5MBV5ey6hKbh",
     "name": "Motus La Chaîne",
     "sources": {
@@ -1106,28 +1122,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CpZZCNRPTXaipO",
-    "name": "MTV",
+    "nanoid": "aRYM4hJmBP444c",
+    "name": "My Gospel TV",
     "sources": {
       "streams": [
-        "https://41.205.70.146/MTVFRANCE/index.m3u8"
+        "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
       ]
     },
     "languages": [
       "fra"
     ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
-    "sources": {
-      "streams": [
-        "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1291,11 +1295,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
+    "nanoid": "AIirayhr6r6kA6",
+    "name": "Rakuten TV Films Thriller",
     "sources": {
       "streams": [
-        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+        "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
       ]
     },
     "languages": [],
@@ -1400,20 +1404,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/8MG1UXKTETg"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "sources": {
@@ -1465,34 +1455,6 @@
       "streams": [
         "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
         "https://d3nvxupr08boay.cloudfront.net/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PddVv4O37Tx5Us",
-    "name": "Sony One Series Comedie",
-    "sources": {
-      "streams": [
-        "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WGDiUT1T62mE6W",
-    "name": "Sony One Series Thriller",
-    "sources": {
-      "streams": [
-        "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1633,7 +1595,8 @@
     "name": "Trace Brazuca",
     "sources": {
       "streams": [
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
+        "https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8"
       ]
     },
     "languages": [
@@ -1661,7 +1624,35 @@
     "name": "Trace Gospel",
     "sources": {
       "streams": [
-        "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8"
+        "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y4qPq23OdBqrZm",
+    "name": "Trace Gospel Nigeria and East Africa",
+    "sources": {
+      "streams": [
+        "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qlnlzIINox50mW",
+    "name": "Trace Gospel Southern Africa",
+    "sources": {
+      "streams": [
+        "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8"
       ]
     },
     "languages": [
@@ -1675,7 +1666,7 @@
     "name": "Trace Jama",
     "sources": {
       "streams": [
-        "https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8"
+        "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8"
       ]
     },
     "languages": [
@@ -1704,7 +1695,8 @@
     "sources": {
       "streams": [
         "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
-        "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8"
+        "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8",
+        "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8"
       ]
     },
     "languages": [
@@ -1770,6 +1762,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kqMUlhv25saDO5",
+    "name": "Trace Ngoma",
+    "sources": {
+      "streams": [
+        "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8sJgzboMg4ThSQ",
+    "name": "Trace Sport Stars",
+    "sources": {
+      "streams": [
+        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4sRs2yNNylt0rj",
     "name": "Trace Toca",
     "sources": {
@@ -1817,7 +1838,7 @@
   },
   {
     "nanoid": "ikUOfTTqyRQA06",
-    "name": "Trace Urban Caribbean And Indian Ocean",
+    "name": "Trace Urban Caribbean and Indian Ocean",
     "sources": {
       "streams": [
         "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8"
@@ -1825,6 +1846,20 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jXgccKBeTddkaK",
+    "name": "Trace Urban International",
+    "sources": {
+      "streams": [
+        "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1886,6 +1921,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zN9p9PFYpIjE0W",
+    "name": "TV5Monde Europe",
+    "sources": {
+      "streams": [
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "1knGFXXt1Z1tXg",
     "name": "TV7 Colmar",
     "sources": {
@@ -1945,21 +1994,6 @@
     "sources": {
       "streams": [
         "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5bJwOX7I30jGk6",
-    "name": "W9",
-    "sources": {
-      "streams": [
-        "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8",
-        "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8"
       ]
     },
     "languages": [

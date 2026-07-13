@@ -100,6 +100,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QAWNpXBSxe4wt2",
+    "name": "A2i TV",
+    "sources": {
+      "streams": [
+        "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AxkHU8DJYXqb2o",
     "name": "ACI Sport TV",
     "sources": {
@@ -327,6 +342,20 @@
     "sources": {
       "streams": [
         "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xSyDen73bxIFUM",
+    "name": "Cartoon Network Italia",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/2Lw3IirgdzQ"
       ]
     },
     "languages": [
@@ -761,6 +790,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "49gFoSLfLIIVE3",
+    "name": "L'altro Corriere TV",
+    "sources": {
+      "streams": [
+        "https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pXyiT3BHMZPFs5",
     "name": "La C TV",
     "sources": {
@@ -780,20 +823,6 @@
     "sources": {
       "streams": [
         "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5LLVHmQ8JEsCfJ",
-    "name": "La TR3 Marsala",
-    "sources": {
-      "streams": [
-        "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1069,20 +1098,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "goJdBBUxKzhIiT",
-    "name": "Paradise TV",
-    "sources": {
-      "streams": [
-        "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "rCWYXbGU5lesuk",
     "name": "Parole di Vita",
     "sources": {
@@ -1282,6 +1297,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0AeHu53Cy2m0HP",
+    "name": "Radio Capital TiVu",
+    "sources": {
+      "streams": [
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sF8X6IMP7gtNjw",
     "name": "Radio Ibiza TV",
     "sources": {
@@ -1462,7 +1491,7 @@
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "gb89vMj4sSblmg",
@@ -2108,6 +2137,20 @@
     "sources": {
       "streams": [
         "https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0D5cDwbmCxPyQV",
+    "name": "TeleMia Extra",
+    "sources": {
+      "streams": [
+        "https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8"
       ]
     },
     "languages": [

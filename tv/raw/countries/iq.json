@@ -14,6 +14,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FTvSSHqDu7zXUY",
+    "name": "Afaq TV",
+    "sources": {
+      "streams": [
+        "https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
     "sources": {
@@ -70,11 +85,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IbE1EyU5igXIWS",
-    "name": "Al Iraqia News",
+    "nanoid": "roeCDcGE1uwKQ6",
+    "name": "Al Iraqia Sport",
     "sources": {
       "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
       ]
     },
     "languages": [
@@ -84,11 +99,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "roeCDcGE1uwKQ6",
-    "name": "Al Iraqia Sport",
+    "nanoid": "UEXwoyYx1GFZis",
+    "name": "Al Janoub TV",
     "sources": {
       "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
+        "https://live.alissahost.net/hls/test.m3u8"
       ]
     },
     "languages": [
@@ -155,6 +170,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "R7SX5bbq2ADuZ9",
+    "name": "Alawla TV",
+    "sources": {
+      "streams": [
+        "https://live.alawla.tv/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "btizWb8V9F8EOG",
+    "name": "Alghadeer TV",
+    "sources": {
+      "streams": [
+        "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oH3JHlocRjrWih",
     "name": "Alquran",
     "sources": {
@@ -164,6 +207,20 @@
     },
     "languages": [
       "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kWWdIE2o9smmGw",
+    "name": "Amozhgary TV",
+    "sources": {
+      "streams": [
+        "https://app-live.org/live/3268334b/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kur"
     ],
     "country": "iq",
     "isGeoBlocked": false
@@ -251,6 +308,20 @@
     "languages": [
       "ara",
       "eng"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "umvB9tV3Rb1OXe",
+    "name": "EmanTv",
+    "sources": {
+      "streams": [
+        "https://avr.host247.net/live/emantv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kur"
     ],
     "country": "iq",
     "isGeoBlocked": false

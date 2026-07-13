@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "iTbSyptSI7ovhK",
-    "name": "1KZN TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LyB1P5SiU3vOaG",
     "name": "6 Wise Tv",
     "sources": {
@@ -104,7 +90,7 @@
       "streams": [
         "https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8",
         "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
-        "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
+        "https://206.212.244.63/6134/index.m3u8"
       ]
     },
     "languages": [
@@ -114,12 +100,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "umvB9tV3Rb1OXe",
+    "name": "EmanTv",
+    "sources": {
+      "streams": [
+        "https://avr.host247.net/live/emantv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WfWOCQye5PaNeZ",
     "name": "Estrella Games",
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
-        "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
         "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8"
       ]
     },
@@ -130,10 +130,71 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "sALap2IcbEVEBj",
+    "name": "FETV",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/60/index.m3u8",
+        "https://40.160.24.52/FETV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ni7lHqOGMgUILm",
+    "name": "Freeform East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.52/FREEFORM/index.m3u8",
+        "https://206.212.244.63/69/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pBc315uh5BofsA",
+    "name": "Freeform West",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/70/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ScKFn570TqDOwF",
+    "name": "Great American Family",
+    "sources": {
+      "streams": [
+        "https://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8",
+        "https://206.212.244.63/81/index.m3u8",
+        "https://40.160.24.58/GAC_FAMILY/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "92clp3Gx6q8TVk",
     "name": "Hallmark Channel East",
     "sources": {
       "streams": [
+        "https://40.160.24.53/HALLMARK/index.m3u8",
         "https://206.212.244.63/84/index.m3u8"
       ]
     },
@@ -217,20 +278,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oLnLTQ4nnHeCAZ",
-    "name": "Soweto TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
     "sources": {
@@ -300,20 +347,6 @@
       "spa"
     ],
     "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "usETpjVP1bzVNN",
-    "name": "TV Famille",
-    "sources": {
-      "streams": [
-        "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "mq",
     "isGeoBlocked": false
   },
   {

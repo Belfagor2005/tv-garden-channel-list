@@ -128,6 +128,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jAQxNCJusOLlCH",
+    "name": "Animal de Radio",
+    "sources": {
+      "streams": [
+        "https://streaming.gostreaming.com.ar:8322/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FF6SiSFZsfebay",
     "name": "Antena 1 FM 91.5",
     "sources": {
@@ -3776,6 +3791,20 @@
     "sources": {
       "streams": [
         "https://streamconex.com:8104/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "18240C2V4vDtzb",
+    "name": "Radio La Luna AM 1140",
+    "sources": {
+      "streams": [
+        "https://ohradio.cc/9344/stream"
       ]
     },
     "languages": [

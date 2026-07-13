@@ -12,6 +12,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CtdqbL5wtTjnvo",
+    "name": "AgroCanal",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2iEMu7y7Pfmad9",
     "name": "Al Hiwar TV",
     "sources": {
@@ -102,7 +117,8 @@
     "name": "Canal Educacao",
     "sources": {
       "streams": [
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
       ]
     },
     "languages": [
@@ -145,6 +161,20 @@
     "sources": {
       "streams": [
         "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8yxjHQYdOlErAK",
+    "name": "Canal Futura",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/FUTURA/index.m3u8"
       ]
     },
     "languages": [
@@ -618,6 +648,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kYQnPKKVLeV7yp",
+    "name": "Dog TV",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/56/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AY9El1RUmBJaPD",
     "name": "Earthquake Alert Channel",
     "sources": {
@@ -705,20 +749,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sJtHUQ2FEosClO",
-    "name": "Educa TV",
-    "sources": {
-      "streams": [
-        "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
     "sources": {
@@ -777,20 +807,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xZPdiS2AIsXbXV",
-    "name": "GVision",
-    "sources": {
-      "streams": [
-        "https://videostream.chileservidores.com:8081/tome/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hdMP1gFBmOJ5tJ",
     "name": "Gyandarshan",
     "sources": {
@@ -816,20 +832,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9NYf5msdVIxgC1",
-    "name": "ILCE Canal 15 Summa Saberes",
-    "sources": {
-      "streams": [
-        "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -942,6 +944,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QOQ6tEZPUjQnVk",
+    "name": "M5",
+    "sources": {
+      "streams": [
+        "https://c402-node62-cdn.connectmedia.hu/110305/2f9138f608109e0767d30a91d01c67cd/6a512e5f/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
     "isGeoBlocked": false
   },
   {
@@ -1096,6 +1112,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4MkAIlXwdSE8X",
+    "name": "OUN",
+    "sources": {
+      "streams": [
+        "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1284,6 +1314,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1Snebdc8j861KM",
+    "name": "Radio Universitaria San Andres",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8054/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ilmq7YqEXqJqfJ",
     "name": "Rai Scuola",
     "sources": {
@@ -1452,20 +1496,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ufquGR4ncw7ZpB",
-    "name": "TV BUAP",
-    "sources": {
-      "streams": [
-        "https://tvenvivo.buap.mx/livestream/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LSV8LWxmVrWxS3",
     "name": "TV Cuatro 4.4",
     "sources": {
@@ -1505,20 +1535,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g7YtvRUN199O67",
-    "name": "TV UG",
-    "sources": {
-      "streams": [
-        "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1707,20 +1723,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JliijnACP4jH0u",
-    "name": "Wiki TV",
-    "sources": {
-      "streams": [
-        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
     "sources": {
@@ -1762,20 +1764,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qY3In36TCPaQmA",
-    "name": "XEIPN-TDT",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/stream/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

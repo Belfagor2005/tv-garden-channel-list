@@ -98,21 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Gg9cAjQw6QXEKr",
-    "name": "BUM Television",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/visiondorada.m3u8",
-        "https://video.ejeserver.com/live/visiondorada.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4HcNT0v8tNO0ck",
     "name": "Cable Nobsa TV",
     "sources": {
@@ -212,11 +197,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tOQsHNAnrUk50",
-    "name": "Canal Calima TV",
+    "nanoid": "pxpERTjTLU5biZ",
+    "name": "Canal CHD",
     "sources": {
       "streams": [
-        "https://movil.ejeserver.com/live/calimatv.m3u8"
+        "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
       ]
     },
     "languages": [
@@ -226,11 +211,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pxpERTjTLU5biZ",
-    "name": "Canal CHD",
+    "nanoid": "btEJDr7vMTEkmk",
+    "name": "Canal Cine Dios",
     "sources": {
       "streams": [
-        "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
+        "https://canal.mediaserver.com.co/live/cinedios.m3u8"
       ]
     },
     "languages": [
@@ -261,21 +246,6 @@
       "streams": [
         "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
         "https://video.ejeserver.com/live/mundovisiontv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QA1x5OQRH7UVPJ",
-    "name": "Canal Nets",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/nets.m3u8",
-        "https://video.ejeserver.com/live/nets.m3u8"
       ]
     },
     "languages": [
@@ -327,20 +297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8wch0b4bAAxnPo",
-    "name": "Canal Womtv",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/womtvlive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "A9tPf7Rzt5ngpc",
     "name": "Canica TV",
     "sources": {
@@ -359,7 +315,7 @@
     "name": "Caracol Televisión",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tiXansbaUy8"
+        "https://www.youtube-nocookie.com/embed/0HJsa_pQ5LA"
       ]
     },
     "languages": [
@@ -387,7 +343,7 @@
     "name": "CityTv",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Hkm5q1-XPK4"
+        "https://www.youtube-nocookie.com/embed/s-opMBii6so"
       ]
     },
     "languages": [
@@ -445,6 +401,7 @@
     "name": "CNC Santander de Quilichao",
     "sources": {
       "streams": [
+        "https://movil.ejeserver.com/live/cncsantander.m3u8",
         "https://video.ejeserver.com/live/cncsantander.m3u8"
       ]
     },
@@ -460,6 +417,20 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jWsKSPOfnPdCDP",
+    "name": "CNC Valledupar",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -525,20 +496,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mshfkhqs41pHqb",
-    "name": "Fiesta TV",
-    "sources": {
-      "streams": [
-        "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vrb0tQpIhi4WoL",
     "name": "Frecuencia F TV",
     "sources": {
@@ -558,20 +515,6 @@
     "sources": {
       "streams": [
         "https://eu1.servers10.com:8081/8178/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "To0FjldsY7t6YT",
-    "name": "Huila TV",
-    "sources": {
-      "streams": [
-        "https://server.asilivehd.com:3333/live/huilatvlive.m3u8"
       ]
     },
     "languages": [
@@ -628,6 +571,20 @@
     "sources": {
       "streams": [
         "https://movil.ejeserver.com/live/lamoradatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O6968Ntoz01eFU",
+    "name": "Marsella TV",
+    "sources": {
+      "streams": [
+        "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8"
       ]
     },
     "languages": [
@@ -825,7 +782,6 @@
     "name": "Salsa Gorda Television",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
       ]
     },
@@ -935,20 +891,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uxS8FJ2xMmx0S8",
-    "name": "Tele San Jacinto",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aJPAtWT0lETbk1",
     "name": "Telebolivar",
     "sources": {
@@ -992,11 +934,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "BTUtiIKXJH39q3",
-    "name": "TeveColombia",
+    "nanoid": "Clv7XzV3Q51izu",
+    "name": "Telesangil",
     "sources": {
       "streams": [
-        "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8"
       ]
     },
     "languages": [

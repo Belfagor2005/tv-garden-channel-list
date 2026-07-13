@@ -44,6 +44,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zFITTEqkpGb0ja",
+    "name": "ducktv PLUS",
+    "sources": {
+      "streams": [
+        "https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NuK9jsc16AOLPv",
     "name": "LifeTv",
     "sources": {
@@ -72,20 +86,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s95t8oupUnsMzq",
-    "name": "NZTV",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "slk"
-    ],
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wLfWojGhPQzL73",
     "name": "Regio TV",
     "sources": {
@@ -95,20 +95,6 @@
     },
     "languages": [
       "hun"
-    ],
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xY2H7QjZ7lrY45",
-    "name": "Senzi",
-    "sources": {
-      "streams": [
-        "https://lb.streaming.sk/senzi/stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "slk"
     ],
     "country": "sk",
     "isGeoBlocked": false
@@ -146,7 +132,6 @@
     "name": "TV Central",
     "sources": {
       "streams": [
-        "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
         "https://dash4.antik.sk/live/test_central/playlist.m3u8"
       ]
     },
@@ -217,7 +202,7 @@
     "name": "TV Nitra",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oMnqkJ0o1YU"
+        "https://www.youtube-nocookie.com/embed/bc8cRWjkD9Q"
       ]
     },
     "languages": [
@@ -255,11 +240,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s8dQmT1y3SopUY",
-    "name": "TV Povazie",
+    "nanoid": "1tDjHburDgCdnv",
+    "name": "TV Panorama",
     "sources": {
       "streams": [
-        "https://dash3.antik.sk/live/test_povazie/playlist.m3u8"
+        "https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8"
       ]
     },
     "languages": [
@@ -269,11 +254,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WVRilFjwdG21N5",
-    "name": "TV Ruzinov",
+    "nanoid": "s8dQmT1y3SopUY",
+    "name": "TV Povazie",
     "sources": {
       "streams": [
-        "https://lb.streaming.sk/tvruzinov/stream/playlist.m3u8"
+        "https://dash3.antik.sk/live/test_povazie/playlist.m3u8"
       ]
     },
     "languages": [
