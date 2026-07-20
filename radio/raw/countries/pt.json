@@ -34,6 +34,7 @@
     "name": "Antena 1",
     "sources": {
       "streams": [
+        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
         "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena180a.mp3"
       ]
@@ -108,8 +109,8 @@
     "sources": {
       "streams": [
         "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8",
-        "https://radiocast.rtp.pt/antena280a.mp3",
-        "https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8"
+        "https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8",
+        "https://radiocast.rtp.pt/antena280a.mp3"
       ]
     },
     "languages": [
@@ -138,8 +139,8 @@
     "name": "Antena 2 Ópera",
     "sources": {
       "streams": [
-        "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8",
         "https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8",
+        "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena2opera80a.mp3"
       ]
     },
@@ -154,9 +155,9 @@
     "name": "Antena 3",
     "sources": {
       "streams": [
+        "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8",
         "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
-        "https://radiocast.rtp.pt/antena380a.mp3",
-        "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8"
+        "https://radiocast.rtp.pt/antena380a.mp3"
       ]
     },
     "languages": [
@@ -213,8 +214,8 @@
     "name": "Cidade FM",
     "sources": {
       "streams": [
-        "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8",
-        "https://stream-icy.bauermedia.pt/cidade.mp3"
+        "https://stream-icy.bauermedia.pt/cidade.mp3",
+        "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8"
       ]
     },
     "languages": [
@@ -328,8 +329,8 @@
     "name": "Jovembsk",
     "sources": {
       "streams": [
-        "https://stream-54.zeno.fm/ppgb4k7vhqztv",
-        "https://stream-42.zeno.fm/ppgb4k7vhqztv"
+        "https://stream-42.zeno.fm/ppgb4k7vhqztv",
+        "https://stream-54.zeno.fm/ppgb4k7vhqztv"
       ]
     },
     "languages": [
@@ -481,6 +482,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GWelh2hVE7JgZR",
+    "name": "M80 Pop",
+    "sources": {
+      "streams": [
+        "https://stream-icy.bauermedia.pt/m80pop.aac"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mZPWLpklBxxFGE",
     "name": "M80 Portugal",
     "sources": {
@@ -552,6 +567,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "STUVJupnDRMDFw",
+    "name": "Mega Hits",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wFYVTd3qFAjNUC",
     "name": "MFM",
     "sources": {
@@ -570,7 +599,7 @@
     "name": "NiTfm",
     "sources": {
       "streams": [
-        "https://sp0.redeaudio.com/8028/stream/"
+        "https://sp0.redeaudio.com/8028/stream"
       ]
     },
     "languages": [
@@ -754,6 +783,20 @@
     "sources": {
       "streams": [
         "https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "urxuhEfRlsN8o5",
+    "name": "Rádio Comercial Dance",
+    "sources": {
+      "streams": [
+        "https://stream-icy.bauermedia.pt/rcdance.aac"
       ]
     },
     "languages": [
@@ -974,6 +1017,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "80IqJ78pCklUgA",
+    "name": "Rádio Meio Do Mato",
+    "sources": {
+      "streams": [
+        "https://radio.meiodomato.com/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xGr7c7cifd63nC",
     "name": "Radio Metal On: 80s HNH",
     "sources": {
@@ -1006,8 +1064,8 @@
     "name": "Radio Metal On: The Heavy",
     "sources": {
       "streams": [
-        "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3",
-        "https://radiometalon.com/radio/8000/radio.mp3"
+        "https://radiometalon.com/radio/8000/radio.mp3",
+        "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3"
       ]
     },
     "languages": [
@@ -1204,9 +1262,9 @@
     "name": "Rádio Renascença",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
         "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3"
       ]
     },
     "languages": [
@@ -1406,8 +1464,8 @@
     "name": "RFM",
     "sources": {
       "streams": [
-        "https://22593.live.streamtheworld.com/RFMAAC.aac",
         "https://23603.live.streamtheworld.com/RFMAAC.aac",
+        "https://22593.live.streamtheworld.com/RFMAAC.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac"
       ]
     },
@@ -1422,36 +1480,7 @@
     "name": "RFM 00's",
     "sources": {
       "streams": [
-        "https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac",
         "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uG7ANOC85CcV7i",
-    "name": "RFM 80's",
-    "sources": {
-      "streams": [
-        "https://25343.live.streamtheworld.com/GR80SRFMAAC.aac"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F2TXQXtSIVkwPF",
-    "name": "RFM 90's",
-    "sources": {
-      "streams": [
-        "https://25343.live.streamtheworld.com/RFM_90SAAC.aac"
       ]
     },
     "languages": [
@@ -1524,20 +1553,6 @@
       "streams": [
         "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac",
         "https://27943.live.streamtheworld.com/RFMAAC.aac"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lNoZuQBBY2KLJe",
-    "name": "RFM Rocks",
-    "sources": {
-      "streams": [
-        "https://25343.live.streamtheworld.com/RFMONTHEROCKAAC.aac"
       ]
     },
     "languages": [

@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pgiVm4B2WU0ANk",
-    "name": "16tv Budapest",
-    "sources": {
-      "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IAuzwfi3ffN5aQ",
     "name": "Alfold TV",
     "sources": {
@@ -98,48 +84,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tlnWyzNx7SpdvI",
-    "name": "Duna",
-    "sources": {
-      "streams": [
-        "https://c401-node61-cdn.connectmedia.hu/110303/8f0faa2752ce14998017e1e58cb3955d/6a512ea1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G453sktK4Hmrtp",
-    "name": "Duna World",
-    "sources": {
-      "streams": [
-        "https://c201-node61-cdn.connectmedia.hu/110306/997dab7878830e5cc5523dcc3512addf/6a512edd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7lZXVo773nUBKh",
-    "name": "ESTV",
-    "sources": {
-      "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Iq86nUR80ay3qv",
     "name": "Euronews Hungarian",
     "sources": {
@@ -169,11 +113,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gm7CBdYnRcgxQo",
-    "name": "Gyongyosi TV",
+    "nanoid": "cjLvzdREj6JZ9r",
+    "name": "Galaxy4",
     "sources": {
       "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8"
+        "https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8"
       ]
     },
     "languages": [
@@ -183,11 +127,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v5qfbot9xMhMmm",
-    "name": "Hegyvidek TV",
+    "nanoid": "gm7CBdYnRcgxQo",
+    "name": "Gyongyosi TV",
     "sources": {
       "streams": [
-        "https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8"
+        "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -295,62 +239,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "diIeM3KpcDDazD",
-    "name": "M1",
-    "sources": {
-      "streams": [
-        "https://c402-node61-cdn.connectmedia.hu/110301/9a792bd706aa75c2549b16168ae1d1db/6a51315f/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8ALaUhx4PxEMaR",
-    "name": "M2",
-    "sources": {
-      "streams": [
-        "https://c402-node61-cdn.connectmedia.hu/110302/2d851318e9f164492d24f460ac3a5f28/6a512e0f/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zfJa4qfi7LBJ6S",
-    "name": "M4 Sport",
-    "sources": {
-      "streams": [
-        "https://c802-node63-cdn.connectmedia.hu/110304/ab67a38843442593e9b3d3933bfe7885/6a512f37/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QOQ6tEZPUjQnVk",
-    "name": "M5",
-    "sources": {
-      "streams": [
-        "https://c402-node62-cdn.connectmedia.hu/110305/2f9138f608109e0767d30a91d01c67cd/6a512e5f/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ufaYLBxnznSR4O",
     "name": "Mora-Net TV",
     "sources": {
@@ -387,6 +275,20 @@
       ]
     },
     "languages": [],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ip8Na0ZwN4kNrg",
+    "name": "RTL Gold",
+    "sources": {
+      "streams": [
+        "https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
     "country": "hu",
     "isGeoBlocked": false
   },

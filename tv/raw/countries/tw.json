@@ -60,7 +60,7 @@
     "name": "CTITV News 中天新聞",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Abc-h_PpDsQ"
+        "https://www.youtube-nocookie.com/embed/468oC7ZdcMo"
       ]
     },
     "languages": [
@@ -168,20 +168,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8KOU6DpK9ejUrd",
-    "name": "Hakka TV",
-    "sources": {
-      "streams": [
-        "https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T7xp99Cz7KTH0J",
     "name": "Hot Door Night 綜藝大熱門",
     "sources": {
@@ -201,6 +187,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/xJ6ySzzvnno"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zp392zIs8jMyat",
+    "name": "momo購物一台 CH48",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_8FQRM74W8Y"
       ]
     },
     "languages": [
@@ -284,8 +284,7 @@
     "name": "Taiwan Indigenous TV",
     "sources": {
       "streams": [
-        "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
-        "https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8"
+        "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
       ]
     },
     "languages": [

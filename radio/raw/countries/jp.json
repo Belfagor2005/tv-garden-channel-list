@@ -134,7 +134,7 @@
     "name": "Gensokyo Radio",
     "sources": {
       "streams": [
-        "https://stream.gensokyoradio.net/3/",
+        "https://stream.gensokyoradio.net/3",
         "https://stream.gensokyoradio.net/2"
       ]
     },
@@ -264,8 +264,7 @@
     "name": "Jazz Sakura",
     "sources": {
       "streams": [
-        "https://kathy.torontocast.com:3330/;",
-        "https://kathy.torontocast.com:3330/stream/1/"
+        "https://kathy.torontocast.com:3330/;"
       ]
     },
     "languages": [
@@ -294,8 +293,8 @@
     "sources": {
       "streams": [
         "https://listen.moe/fallback",
-        "https://listen.moe/stream",
-        "https://listen.moe/opus"
+        "https://listen.moe/opus",
+        "https://listen.moe/stream"
       ]
     },
     "languages": [
@@ -310,8 +309,8 @@
     "sources": {
       "streams": [
         "https://listen.moe/kpop/fallback",
-        "https://listen.moe/kpop/stream",
-        "https://listen.moe/kpop/opus"
+        "https://listen.moe/kpop/opus",
+        "https://listen.moe/kpop/stream"
       ]
     },
     "languages": [
@@ -325,9 +324,9 @@
     "name": "Miku Radio",
     "sources": {
       "streams": [
-        "https://miku.fm/listen/miku/aac-128",
-        "https://miku.fm/listen/miku/mp3-128",
-        "https://miku.fm/listen/miku/aac-320"
+        "https://miku.fm/listen/miku/aac-320",
+        "https://miku.fm/listen/miku/mp3-320",
+        "https://miku.fm/listen/miku/aac-128"
       ]
     },
     "languages": [
@@ -341,8 +340,8 @@
     "name": "NFRS Radio",
     "sources": {
       "streams": [
-        "https://securestreams.autopo.st:2592/stream",
-        "https://stream2.rcast.net/70945"
+        "https://stream2.rcast.net/70945",
+        "https://securestreams.autopo.st:2592/stream"
       ]
     },
     "languages": [
@@ -370,8 +369,8 @@
     "name": "Nightwave Plaza",
     "sources": {
       "streams": [
-        "https://radio.plaza.one/opus",
-        "https://radio.plaza.one/ogg_low"
+        "https://radio.plaza.one/ogg_low",
+        "https://radio.plaza.one/opus"
       ]
     },
     "languages": [

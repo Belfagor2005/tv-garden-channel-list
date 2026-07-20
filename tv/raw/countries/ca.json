@@ -259,20 +259,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qMfxPERIpN5bJn",
-    "name": "CBOFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "9l6DsmybaReA2E",
     "name": "CBUFT-DT",
     "sources": {
@@ -310,20 +296,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "vN4KxpB8RBfII1",
-    "name": "CBXFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -549,20 +521,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "tbufnPAZVgBtOR",
-    "name": "CTV Drama Channel",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/DISCOVERY_SCIENCE_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZXvLfybRDCi9xD",
     "name": "DesheBideshe TV",
     "sources": {
@@ -682,7 +640,8 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -696,7 +655,7 @@
     "name": "Fugget About It",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ikorLLfhH4I"
+        "https://www.youtube-nocookie.com/embed/PwC48oDISj0"
       ]
     },
     "languages": [
@@ -706,11 +665,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/rqeIZywMwEc"
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -890,6 +849,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "tHnMhw9wheLA87",
+    "name": "LCN",
+    "sources": {
+      "streams": [
+        "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "sources": {
@@ -991,20 +964,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "xsRHw7w1yWnmCm",
-    "name": "Made In History",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/0_kH3TvuCz4"
-      ]
-    },
-    "languages": [
-      "en"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XLkNES6kyKfJ4o",
     "name": "Montreal Greek TV",
     "sources": {
@@ -1026,6 +985,20 @@
     "sources": {
       "streams": [
         "https://40.160.24.53/MUCH/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PcZvzmtUOxudPS",
+    "name": "NACTV",
+    "sources": {
+      "streams": [
+        "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
       ]
     },
     "languages": [
@@ -1449,6 +1422,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1pdHY2BpwdxFvj",
+    "name": "Stingray iConcerts",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JEGxm42oQErOhy",
     "name": "Stingray Jukebox Oldies",
     "sources": {
@@ -1694,11 +1682,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "daf0IVQd6eS7Tl",
+    "name": "Super Channel Vault",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/6142/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pE0f_YuuYfY"
+        "https://www.youtube-nocookie.com/embed/7c0HtbclMHY"
       ]
     },
     "languages": [
@@ -1712,7 +1714,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Re8Xv5a9rRA"
+        "https://www.youtube-nocookie.com/embed/Jd9zu248zPA"
       ]
     },
     "languages": [
@@ -1726,7 +1728,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/AUaUBVBi5Q0"
+        "https://www.youtube-nocookie.com/embed/Ll1gKbbN8Qs"
       ]
     },
     "languages": [
@@ -1977,7 +1979,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hp2Q-OQktgw"
+        "https://www.youtube-nocookie.com/embed/KIUiRYkdA_4"
       ]
     },
     "languages": [

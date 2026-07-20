@@ -33,8 +33,8 @@
     "name": "8Beats",
     "sources": {
       "streams": [
-        "https://n05.radiojar.com/2fa4wbch308uv",
-        "https://n10.radiojar.com/2fa4wbch308uv"
+        "https://n10.radiojar.com/2fa4wbch308uv",
+        "https://n05.radiojar.com/2fa4wbch308uv"
       ]
     },
     "languages": [
@@ -354,20 +354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JF2hKkj44hDn7L",
-    "name": "1000 Hits 90s",
-    "sources": {
-      "streams": [
-        "https://c4.auracast.net:8050/;"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Yb17966qjQIV2C",
     "name": "ABC Dance",
     "sources": {
@@ -397,81 +383,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sNY0YDrZWrPpXu",
-    "name": "ABC Lounge Jazz",
-    "sources": {
-      "streams": [
-        "https://eu1.fastcast4u.com/proxy/kpmxz/stream"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ItOrnbDBIuHx7b",
     "name": "ABC Relax",
     "sources": {
       "streams": [
         "https://listen.abcrelax.com/"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cbfUNfAXrp4RIk",
-    "name": "ABF",
-    "sources": {
-      "streams": [
-        "https://abf.net-radio.fr/abf.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x39pAx3e43vEoR",
-    "name": "ABF Cult",
-    "sources": {
-      "streams": [
-        "https://abf.net-radio.fr/abfcult.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RxM6n3qyTG07vX",
-    "name": "ABF Love",
-    "sources": {
-      "streams": [
-        "https://abf.net-radio.fr/abflove.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vHmMpXFCSnyvD3",
-    "name": "ABF World",
-    "sources": {
-      "streams": [
-        "https://abf.net-radio.fr/abfworld.mp3"
       ]
     },
     "languages": [
@@ -561,20 +477,6 @@
     },
     "languages": [
       "ara",
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "03Yiy3MRU1PbcS",
-    "name": "Ado",
-    "sources": {
-      "streams": [
-        "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3"
-      ]
-    },
-    "languages": [
       "fra"
     ],
     "country": "fr",
@@ -687,8 +589,8 @@
     "name": "Africa Rumba",
     "sources": {
       "streams": [
-        "https://webradio1.ice.infomaniak.ch/webradio4-128.mp3",
-        "https://webradio4.ice.infomaniak.ch/webradio4-128.mp3"
+        "https://webradio4.ice.infomaniak.ch/webradio4-128.mp3",
+        "https://webradio1.ice.infomaniak.ch/webradio4-128.mp3"
       ]
     },
     "languages": [
@@ -758,6 +660,7 @@
     "name": "Air Connect Radio",
     "sources": {
       "streams": [
+        "https://stream.airconnectradio.com/ac64.aac",
         "https://stream.airconnectradio.com/ac192.mp3"
       ]
     },
@@ -773,8 +676,8 @@
     "name": "AirZen Radio",
     "sources": {
       "streams": [
-        "https://n07a-eu.rcs.revma.com/vuumdncf368uv",
-        "https://n22a-eu.rcs.revma.com/vuumdncf368uv"
+        "https://n22a-eu.rcs.revma.com/vuumdncf368uv",
+        "https://n07a-eu.rcs.revma.com/vuumdncf368uv"
       ]
     },
     "languages": [
@@ -2275,9 +2178,9 @@
     "name": "C9 Radio",
     "sources": {
       "streams": [
-        "https://www.c9.fr/stream/hls/c9.m3u8",
         "https://stream.c9.fr/c9radio-flac.ogg",
-        "https://stream.c9.fr/c9radio-192.mp3"
+        "https://stream.c9.fr/c9radio-192.mp3",
+        "https://www.c9.fr/stream/hls/c9.m3u8"
       ]
     },
     "languages": [
@@ -2333,9 +2236,9 @@
     "name": "Champagne FM",
     "sources": {
       "streams": [
-        "https://chalons.ice.infomaniak.ch/chalons-128.mp3",
+        "https://chateauthierry.ice.infomaniak.ch/chateauthierry-128.mp3",
         "https://stream.rcs.revma.com/9nq0kz1gy7uvv",
-        "https://charleville.ice.infomaniak.ch/charleville-128.mp3"
+        "https://epernay.ice.infomaniak.ch/epernay-128.mp3"
       ]
     },
     "languages": [
@@ -2419,8 +2322,7 @@
     "name": "Chante France",
     "sources": {
       "streams": [
-        "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3",
-        "https://stream.chantefrance.com/Chante_France.aac"
+        "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3"
       ]
     },
     "languages": [
@@ -2449,8 +2351,7 @@
     "name": "Chante France 70s",
     "sources": {
       "streams": [
-        "https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3",
-        "https://stream.chantefrance.com/cf-70"
+        "https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3"
       ]
     },
     "languages": [
@@ -2479,8 +2380,7 @@
     "name": "Chante France Emotion",
     "sources": {
       "streams": [
-        "https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3",
-        "https://stream.chantefrance.com/cf-emotion"
+        "https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3"
       ]
     },
     "languages": [
@@ -3034,8 +2934,8 @@
     "name": "Collector Radio",
     "sources": {
       "streams": [
-        "https://ouifm6.ice.infomaniak.ch/ouifm6-128.mp3",
-        "https://ouifm6.ice.infomaniak.ch/collector-rnt.mp3"
+        "https://ouifm6.ice.infomaniak.ch/collector-rnt.mp3",
+        "https://ouifm6.ice.infomaniak.ch/ouifm6-128.mp3"
       ]
     },
     "languages": [
@@ -3063,8 +2963,8 @@
     "name": "Comala Radio",
     "sources": {
       "streams": [
-        "https://listen.radioking.com/radio/38120/stream/74513",
-        "https://www.radioking.com/play/supag"
+        "https://www.radioking.com/play/supag",
+        "https://listen.radioking.com/radio/38120/stream/74513"
       ]
     },
     "languages": [
@@ -3832,7 +3732,7 @@
     "name": "Euradio",
     "sources": {
       "streams": [
-        "https://euradio.fr/stream/"
+        "https://euradio.fr/stream"
       ]
     },
     "languages": [
@@ -3860,8 +3760,7 @@
     "name": "Europa Radio Jazz",
     "sources": {
       "streams": [
-        "https://audio-edge-kef8b.ams.s.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83",
-        "https://streams.radiomast.io/e947f0b4-cf71-4ed7-934d-2f4661acb0a3"
+        "https://audio-edge-kef8b.ams.s.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83"
       ]
     },
     "languages": [
@@ -3918,8 +3817,8 @@
     "name": "Europe 2",
     "sources": {
       "streams": [
-        "https://europe2.lmn.fm/europe2-57600/playlist.m3u8",
-        "https://europe2.lmn.fm/europe2.aac"
+        "https://europe2.lmn.fm/europe2.aac",
+        "https://europe2.lmn.fm/europe2-57600/playlist.m3u8"
       ]
     },
     "languages": [
@@ -4059,8 +3958,7 @@
     "name": "Évasion",
     "sources": {
       "streams": [
-        "https://evasion75.ice.infomaniak.ch/evasion75-128.mp3",
-        "https://stream.evasionfm.com/stream.mp3"
+        "https://evasion75.ice.infomaniak.ch/evasion75-128.mp3"
       ]
     },
     "languages": [
@@ -4074,8 +3972,7 @@
     "name": "Évasion FM Essonne",
     "sources": {
       "streams": [
-        "https://evasion91.ice.infomaniak.ch/evasion91-128.mp3",
-        "https://stream.evasionfm.com/Essonne"
+        "https://evasion91.ice.infomaniak.ch/evasion91-128.mp3"
       ]
     },
     "languages": [
@@ -4089,8 +3986,7 @@
     "name": "Évasion FM Oise",
     "sources": {
       "streams": [
-        "https://evasion60e.ice.infomaniak.ch/evasion60e-128.mp3",
-        "https://stream.evasionfm.com/Oise"
+        "https://evasion60e.ice.infomaniak.ch/evasion60e-128.mp3"
       ]
     },
     "languages": [
@@ -4104,8 +4000,7 @@
     "name": "Évasion FM Seine-et-Marne Nord",
     "sources": {
       "streams": [
-        "https://evasion77n.ice.infomaniak.ch/evasion77n-128.mp3",
-        "https://stream.evasionfm.com/Nord77"
+        "https://evasion77n.ice.infomaniak.ch/evasion77n-128.mp3"
       ]
     },
     "languages": [
@@ -4119,8 +4014,7 @@
     "name": "Évasion FM Seine-et-Marne Sud",
     "sources": {
       "streams": [
-        "https://evasion77s.ice.infomaniak.ch/evasion77s-128.mp3",
-        "https://stream1.evasionfm.com/Sud77"
+        "https://evasion77s.ice.infomaniak.ch/evasion77s-128.mp3"
       ]
     },
     "languages": [
@@ -4134,8 +4028,7 @@
     "name": "Évasion FM Somme",
     "sources": {
       "streams": [
-        "https://evasion80.ice.infomaniak.ch/evasion80-128.mp3",
-        "https://stream.evasionfm.com/Somme"
+        "https://evasion80.ice.infomaniak.ch/evasion80-128.mp3"
       ]
     },
     "languages": [
@@ -4160,20 +4053,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qkmzCZ9wriVF4w",
-    "name": "F. Hits",
-    "sources": {
-      "streams": [
-        "https://listen.fhits.fr:8000/fhits_96.aac"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "I2GewzYtKnrNJs",
     "name": "F. Hits Aquitaine",
     "sources": {
@@ -4188,24 +4067,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H1kAx1vuOP1JNQ",
-    "name": "F. Hits Classics",
-    "sources": {
-      "streams": [
-        "https://listen.fhits.fr:8014/fhits_classics_96.aac"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Yo7o9maEc6emES",
     "name": "FC Radio",
     "sources": {
       "streams": [
+        "https://fcradio.ice.infomaniak.ch/fcradio-128.mp3",
         "https://fcradio.ice.infomaniak.ch/fcradio-64.aac"
       ]
     },
@@ -4409,7 +4275,7 @@
       "streams": [
         "https://direct.fipradio.fr/live/fipelectro-hifi.aac",
         "https://icecast.radiofrance.fr/fipelectro-hifi.aac",
-        "https://direct.fipradio.fr/live/fip-webradio8.mp3"
+        "https://icecast.radiofrance.fr/fipelectro-midfi.mp3"
       ]
     },
     "languages": [
@@ -4423,9 +4289,9 @@
     "name": "FIP Groove",
     "sources": {
       "streams": [
-        "https://direct.fipradio.fr/live/fipgroove-hifi.aac",
         "https://icecast.radiofrance.fr/fipgroove-hifi.aac",
-        "https://icecast.radiofrance.fr/fipgroove-midfi.mp3"
+        "https://direct.fipradio.fr/live/fipgroove-hifi.aac",
+        "https://direct.fipradio.fr/live/fip-webradio3.mp3"
       ]
     },
     "languages": [
@@ -4454,8 +4320,8 @@
     "name": "FIP Jazz",
     "sources": {
       "streams": [
-        "https://direct.fipradio.fr/live/fipjazz-hifi.aac",
         "https://icecast.radiofrance.fr/fipjazz-hifi.aac",
+        "https://direct.fipradio.fr/live/fipjazz-hifi.aac",
         "https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8"
       ]
     },
@@ -4503,7 +4369,7 @@
       "streams": [
         "https://direct.fipradio.fr/live/fipnouveautes-hifi.aac",
         "https://icecast.radiofrance.fr/fipnouveautes-hifi.aac",
-        "https://direct.fipradio.fr/live/fip-webradio5.mp3"
+        "https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3"
       ]
     },
     "languages": [
@@ -4579,8 +4445,8 @@
     "name": "FM 80 Funky Music",
     "sources": {
       "streams": [
-        "https://listen.radioking.com/radio/467555/stream/523739",
         "https://play.radioking.io/fm80funkymusic/523739",
+        "https://listen.radioking.com/radio/467555/stream/523739",
         "https://streamingv2.shoutcast.com/fm-80"
       ]
     },
@@ -4661,6 +4527,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CkrXDUquaum8IZ",
+    "name": "Forum 2000",
+    "sources": {
+      "streams": [
+        "https://forum2000.ice.infomaniak.ch/forum2000.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FP5MRpNAgxk7fQ",
     "name": "Forum Angers",
     "sources": {
@@ -4680,20 +4560,6 @@
     "sources": {
       "streams": [
         "https://forumenfrancais.ice.infomaniak.ch/forumenfrancais-128.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fv6IPJBCIlK5av",
-    "name": "Forum Tours",
-    "sources": {
-      "streams": [
-        "https://webfor-tours.ice.infomaniak.ch/webfor-tours-128.mp3"
       ]
     },
     "languages": [
@@ -4828,8 +4694,8 @@
     "name": "France Bleu Belfort-Montbéliard",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbbelfort-midfi.mp3",
         "https://icecast.radiofrance.fr/fbbelfort-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbbelfort-midfi.mp3",
         "https://stream.radiofrance.fr/fbbelfort/fbbelfort.m3u8"
       ]
     },
@@ -4892,8 +4758,8 @@
     "name": "France Bleu Breizh Izel",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbbreizizel-midfi.mp3",
         "https://icecast.radiofrance.fr/fbbreizizel-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbbreizizel-midfi.mp3",
         "https://stream.radiofrance.fr/fbbreizizel/fbbreizizel.m3u8"
       ]
     },
@@ -4909,8 +4775,8 @@
     "name": "France Bleu Champagne-Ardenne",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbchampagne-midfi.mp3",
         "https://icecast.radiofrance.fr/fbchampagne-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbchampagne-midfi.mp3",
         "https://stream.radiofrance.fr/fbchampagne/fbchampagne.m3u8"
       ]
     },
@@ -4925,8 +4791,8 @@
     "name": "France Bleu Cotentin",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbcotentin-midfi.mp3",
         "https://icecast.radiofrance.fr/fbcotentin-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbcotentin-midfi.mp3",
         "https://stream.radiofrance.fr/fbcotentin/fbcotentin.m3u8"
       ]
     },
@@ -4941,8 +4807,8 @@
     "name": "France Bleu Creuse",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbcreuse-midfi.mp3",
         "https://icecast.radiofrance.fr/fbcreuse-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbcreuse-midfi.mp3",
         "https://stream.radiofrance.fr/fbcreuse/fbcreuse.m3u8"
       ]
     },
@@ -4958,7 +4824,6 @@
     "sources": {
       "streams": [
         "https://direct.francebleu.fr/live/fbdromeardeche-midfi.mp3",
-        "https://icecast.radiofrance.fr/fbdromeardeche-midfi.mp3",
         "https://stream.radiofrance.fr/fbdromeardeche/fbdromeardeche.m3u8"
       ]
     },
@@ -5022,8 +4887,8 @@
     "name": "France Bleu Gironde",
     "sources": {
       "streams": [
-        "https://icecast.radiofrance.fr/fbgironde-midfi.mp3",
         "https://direct.francebleu.fr/live/fbgironde-midfi.mp3",
+        "https://icecast.radiofrance.fr/fbgironde-midfi.mp3",
         "https://stream.radiofrance.fr/fbgironde/fbgironde.m3u8"
       ]
     },
@@ -5038,8 +4903,8 @@
     "name": "France Bleu Haute Normandie",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3",
-        "https://icecast.radiofrance.fr/fbhautenormandie-midfi.mp3"
+        "https://icecast.radiofrance.fr/fbhautenormandie-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3"
       ]
     },
     "languages": [
@@ -5053,8 +4918,8 @@
     "name": "France Bleu Hérault",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbherault-midfi.mp3",
         "https://icecast.radiofrance.fr/fbherault-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbherault-midfi.mp3",
         "https://stream.radiofrance.fr/fbherault/fbherault.m3u8"
       ]
     },
@@ -5085,8 +4950,8 @@
     "name": "France Bleu La Rochelle",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fblarochelle-midfi.mp3",
         "https://icecast.radiofrance.fr/fblarochelle-midfi.mp3",
+        "https://direct.francebleu.fr/live/fblarochelle-midfi.mp3",
         "https://stream.radiofrance.fr/fblarochelle/fblarochelle.m3u8"
       ]
     },
@@ -5117,8 +4982,8 @@
     "name": "France Bleu Loire Océan",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbloireocean-midfi.mp3",
         "https://icecast.radiofrance.fr/fbloireocean-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbloireocean-midfi.mp3",
         "https://stream.radiofrance.fr/fbloireocean/fbloireocean.m3u8"
       ]
     },
@@ -5134,8 +4999,8 @@
     "sources": {
       "streams": [
         "https://direct.francebleu.fr/live/fblorrainenord-midfi.mp3",
-        "https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3",
-        "https://stream.radiofrance.fr/fblorrainenord/fblorrainenord.m3u8"
+        "https://stream.radiofrance.fr/fblorrainenord/fblorrainenord.m3u8",
+        "https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3"
       ]
     },
     "languages": [
@@ -5149,8 +5014,8 @@
     "name": "France Bleu Maine",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbmaine-midfi.mp3",
         "https://icecast.radiofrance.fr/fbmaine-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbmaine-midfi.mp3",
         "https://stream.radiofrance.fr/fbmaine/fbmaine.m3u8"
       ]
     },
@@ -5165,8 +5030,8 @@
     "name": "France Bleu Mayenne",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbmayenne-midfi.mp3",
         "https://icecast.radiofrance.fr/fbmayenne-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbmayenne-midfi.mp3",
         "https://stream.radiofrance.fr/fbmayenne/fbmayenne.m3u8"
       ]
     },
@@ -5226,8 +5091,8 @@
     "name": "France Bleu Occitanie",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbtoulouse-midfi.mp3",
         "https://icecast.radiofrance.fr/fbtoulouse-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbtoulouse-midfi.mp3",
         "https://stream.radiofrance.fr/fbtoulouse/fbtoulouse.m3u8"
       ]
     },
@@ -5242,8 +5107,8 @@
     "name": "France Bleu Orléans",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fborleans-midfi.mp3",
         "https://icecast.radiofrance.fr/fborleans-midfi.mp3",
+        "https://direct.francebleu.fr/live/fborleans-midfi.mp3",
         "https://stream.radiofrance.fr/fborleans/fborleans.m3u8"
       ]
     },
@@ -5258,8 +5123,8 @@
     "name": "France Bleu Paris",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fb1071-midfi.mp3",
         "https://icecast.radiofrance.fr/fb1071-midfi.mp3",
+        "https://direct.francebleu.fr/live/fb1071-midfi.mp3",
         "https://stream.radiofrance.fr/fb1071/fb1071.m3u8"
       ]
     },
@@ -5274,8 +5139,8 @@
     "name": "France Bleu Pays Basque",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbpaysbasque-midfi.mp3",
         "https://icecast.radiofrance.fr/fbpaysbasque-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbpaysbasque-midfi.mp3",
         "https://stream.radiofrance.fr/fbpaysbasque/fbpaysbasque.m3u8"
       ]
     },
@@ -5291,8 +5156,8 @@
     "name": "France Bleu Pays d'Auvergne",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbpaysdauvergne-midfi.mp3",
         "https://icecast.radiofrance.fr/fbpaysdauvergne-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbpaysdauvergne-midfi.mp3",
         "https://stream.radiofrance.fr/fbpaysdauvergne/fbpaysdauvergne.m3u8"
       ]
     },
@@ -5323,8 +5188,8 @@
     "name": "France Bleu Périgord",
     "sources": {
       "streams": [
-        "https://icecast.radiofrance.fr/fbperigord-midfi.mp3",
         "https://direct.francebleu.fr/live/fbperigord-midfi.mp3",
+        "https://icecast.radiofrance.fr/fbperigord-midfi.mp3",
         "https://stream.radiofrance.fr/fbperigord/fbperigord.m3u8"
       ]
     },
@@ -5339,8 +5204,8 @@
     "name": "France Bleu Picardie",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbpicardie-midfi.mp3",
         "https://icecast.radiofrance.fr/fbpicardie-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbpicardie-midfi.mp3",
         "https://stream.radiofrance.fr/fbpicardie/fbpicardie.m3u8"
       ]
     },
@@ -5355,8 +5220,8 @@
     "name": "France Bleu Poitou",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbpoitou-midfi.mp3",
         "https://icecast.radiofrance.fr/fbpoitou-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbpoitou-midfi.mp3",
         "https://stream.radiofrance.fr/fbpoitou/fbpoitou.m3u8"
       ]
     },
@@ -5386,8 +5251,8 @@
     "name": "France Bleu RCFM",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbfrequenzamora-midfi.mp3",
         "https://icecast.radiofrance.fr/fbfrequenzamora-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbfrequenzamora-midfi.mp3",
         "https://stream.radiofrance.fr/fbfrequenzamora/fbfrequenzamora.m3u8"
       ]
     },
@@ -5403,8 +5268,8 @@
     "name": "France Bleu Roussillon",
     "sources": {
       "streams": [
-        "https://direct.francebleu.fr/live/fbroussillon-midfi.mp3",
         "https://icecast.radiofrance.fr/fbroussillon-midfi.mp3",
+        "https://direct.francebleu.fr/live/fbroussillon-midfi.mp3",
         "https://stream.radiofrance.fr/fbroussillon/fbroussillon.m3u8"
       ]
     },
@@ -5419,8 +5284,8 @@
     "name": "France Bleu Saint-Étienne Loire",
     "sources": {
       "streams": [
-        "https://icecast.radiofrance.fr/fbstetienne-midfi.mp3",
         "https://direct.francebleu.fr/live/fbstetienne-midfi.mp3",
+        "https://icecast.radiofrance.fr/fbstetienne-midfi.mp3",
         "https://stream.radiofrance.fr/fbstetienne/fbstetienne.m3u8"
       ]
     },
@@ -5435,9 +5300,9 @@
     "name": "France Bleu Sud Lorraine",
     "sources": {
       "streams": [
+        "https://icecast.radiofrance.fr/fbsudlorraine-midfi.mp3",
         "https://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3",
-        "https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine.m3u8",
-        "https://icecast.radiofrance.fr/fbsudlorraine-midfi.mp3"
+        "https://stream.radiofrance.fr/fbsudlorraine/fbsudlorraine.m3u8"
       ]
     },
     "languages": [
@@ -5501,7 +5366,7 @@
       "streams": [
         "https://icecast.radiofrance.fr/franceinfo-hifi.aac",
         "https://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
-        "https://direct.franceinfo.fr/live/franceinfo-lofi.mp3"
+        "https://icecast.radiofrance.fr/franceinfo-lofi.aac"
       ]
     },
     "languages": [
@@ -5515,9 +5380,9 @@
     "name": "France Inter",
     "sources": {
       "streams": [
-        "https://direct.franceinter.fr/live/franceinter-hifi.aac",
         "https://icecast.radiofrance.fr/franceinter-hifi.aac",
-        "https://direct.franceinter.fr/live/franceinter-midfi.mp3"
+        "https://direct.franceinter.fr/live/franceinter-hifi.aac",
+        "https://icecast.radiofrance.fr/franceinter-midfi.mp3"
       ]
     },
     "languages": [
@@ -5577,8 +5442,8 @@
     "name": "France Musique - Classique Easy",
     "sources": {
       "streams": [
-        "https://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3",
         "https://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac",
+        "https://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3",
         "https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique.m3u8"
       ]
     },
@@ -5774,8 +5639,8 @@
     "name": "Fréquence 3 Dance",
     "sources": {
       "streams": [
-        "https://frequence3.net-radio.fr/frequence3dance.mp3",
-        "https://onair.net-radio.fr/frequence3dance.flac"
+        "https://onair.net-radio.fr/frequence3dance.flac",
+        "https://frequence3.net-radio.fr/frequence3dance.mp3"
       ]
     },
     "languages": [
@@ -5831,8 +5696,8 @@
     "name": "Fréquence 3 Urban",
     "sources": {
       "streams": [
-        "https://frequence3.net-radio.fr/frequence3urban-128.mp3",
-        "https://frequence3.net-radio.fr/frequence3urban.flac"
+        "https://frequence3.net-radio.fr/frequence3urban.flac",
+        "https://frequence3.net-radio.fr/frequence3urban-128.mp3"
       ]
     },
     "languages": [
@@ -5900,11 +5765,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ul8XcdPzprSC5y",
-    "name": "Fréquence Luz",
+    "nanoid": "lWQIndKqoVx83t",
+    "name": "Fréquence Mutine",
     "sources": {
       "streams": [
-        "https://stream-ssl.radios-arra.fr:8443/frequenceluz"
+        "https://icecast.infini.fr:8000/mutine"
       ]
     },
     "languages": [
@@ -5950,21 +5815,7 @@
       "streams": [
         "https://freqplus.ice.infomaniak.ch/freqplus-high.mp3",
         "https://frequenceplus71.ice.infomaniak.ch/frequenceplus71-128.mp3",
-        "https://frequenceplus71.ice.infomaniak.ch/frequenceplus71-64.aac"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JxlTzjN8npqagN",
-    "name": "Fréquence Sillé",
-    "sources": {
-      "streams": [
-        "https://stric6.streamakaci.com/frequencesille.mp3"
+        "https://freqplus.ice.infomaniak.ch/freqplus-high.aac"
       ]
     },
     "languages": [
@@ -5988,27 +5839,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sKBJUXtcrCbBtD",
-    "name": "Friendly Radio",
-    "sources": {
-      "streams": [
-        "https://listen.radioking.com/radio/6014/stream/14771"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ei44hB2jxDAQs2",
     "name": "Fun Radio",
     "sources": {
       "streams": [
-        "https://icecast.funradio.fr/fun-1-44-128",
-        "https://streamer-01.rtl.fr/fun-1-44-128",
-        "https://streaming.radio.funradio.fr/fun-1-44-128"
+        "https://icecast.funradio.fr/fun-1-44-128"
       ]
     },
     "languages": [
@@ -7014,8 +6849,8 @@
     "name": "Hotmixradio Lounge",
     "sources": {
       "streams": [
-        "https://streaming.hotmixradio.com/hotmix-dance-en-mp3",
-        "https://streaming.hotmixradio.com/hotmix-lounge-en-mp3"
+        "https://streaming.hotmixradio.com/hotmix-lounge-en-mp3",
+        "https://streaming.hotmixradio.com/hotmix-dance-en-mp3"
       ]
     },
     "languages": [
@@ -7268,20 +7103,6 @@
     "sources": {
       "streams": [
         "https://iaradioslowcrooner.ice.infomaniak.ch/iaradioslowcrooner-128.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nxAI1s51l3IwTw",
-    "name": "IA Radio World Music",
-    "sources": {
-      "streams": [
-        "https://iaradioworldmusic.ice.infomaniak.ch/iaradioworldmusic-128.mp3"
       ]
     },
     "languages": [
@@ -7996,27 +7817,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EeUMkSali6sbf0",
-    "name": "King Dub Radio",
-    "sources": {
-      "streams": [
-        "https://london-dedicated.myautodj.com:8862/stream"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lzgVJp9UeiwSUK",
     "name": "Kiss FM",
     "sources": {
       "streams": [
-        "https://kissfm.ice.infomaniak.ch/kissfm-128.mp3",
-        "https://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3"
+        "https://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3",
+        "https://kissfm.ice.infomaniak.ch/kissfm-128.mp3"
       ]
     },
     "languages": [
@@ -8087,8 +7893,8 @@
     "name": "Kohina",
     "sources": {
       "streams": [
-        "https://kohina.duckdns.org/icecast/stream.ogg",
-        "https://player.kohina.com/icecast/stream.aac"
+        "https://player.kohina.com/icecast/stream.aac",
+        "https://kohina.duckdns.org/icecast/stream.ogg"
       ]
     },
     "languages": [
@@ -8342,8 +8148,8 @@
     "name": "La Radio Plus",
     "sources": {
       "streams": [
-        "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac",
-        "https://lalaradio.ice.infomaniak.ch/lalaradio-high.mp3"
+        "https://lalaradio.ice.infomaniak.ch/lalaradio-high.mp3",
+        "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac"
       ]
     },
     "languages": [
@@ -8541,20 +8347,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "r7cb3gYfu3heGZ",
-    "name": "Le Grand Studio RTL",
-    "sources": {
-      "streams": [
-        "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/legrandstudiortl/130/audio-64000/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "915NDohbuG03oV",
     "name": "Le Grigri",
     "sources": {
@@ -8647,8 +8439,8 @@
     "name": "Légende FM",
     "sources": {
       "streams": [
-        "https://legendefm.ice.infomaniak.ch/legendefm-low.aac",
-        "https://legendefm.ice.infomaniak.ch/legendefm-high.mp3"
+        "https://legendefm.ice.infomaniak.ch/legendefm-high.mp3",
+        "https://legendefm.ice.infomaniak.ch/legendefm-low.aac"
       ]
     },
     "languages": [
@@ -8664,20 +8456,6 @@
       "streams": [
         "https://radiosurle.net:8765/radiogerard",
         "https://www.mistercouzin.net/listen"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XR1CmetBQsKqeh",
-    "name": "Les Enfants du Rhône",
-    "sources": {
-      "streams": [
-        "https://www.radioking.com/play/les-enfants-du-rhone"
       ]
     },
     "languages": [
@@ -8833,8 +8611,7 @@
     "name": "Lyon 1ère",
     "sources": {
       "streams": [
-        "https://lyon1ere.ice.infomaniak.ch/lyon1ere-high",
-        "https://lyon1ere.ice.infomaniak.ch/lyon1ere-high.mp3"
+        "https://lyon1ere.ice.infomaniak.ch/lyon1ere-high"
       ]
     },
     "languages": [
@@ -9554,21 +9331,7 @@
     "name": "Marsanaryas",
     "sources": {
       "streams": [
-        "https://www.marsanaryas.com/radio/live/"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wLrFNjy07OeCas",
-    "name": "Mathis FM 57",
-    "sources": {
-      "streams": [
-        "https://mathisfm57.stream.laut.fm/mathisfm57"
+        "https://www.marsanaryas.com/radio/live"
       ]
     },
     "languages": [
@@ -9625,7 +9388,6 @@
     "name": "Maxi France",
     "sources": {
       "streams": [
-        "https://sr3.publicssl.net/srv/8358/stream",
         "https://stream.maxifrance.radio/stream",
         "https://stream.maxifrance.radio/stream2"
       ]
@@ -9815,8 +9577,7 @@
     "sources": {
       "streams": [
         "https://mistralfmnice.ice.infomaniak.ch/mistralfmnice-192.mp3",
-        "https://mistralfm.ice.infomaniak.ch/mistralfm-high.mp3",
-        "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3"
+        "https://mistralfm.ice.infomaniak.ch/mistralfm-high.mp3"
       ]
     },
     "languages": [
@@ -9986,9 +9747,9 @@
     "name": "Mouv'",
     "sources": {
       "streams": [
+        "https://icecast.radiofrance.fr/mouv-hifi.aac",
         "https://direct.mouv.fr/live/mouv-midfi.mp3",
-        "https://icecast.radiofrance.fr/mouv-midfi.mp3",
-        "https://icecast.radiofrance.fr/mouv-hifi.aac"
+        "https://icecast.radiofrance.fr/mouv-midfi.mp3"
       ]
     },
     "languages": [
@@ -10469,21 +10230,6 @@
     "sources": {
       "streams": [
         "https://streaming.nrjaudio.fm/oubyqnj25zuw"
-      ]
-    },
-    "languages": [
-      "fra",
-      "ita"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KWbYlje8Suq6RZ",
-    "name": "Nostalgie Italo Disco",
-    "sources": {
-      "streams": [
-        "https://streaming.nrjaudio.fm/oumvj78fnozc"
       ]
     },
     "languages": [
@@ -11193,20 +10939,6 @@
     "sources": {
       "streams": [
         "https://streaming.nrjaudio.fm/ouam9ow2dqao"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BQZX00FRia7U5a",
-    "name": "NRJ Classic Rock",
-    "sources": {
-      "streams": [
-        "https://streaming.nrjaudio.fm/ouhm2bapu6pb"
       ]
     },
     "languages": [
@@ -12625,6 +12357,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o1StBjkoTART3h",
+    "name": "Open Sky",
+    "sources": {
+      "streams": [
+        "https://audio.opensky.radio:8082/stream96",
+        "https://audio.opensky.radio:8082/stream",
+        "https://audio.opensky.radio:8082/flac"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hZE25INeKscnzB",
+    "name": "Open Sky Oise",
+    "sources": {
+      "streams": [
+        "https://audio.opensky.radio:8082/oise"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZBXJeo9eTGs8lL",
     "name": "Ouest Track Radio",
     "sources": {
@@ -12995,8 +12757,8 @@
     "name": "Phare FM Hits",
     "sources": {
       "streams": [
-        "https://str0.creacast.com/pharefmhits",
-        "https://str0.creacast.com/pharefm_ebene"
+        "https://str0.creacast.com/pharefm_ebene",
+        "https://str0.creacast.com/pharefmhits"
       ]
     },
     "languages": [
@@ -13111,8 +12873,8 @@
     "name": "Playlist Music Radio",
     "sources": {
       "streams": [
-        "https://radio13.pro-fhi.net/listen/pdpyrses/stream.mp3",
-        "https://radio13.pro-fhi.net/listen-pdpyrses-stream.mp3"
+        "https://radio13.pro-fhi.net/listen-pdpyrses-stream.mp3",
+        "https://radio13.pro-fhi.net/listen/pdpyrses/stream.mp3"
       ]
     },
     "languages": [
@@ -13210,7 +12972,7 @@
     "name": "Prun'",
     "sources": {
       "streams": [
-        "https://www.prun.net/stream/"
+        "https://www.prun.net/stream"
       ]
     },
     "languages": [
@@ -13492,20 +13254,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MZg2JVqnOuCuAT",
-    "name": "Radio 666",
-    "sources": {
-      "streams": [
-        "https://stream2.radio666.net/remote192.aac"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9Of2qaVMvHCibJ",
     "name": "Radio AC'S",
     "sources": {
@@ -13590,6 +13338,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cdEg5lWmtqs7lV",
+    "name": "Radio Arc-en-Ciel",
+    "sources": {
+      "streams": [
+        "https://str0.creacast.com/arcencielweb"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Vd51HpTxb7C8OU",
     "name": "Radiô Arpitania",
     "sources": {
@@ -13646,39 +13408,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9vQ15Hgrx6Bj30",
+    "name": "Radio Balises",
+    "sources": {
+      "streams": [
+        "https://radios.infini.fr:8000/radiobalises"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CBCyrdeLyvw88W",
     "name": "Radio Barbouillots",
     "sources": {
       "streams": [
         "https://stream.rcvfm.fr:8000/barbouillots-192k.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Cplq001CBU1QbP",
-    "name": "Radio Bartas",
-    "sources": {
-      "streams": [
-        "https://stream-ssl.radios-arra.fr:8443/radiobartas"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nUJlHEEKQINYu9",
-    "name": "Radio Bellevue",
-    "sources": {
-      "streams": [
-        "https://radio-bellevue.ice.infomaniak.ch/radio-bellevue.mp3"
       ]
     },
     "languages": [
@@ -13779,8 +13527,8 @@
     "name": "Radio Brony",
     "sources": {
       "streams": [
-        "https://radio.radiobrony.fr/ogg",
         "https://radiobrony.live/aac",
+        "https://radio.radiobrony.fr/ogg",
         "https://radio.radiobrony.fr/mp3"
       ]
     },
@@ -13824,7 +13572,7 @@
     "name": "Radio C-Lab",
     "sources": {
       "streams": [
-        "https://www.c-lab.fr/stream/"
+        "https://www.c-lab.fr/stream"
       ]
     },
     "languages": [
@@ -13848,11 +13596,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "73l4V6KDOUVkcr",
-    "name": "Radio Campus Bordeaux",
+    "nanoid": "HerZzfpOmrBnkp",
+    "name": "Radio Campus Clermont-Ferrand",
     "sources": {
       "streams": [
-        "https://live.radio-campus.org:8002/campus-bordeaux"
+        "https://live.radio-campus.org:8002/clermont-ferrand"
       ]
     },
     "languages": [
@@ -13862,11 +13610,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HerZzfpOmrBnkp",
-    "name": "Radio Campus Clermont-Ferrand",
+    "nanoid": "F1d3K1GWpNFtZp",
+    "name": "Radio Campus Grenoble",
     "sources": {
       "streams": [
-        "https://live.radio-campus.org:8002/clermont-ferrand"
+        "https://live.campusgrenoble.org/rcg112"
       ]
     },
     "languages": [
@@ -13896,20 +13644,6 @@
     "sources": {
       "streams": [
         "https://streams.labomedia.org:8443/stream_rco"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ecpuLh18HMq2Ww",
-    "name": "Radio Campus Paris",
-    "sources": {
-      "streams": [
-        "https://www.radiocampusparis.org/stream/"
       ]
     },
     "languages": [
@@ -14248,20 +13982,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qFDug8r3jAThrj",
-    "name": "Radio de Noël",
-    "sources": {
-      "streams": [
-        "https://live1.jupinfo.fr:8443/radiodenoel"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "w9cG3hTn2Ld4ws",
     "name": "Radio Decibel",
     "sources": {
@@ -14285,22 +14005,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6lZMewurxyv18S",
-    "name": "Radio Dio",
-    "sources": {
-      "streams": [
-        "https://live.aurafm.org/RadioDio"
-      ]
-    },
-    "languages": [
-      "fra",
-      "oci",
-      "por"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -14353,8 +14057,7 @@
     "name": "Radio Doudou",
     "sources": {
       "streams": [
-        "https://listen.radioking.com/radio/11565/stream/22961",
-        "https://www.radioking.com/play/radio-doudou"
+        "https://listen.radioking.com/radio/11565/stream/22961"
       ]
     },
     "languages": [
@@ -14452,8 +14155,7 @@
     "name": "Radio Ellebore",
     "sources": {
       "streams": [
-        "https://ellebore.ice.infomaniak.ch/ellebore-high.aac",
-        "https://ellebore.ice.infomaniak.ch/ellebore-32.aac"
+        "https://ellebore.ice.infomaniak.ch/ellebore-high.aac"
       ]
     },
     "languages": [
@@ -14803,6 +14505,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BBooepzyXqjyxq",
+    "name": "Radio Fuze",
+    "sources": {
+      "streams": [
+        "https://stream-ssl.radios-arra.fr:8443/fuze"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nqT9Wbb3yrjLT7",
     "name": "Radio Gandharva Gana",
     "sources": {
@@ -14990,7 +14706,6 @@
     "name": "Radio ISA Grenoble",
     "sources": {
       "streams": [
-        "https://radioisavoiron.ice.infomaniak.ch/radioisavoiron-128.mp3",
         "https://radioisagrenoble.ice.infomaniak.ch/radioisagrenoble-32.aac"
       ]
     },
@@ -15247,6 +14962,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YmacBIaRDOBcWy",
+    "name": "Ràdio Lenga d'Òc 95.4 FM",
+    "sources": {
+      "streams": [
+        "https://stream-ssl.radios-arra.fr:8443/rlo"
+      ]
+    },
+    "languages": [
+      "fra",
+      "oci"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D5X2JRMz8CHEJM",
+    "name": "Radio Lengadoc",
+    "sources": {
+      "streams": [
+        "https://stream-ssl.radios-arra.fr:8443/lengadocnarbonne"
+      ]
+    },
+    "languages": [
+      "fra",
+      "oci"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HbXFoV935uArIE",
     "name": "Radio Lovely",
     "sources": {
@@ -15363,8 +15108,8 @@
     "name": "Radio Meuh",
     "sources": {
       "streams": [
-        "https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3",
-        "https://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3"
+        "https://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3",
+        "https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3"
       ]
     },
     "languages": [
@@ -15464,6 +15209,20 @@
     "sources": {
       "streams": [
         "https://ice.creacast.com/radio-neo-paris"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CFJaBCoVxD8N7x",
+    "name": "Radio Neptune",
+    "sources": {
+      "streams": [
+        "https://icecast.infini.fr:8000/neptune"
       ]
     },
     "languages": [
@@ -15603,21 +15362,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aGN2gANWBCyF2e",
-    "name": "Radio Occitania",
-    "sources": {
-      "streams": [
-        "https://sd-151888.dedibox.fr/proxy/occitania/occitania"
-      ]
-    },
-    "languages": [
-      "fra",
-      "oci"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vh7rsb7yqONLpB",
     "name": "Radio of Magic",
     "sources": {
@@ -15714,20 +15458,6 @@
     "languages": [
       "fra",
       "oci"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GFOkgjRdzKDCS3",
-    "name": "Radio Pays de Guéret",
-    "sources": {
-      "streams": [
-        "https://radiopaysdegueret.ice.infomaniak.ch/radiopaysdegueret.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -16524,11 +16254,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5wjgJ6fVRagb5u",
-    "name": "Radio Sofa",
+    "nanoid": "Uyy03hH5vwTlFS",
+    "name": "Radio Sofaïa Altitude",
     "sources": {
       "streams": [
-        "https://listen.radioking.com/radio/292531/stream/338878"
+        "https://radiosofaia.ice.infomaniak.ch/radiosofaia-high.aac"
       ]
     },
     "languages": [
@@ -16807,20 +16537,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CJL6fGuYZbMSAT",
-    "name": "Radio Tou'Caen",
-    "sources": {
-      "streams": [
-        "https://str0.creacast.com/direct-toucaen"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "unXMhgcJTm7WYa",
     "name": "Radio Transat",
     "sources": {
@@ -16840,6 +16556,21 @@
     "sources": {
       "streams": [
         "https://www.radioking.com/play/radio-troutrou/413698"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QrpN0eePwHQwXS",
+    "name": "Radio U",
+    "sources": {
+      "streams": [
+        "https://icecast.infini.fr:8000/radiou.mp3",
+        "https://icecast.infini.fr:8443/radiou.mp3"
       ]
     },
     "languages": [
@@ -17439,20 +17170,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1pYL3Vp72f9oHd",
-    "name": "RCF Finistère",
-    "sources": {
-      "streams": [
-        "https://rcf.streamakaci.com/rcf29.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mos4dDUaA2Ccyi",
     "name": "RCF Haute-Loire",
     "sources": {
@@ -17934,7 +17651,7 @@
     "sources": {
       "streams": [
         "https://listen.radioking.com/radio/3086/stream/9476",
-        "https://stream.rcvfm.fr:8000/rcv128k.mp3",
+        "https://stream.rcvfm.fr:8443/rcv64k.aac",
         "https://www.radioking.com/play/rcv99fm"
       ]
     },
@@ -17950,8 +17667,8 @@
     "name": "RDL Radio",
     "sources": {
       "streams": [
-        "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-128.mp3",
-        "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-64.aac"
+        "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-64.aac",
+        "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-128.mp3"
       ]
     },
     "languages": [
@@ -18276,8 +17993,8 @@
     "name": "RFI Russe",
     "sources": {
       "streams": [
-        "https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3",
-        "https://rfienrusse64k.ice.infomaniak.ch/rfienrusse-64.mp3"
+        "https://rfienrusse64k.ice.infomaniak.ch/rfienrusse-64.mp3",
+        "https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3"
       ]
     },
     "languages": [
@@ -18784,8 +18501,8 @@
     "name": "RLP 102.3",
     "sources": {
       "streams": [
-        "https://direct.radioslibresenperigord.com/rlp.192.mp3",
-        "https://direct.radioslibresenperigord.com/rlp.64.aac"
+        "https://direct.radioslibresenperigord.com/rlp.64.aac",
+        "https://direct.radioslibresenperigord.com/rlp.192.mp3"
       ]
     },
     "languages": [
@@ -18799,8 +18516,7 @@
     "name": "RMC",
     "sources": {
       "streams": [
-        "https://audio.bfmtv.com/rmcradio_128.mp3",
-        "https://hls-rmc.nextradiotv.com/no_ssai/128k/media.m3u8"
+        "https://audio.bfmtv.com/rmcradio_128.mp3"
       ]
     },
     "languages": [
@@ -18870,8 +18586,8 @@
     "name": "Roots Legacy Radio",
     "sources": {
       "streams": [
-        "https://l.rootslegacy.fr/;",
-        "https://l.rootslegacy.fr/mp3test"
+        "https://l.rootslegacy.fr/mp3test",
+        "https://l.rootslegacy.fr/;"
       ]
     },
     "languages": [
@@ -18913,9 +18629,9 @@
     "name": "RTL",
     "sources": {
       "streams": [
-        "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8",
         "https://icecast.rtl.fr/rtl-1-44-128",
-        "https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8"
+        "https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8",
+        "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8"
       ]
     },
     "languages": [
@@ -18971,9 +18687,22 @@
     "name": "RTL2",
     "sources": {
       "streams": [
-        "https://icecast.rtl2.fr/rtl2-1-44-128",
         "https://icecast.rtl.fr/rtl2-1-44-128",
-        "https://streamer-03.rtl.fr/rtl2-1-44-128"
+        "https://icecast.rtl2.fr/rtl2-1-44-128"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CDGFsEaG5nNHvz",
+    "name": "RTL2 Littoral",
+    "sources": {
+      "streams": [
+        "https://rtl2littoral.ice.infomaniak.ch/rtl2littoral-128.aac"
       ]
     },
     "languages": [
@@ -19001,8 +18730,8 @@
     "name": "RTS Avignon",
     "sources": {
       "streams": [
-        "https://str0.creacast.com/rts-avignon",
-        "https://sc.creacast.com/rts-avignon"
+        "https://sc.creacast.com/rts-avignon",
+        "https://str0.creacast.com/rts-avignon"
       ]
     },
     "languages": [
@@ -19509,8 +19238,8 @@
     "name": "Sud Radio",
     "sources": {
       "streams": [
-        "https://ice.creacast.com/sudradio",
         "https://ice.creacast.com/sudradio_aac",
+        "https://ice.creacast.com/sudradio",
         "https://live.sudradio.fr/sudradio-mp3-128"
       ]
     },
@@ -19831,21 +19560,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zxbDqqudSKtVuq",
-    "name": "Tikka Radio",
-    "sources": {
-      "streams": [
-        "https://libretimetikka-8b513026764d.herokuapp.com/stream"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qHbtwJnElpardC",
     "name": "Timbre FM",
     "sources": {
@@ -20147,20 +19861,6 @@
     "sources": {
       "streams": [
         "https://azuracast.mahoro-net.org/listen/tsumugi/radio.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j8dsz1r6gUU2BZ",
-    "name": "Udshu Radio",
-    "sources": {
-      "streams": [
-        "https://io.waves.pw/radio.ogg"
       ]
     },
     "languages": [
@@ -20808,6 +20508,90 @@
     "sources": {
       "streams": [
         "https://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "89HVnJLP9Cc7Pt",
+    "name": "Wit FM @Work",
+    "sources": {
+      "streams": [
+        "https://witwork.ice.infomaniak.ch/witwork.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C6FGKqQe0Zf1mF",
+    "name": "Wit FM 80's",
+    "sources": {
+      "streams": [
+        "https://wit80s.ice.infomaniak.ch/wit80s.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4F1dmxOStpafRx",
+    "name": "Wit FM 90's",
+    "sources": {
+      "streams": [
+        "https://wit90s.ice.infomaniak.ch/wit90s.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tHiHCF354wD6fh",
+    "name": "Wit FM 2000",
+    "sources": {
+      "streams": [
+        "https://wit2000.ice.infomaniak.ch/wit2000.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CEMpLdnv9iMVxa",
+    "name": "Wit FM Club",
+    "sources": {
+      "streams": [
+        "https://witclub.ice.infomaniak.ch/witclub.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1vix6jwGJHQuQ2",
+    "name": "Wit FM Lounge",
+    "sources": {
+      "streams": [
+        "https://witlounge.ice.infomaniak.ch/witlounge.mp3"
       ]
     },
     "languages": [

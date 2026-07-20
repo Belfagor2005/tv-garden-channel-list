@@ -55,8 +55,8 @@
     "name": "Konpa Mix Radio",
     "sources": {
       "streams": [
-        "https://ais-edge08-live365-dal02.cdnstream.com/a15951",
-        "https://streaming.live365.com/a15951"
+        "https://streaming.live365.com/a15951",
+        "https://ais-edge08-live365-dal02.cdnstream.com/a15951"
       ]
     },
     "languages": [],
@@ -106,7 +106,7 @@
     "name": "Radio Bonpounou Gospel",
     "sources": {
       "streams": [
-        "https://centova.wlservices.org/proxy/wiszuaec/stream/"
+        "https://centova.wlservices.org/proxy/wiszuaec/stream"
       ]
     },
     "languages": [
@@ -133,6 +133,18 @@
     "sources": {
       "streams": [
         "https://stream-165.zeno.fm/mbd2kns9m5zuv"
+      ]
+    },
+    "languages": [],
+    "country": "ht",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2nhve8oBCQ9mtK",
+    "name": "Radio Hirondelle 107.5 FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/s3wdt380f9duv.mp3"
       ]
     },
     "languages": [],

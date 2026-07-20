@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "yFdFyVl7hBji9T",
-    "name": "Akamba FM",
-    "sources": {
-      "streams": [
-        "https://a9.asurahosting.com:7350/radio.mp3"
-      ]
-    },
-    "languages": [
-      "swa"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EBtSXjBSERKfup",
     "name": "AT254 Radio",
     "sources": {
@@ -80,20 +66,6 @@
     },
     "languages": [
       "swa"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JYMhic61YxCDeX",
-    "name": "Classic 105",
-    "sources": {
-      "streams": [
-        "https://atunwadigital.streamguys1.com/classic105"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ke",
     "isGeoBlocked": false
@@ -188,9 +160,9 @@
     "name": "Ghetto Radio",
     "sources": {
       "streams": [
-        "https://stream-289.zeno.fm/eghcv7h647zuv",
-        "https://stream-47.zeno.fm/gf58b0pt5x8uv",
-        "https://stream.zeno.fm/cs4q33arb2zuv"
+        "https://stream.zeno.fm/kvudezx1h2zuv",
+        "https://stream-27.zeno.fm/kvudezx1h2zuv",
+        "https://stream-47.zeno.fm/gf58b0pt5x8uv"
       ]
     },
     "languages": [
@@ -205,8 +177,8 @@
     "name": "Hot 96",
     "sources": {
       "streams": [
-        "https://hot96-atunwadigital.streamguys1.com/hot96",
-        "https://atunwadigital.streamguys1.com/hot96"
+        "https://atunwadigital.streamguys1.com/hot96",
+        "https://hot96-atunwadigital.streamguys1.com/hot96"
       ]
     },
     "languages": [
@@ -388,6 +360,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2qONoTLNuRcM9e",
+    "name": "Kenya1 FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/cmgkmed5u18uv"
+      ]
+    },
+    "languages": [
+      "swa"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mp98AfXkBG8nno",
     "name": "Kiss 100 FM",
     "sources": {
@@ -556,11 +542,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tWxuLJSNpGbx7c",
-    "name": "Radio Jambo",
+    "nanoid": "Jy6Uc5nijRRHhC",
+    "name": "Radio Maisha",
     "sources": {
       "streams": [
-        "https://atunwadigital.streamguys1.com/radiojambo"
+        "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha"
       ]
     },
     "languages": [
@@ -570,11 +556,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Jy6Uc5nijRRHhC",
-    "name": "Radio Maisha",
+    "nanoid": "V8Y6uotGZFnh91",
+    "name": "Radio Tumaini",
     "sources": {
       "streams": [
-        "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha"
+        "https://stream.zeno.fm/nu9qfhxx9reuv"
       ]
     },
     "languages": [
@@ -617,7 +603,7 @@
     "name": "RauteMusik Caribbean Wave",
     "sources": {
       "streams": [
-        "https://streams.rautemusik.fm/caribbean-wave/mp3-192/"
+        "https://streams.rautemusik.fm/caribbean-wave/mp3-192"
       ]
     },
     "languages": [
@@ -632,6 +618,20 @@
     "sources": {
       "streams": [
         "https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3"
+      ]
+    },
+    "languages": [
+      "swa"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lZc0e8jYRbieef",
+    "name": "Sulwe FM",
+    "sources": {
+      "streams": [
+        "https://sulwefm-atunwadigital.streamguys1.com/sulwefm/playlist.m3u8"
       ]
     },
     "languages": [

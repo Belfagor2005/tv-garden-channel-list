@@ -142,20 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ot1ZGZkHUkEcex",
-    "name": "100 XR",
-    "sources": {
-      "streams": [
-        "https://xr.dockl.com/stream"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sXAcD3WGnkpdFh",
     "name": "100.5 CRUZ FM",
     "sources": {
@@ -330,9 +316,9 @@
     "name": "Antyradio",
     "sources": {
       "streams": [
-        "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
-        "https://an.cdn.eurozet.pl/ant-web.mp3",
-        "https://an02.cdn.eurozet.pl/ant-web.mp3"
+        "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
+        "https://an03.cdn.eurozet.pl/ant-waw.mp3",
+        "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx"
       ]
     },
     "languages": [
@@ -447,7 +433,7 @@
       "streams": [
         "https://bdpstrock.hu/live_320.mp3",
         "https://bdpstrock.hu/live.mp3",
-        "https://bdpstrock.hu/live_128.mp3"
+        "https://s2.audiostream.hu/bdpstrock_FLAC"
       ]
     },
     "languages": [
@@ -525,21 +511,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3A8RvbhqmLESsA",
-    "name": "Biker FM",
-    "sources": {
-      "streams": [
-        "https://listen4.myradio24.com/69846"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -674,8 +645,8 @@
     "name": "Christian Rock.Net - Hard Rock",
     "sources": {
       "streams": [
-        "https://shoutcast.christianrock.net/stream/3/",
-        "https://shoutcast.christianrock.net/stream/4/"
+        "https://shoutcast.christianrock.net/stream/3",
+        "https://shoutcast.christianrock.net/stream/4"
       ]
     },
     "languages": [
@@ -817,9 +788,9 @@
     "name": "delta radio Föhnfrisur",
     "sources": {
       "streams": [
-        "https://deltaradio.streamabc.net/regc-deltahardheavy-mp3-128-4714362?sABC=6n246qn2%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.qrygnenqvb.qr&aw_0_1st.playerid=streams.deltaradio.de&amsparams=playerid:streams.deltaradio.de;skey:1780772258",
         "https://streams.deltaradio.de/delta-foehnfrisur/mp3-192/mediaplayerdeltaradio",
-        "https://deltaradio.streamabc.net/regc-deltahardheavy-aacplus-64-4332345?sABC=6n246qn6%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.qrygnenqvb.qr&aw_0_1st.playerid=streams.deltaradio.de&amsparams=playerid:streams.deltaradio.de;skey:1780772262"
+        "https://deltaradio.streamabc.net/regc-deltahardheavy-mp3-128-4714362?sABC=6n599nqn%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.qrygnenqvb.qr&aw_0_1st.playerid=streams.deltaradio.de&amsparams=playerid:streams.deltaradio.de;skey:1784257242",
+        "https://deltaradio.streamabc.net/regc-deltahardheavy-aacplus-64-4332345?sABC=6n599nq7%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.qrygnenqvb.qr&aw_0_1st.playerid=streams.deltaradio.de&amsparams=playerid:streams.deltaradio.de;skey:1784257239"
       ]
     },
     "languages": [
@@ -834,8 +805,8 @@
     "sources": {
       "streams": [
         "https://radioemisoras.cl/distorsion.mp3",
-        "https://radioemisoras.cl/distorsion.flac",
-        "https://tunein.radiomaniacos.cl/distorsion.mp3"
+        "https://tunein.radiomaniacos.cl/distorsion.mp3",
+        "https://radioemisoras.cl/distorsion.flac"
       ]
     },
     "languages": [
@@ -1076,9 +1047,9 @@
     "name": "FluxFM MetalFM",
     "sources": {
       "streams": [
-        "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971",
-        "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6n24nn47%230%2332p1962023rpq23so3q5020459682s0o%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1780787783",
-        "https://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871"
+        "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6n5924s5%230%2364n822nq2o1r4qs696n15709971o9sp7%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1784227061",
+        "https://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6n5924rq%230%2364n822nq2o1r4qs696n15709971o9sp7%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1784227053",
+        "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971"
       ]
     },
     "languages": [
@@ -1393,8 +1364,8 @@
     "name": "KINK Distortion",
     "sources": {
       "streams": [
+        "https://22323.live.streamtheworld.com/KINK_DISTORTION_SC",
         "https://25293.live.streamtheworld.com/KINK_DISTORTION_SC",
-        "https://22603.live.streamtheworld.com/KINK_DISTORTION_SC",
         "https://25233.live.streamtheworld.com/KINK_DISTORTION_SC"
       ]
     },
@@ -1580,8 +1551,8 @@
     "name": "Metal Only",
     "sources": {
       "streams": [
-        "https://metal-only.sp.radio.fm/stream",
         "https://nordic.streampanel.cloud/stream",
+        "https://metal-only.sp.radio.fm/stream",
         "https://metalonly.sp.radio.fm/stream"
       ]
     },
@@ -1621,21 +1592,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oqeBwGM8pIzVM3",
-    "name": "Metal Shop",
-    "sources": {
-      "streams": [
-        "https://quincy.torontocast.com:1500/stream",
-        "https://quincy.torontocast.com:1505/stream"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m6ncXxpqBdr4nT",
     "name": "Metal Xmas",
     "sources": {
@@ -1668,7 +1624,7 @@
     "name": "MetalFM",
     "sources": {
       "streams": [
-        "https://streams.fluxfm.de/metalfm/mp3-128/fluxfm.de_webplayer/"
+        "https://streams.fluxfm.de/metalfm/mp3-128/fluxfm.de_webplayer"
       ]
     },
     "languages": [
@@ -1683,6 +1639,20 @@
     "sources": {
       "streams": [
         "https://stream.pcradio.ru/Metallica-hi"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "plE7XHvd2eGBzY",
+    "name": "MetalMusicRadio",
+    "sources": {
+      "streams": [
+        "https://metalradio.net/128K.aac"
       ]
     },
     "languages": [
@@ -1946,11 +1916,41 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OhLcw28ogo4yTZ",
+    "name": "NuMetal 1.0",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/zg3ps1ckoeiuv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "por",
+      "spa"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kGOzZLzxzfhbUD",
     "name": "ON Rock",
     "sources": {
       "streams": [
         "https://0n-rock.radionetz.de/0n-rock.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zfEX3aIQpuonL4",
+    "name": "On the Rocks",
+    "sources": {
+      "streams": [
+        "https://on_the_rocks.stream.laut.fm/on_the_rocks"
       ]
     },
     "languages": [
@@ -2090,7 +2090,7 @@
     "name": "R.SA - Rockzirkus",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-192-3220659?sABC=6n2444qs%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1780761823"
+        "https://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-192-3220659?sABC=6n597065%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1784246373"
       ]
     },
     "languages": [
@@ -2114,17 +2114,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i6BSn3RShXwFuP",
-    "name": "Radio Astral 102.9 FM",
+    "nanoid": "vyLripuVYjDR82",
+    "name": "Radio Accept",
     "sources": {
       "streams": [
-        "https://streaming.rcs.com.sv/proxy/astral/stream"
+        "https://stream.pcradio.ru/accept-hi"
       ]
     },
     "languages": [
-      "spa"
+      "eng"
     ],
-    "country": "sv",
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -2133,8 +2133,8 @@
     "sources": {
       "streams": [
         "https://icecast2.play.cz/beat128aac",
-        "https://icecast2.play.cz/radiobeat128.mp3",
-        "https://icecast1.play.cz/beat64.mp3"
+        "https://icecast1.play.cz/beat64.mp3",
+        "https://icecast2.play.cz/radiobeat128.mp3"
       ]
     },
     "languages": [
@@ -2148,9 +2148,9 @@
     "name": "RADIO BOB! AC/DC Collection",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/bob-acdc/mp3-192/homepage/",
+        "https://streams.radiobob.de/bob-acdc/mp3-192/homepage",
         "https://streams.radiobob.de/bob-acdc/mp3-128/streams.radiobob.de/%20",
-        "https://streams.radiobob.de/bob-acdc/aac-64/mediaplayer"
+        "https://streams.radiobob.de/bob-acdc/aac-64/onlineradiobox"
       ]
     },
     "languages": [
@@ -2164,9 +2164,9 @@
     "name": "RADIO BOB! Death Metal",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/",
-        "https://streams.radiobob.de/deathmetal/mp3-192/homepage/",
-        "https://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/"
+        "https://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/deathmetal/mp3-192/homepage",
+        "https://streams.radiobob.de/deathmetal/mp3-192/mediaplayer"
       ]
     },
     "languages": [
@@ -2180,9 +2180,9 @@
     "name": "RADIO BOB! Harte Saite",
     "sources": {
       "streams": [
-        "https://regiocast.streamabc.net/regc-radiobobhartesaite4742158-mp3-192-1633493?sABC=6n243858%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1780758616",
+        "https://regiocast.streamabc.net/regc-radiobobhartesaite4742158-mp3-192-1633493?sABC=6n5965qr%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1784243678",
         "https://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer",
-        "https://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/"
+        "https://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -2196,7 +2196,7 @@
     "name": "RADIO BOB! Livestream National",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/"
+        "https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -2210,9 +2210,9 @@
     "name": "RADIO BOB! Metal",
     "sources": {
       "streams": [
+        "https://streams.radiobob.de/bob-metal/mp3-192/homepage",
         "https://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
-        "https://streams.radiobob.de/bob-metal/mp3-192/homepage/",
-        "https://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/"
+        "https://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -2227,7 +2227,7 @@
     "sources": {
       "streams": [
         "https://streams.radiobob.de/metalcore/mp3-192/mediaplayer",
-        "https://streams.radiobob.de/metalcore/mp3-192/streams.radiobob.de/",
+        "https://streams.radiobob.de/metalcore/mp3-192/streams.radiobob.de",
         "https://streams.radiobob.de/metalcore/aac-64/mediaplayer"
       ]
     },
@@ -2242,9 +2242,9 @@
     "name": "RADIO BOB! Metallica",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/metallica/mp3-192/homepage/",
-        "https://streams.radiobob.de/metallica/mp3-192/mediaplayer/",
-        "https://streams.radiobob.de/metallica/aac-64/mediaplayer/"
+        "https://streams.radiobob.de/metallica/mp3-192/mediaplayer",
+        "https://streams.radiobob.de/metallica/mp3-192/homepage",
+        "https://streams.radiobob.de/metallica/aac-64/mediaplayer"
       ]
     },
     "languages": [
@@ -2259,8 +2259,8 @@
     "sources": {
       "streams": [
         "https://streams.radiobob.de/mittelalter/mp3-192/mediaplayer",
-        "https://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/",
-        "https://streams.radiobob.de/mittelalter/mp3-128/streams.radiobob.de/"
+        "https://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/mittelalter/mp3-128/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -2274,7 +2274,7 @@
     "name": "RADIO BOB! Motörhead",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/motoerhead/mp3-192/homepage/"
+        "https://streams.radiobob.de/motoerhead/mp3-192/homepage"
       ]
     },
     "languages": [
@@ -2288,9 +2288,9 @@
     "name": "RADIO BOB! Nu Metal",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/numetal/mp3-192/",
-        "https://streams.radiobob.de/numetal/mp3-192/streams.radiobob.de/",
-        "https://streams.radiobob.de/numetal/aac-64/"
+        "https://streams.radiobob.de/numetal/mp3-192",
+        "https://streams.radiobob.de/numetal/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/numetal/aac-64"
       ]
     },
     "languages": [
@@ -2304,8 +2304,8 @@
     "name": "RADIO BOB! Power Metal",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/powermetal/mp3-192/homepage/",
-        "https://streams.radiobob.de/powermetal/mp3-192/streams.radiobob.de/"
+        "https://streams.radiobob.de/powermetal/mp3-192/homepage",
+        "https://streams.radiobob.de/powermetal/mp3-192/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -2319,9 +2319,9 @@
     "name": "RADIO BOB! Rockparty",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/rockparty/mp3-192/homepage/",
-        "https://streams.radiobob.de/rockparty/mp3-192/mediaplayer/",
-        "https://streams.radiobob.de/rockparty/mp3-192/streams.radiobob.de/"
+        "https://streams.radiobob.de/rockparty/mp3-192/mediaplayer",
+        "https://streams.radiobob.de/rockparty/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/rockparty/mp3-192/homepage"
       ]
     },
     "languages": [
@@ -2335,9 +2335,9 @@
     "name": "RADIO BOB! Symphonic Metal",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/symphmetal/mp3-192/streams.radiobob.de/",
-        "https://streams.radiobob.de/symphmetal/mp3-192/homepage/",
-        "https://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/"
+        "https://streams.radiobob.de/symphmetal/mp3-192/mediaplayer",
+        "https://streams.radiobob.de/symphmetal/mp3-192/homepage",
+        "https://streams.radiobob.de/symphmetal/mp3-192/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -2351,9 +2351,9 @@
     "name": "RADIO BOB! Wacken Radio",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/bob-wacken/mp3-192/radiode/",
-        "https://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/",
-        "https://streams.radiobob.de/bob-wacken/aac-64/radiosure/"
+        "https://streams.radiobob.de/bob-wacken/mp3-192/radiode",
+        "https://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/bob-wacken/aac-64/radiosure"
       ]
     },
     "languages": [
@@ -2412,8 +2412,8 @@
     "name": "Radio Emergency",
     "sources": {
       "streams": [
-        "https://www.radioemergency.de/radioemergency_small.mp3",
-        "https://www.radioemergency.de/radioemergency.mp3"
+        "https://www.radioemergency.de/radioemergency.mp3",
+        "https://www.radioemergency.de/radioemergency_small.mp3"
       ]
     },
     "languages": [
@@ -2600,8 +2600,8 @@
     "name": "Radio Metal On: The Heavy",
     "sources": {
       "streams": [
-        "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3",
-        "https://radiometalon.com/radio/8000/radio.mp3"
+        "https://radiometalon.com/radio/8000/radio.mp3",
+        "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3"
       ]
     },
     "languages": [
@@ -2672,8 +2672,8 @@
     "name": "Radio Rock",
     "sources": {
       "streams": [
-        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2687,8 +2687,8 @@
     "name": "Radio Rock",
     "sources": {
       "streams": [
-        "https://rrock.fluidstream.eu/radiorock.aac",
-        "https://onlineradiobox.com/json/it/radiorock/play"
+        "https://onlineradiobox.com/json/it/radiorock/play",
+        "https://rrock.fluidstream.eu/radiorock.aac"
       ]
     },
     "languages": [
@@ -2783,20 +2783,6 @@
       "spa"
     ],
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "djNu9BYp632knW",
-    "name": "Radiónica",
-    "sources": {
-      "streams": [
-        "https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -2916,8 +2902,8 @@
     "name": "ROCK ANTENNE - Hair Metal",
     "sources": {
       "streams": [
-        "https://s7-webradio.rockantenne.de/hair-metal/stream/aacp",
         "https://s9-webradio.rockantenne.de/hair-metal/stream",
+        "https://s7-webradio.rockantenne.de/hair-metal/stream/aacp",
         "https://stream.rockantenne.de/hair-metal/stream/aacp"
       ]
     },
@@ -2932,9 +2918,9 @@
     "name": "ROCK ANTENNE - Heavy Metal",
     "sources": {
       "streams": [
-        "https://s2-webradio.rockantenne.de/heavy-metal/stream/aacp",
-        "https://mp3channels.webradio.rockantenne.de/heavy-metal",
-        "https://s1-webradio.rockantenne.de/heavy-metal"
+        "https://s1-webradio.rockantenne.de/heavy-metal",
+        "https://s5-webradio.rockantenne.de/heavy-metal",
+        "https://mp3channels.webradio.rockantenne.de/heavy-metal"
       ]
     },
     "languages": [
@@ -3088,6 +3074,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5cMW4HT97aLIDG",
+    "name": "Rock no Pinheiro",
+    "sources": {
+      "streams": [
+        "https://hts02.brascast.com:11442/stream"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MPniZaRkCgzYNT",
     "name": "Rock Radioo",
     "sources": {
@@ -3176,15 +3176,29 @@
     "name": "ROCKLAND.fm",
     "sources": {
       "streams": [
-        "https://stream.rockland-digital.de/rockland/mp3-192/",
+        "https://stream.rockland-digital.de/rockland/mp3-192",
         "https://stream.1a-webradio.de/rockland/aac-48/radiosure-1a/stream.mp3",
-        "https://stream.rockland-digital.de/rockland/mp3-192/radio-browser/"
+        "https://stream.rockland-digital.de/rockland/mp3-192/radio-browser"
       ]
     },
     "languages": [
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5E2AuY3MMAslQL",
+    "name": "Rockradio.ro",
+    "sources": {
+      "streams": [
+        "https://online.webcastradio.ro/rock-u.aac"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -3342,22 +3356,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3LJT0rrC4nyJaV",
-    "name": "SomaFM: Metal Detector",
-    "sources": {
-      "streams": [
-        "https://ice1.somafm.com/metal-128-aac",
-        "https://ice2.somafm.com/metal-128-aac",
-        "https://ice3.somafm.com/metal-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "21sy1sxAL5yblF",
     "name": "Spoon Radio - Hard Rock",
     "sources": {
@@ -3489,8 +3487,7 @@
     "name": "The Generator FM",
     "sources": {
       "streams": [
-        "https://s1.myradiostream.com/:14268/;",
-        "https://s1.myradiostream.com/14268/stream/1/"
+        "https://s1.myradiostream.com/:14268/;"
       ]
     },
     "languages": [
@@ -3553,21 +3550,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0nkItYosHzvAid",
-    "name": "Traxx FM Rock",
-    "sources": {
-      "streams": [
-        "https://traxx019.ice.infomaniak.ch/traxx019-low.mp3"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "ch",
     "isGeoBlocked": false
   },
   {
@@ -3830,8 +3812,8 @@
     "sources": {
       "streams": [
         "https://nashe1.hostingradio.ru/ultra-256",
-        "https://nashe1.hostingradio.ru/ultra-192.mp3",
-        "https://nashe2.hostingradio.ru/ultra-128.mp3"
+        "https://nashe1.hostingradio.ru/ultra-128.mp3",
+        "https://nashe1.hostingradio.ru/ultra-192.mp3"
       ]
     },
     "languages": [
@@ -3845,8 +3827,8 @@
     "name": "Радио Гусь",
     "sources": {
       "streams": [
-        "https://stream.radiogoose.ru/listen/radiogoose/play",
-        "https://stream.radiogoose.ru:8000/play"
+        "https://stream.radiogoose.ru:8000/play",
+        "https://stream.radiogoose.ru/listen/radiogoose/play"
       ]
     },
     "languages": [
@@ -3867,6 +3849,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lTlpiDN4HncVco",
+    "name": "Радіо Ґарта",
+    "sources": {
+      "streams": [
+        "https://rockradioua.online:8433/metal_256"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   }
 ]

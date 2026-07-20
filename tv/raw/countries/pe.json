@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mljCXXuG95o31y",
-    "name": "America Television",
-    "sources": {
-      "streams": [
-        "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iVA33CIrwkHFXi",
     "name": "Andes Television",
     "sources": {
@@ -131,8 +117,7 @@
     "name": "ATV",
     "sources": {
       "streams": [
-        "https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8",
-        "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8"
+        "https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
@@ -260,20 +245,6 @@
     "sources": {
       "streams": [
         "https://live.obslivestream.com/conecta2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/6rlNukFUinA"
       ]
     },
     "languages": [
@@ -443,20 +414,6 @@
     "sources": {
       "streams": [
         "https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mHRulAqsRUqjO2",
-    "name": "Genios TV",
-    "sources": {
-      "streams": [
-        "https://sc3.wasidata.com/Genios2_1902/video.m3u8"
       ]
     },
     "languages": [
@@ -730,6 +687,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zXicYaSu58NdOA",
+    "name": "ONDA DIGITAL",
+    "sources": {
+      "streams": [
+        "https://tv.ondadigital.pe/ondadigital/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4C3gMyaIqWiPj3",
     "name": "Ozono TV",
     "sources": {
@@ -763,6 +734,20 @@
     "sources": {
       "streams": [
         "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1HAo4CqmpS0XAl",
+    "name": "Primavera 15",
+    "sources": {
+      "streams": [
+        "https://mc.servidor.stream:19360/8244/8244.m3u8"
       ]
     },
     "languages": [
@@ -930,8 +915,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -989,6 +974,34 @@
     "sources": {
       "streams": [
         "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Jwks7n28SQBw5S",
+    "name": "Star Channel Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://45.162.193.35/STAR_CHANNEL/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bxBV5r5w3tddOG",
+    "name": "Studio Universal Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8"
       ]
     },
     "languages": [
@@ -1069,20 +1082,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K0qZuL6YkWBA5O",
-    "name": "Tevesur",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IimzzIwURjFsYr",
     "name": "Top TV",
     "sources": {
@@ -1101,8 +1100,8 @@
     "name": "Trivu",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8",
-        "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8"
+        "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1197,20 +1196,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XOM9Q1cGWigMXK",
-    "name": "TVLibertad",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/4LwRSexhrl8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ghJvcjvVzHFJJM",
     "name": "TVUNO",
     "sources": {
@@ -1230,6 +1215,20 @@
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dbLCjbraoPInRW",
+    "name": "Uchu TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1323,20 +1322,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "trHTZPVHEp7Bhk",
-    "name": "Vision",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mNTAjkmf0gBPSX",
     "name": "Vision Sur",
     "sources": {
@@ -1356,20 +1341,6 @@
     "sources": {
       "streams": [
         "https://live.obslivestream.com/vivatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sAN5lqkNeMhvi8",
-    "name": "VNP",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
       ]
     },
     "languages": [

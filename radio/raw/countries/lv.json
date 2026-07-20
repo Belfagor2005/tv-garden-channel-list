@@ -240,35 +240,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0tDMCHHQpXJD4m",
-    "name": "New Dance Radio",
-    "sources": {
-      "streams": [
-        "https://stream.newdanceradio.ru/"
-      ]
-    },
-    "languages": [
-      "lav",
-      "rus"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8gCQnm3RyyFTfb",
-    "name": "Njoy Radio",
-    "sources": {
-      "streams": [
-        "https://live.njoyradio.lv/02"
-      ]
-    },
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jWwcwo9GGAq7RS",
     "name": "Nordic Chillout Radio",
     "sources": {
@@ -311,21 +282,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BowiJMWCY73UQG",
-    "name": "Radio Mix FM",
-    "sources": {
-      "streams": [
-        "https://live.relaxfm.lv/07"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MdbzeQw0FTwx7v",
     "name": "Radio Roks",
     "sources": {
@@ -335,6 +291,20 @@
     },
     "languages": [
       "rus"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PujzJMUZYMn7QY",
+    "name": "Radio Skonto",
+    "sources": {
+      "streams": [
+        "https://stream.radioskonto.lv:8443/stereo"
+      ]
+    },
+    "languages": [
+      "lav"
     ],
     "country": "lv",
     "isGeoBlocked": false
@@ -378,6 +348,20 @@
     "languages": [
       "lav",
       "rus"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dBpWfZo2ZMiMfl",
+    "name": "Relax FM",
+    "sources": {
+      "streams": [
+        "https://live.relaxfm.lv/02"
+      ]
+    },
+    "languages": [
+      "lav"
     ],
     "country": "lv",
     "isGeoBlocked": false
@@ -485,12 +469,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vIGrGfidiiJ9ya",
+    "name": "XO FM",
+    "sources": {
+      "streams": [
+        "https://live.xo.fm/xofm128"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZLHojOWFKrHPjq",
     "name": "Your City Radio",
     "sources": {
       "streams": [
-        "https://c28.radioboss.fm:18234/stream",
-        "https://c34.radioboss.fm:8234/stream"
+        "https://c34.radioboss.fm:8234/stream",
+        "https://c28.radioboss.fm:18234/stream"
       ]
     },
     "languages": [

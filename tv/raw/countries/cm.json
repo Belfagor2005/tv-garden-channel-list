@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "H2FHKjlAUfcdK2",
+    "name": "Acerfi TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.acerfi.net/hls/acerfitv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mERwdxTysvLwsP",
     "name": "ACN TV",
     "sources": {
@@ -14,6 +28,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ndVRRmZjXvgvtL",
+    "name": "Allo Cine",
+    "sources": {
+      "streams": [
+        "https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fre"
+    ],
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vSeAetx7SHaifK",
     "name": "CAM 10 TV",
     "sources": {
@@ -22,6 +51,21 @@
       ]
     },
     "languages": [
+      "fra"
+    ],
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GF2Bfo69Qjjy4t",
+    "name": "CRTV",
+    "sources": {
+      "streams": [
+        "https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "fra"
     ],
     "country": "cm",
@@ -51,20 +95,6 @@
     },
     "languages": [
       "eng",
-      "fra"
-    ],
-    "country": "cm",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kAGSorpcyVgeyz",
-    "name": "Laura Dave Media TV",
-    "sources": {
-      "streams": [
-        "https://streaming.lauradavemedia.com/ldm/index.m3u8"
-      ]
-    },
-    "languages": [
       "fra"
     ],
     "country": "cm",

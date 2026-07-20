@@ -646,34 +646,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dkzCKeY3lrbl9R",
-    "name": "Radio Gacko",
-    "sources": {
-      "streams": [
-        "https://s31.myradiostream.com:14072/;"
-      ]
-    },
-    "languages": [
-      "srp"
-    ],
-    "country": "ba",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y2oaeoXmQCpRgL",
-    "name": "Radio Goražde",
-    "sources": {
-      "streams": [
-        "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8"
-      ]
-    },
-    "languages": [
-      "bos"
-    ],
-    "country": "ba",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TjzT0ktgHfO3tn",
     "name": "Radio Gračanica",
     "sources": {
@@ -735,7 +707,7 @@
     "name": "Radio Ilijaš",
     "sources": {
       "streams": [
-        "https://stream.leftor.com/proxy/radioili/stream/"
+        "https://stream.leftor.com/proxy/radioili/stream"
       ]
     },
     "languages": [
@@ -750,20 +722,6 @@
     "sources": {
       "streams": [
         "https://stream.leftor.com/proxy/rtvjablanica/stream/;stream.mp3"
-      ]
-    },
-    "languages": [
-      "bos"
-    ],
-    "country": "ba",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hXdCmMtevUsMbM",
-    "name": "Radio Jajce",
-    "sources": {
-      "streams": [
-        "https://s8.iqstreaming.com:8034/stream"
       ]
     },
     "languages": [
@@ -807,7 +765,7 @@
     "name": "Radio Konjic",
     "sources": {
       "streams": [
-        "https://s3.free-shoutcast.com/stream/18056ic-uzivo/",
+        "https://s3.free-shoutcast.com/stream/18056ic-uzivo",
         "https://webtvstream.bhtelecom.ba/radio_konjic.m3u8"
       ]
     },
@@ -1159,8 +1117,8 @@
     "name": "Radio USK",
     "sources": {
       "streams": [
-        "https://webtvstream.bhtelecom.ba/radio_usk.m3u8",
-        "https://radiousk.radioca.st/stream"
+        "https://radiousk.radioca.st/stream",
+        "https://webtvstream.bhtelecom.ba/radio_usk.m3u8"
       ]
     },
     "languages": [
@@ -1258,7 +1216,7 @@
     "name": "Radio Zenit",
     "sources": {
       "streams": [
-        "https://uzivo.zenit.ba/stream/"
+        "https://uzivo.zenit.ba/stream"
       ]
     },
     "languages": [
@@ -1343,20 +1301,6 @@
     "sources": {
       "streams": [
         "https://trendradio-codus.radioca.st/;"
-      ]
-    },
-    "languages": [
-      "bos"
-    ],
-    "country": "ba",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AHl9qwlNcppLrZ",
-    "name": "ZOS Radio",
-    "sources": {
-      "streams": [
-        "https://zosradio.radioca.st/;"
       ]
     },
     "languages": [

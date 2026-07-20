@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t9oYt4NY18iZul",
-    "name": "Anime Vanguard Live",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/elmQ-QqEgZw"
-      ]
-    },
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K2Py26x9khAHLi",
     "name": "ANN News",
     "sources": {
@@ -61,34 +47,6 @@
     "sources": {
       "streams": [
         "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8"
-      ]
-    },
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AY9El1RUmBJaPD",
-    "name": "Earthquake Alert Channel",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/UJYyY_mrUmo"
-      ]
-    },
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "p6qHyum8xkT7Yw",
-    "name": "FNNプライムオンライン",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/8MJ3vqgSpKs"
       ]
     },
     "languages": [
@@ -144,7 +102,7 @@
     "name": "JapaNews24",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/aul9VfyFl3Y"
+        "https://www.youtube-nocookie.com/embed/ZF3SsVO8Fa8"
       ]
     },
     "languages": [
@@ -182,11 +140,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pfwAikq4d2rvpc",
+    "name": "KYT Kagoshima Yomiuri Television",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/M7uBTS8emBg"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I6PZ8XlrYGQMPu",
     "name": "Luiger: Japanese City Pop Radio",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/H_wIdtjRO7Q"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LXJZE9lLeFU629",
+    "name": "MRO",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/xPWlhNhM95s"
       ]
     },
     "languages": [
@@ -228,9 +214,9 @@
     "name": "NHK World-Japan",
     "sources": {
       "streams": [
+        "https://cdn-7.pishow.tv/live/455/master.m3u8",
         "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
-        "https://nhk.lls.pbs.org/index.m3u8",
-        "https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8"
+        "https://nhk.lls.pbs.org/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/f0lYkdA-Gtw"
@@ -363,7 +349,7 @@
     "name": "STV News Hokkaido",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/YND-T9bz3xM"
+        "https://www.youtube-nocookie.com/embed/w1SlhzWuOAc"
       ]
     },
     "languages": [

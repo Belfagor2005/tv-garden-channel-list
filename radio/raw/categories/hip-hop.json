@@ -4,8 +4,8 @@
     "name": ".977 Jamz",
     "sources": {
       "streams": [
-        "https://26343.live.streamtheworld.com/977_JAMZ_SC",
-        "https://15113.live.streamtheworld.com/977_JAMZ_SC"
+        "https://15113.live.streamtheworld.com/977_JAMZ_SC",
+        "https://26343.live.streamtheworld.com/977_JAMZ_SC"
       ]
     },
     "languages": [
@@ -234,7 +234,7 @@
     "name": "90s90s Black & RnB",
     "sources": {
       "streams": [
-        "https://streams.90s90s.de/rnb/mp3-192/"
+        "https://streams.90s90s.de/rnb/mp3-192"
       ]
     },
     "languages": [
@@ -248,7 +248,7 @@
     "name": "90s90s Hip Hop",
     "sources": {
       "streams": [
-        "https://streams.90s90s.de/hiphop/aac-64/surfmusik/"
+        "https://streams.90s90s.de/hiphop/aac-64/surfmusik"
       ]
     },
     "languages": [
@@ -262,8 +262,8 @@
     "name": "90s90s Hip Hop & Rap",
     "sources": {
       "streams": [
-        "https://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/",
-        "https://streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de/"
+        "https://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de",
+        "https://streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de"
       ]
     },
     "languages": [
@@ -277,7 +277,7 @@
     "name": "90s90s Hip Hop Deutsch",
     "sources": {
       "streams": [
-        "https://regiocast.streamabc.net/regc-90s90shiphopger1075276-mp3-192-7006589?sABC=6n247r6o%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1780776555"
+        "https://regiocast.streamabc.net/regc-90s90shiphopger1075276-mp3-192-7006589?sABC=6n594s15%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1784237845"
       ]
     },
     "languages": [
@@ -419,8 +419,8 @@
     "name": "98.3 The Vibe",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC_SC"
       ]
     },
     "languages": [
@@ -462,7 +462,7 @@
     "name": "98.8 Kiss FM R'n'B",
     "sources": {
       "streams": [
-        "https://stream.kissfm.de/kissfm-rnb/mp3-128/internetradio/",
+        "https://stream.kissfm.de/kissfm-rnb/mp3-128/internetradio",
         "https://topradio-de-hz-fal-stream01-cluster01.radiohost.de/kissfm-rnb_mp3-128"
       ]
     },
@@ -477,7 +477,7 @@
     "name": "98.8 Kiss FM Sextime",
     "sources": {
       "streams": [
-        "https://stream.kissfm.de/kissfm-sextime/mp3-128/internetradio/",
+        "https://stream.kissfm.de/kissfm-sextime/mp3-128/internetradio",
         "https://topradio-stream20.radiohost.de/kissfm-sextime_mp3-128"
       ]
     },
@@ -492,14 +492,28 @@
     "name": "98.8 Kiss FM Urban Beats",
     "sources": {
       "streams": [
-        "https://stream.kissfm.de/kissfm-urbanbeats/mp3-128/internetradio/",
-        "https://topradio-stream21.radiohost.de/kissfm-urbanbeats_mp3-128"
+        "https://topradio-stream21.radiohost.de/kissfm-urbanbeats_mp3-128",
+        "https://stream.kissfm.de/kissfm-urbanbeats/mp3-128/internetradio"
       ]
     },
     "languages": [
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iEhN1LEyJ2QMqs",
+    "name": "99.1 The Beat",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/KODZ"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -522,20 +536,6 @@
     "sources": {
       "streams": [
         "https://ice42.securenetsystems.net/KMGG"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wpsBFxtBixZfNF",
-    "name": "100 Hip Hop and RNB FM",
-    "sources": {
-      "streams": [
-        "https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm"
       ]
     },
     "languages": [
@@ -606,8 +606,8 @@
     "name": "100% NL",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/100PNL_MP3_SC",
-        "https://stream.100p.nl/100pctnl.mp3"
+        "https://stream.100p.nl/100pctnl.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/100PNL_MP3_SC"
       ]
     },
     "languages": [
@@ -649,9 +649,9 @@
     "name": "101.1 The Beat",
     "sources": {
       "streams": [
-        "https://n1fb-e2.revma.ihrhls.com/zc2069",
+        "https://n2cb-e2.revma.ihrhls.com/zc2153",
         "https://stream.revma.ihrhls.com/zc2153",
-        "https://stream.revma.ihrhls.com/zc2153/hls.m3u8"
+        "https://n1fb-e2.revma.ihrhls.com/zc2069"
       ]
     },
     "languages": [
@@ -680,8 +680,8 @@
     "name": "103 JAMZ",
     "sources": {
       "streams": [
-        "https://n27b-e2.revma.ihrhls.com/zc2453",
-        "https://stream.revma.ihrhls.com/zc2453"
+        "https://stream.revma.ihrhls.com/zc2453",
+        "https://n27b-e2.revma.ihrhls.com/zc2453"
       ]
     },
     "languages": [
@@ -721,7 +721,7 @@
     "name": "104.6 RTL Best of Black",
     "sources": {
       "streams": [
-        "https://stream.104.6rtl.com/rtl-black/mp3-128/radio-browser.info/"
+        "https://stream.104.6rtl.com/rtl-black/mp3-128/radio-browser.info"
       ]
     },
     "languages": [
@@ -792,8 +792,8 @@
     "name": "106.7 The Beat",
     "sources": {
       "streams": [
-        "https://stream.revma.ihrhls.com/zc3632",
-        "https://n1bb-e2.revma.ihrhls.com/zc3632"
+        "https://n1bb-e2.revma.ihrhls.com/zc3632",
+        "https://stream.revma.ihrhls.com/zc3632"
       ]
     },
     "languages": [
@@ -955,8 +955,8 @@
     "name": "919",
     "sources": {
       "streams": [
-        "https://edge.iono.fm/xice/112_low.aac",
-        "https://edge.iono.fm/xice/112_medium.aac"
+        "https://edge.iono.fm/xice/112_medium.aac",
+        "https://edge.iono.fm/xice/112_low.aac"
       ]
     },
     "languages": [
@@ -994,46 +994,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vHmMpXFCSnyvD3",
-    "name": "ABF World",
-    "sources": {
-      "streams": [
-        "https://abf.net-radio.fr/abfworld.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hfro4LYCiLDTxE",
     "name": "Ade FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/nqjp3rems2rvv",
-        "https://stream.zeno.fm/rshamge8mgntv"
+        "https://stream.zeno.fm/rshamge8mgntv",
+        "https://stream.zeno.fm/nqjp3rems2rvv"
       ]
     },
     "languages": [
       "ron"
     ],
     "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "03Yiy3MRU1PbcS",
-    "name": "Ado",
-    "sources": {
-      "streams": [
-        "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1071,6 +1043,7 @@
     "name": "Air Connect Radio",
     "sources": {
       "streams": [
+        "https://stream.airconnectradio.com/ac64.aac",
         "https://stream.airconnectradio.com/ac192.mp3"
       ]
     },
@@ -1218,7 +1191,7 @@
       "streams": [
         "https://s3-webradio.antenne.de/black-beatz",
         "https://stream.antenne.de/black-beatz",
-        "https://s4-webradio.antenne.de/black-beatz.aac"
+        "https://mp3channels.webradio.antenne.de/black-beatz.aac"
       ]
     },
     "languages": [
@@ -1370,14 +1343,28 @@
     "name": "BBC Radio 1Xtra",
     "sources": {
       "streams": [
-        "https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8",
-        "https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8"
+        "https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8",
+        "https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7aQdtQZfyhtsXJ",
+    "name": "Beats Radio",
+    "sources": {
+      "streams": [
+        "https://servidor37.brlogic.com:7100/live"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1512,8 +1499,8 @@
     "name": "bigFM Deutschland",
     "sources": {
       "streams": [
-        "https://streams.bigfm.de/bigfm-deutschland-128-mp3",
-        "https://stream.bigfm.de/deutschland/mp3-128/radio-browser"
+        "https://stream.bigfm.de/deutschland/mp3-128/radio-browser",
+        "https://streams.bigfm.de/bigfm-deutschland-128-mp3"
       ]
     },
     "languages": [
@@ -1555,7 +1542,7 @@
     "name": "bigFM Deutschrap rasiert brandneu",
     "sources": {
       "streams": [
-        "https://audiotainment-sw.streamabc.net/atsw-hiphopcharts-aac-128-5072262?sABC=6n2430p9%230%2332p1962023rpq23so3q5020459682s0o%23fgernz.ovtsz.qr&aw_0_1st.playerid=stream.bigfm.de&amsparams=playerid:stream.bigfm.de;skey:1780756681"
+        "https://audiotainment-sw.streamabc.net/atsw-hiphopcharts-aac-128-5072262?sABC=6n59o38s%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernz.ovtsz.qr&aw_0_1st.playerid=stream.bigfm.de&amsparams=playerid:stream.bigfm.de;skey:1784263567"
       ]
     },
     "languages": [
@@ -1654,8 +1641,8 @@
     "sources": {
       "streams": [
         "https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364",
-        "https://stream.bigfm.de/niedersachsen/mp3-128/radiobrowser",
-        "https://stream.bigfm.de/niedersachsen/mp3-128/"
+        "https://stream.bigfm.de/niedersachsen/mp3-128",
+        "https://stream.bigfm.de/niedersachsen/mp3-128/radiobrowser"
       ]
     },
     "languages": [
@@ -1726,8 +1713,8 @@
     "name": "bigFM Rheinland-Pfalz",
     "sources": {
       "streams": [
-        "https://streams.bigfm.de/bigfm-rlp-128-aac",
-        "https://stream.bigfm.de/rlp/mp3-128/radio-browser"
+        "https://stream.bigfm.de/rlp/mp3-128/radio-browser",
+        "https://streams.bigfm.de/bigfm-rlp-128-aac"
       ]
     },
     "languages": [
@@ -1791,6 +1778,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nPDzv35ZrONNyM",
+    "name": "Binchow Music Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp.qingting.fm/live/21341/64k.mp3"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -2154,8 +2155,8 @@
     "name": "Carbon Sound",
     "sources": {
       "streams": [
-        "https://current.stream.publicradio.org/carbonsound.mp3",
-        "https://carbonsound.stream.publicradio.org/carbonsound.aac"
+        "https://carbonsound.stream.publicradio.org/carbonsound.aac",
+        "https://current.stream.publicradio.org/carbonsound.mp3"
       ]
     },
     "languages": [
@@ -2176,21 +2177,6 @@
       "eng"
     ],
     "country": "lc",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zUPG5ALGzievXV",
-    "name": "Changchun Urban Music Radio",
-    "sources": {
-      "streams": [
-        "https://lhttp.qingting.fm/live/5015/64k.mp3",
-        "https://lhttp.qtfm.cn/live/5015/64k.mp3"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -2326,28 +2312,14 @@
     "name": "Comala Radio",
     "sources": {
       "streams": [
-        "https://listen.radioking.com/radio/38120/stream/74513",
-        "https://www.radioking.com/play/supag"
+        "https://www.radioking.com/play/supag",
+        "https://listen.radioking.com/radio/38120/stream/74513"
       ]
     },
     "languages": [
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "emYU5fWrUH41TZ",
-    "name": "Comando VIP OFC",
-    "sources": {
-      "streams": [
-        "https://jpdofunk3.com.br:8072/stream"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -2467,8 +2439,8 @@
     "name": "delta radio HIP HOP",
     "sources": {
       "streams": [
-        "https://streams.deltaradio.de/hiphop/mp3-192/radiosure/",
-        "https://streams.deltaradio.de/hiphop/aac-64/radiosure/"
+        "https://streams.deltaradio.de/hiphop/mp3-192/radiosure",
+        "https://streams.deltaradio.de/hiphop/aac-64/radiosure"
       ]
     },
     "languages": [
@@ -2604,6 +2576,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eZhCyYpml3LSwn",
+    "name": "DJ Troia",
+    "sources": {
+      "streams": [
+        "https://jpdofunk3.com.br:8018/stream"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oRgzocX9ByQZzs",
     "name": "DNA Lounge Radio",
     "sources": {
@@ -2664,8 +2650,8 @@
     "name": "East Coast Radio",
     "sources": {
       "streams": [
-        "https://live.ecr.co.za/ecrlow.aac",
         "https://live.ecr.co.za/ecrhigh.mp3",
+        "https://live.ecr.co.za/ecrlow.aac",
         "https://edge.iono.fm/xice/ecr_live_medium.aac"
       ]
     },
@@ -2853,7 +2839,6 @@
     "name": "Exclusively Beastie Boys",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/beastieboys/icecast.audio",
         "https://streaming.exclusive.radio/er-app/beastieboys/icecast.audio"
       ]
     },
@@ -3250,7 +3235,7 @@
     "sources": {
       "streams": [
         "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445",
-        "https://streams.fluxfm.de/live/mp3-320/audio/",
+        "https://streams.fluxfm.de/live/mp3-320/audio",
         "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035"
       ]
     },
@@ -3265,9 +3250,9 @@
     "name": "FluxFM BoomFM",
     "sources": {
       "streams": [
-        "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=6n2499q3%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780783571",
-        "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035?sABC=6n2499q9%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780783577",
-        "https://fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635?sABC=6n2499pr%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780783566"
+        "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=6n59n793%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784260499",
+        "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035?sABC=6n59n790%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784260496",
+        "https://fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635?sABC=6n59n787%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784260487"
       ]
     },
     "languages": [
@@ -3281,9 +3266,9 @@
     "name": "FluxFM BoomFM Classics",
     "sources": {
       "streams": [
-        "https://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180",
-        "https://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180?sABC=6n2441s2%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780761074",
-        "https://fluxfm.streamabc.net/flx-boomfmclassics-mp3-128-9062018?sABC=6n2441rr%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780761070"
+        "https://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180?sABC=6n5937s7%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784231927",
+        "https://fluxfm.streamabc.net/flx-boomfmclassics-mp3-128-9062018",
+        "https://fluxfm.streamabc.net/flx-boomfmclassics-aacplus-64-9071050"
       ]
     },
     "languages": [
@@ -3298,7 +3283,7 @@
     "sources": {
       "streams": [
         "https://fluxfm.streamabc.net/flx-chillhop-mp3-320-1595440",
-        "https://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/"
+        "https://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de"
       ]
     },
     "languages": [
@@ -3312,7 +3297,7 @@
     "name": "FluxFM Die Wundersame Rapwoche",
     "sources": {
       "streams": [
-        "https://streams.fluxfm.de/event03/mp3-128/streams.fluxfm.de/"
+        "https://streams.fluxfm.de/event03/mp3-128/streams.fluxfm.de"
       ]
     },
     "languages": [
@@ -3326,9 +3311,9 @@
     "name": "FluxFM Hot R'n'B",
     "sources": {
       "streams": [
-        "https://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de/",
-        "https://streams.fluxfm.de/rnb/mp3-128/streams.fluxfm.de/",
-        "https://streams.fluxfm.de/rnb/aac-64/streams.fluxfm.de/"
+        "https://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de",
+        "https://streams.fluxfm.de/rnb/mp3-128/streams.fluxfm.de",
+        "https://streams.fluxfm.de/rnb/aac-64/streams.fluxfm.de"
       ]
     },
     "languages": [
@@ -3356,9 +3341,9 @@
     "name": "Foxy 99",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/WZFXFMAAC_SC",
-        "https://26153.live.streamtheworld.com/WZFXFMAAC_SC",
-        "https://14843.live.streamtheworld.com/WZFXFMAAC_SC"
+        "https://14843.live.streamtheworld.com/WZFXFMAAC_SC",
+        "https://19473.live.streamtheworld.com/WZFXFMAAC_SC",
+        "https://26153.live.streamtheworld.com/WZFXFMAAC_SC"
       ]
     },
     "languages": [
@@ -3386,8 +3371,22 @@
     "name": "Fréquence 3 Urban",
     "sources": {
       "streams": [
-        "https://frequence3.net-radio.fr/frequence3urban-128.mp3",
-        "https://frequence3.net-radio.fr/frequence3urban.flac"
+        "https://frequence3.net-radio.fr/frequence3urban.flac",
+        "https://frequence3.net-radio.fr/frequence3urban-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lWQIndKqoVx83t",
+    "name": "Fréquence Mutine",
+    "sources": {
+      "streams": [
+        "https://icecast.infini.fr:8000/mutine"
       ]
     },
     "languages": [
@@ -3478,6 +3477,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NoPZvxAHOII1Qf",
+    "name": "G Praise 106.3",
+    "sources": {
+      "streams": [
+        "https://ice.zradio.org/g/high.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -3864,9 +3877,9 @@
     "name": "Ghetto Radio",
     "sources": {
       "streams": [
-        "https://stream-289.zeno.fm/eghcv7h647zuv",
-        "https://stream-47.zeno.fm/gf58b0pt5x8uv",
-        "https://stream.zeno.fm/cs4q33arb2zuv"
+        "https://stream.zeno.fm/kvudezx1h2zuv",
+        "https://stream-27.zeno.fm/kvudezx1h2zuv",
+        "https://stream-47.zeno.fm/gf58b0pt5x8uv"
       ]
     },
     "languages": [
@@ -3874,6 +3887,20 @@
       "swa"
     ],
     "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IBxujCbflPLuRR",
+    "name": "Gin and Juice Radio",
+    "sources": {
+      "streams": [
+        "https://ginandjuice.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -4093,7 +4120,7 @@
     "name": "Hip Hop Radio",
     "sources": {
       "streams": [
-        "https://stream.rtlradio.de/rnb/mp3-192/"
+        "https://stream.rtlradio.de/rnb/mp3-192"
       ]
     },
     "languages": [
@@ -4301,20 +4328,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mJLOdHJ1xW1Ic8",
-    "name": "Hot 95.9 (WPOZ-HD2)",
-    "sources": {
-      "streams": [
-        "https://ice.zradio.org/h/high.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4DtRaJi4Oj7fsi",
     "name": "Hot 103 Jamz (KPRS)",
     "sources": {
@@ -4334,20 +4347,6 @@
     "sources": {
       "streams": [
         "https://a9.asurahosting.com:7640/radio.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FMQmnJ8Zc2QU9u",
-    "name": "Hot 107.1 (KXHT)",
-    "sources": {
-      "streams": [
-        "https://stream1.flinn.com:8443/1071FM.aac"
       ]
     },
     "languages": [
@@ -4488,7 +4487,7 @@
     "name": "I Love Deutschrap Beste",
     "sources": {
       "streams": [
-        "https://play.ilovemusic.de/ilm_ilovedeutschrapbeste/"
+        "https://play.ilovemusic.de/ilm_ilovedeutschrapbeste"
       ]
     },
     "languages": [
@@ -4517,7 +4516,7 @@
     "name": "I Love Deutschrap First!",
     "sources": {
       "streams": [
-        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst/"
+        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst"
       ]
     },
     "languages": [
@@ -4545,8 +4544,8 @@
     "name": "I Love Hip Hop",
     "sources": {
       "streams": [
-        "https://play.ilovemusic.de/ilm_ilovehiphop/",
-        "https://streams.iloveradio.de/iloveradio3.mp3"
+        "https://streams.iloveradio.de/iloveradio3.mp3",
+        "https://play.ilovemusic.de/ilm_ilovehiphop/"
       ]
     },
     "languages": [
@@ -4561,9 +4560,9 @@
     "name": "I Love Radio",
     "sources": {
       "streams": [
-        "https://play.ilovemusic.de/ilm_iloveradio/",
+        "https://play.ilovemusic.de/ilm_iloveradio",
         "https://stream01.iloveradio.de/iloveradio1.mp3",
-        "https://streams.iloveradio.de/iloveradio1.mp3"
+        "https://stream01.ilovemusic.de/iloveradio1.mp3"
       ]
     },
     "languages": [
@@ -4837,7 +4836,7 @@
     "sources": {
       "streams": [
         "https://stream.jam.fm/jamfm-bl/mp3-128",
-        "https://stream.jam.fm/jamfm-bl/mp3-128/radio-browser.info/"
+        "https://stream.jam.fm/jamfm-bl/mp3-128/radio-browser.info"
       ]
     },
     "languages": [
@@ -5064,8 +5063,8 @@
     "name": "KMEZ 102.9",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KMEZFMAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KMEZFMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KMEZFMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KMEZFMAAC_SC"
       ]
     },
     "languages": [
@@ -5079,8 +5078,8 @@
     "name": "KMOJ 89.9 FM",
     "sources": {
       "streams": [
-        "https://skyradio.streamguys1.com/live-mp3",
-        "https://kmojfm.streamguys1.com/live"
+        "https://kmojfm.streamguys1.com/live",
+        "https://skyradio.streamguys1.com/live-mp3"
       ]
     },
     "languages": [
@@ -5167,7 +5166,7 @@
       "streams": [
         "https://landeswelle-de-hz-fal-stream07-cluster01.radiohost.de/lwgrmp3-192",
         "https://stream.landeswelle.de/lwgr/mp3-192",
-        "https://stream.landeswelle.de/lwgr/mp3-192/rin/"
+        "https://stream.landeswelle.de/lwgr/mp3-192/rin"
       ]
     },
     "languages": [
@@ -5226,8 +5225,8 @@
     "name": "Liaoning Urban Radio",
     "sources": {
       "streams": [
-        "https://lhttp.qingting.fm/live/1099/64k.mp3",
-        "https://lhttp.qtfm.cn/live/1099/64k.mp3"
+        "https://lhttp.qtfm.cn/live/1099/64k.mp3",
+        "https://lhttp.qingting.fm/live/1099/64k.mp3"
       ]
     },
     "languages": [
@@ -5339,7 +5338,9 @@
     "name": "London Music Radio",
     "sources": {
       "streams": [
-        "https://radiobossrelay.radioca.st/stream"
+        "https://stream.londonmusicradio.com:8005/mobile",
+        "https://radiobossrelay.radioca.st/stream",
+        "https://stream.londonmusicradio.com:8005/listen"
       ]
     },
     "languages": [
@@ -5360,21 +5361,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gBzdkWKyAb9bQL",
-    "name": "Love Trap",
-    "sources": {
-      "streams": [
-        "https://n10.radiojar.com/tkeve70hqd0uv",
-        "https://n0a.radiojar.com/tkeve70hqd0uv"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
     "isGeoBlocked": false
   },
   {
@@ -5594,8 +5580,8 @@
     "name": "Metro FM",
     "sources": {
       "streams": [
-        "https://25283.live.streamtheworld.com/METROFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFM_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFM_SC",
+        "https://25283.live.streamtheworld.com/METROFMAAC.aac"
       ]
     },
     "languages": [],
@@ -5635,8 +5621,8 @@
     "name": "Mix 92.3",
     "sources": {
       "streams": [
-        "https://n05b-e2.revma.ihrhls.com/zc1149",
-        "https://stream.revma.ihrhls.com/zc1149"
+        "https://stream.revma.ihrhls.com/zc1149",
+        "https://n05b-e2.revma.ihrhls.com/zc1149"
       ]
     },
     "languages": [
@@ -5718,9 +5704,9 @@
     "name": "Mouv'",
     "sources": {
       "streams": [
+        "https://icecast.radiofrance.fr/mouv-hifi.aac",
         "https://direct.mouv.fr/live/mouv-midfi.mp3",
-        "https://icecast.radiofrance.fr/mouv-midfi.mp3",
-        "https://icecast.radiofrance.fr/mouv-hifi.aac"
+        "https://icecast.radiofrance.fr/mouv-midfi.mp3"
       ]
     },
     "languages": [
@@ -5762,6 +5748,7 @@
     "name": "Music Galaxy Radio",
     "sources": {
       "streams": [
+        "https://eu10.fastcast4u.com:1390/;",
         "https://eu10.fastcast4u.com/themusi2"
       ]
     },
@@ -5856,20 +5843,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kzUqZ2g04LCMTM",
-    "name": "Nau FM 96.5",
-    "sources": {
-      "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFMAAC_SC"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SUisgiotT6rMNd",
     "name": "Naxi R'n'B Radio",
     "sources": {
@@ -5895,20 +5868,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IcrryoCgATyRaK",
-    "name": "New Hip Hop",
-    "sources": {
-      "streams": [
-        "https://stream.pcradio.ru/rad_newhphprd-med"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -6061,7 +6020,7 @@
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ_AAC320.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ_AAC128.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ_AAC48.aac"
       ]
     },
     "languages": [
@@ -6502,7 +6461,7 @@
     "sources": {
       "streams": [
         "https://irmedia.streamabc.net/irm-oswdb-mp3-128-3057868",
-        "https://streamosw.ir-media-tec.com/danceblack/mp3-128/web/"
+        "https://streamosw.ir-media-tec.com/danceblack/mp3-128/web"
       ]
     },
     "languages": [
@@ -6588,8 +6547,8 @@
     "name": "planet radio - black beats",
     "sources": {
       "streams": [
-        "https://mp3.planetradio.de/plrchannels/hqblackbeats.mp3?aw_0_req.gdpr=true",
-        "https://mp3.planetradio.de/plrchannels/hqblackbeats.mp3"
+        "https://mp3.planetradio.de/plrchannels/hqblackbeats.mp3",
+        "https://mp3.planetradio.de/plrchannels/hqblackbeats.mp3?aw_0_req.gdpr=true"
       ]
     },
     "languages": [
@@ -6603,8 +6562,8 @@
     "name": "planet radio - oldschool",
     "sources": {
       "streams": [
-        "https://mp3.planetradio.de/plrchannels/hqoldschool.mp3",
-        "https://mp3.planetradio.de/plrchannels/hqoldschool.mp3?aw_0_req.gdpr=true"
+        "https://mp3.planetradio.de/plrchannels/hqoldschool.mp3?aw_0_req.gdpr=true",
+        "https://mp3.planetradio.de/plrchannels/hqoldschool.mp3"
       ]
     },
     "languages": [
@@ -6675,8 +6634,8 @@
     "name": "Power 99",
     "sources": {
       "streams": [
-        "https://n17b-e2.revma.ihrhls.com/zc2009",
-        "https://stream.revma.ihrhls.com/zc2009"
+        "https://stream.revma.ihrhls.com/zc2009",
+        "https://n17b-e2.revma.ihrhls.com/zc2009"
       ]
     },
     "languages": [
@@ -6911,6 +6870,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nNiUrr9XhhsxLO",
+    "name": "Radio 10 Rwanda",
+    "sources": {
+      "streams": [
+        "https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda"
+      ]
+    },
+    "languages": [
+      "kin"
+    ],
+    "country": "rw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UtfJ0cfco3xEjY",
     "name": "Radio 50/50",
     "sources": {
@@ -7041,7 +7014,7 @@
     "name": "Radio C-Lab",
     "sources": {
       "streams": [
-        "https://www.c-lab.fr/stream/"
+        "https://www.c-lab.fr/stream"
       ]
     },
     "languages": [
@@ -7271,7 +7244,7 @@
     "name": "Radio Greu De Difuzat",
     "sources": {
       "streams": [
-        "https://greudedifuzat.ro/stream/"
+        "https://greudedifuzat.ro/stream"
       ]
     },
     "languages": [
@@ -7518,8 +7491,8 @@
     "name": "Radio Okerwelle",
     "sources": {
       "streams": [
-        "https://stream.okerwelle.de/okw.mp3?ti=m3u",
-        "https://stream.okerwelle.de/okw.mp3"
+        "https://stream.okerwelle.de/okw.mp3",
+        "https://stream.okerwelle.de/okw.mp3?ti=m3u"
       ]
     },
     "languages": [
@@ -7731,7 +7704,7 @@
     "name": "radio SAW Urban Music",
     "sources": {
       "streams": [
-        "https://stream.radiosaw.de/saw-urban/mp3-192/radio-browser/",
+        "https://stream.radiosaw.de/saw-urban/mp3-192/radio-browser",
         "https://stream.saw-musikwelt.de/saw-urban/mp3-128/radio-browser/stream.mp3"
       ]
     },
@@ -7851,6 +7824,7 @@
     "name": "Radio Vibras 92.7 FM",
     "sources": {
       "streams": [
+        "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8",
         "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
       ]
     },
@@ -7866,8 +7840,7 @@
     "sources": {
       "streams": [
         "https://ice10.fluidstream.net/fluid_wow.aac",
-        "https://sphera.fluidstream.eu/fluid_wow.aac",
-        "https://sphera.fluidstream.eu/fluid_wow.aac?FLID=6"
+        "https://sphera.fluidstream.eu/fluid_wow.aac"
       ]
     },
     "languages": [
@@ -7923,8 +7896,8 @@
     "name": "Radioactiva 99.7 FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/fh8qfg75puquv",
-        "https://stream.zeno.fm/6n7fp9t2pceuv"
+        "https://stream.zeno.fm/6n7fp9t2pceuv",
+        "https://stream.zeno.fm/fh8qfg75puquv"
       ]
     },
     "languages": [
@@ -8071,8 +8044,8 @@
     "name": "RauteMusik Deutschrap Charts",
     "sources": {
       "streams": [
-        "https://deutschrap-charts-high.rautemusik.fm/",
-        "https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-deutschrap-charts_mp3-192"
+        "https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-deutschrap-charts_mp3-192",
+        "https://deutschrap-charts-high.rautemusik.fm/"
       ]
     },
     "languages": [
@@ -8186,8 +8159,8 @@
     "name": "Real 98.3",
     "sources": {
       "streams": [
-        "https://n18b-e2.revma.ihrhls.com/zc6944",
-        "https://stream.revma.ihrhls.com/zc6944"
+        "https://stream.revma.ihrhls.com/zc6944",
+        "https://n18b-e2.revma.ihrhls.com/zc6944"
       ]
     },
     "languages": [
@@ -8259,7 +8232,7 @@
     "name": "REYFM - #Deutschrap",
     "sources": {
       "streams": [
-        "https://listen.reyfm.de/reyfm-deutschrap/"
+        "https://listen.reyfm.de/reyfm-deutschrap"
       ]
     },
     "languages": [
@@ -8273,7 +8246,7 @@
     "name": "REYFM - #Deutschrap Gold",
     "sources": {
       "streams": [
-        "https://listen.reyfm.de/reyfm-deutschrap_gold/"
+        "https://listen.reyfm.de/reyfm-deutschrap_gold"
       ]
     },
     "languages": [
@@ -8287,7 +8260,7 @@
     "name": "REYFM - #Hip-Hop",
     "sources": {
       "streams": [
-        "https://listen.reyfm.de/reyfm-hip-hop/"
+        "https://listen.reyfm.de/reyfm-hip-hop"
       ]
     },
     "languages": [
@@ -8301,7 +8274,7 @@
     "name": "REYFM - #Hip-Hop Gold",
     "sources": {
       "streams": [
-        "https://listen.reyfm.de/reyfm-hip-hop_gold/"
+        "https://listen.reyfm.de/reyfm-hip-hop_gold"
       ]
     },
     "languages": [
@@ -8443,7 +8416,8 @@
     "name": "Rocket Radio",
     "sources": {
       "streams": [
-        "https://n05.radiojar.com/nvvyes7gud5tv"
+        "https://n05.radiojar.com/nvvyes7gud5tv",
+        "https://stream.radiojar.com/nvvyes7gud5tv"
       ]
     },
     "languages": [
@@ -8538,17 +8512,19 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rZ40poisiMqKSu",
-    "name": "RTBF Tarmac",
+    "nanoid": "ZIr658X4ax2J2k",
+    "name": "RTB Pilihan FM",
     "sources": {
       "streams": [
-        "https://radios.rtbf.be/tarmac-128.mp3"
+        "https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8"
       ]
     },
     "languages": [
-      "fra"
+      "eng",
+      "msa",
+      "zho"
     ],
-    "country": "be",
+    "country": "bn",
     "isGeoBlocked": false
   },
   {
@@ -8809,8 +8785,8 @@
     "name": "SLAM! Juize",
     "sources": {
       "streams": [
-        "https://stream.slam.nl/WEB09_MP3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_MP3_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_MP3_SC",
+        "https://stream.slam.nl/WEB09_MP3"
       ]
     },
     "languages": [
@@ -8853,22 +8829,6 @@
     "sources": {
       "streams": [
         "https://streaming.live365.com/a04933"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kXyP4wN4UxYV9Z",
-    "name": "SomaFM: Fluid",
-    "sources": {
-      "streams": [
-        "https://ice6.somafm.com/fluid-128-mp3",
-        "https://ice2.somafm.com/fluid-128-mp3",
-        "https://ice4.somafm.com/fluid-128-mp3"
       ]
     },
     "languages": [
@@ -9401,6 +9361,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1xWb0DFMatHGc9",
+    "name": "Tóxicas HR",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/b29cslbyte1vv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KuPtimTUUCm13w",
     "name": "Trace FM Côte d'Ivoire",
     "sources": {
@@ -9499,21 +9473,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AaIvhicrPEzJoH",
-    "name": "Traxx FM Rap",
-    "sources": {
-      "streams": [
-        "https://traxx015.ice.infomaniak.ch/traxx015-low.mp3"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "18hUpFGKWRpvdo",
     "name": "Tru FM",
     "sources": {
@@ -9572,7 +9531,7 @@
     "name": "Universitaria Estéreo 88.2 FM",
     "sources": {
       "streams": [
-        "https://www.utp.edu.co/stream/"
+        "https://www.utp.edu.co/stream"
       ]
     },
     "languages": [
@@ -9621,20 +9580,6 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UQz201nBO70ySu",
-    "name": "Urban con Ñ",
-    "sources": {
-      "streams": [
-        "https://st1.urbanrevolution.es:8443/hispano"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -9706,20 +9651,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xPGw7CtXSJOsrO",
-    "name": "Urban Radio",
-    "sources": {
-      "streams": [
-        "https://nr3.newradio.it:18100/stream"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -9812,8 +9743,8 @@
     "name": "V101",
     "sources": {
       "streams": [
-        "https://n1eb-e2.revma.ihrhls.com/zc2121",
-        "https://stream.revma.ihrhls.com/zc2121"
+        "https://stream.revma.ihrhls.com/zc2121",
+        "https://n1eb-e2.revma.ihrhls.com/zc2121"
       ]
     },
     "languages": [
@@ -10214,26 +10145,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x5vQjjuOugL6bQ",
-    "name": "X Radio 91.3",
-    "sources": {
-      "streams": [
-        "https://live.sugarweb.gr/913.aac"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dnzXP0BFikPKcp",
     "name": "X Radio 103.8",
     "sources": {
       "streams": [
-        "https://yayin.radyomadyo.com:8770/",
-        "https://stream.xradio.com.tr:8770/stream"
+        "https://stream.xradio.com.tr:8770/stream",
+        "https://yayin.radyomadyo.com:8770/"
       ]
     },
     "languages": [
@@ -10304,7 +10221,6 @@
     "name": "YleX",
     "sources": {
       "streams": [
-        "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8",
         "https://icecast.live.yle.fi/radio/YleX/icecast.audio"
       ]
     },
@@ -10333,9 +10249,9 @@
     "name": "Z93 Jamz",
     "sources": {
       "streams": [
-        "https://17813.live.streamtheworld.com/WWWZFM_SC",
         "https://26283.live.streamtheworld.com/WWWZFM_SC",
-        "https://26733.live.streamtheworld.com/WWWZFM_SC"
+        "https://26733.live.streamtheworld.com/WWWZFM_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/WWWZFM_SC"
       ]
     },
     "languages": [
@@ -10422,20 +10338,6 @@
     "sources": {
       "streams": [
         "https://stream.radiogoose.ru/listen/phonk/play"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SwWrnXIwKrCxpQ",
-    "name": "Радио Начинающих Рэперов",
-    "sources": {
-      "streams": [
-        "https://listen6.myradio24.com/rnm"
       ]
     },
     "languages": [

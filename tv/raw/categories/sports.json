@@ -1,11 +1,28 @@
 [
   {
+    "nanoid": "TSUySSswFBAHkn",
+    "name": "5Sport",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/41/index.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UyP5uli9gNPXtq",
     "name": "A Spor",
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/r77EbUhb384"
       ]
     },
     "languages": [
@@ -35,8 +52,7 @@
     "name": "ACC Network",
     "sources": {
       "streams": [
-        "https://206.212.244.63/2486/index.m3u8",
-        "https://40.160.24.52/ACC_NETWORK/index.m3u8"
+        "https://206.212.244.63/2486/index.m3u8"
       ]
     },
     "languages": [
@@ -190,7 +206,8 @@
     "name": "Band Sports",
     "sources": {
       "streams": [
-        "https://45.162.64.114/BAND_SPORTS/index.m3u8"
+        "https://45.162.64.114/BAND_SPORTS/index.m3u8",
+        "https://45.190.28.50/BAND_SPORTS_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -218,14 +235,16 @@
     "name": "Belarus-5",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+        "https://stream.mcquack.net/33/index.m3u8",
+        "https://streaming.thestream.cyou/live/7001.m3u8"
       ]
     },
     "languages": [
       "rus"
     ],
     "country": "by",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "M4nYho03XLslkh",
@@ -240,6 +259,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "gIVpxumuFFQfY2",
+    "name": "Canal Showsport",
+    "sources": {
+      "streams": [
+        "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "haAQVTXfQJECVE",
@@ -270,18 +303,18 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "OPRxJpQBKSrvVd",
-    "name": "CBS Sports Network USA",
+    "nanoid": "g9NMm1b1v6WPST",
+    "name": "Combate",
     "sources": {
       "streams": [
-        "https://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8"
+        "https://143.14.134.107/167/index.m3u8",
+        "https://45.190.156.152/COMBATE/index.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "spa"
+      "por"
     ],
-    "country": "us",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -314,17 +347,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "efmLnGoMatsGBL",
-    "name": "DP World Tour",
+    "nanoid": "VW0YFydw9mhrOx",
+    "name": "Deportes TVC",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Yl_WDEf0zqk"
+      "streams": [
+        "https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "spa"
     ],
-    "country": "uk",
+    "country": "hn",
     "isGeoBlocked": false
   },
   {
@@ -359,6 +392,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "24Fz8LacigNCo4",
+    "name": "DSports 2 Panregional",
+    "sources": {
+      "streams": [
+        "https://streamvidex.qzz.io/videx/dsports2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0neaxGPIJmta4Y",
+    "name": "DSports+ Panregional",
+    "sources": {
+      "streams": [
+        "https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "luLS6QSROJjosk",
+    "name": "Dynamo Kyiv TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/396/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3spET73XcwPAv7",
     "name": "El-Heddaf TV",
     "sources": {
@@ -373,11 +448,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9D74wXaGqUWkp2",
+    "name": "Equalympic",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/485/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Rs0DKc55RmBmA1",
     "name": "ESPN Deportes",
     "sources": {
       "streams": [
-        "https://40.160.24.58/ESPN_DEPORTES/index.m3u8"
+        "https://40.160.24.58/ESPN_DEPORTES/index.m3u8",
+        "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8"
       ]
     },
     "languages": [
@@ -392,35 +482,6 @@
     "sources": {
       "streams": [
         "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HbItVbfNs6Opa1",
-    "name": "ESPNews",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/ESPN_NEWS/index.m3u8",
-        "https://41.223.30.230/ESPNNEWS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F6k6j6M34tuIzz",
-    "name": "ESPNU",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/ESPN_U/index.m3u8"
       ]
     },
     "languages": [
@@ -445,18 +506,33 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "kDBBY14O2KzLCz",
-    "name": "FanDuel Racing",
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
     "sources": {
       "streams": [
-        "https://206.212.244.63/6139/index.m3u8"
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ps5SHG9loIy0eR",
+    "name": "F1 Channel US",
+    "sources": {
+      "streams": [
+        "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "v3omHpUDGpBh5v",
@@ -522,7 +598,8 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -606,24 +683,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VeUGdKJxB8VtSr",
-    "name": "Fox Soccer Plus",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KKtmG6U0zua4oT",
     "name": "FTF Sports",
     "sources": {
       "streams": [
+        "https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8",
         "https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8",
         "https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8"
       ]
@@ -720,6 +784,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lagHJficp6nYbz",
     "name": "ge Fast",
     "sources": {
@@ -734,6 +812,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QEActBWvI7XYY6",
+    "name": "Go3 Sport 1",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/416/index.m3u8"
+      ]
+    },
+    "languages": [
+      "est",
+      "lav",
+      "lit"
+    ],
+    "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dlaiKc65INz3dz",
     "name": "Golf Channel",
     "sources": {
@@ -745,20 +839,6 @@
       "ces"
     ],
     "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XM7JIFylNrPk0k",
-    "name": "Golf Channel",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/GOLF_CHANNEL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -849,6 +929,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9koflv64LcgdIT",
+    "name": "KHL Prime",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/178/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wry8kPUipkC3Ee",
     "name": "KTV Sport",
     "sources": {
@@ -892,18 +986,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zfJa4qfi7LBJ6S",
-    "name": "M4 Sport",
+    "nanoid": "zUGGz2dbNzhVAw",
+    "name": "LRT Plius",
     "sources": {
       "streams": [
-        "https://c802-node63-cdn.connectmedia.hu/110304/ab67a38843442593e9b3d3933bfe7885/6a512f37/index.m3u8"
+        "https://stream.mcquack.net/353/index.m3u8"
       ]
     },
     "languages": [
-      "hun"
+      "lit"
     ],
-    "country": "hu",
-    "isGeoBlocked": false
+    "country": "lt",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "hRCPRwYpEDOZ41",
@@ -920,17 +1014,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H1kwBWCqIWnh6y",
-    "name": "Marquee Sports Network",
+    "nanoid": "ggiFcFAUb7a1Xs",
+    "name": "Match! Arena",
     "sources": {
       "streams": [
-        "https://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8"
+        "https://stream.mcquack.net/163/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "rus"
     ],
-    "country": "us",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -939,6 +1033,20 @@
     "sources": {
       "streams": [
         "https://ukr.ukrainske.tv/134/keytvainua/video.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RQT4a6XQReMGRa",
+    "name": "Match! Ultra 4K",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/169/index.m3u8"
       ]
     },
     "languages": [
@@ -961,21 +1069,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "wGBL8I1vuWBjnz",
-    "name": "MLB Network",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/MLB_Network/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "WjzlJmHsxUPxpZ",
@@ -1020,41 +1113,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "057AuVcfpScIV5",
-    "name": "MSG",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/MSG/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VE6tGTQQ5wGvIL",
     "name": "MSG 2",
     "sources": {
       "streams": [
         "https://40.160.24.52/MSG_2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PS9aw0OPIy8L9j",
-    "name": "MSG Plus",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/MSG_PLUS/index.m3u8"
       ]
     },
     "languages": [
@@ -1079,10 +1142,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yBJtUSwNk3MfD6",
+    "name": "Multivision Sports",
+    "sources": {
+      "streams": [
+        "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NojFEcZYn2QGaE",
+    "name": "N Sports",
+    "sources": {
+      "streams": [
+        "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "sources": {
       "streams": [
+        "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
         "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
         "https://40.160.24.58/NBA_TV/index.m3u8"
       ]
@@ -1129,20 +1221,6 @@
     "sources": {
       "streams": [
         "https://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0ofRwsS2VVuLXC",
-    "name": "NESN",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/NESN/index.m3u8"
       ]
     },
     "languages": [
@@ -1208,34 +1286,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qax3RiDK4jA8v2",
-    "name": "NW Sport 1",
-    "sources": {
-      "streams": [
-        "https://41.205.70.146/BEINSPORT1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "tg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F6us4nh1xfdGhd",
-    "name": "NW Sport 2",
-    "sources": {
-      "streams": [
-        "https://41.205.70.146/M6/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "tg",
     "isGeoBlocked": false
   },
   {
@@ -1327,17 +1377,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qJreMi855SZsfR",
-    "name": "Poker Go",
+    "nanoid": "GlQwW110Nt7S5R",
+    "name": "PokerGo",
     "sources": {
       "streams": [
-        "https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8"
+        "https://206.212.244.63/4249/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TlTNzcDW7CflZP",
+    "name": "Premiere Clubes",
+    "sources": {
+      "streams": [
+        "https://45.190.156.152/PREMIERE_CLUBES/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "por"
     ],
-    "country": "us",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1387,9 +1449,9 @@
     "name": "Racer Network",
     "sources": {
       "streams": [
-        "https://40.160.24.52/MAV_TV/index.m3u8",
         "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8",
-        "https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8"
+        "https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8",
+        "https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1571,6 +1633,51 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Q69JQxUyNRBniH",
+    "name": "Setanta Sports 1 Eurasia",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/234/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "znEq7YZ6MajISX",
+    "name": "Setanta Sports 2 Eurasia",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/235/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ySzp5JPJgUQNao",
+    "name": "Setanta Sports+ Ukraine",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/390/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kWdBvQFz5aue5n",
     "name": "Sky Racing 1",
     "sources": {
@@ -1627,6 +1734,78 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "U9nAYOR0oRufhL",
+    "name": "Sport 1",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/391/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "83RIN2z2ujqEoT",
+    "name": "Sport 1 Baltic",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/461/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus",
+      "ukr"
+    ],
+    "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IlovEqdESRxBC8",
+    "name": "Sport 2",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/392/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oyUhXH3Llkp7QB",
+    "name": "Sport 3",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/393/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QyWOTLGgws7eF1",
+    "name": "Sport 4",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/394/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "sources": {
@@ -1677,6 +1856,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
         "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
@@ -1745,6 +1925,38 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o1MUxdE4bvBqff",
+    "name": "Star Sports 1",
+    "sources": {
+      "streams": [
+        "https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "kan"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "crml1BYute3e3z",
+    "name": "Star Sports Select 1",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/sspts1/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben",
+      "eng",
+      "hin",
+      "mal"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FKwCdU6RG0k0cZ",
     "name": "SuperTennis",
     "sources": {
@@ -1756,6 +1968,20 @@
       "ita"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TnYj2ZiJkibGxp",
+    "name": "Suspilne. Sport",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/444/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {
@@ -1803,34 +2029,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4Me0RU4rvtok1Y",
-    "name": "Tele Rebelde",
-    "sources": {
-      "streams": [
-        "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QCubHZSGzvkAVk",
-    "name": "Teletrak TV",
-    "sources": {
-      "streams": [
-        "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Li2QUIWlgtJ1VE",
     "name": "Tennis Channel",
     "sources": {
@@ -1854,7 +2052,7 @@
         "https://tjktv-live.tjk.org/tjktv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/g89RQMJtK6E"
+        "https://www.youtube-nocookie.com/embed/ZWNyq27gRFY"
       ]
     },
     "languages": [
@@ -1882,7 +2080,9 @@
     "name": "Trace Sport Stars",
     "sources": {
       "streams": [
-        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
+        "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
+        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8",
+        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8"
       ]
     },
     "languages": [
@@ -1890,7 +2090,7 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "CliuBv6wjZdpBP",
@@ -2149,7 +2349,8 @@
     "name": "TyC Sports",
     "sources": {
       "streams": [
-        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+        "https://45.181.87.106/TYCSPORTSHD/index.m3u8"
       ]
     },
     "languages": [
@@ -2178,8 +2379,9 @@
     "name": "USA Network East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/168/index.m3u8",
-        "https://40.160.24.55/USA_NETWORK/index.m3u8"
+        "https://40.160.24.55/USA_NETWORK/index.m3u8",
+        "https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8",
+        "https://206.212.244.63/168/index.m3u8"
       ]
     },
     "languages": [
@@ -2207,7 +2409,7 @@
     "name": "viju+ Sport",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8"
+        "https://stream.mcquack.net/333/index.m3u8"
       ]
     },
     "languages": [
@@ -2232,11 +2434,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jZEkpGlt5AGs91",
-    "name": "WCW",
+    "nanoid": "eiMNDNqakzRMns",
+    "name": "Willow",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Sk3YNqe4fbM"
+      "streams": [
+        "https://tvsen5.aynascope.net/willowhd/index.m3u8",
+        "https://tvsen7.aynascope.net/rEBp38Ax/index.m3u8"
       ]
     },
     "languages": [
@@ -2344,25 +2547,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8Ndns6qOA3E0TP",
-    "name": "WWE",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/v5CIY2gBekg"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KfPyDEuOOc6z6o",
     "name": "WWE Vault",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/y1qfNVOjv-g"
+        "https://www.youtube-nocookie.com/embed/ycms-CIs9IY"
       ]
     },
     "languages": [

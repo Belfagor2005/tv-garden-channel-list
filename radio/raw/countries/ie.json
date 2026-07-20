@@ -132,8 +132,22 @@
     "name": "Christmas FM Classical & Carols",
     "sources": {
       "streams": [
-        "https://christmasfm.cdnstream1.com/2549_64.aac",
-        "https://christmasfm.cdnstream1.com/2549_128.mp3"
+        "https://christmasfm.cdnstream1.com/2549_128.mp3",
+        "https://christmasfm.cdnstream1.com/2549_64.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xDXcMi9n5RKCuA",
+    "name": "Christmas FM Classics & Crooners",
+    "sources": {
+      "streams": [
+        "https://christmasfm.cdnstream1.com/2550_128.mp3"
       ]
     },
     "languages": [
@@ -269,6 +283,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Pa2GTrOnXf5c9j",
+    "name": "Dublin's 98FM Dance",
+    "sources": {
+      "streams": [
+        "https://edge.audioxi.com/98DANCE"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sE9X0S8SNrA6fy",
     "name": "Dublin's FM104",
     "sources": {
@@ -374,7 +402,6 @@
     "name": "Gem Radio New Wave",
     "sources": {
       "streams": [
-        "https://gemradio.radioca.st/stream/1/",
         "https://gemradionw.radioca.st/;stream.nsv"
       ]
     },
@@ -417,7 +444,6 @@
     "name": "Highland Radio",
     "sources": {
       "streams": [
-        "https://edge.audioxi.com/HIGHLAND",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3"
       ]
     },
@@ -689,8 +715,8 @@
     "name": "Newstalk",
     "sources": {
       "streams": [
-        "https://live-bauerie.sharp-stream.com/NTAAC",
-        "https://edge.audioxi.com/NT"
+        "https://edge.audioxi.com/NT",
+        "https://live-bauerie.sharp-stream.com/NTAAC"
       ]
     },
     "languages": [
@@ -939,25 +965,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "73QDZTariKCLOz",
-    "name": "Radio Kerry",
-    "sources": {
-      "streams": [
-        "https://edge.audioxi.com/KERRY"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mfS4owe17ioU6d",
     "name": "Radio Nova",
     "sources": {
       "streams": [
-        "https://edge2.audioxi.com/NOVA",
         "https://stream.audioxi.com/NOVA"
       ]
     },
@@ -1104,8 +1115,8 @@
     "sources": {
       "streams": [
         "https://icecast1.rte.ie/radio1",
-        "https://icecast.rte.ie/ieradio1",
-        "https://icecast.rte.ie/radio1"
+        "https://icecast.rte.ie/radio1",
+        "https://icecast.rte.ie/ieradio1"
       ]
     },
     "languages": [
@@ -1144,20 +1155,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S2JRLH3f1LUS75",
-    "name": "Shannonside FM",
-    "sources": {
-      "streams": [
-        "https://edge.audioxi.com/SHANNONSIDE"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cm4HYwkAc0o747",
     "name": "Solid Gold Radio Ireland",
     "sources": {
@@ -1173,25 +1170,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YDRJxn5W6V0NKZ",
-    "name": "South East Radio",
-    "sources": {
-      "streams": [
-        "https://edge4.audioxi.com/SOUTHEAST"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L6DQBwoo4JeeDQ",
     "name": "SPIN 1038",
     "sources": {
       "streams": [
-        "https://edge.audioxi.com/SP",
         "https://live-bauerie.sharp-stream.com/SP"
       ]
     },
@@ -1207,8 +1189,8 @@
     "sources": {
       "streams": [
         "https://edge.audioxi.com/SW",
-        "https://live-bauerie.sharp-stream.com/SW",
-        "https://stream.audioxi.com/SW"
+        "https://stream.audioxi.com/SW",
+        "https://live-bauerie.sharp-stream.com/SW"
       ]
     },
     "languages": [
@@ -1274,20 +1256,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GMd5oUKQrpfQWc",
-    "name": "Tipp FM",
-    "sources": {
-      "streams": [
-        "https://edge.audioxi.com/TIPPFM"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HLkLJ5gYeRuMQF",
     "name": "Tipperary Mid West Radio",
     "sources": {
@@ -1306,7 +1274,7 @@
     "name": "Today FM",
     "sources": {
       "streams": [
-        "https://edge.audioxi.com/TDAAC",
+        "https://stream.audioxi.com/TD",
         "https://pri.gocaster.net/td",
         "https://live-bauerie.sharp-stream.com/TDAAC"
       ]
@@ -1323,8 +1291,8 @@
     "sources": {
       "streams": [
         "https://live-bauerie.sharp-stream.com/T80",
-        "https://edge3.audioxi.com/T80",
-        "https://stream.audioxi.com/T80"
+        "https://stream.audioxi.com/T80",
+        "https://edge3.audioxi.com/T80"
       ]
     },
     "languages": [

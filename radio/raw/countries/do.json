@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dywPccPpbGLze2",
-    "name": "Cibaeña FM",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/3kasxrwxxypvv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FNr65xuQJ9UtoL",
     "name": "Club Sabroso Radio",
     "sources": {
@@ -201,7 +187,6 @@
     "name": "Éxtasis 89.5 FM",
     "sources": {
       "streams": [
-        "https://radio.hostlagarto.com/8070/stream",
         "https://stream.zeno.fm/f7wt0ptjpn3vv"
       ]
     },
@@ -259,20 +244,6 @@
     "sources": {
       "streams": [
         "https://stream-171.zeno.fm/po2kawctwputv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bHQufWp6tKprYS",
-    "name": "La Nueva 106.9 FM",
-    "sources": {
-      "streams": [
-        "https://lanueva106.radioca.st/stream/1/"
       ]
     },
     "languages": [
@@ -342,8 +313,8 @@
     "name": "MC Anime Radio",
     "sources": {
       "streams": [
-        "https://cast.mcanimeradio.com/listen/mcradio/radio.aac",
-        "https://cast.mcanimeradio.com/listen/mcradio/radio.mp3"
+        "https://cast.mcanimeradio.com/listen/mcradio/radio.mp3",
+        "https://cast.mcanimeradio.com/listen/mcradio/radio.aac"
       ]
     },
     "languages": [
@@ -471,6 +442,20 @@
     "sources": {
       "streams": [
         "https://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zxZrd7G3ldmAed",
+    "name": "Radio Cristal 570 AM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/fu9hfhw8na0uv"
       ]
     },
     "languages": [

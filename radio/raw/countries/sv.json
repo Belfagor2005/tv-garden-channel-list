@@ -98,20 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i6BSn3RShXwFuP",
-    "name": "Radio Astral 102.9 FM",
-    "sources": {
-      "streams": [
-        "https://streaming.rcs.com.sv/proxy/astral/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "j4DJ5kHoikeNy3",
     "name": "Radio Bautista 89.7 FM",
     "sources": {
@@ -130,8 +116,7 @@
     "name": "Radio Cadena YSKL 104.1 FM",
     "sources": {
       "streams": [
-        "https://media.dominiocreativo.com:8000/radioyskl",
-        "https://media.dominiocreativo.com:8000/stream/1/"
+        "https://media.dominiocreativo.com:8000/radioyskl"
       ]
     },
     "languages": [

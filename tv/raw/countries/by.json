@@ -61,21 +61,24 @@
     "name": "Belarus-5",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+        "https://stream.mcquack.net/33/index.m3u8",
+        "https://streaming.thestream.cyou/live/7001.m3u8"
       ]
     },
     "languages": [
       "rus"
     ],
     "country": "by",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Fzrfx3wDU4y6Uc",
     "name": "Belarus-24",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8"
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
+        "https://streaming.thestream.cyou/live/7003.m3u8"
       ]
     },
     "languages": [
@@ -84,7 +87,7 @@
       "rus"
     ],
     "country": "by",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "sLUJ6TnLS6Lwbj",

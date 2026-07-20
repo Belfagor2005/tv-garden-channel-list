@@ -59,6 +59,7 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/AGRO_CANAL/index.m3u8",
+        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
         "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
@@ -169,6 +170,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DIlZLkrC2C3Vr6",
+    "name": "Dikaya okhota",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/274/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wphelUchf8A8QX",
     "name": "Duck Hunting TV",
     "sources": {
@@ -201,7 +216,8 @@
     "name": "Fish TV",
     "sources": {
       "streams": [
-        "https://45.162.64.114/FISH_TV/index.m3u8"
+        "https://45.162.64.114/FISH_TV/index.m3u8",
+        "https://45.190.28.50/FISH_TV_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -216,7 +232,8 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -246,6 +263,9 @@
     "sources": {
       "streams": [
         "https://fms.premio.link/fishingtv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/FMWosQMfdy0"
       ]
     },
     "languages": [
@@ -294,6 +314,7 @@
     "name": "Ohotnik i rybolov",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/194/index.m3u8",
         "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -308,6 +329,7 @@
     "name": "Okhota i rybalka",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/155/index.m3u8",
         "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -338,9 +360,9 @@
     "name": "Outdoor Channel",
     "sources": {
       "streams": [
-        "https://206.212.244.63/2507/index.m3u8",
         "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
-        "https://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
+        "https://206.212.244.63/2507/index.m3u8",
+        "https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G"
       ]
     },
     "languages": [
@@ -356,7 +378,7 @@
       "streams": [
         "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
         "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
-        "https://206.212.244.63/2508/index.m3u8"
+        "https://40.160.24.55/OUTSIDE_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -538,6 +560,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "93DsdscIFyGwKr",
+    "name": "Rybolov",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/264/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0mEe54Ekw1mj61",
     "name": "Swamiji TV American",
     "sources": {
@@ -577,6 +613,21 @@
       "eng"
     ],
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpwExVTLVpI32y",
+    "name": "Trofei",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/357/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {

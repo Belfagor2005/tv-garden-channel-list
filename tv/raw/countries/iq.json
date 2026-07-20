@@ -85,11 +85,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "roeCDcGE1uwKQ6",
-    "name": "Al Iraqia Sport",
+    "nanoid": "IbE1EyU5igXIWS",
+    "name": "Al Iraqia News",
     "sources": {
       "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
+        "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
       ]
     },
     "languages": [
@@ -99,11 +99,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UEXwoyYx1GFZis",
-    "name": "Al Janoub TV",
+    "nanoid": "roeCDcGE1uwKQ6",
+    "name": "Al Iraqia Sport",
     "sources": {
       "streams": [
-        "https://live.alissahost.net/hls/test.m3u8"
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
       ]
     },
     "languages": [
@@ -535,8 +535,7 @@
     "name": "Payam TV",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-        "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8"
       ]
     },
     "languages": [
@@ -556,6 +555,20 @@
     },
     "languages": [
       "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PhXDu5yXp9uaMZ",
+    "name": "Samarra TV",
+    "sources": {
+      "streams": [
+        "https://live.bradosti.net/live/samaraweb_playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
     ],
     "country": "iq",
     "isGeoBlocked": false

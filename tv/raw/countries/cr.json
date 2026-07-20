@@ -4,7 +4,6 @@
     "name": "¡OPA!",
     "sources": {
       "streams": [
-        "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
         "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8"
       ]
     },
@@ -76,7 +75,8 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
       ]
     },
     "languages": [
@@ -469,7 +469,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tHONjx0d-3A"
+        "https://www.youtube-nocookie.com/embed/gWjZ1z84ihQ"
       ]
     },
     "languages": [
@@ -524,6 +524,20 @@
     "sources": {
       "streams": [
         "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
       ]
     },
     "languages": [

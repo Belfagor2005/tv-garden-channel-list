@@ -43,21 +43,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ga2LKiBvg9fvdI",
-    "name": "Global Radio",
-    "sources": {
-      "streams": [
-        "https://zas7.ndx.co.za:8026/stream"
-      ]
-    },
-    "languages": [
-      "eng",
-      "swa"
-    ],
-    "country": "tz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sIIfRcdqOzApYk",
     "name": "Heaven FM Radio",
     "sources": {
@@ -204,20 +189,6 @@
     "sources": {
       "streams": [
         "https://s3.radio.co/s8df0149e0/listen"
-      ]
-    },
-    "languages": [
-      "swa"
-    ],
-    "country": "tz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kzD3De6zpDZ3sW",
-    "name": "Radio Ngamia",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/41e3gsdgmdouv"
       ]
     },
     "languages": [

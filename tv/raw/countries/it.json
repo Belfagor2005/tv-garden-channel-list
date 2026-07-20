@@ -1,33 +1,5 @@
 [
   {
-    "nanoid": "yngiaKgtaE21WQ",
-    "name": "7 RadioVisione",
-    "sources": {
-      "streams": [
-        "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pro30kPCL5sW43",
-    "name": "7 YOU & ME",
-    "sources": {
-      "streams": [
-        "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "y8m70SURUPmxze",
     "name": "12 TV Parma",
     "sources": {
@@ -450,20 +422,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BrM3wf2aWU1ejo",
     "name": "Elive TV Brescia",
     "sources": {
@@ -609,22 +567,7 @@
     "name": "Gold TV",
     "sources": {
       "streams": [
-        "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
         "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kTsDjvuR5SnaAA",
-    "name": "Gold TV Sat",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
       ]
     },
     "languages": [
@@ -721,6 +664,9 @@
     "sources": {
       "streams": [
         "https://fms.premio.link/fishingtv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/FMWosQMfdy0"
       ]
     },
     "languages": [
@@ -823,6 +769,20 @@
     "sources": {
       "streams": [
         "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5LLVHmQ8JEsCfJ",
+    "name": "La TR3 Marsala",
+    "sources": {
+      "streams": [
+        "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1005,20 +965,6 @@
     "sources": {
       "streams": [
         "https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vep0J58HudEoW3",
-    "name": "Odeon 24",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1508,20 +1454,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "ozBRFwRaYqr51w",
-    "name": "Rai Italia Americas",
-    "sources": {
-      "streams": [
-        "https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1sYELMxG7kdJps",
     "name": "Rai Italia Europe/Africa",
     "sources": {
@@ -1531,6 +1463,34 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hui54duTgxlhaP",
+    "name": "Rai Italia North Americas",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2GgBtdEY2JnD3f",
+    "name": "Rai Italia South Americas",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1562,6 +1522,46 @@
     ],
     "country": "it",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "2WWhyLXun5E4Bd",
+    "name": "Rai Sudtirol",
+    "sources": {
+      "streams": [
+        "https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pVq6NYAblJFq99",
+    "name": "Rakuten TV Drama Movies Italy",
+    "sources": {
+      "streams": [
+        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oURW9nLoHQEwxm",
+    "name": "Rakuten TV Sci-Fi Italy",
+    "sources": {
+      "streams": [
+        "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "it",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mwaE9Of5KjZvBf",
@@ -1877,20 +1877,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "DmUTFjCclq9vDQ",
-    "name": "ST Europe Channel",
-    "sources": {
-      "streams": [
-        "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RR6jlIVs0NTuWf",
     "name": "Stereo 5 TV",
     "sources": {
@@ -1953,20 +1939,6 @@
     "sources": {
       "streams": [
         "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jHr3gQHmtG7nGu",
-    "name": "T9",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
       ]
     },
     "languages": [

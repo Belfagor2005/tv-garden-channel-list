@@ -56,6 +56,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Z6dH3Ii9BCeu8z",
+    "name": "Cool Radio 91.6",
+    "sources": {
+      "streams": [
+        "https://live3.istoikona.net/proxy/cooleradio/stream"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "cy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LP90vzg8RojAVf",
     "name": "Dance FM",
     "sources": {
@@ -130,8 +144,8 @@
     "name": "Mix FM",
     "sources": {
       "streams": [
-        "https://strm.mixlive.eu/mixfm/index.m3u8",
-        "https://link.radiojar.com/c27wx6pdh8vtv"
+        "https://link.radiojar.com/c27wx6pdh8vtv",
+        "https://strm.mixlive.eu/mixfm/index.m3u8"
       ]
     },
     "languages": [
@@ -286,7 +300,7 @@
     "name": "Russkoe Radio Cyprus",
     "sources": {
       "streams": [
-        "https://stream.veblot.net/proxy/russianradio/stream/"
+        "https://stream.veblot.net/proxy/russianradio/stream"
       ]
     },
     "languages": [

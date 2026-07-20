@@ -1,20 +1,5 @@
 [
   {
-    "nanoid": "eWOyMl7y80lFyc",
-    "name": "28Radio",
-    "sources": {
-      "streams": [
-        "https://streaming.28radio.cc:8000/rock.mp3"
-      ]
-    },
-    "languages": [
-      "deu",
-      "eng"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wc52BpOQXrmH67",
     "name": "88.6 Classic Rock",
     "sources": {
@@ -204,8 +189,8 @@
     "name": "Antenne Steiermark",
     "sources": {
       "streams": [
-        "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
-        "https://live.antenne.at/as"
+        "https://live.antenne.at/as",
+        "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -261,8 +246,8 @@
     "name": "Antenne Vorarlberg 80er Hits",
     "sources": {
       "streams": [
-        "https://edge63.radio.antennevorarlberg.at/av-live",
-        "https://web.radio.antennevorarlberg.at/av-80er"
+        "https://web.radio.antennevorarlberg.at/av-80er",
+        "https://edge63.radio.antennevorarlberg.at/av-live"
       ]
     },
     "languages": [
@@ -759,8 +744,8 @@
     "name": "Flash 90s",
     "sources": {
       "streams": [
-        "https://liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105",
-        "https://stream.flash90s.at/flash90s/mp3-192/"
+        "https://stream.flash90s.at/flash90s/mp3-192",
+        "https://liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105"
       ]
     },
     "languages": [
@@ -816,8 +801,8 @@
     "name": "FREIRAD - Freies Radio Innsbruck",
     "sources": {
       "streams": [
-        "https://stream.freirad.at/live.ogg",
-        "https://stream.freirad.at/live.mp3"
+        "https://stream.freirad.at/live.mp3",
+        "https://stream.freirad.at/live.ogg"
       ]
     },
     "languages": [
@@ -947,7 +932,8 @@
     "name": "JoyTürk Rock",
     "sources": {
       "streams": [
-        "https://25643.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac"
+        "https://25643.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC"
       ]
     },
     "languages": [
@@ -1075,7 +1061,7 @@
     "name": "Life Radio 80er",
     "sources": {
       "streams": [
-        "https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/"
+        "https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at"
       ]
     },
     "languages": [
@@ -1105,7 +1091,7 @@
     "sources": {
       "streams": [
         "https://liferadio.streamabc.net/lfr-crock-mp3-192-6797911",
-        "https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/",
+        "https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at",
         "https://stream11.liferadio.at/"
       ]
     },
@@ -1120,7 +1106,7 @@
     "name": "Life Radio Greatest Hits",
     "sources": {
       "streams": [
-        "https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/"
+        "https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at"
       ]
     },
     "languages": [
@@ -1134,7 +1120,7 @@
     "name": "Life Radio Sommersongs",
     "sources": {
       "streams": [
-        "https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/"
+        "https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at"
       ]
     },
     "languages": [
@@ -1148,8 +1134,8 @@
     "name": "Life Radio Tirol",
     "sources": {
       "streams": [
-        "https://stream.liferadio.tirol/live/aac-256/SHQ",
-        "https://stream.liferadio.tirol/live/mp3-192/link"
+        "https://stream.liferadio.tirol/live/mp3-192/link",
+        "https://stream.liferadio.tirol/live/aac-256/SHQ"
       ]
     },
     "languages": [
@@ -1196,20 +1182,6 @@
     },
     "languages": [
       "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2NQY9CtPTsJ1Jk",
-    "name": "Lo-Fi Halloween and Chill",
-    "sources": {
-      "streams": [
-        "https://audio.gendercriminals.gay/listen/lo-fi_halloween_and_chill/radio-browser"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "at",
     "isGeoBlocked": false
@@ -1319,7 +1291,7 @@
     "name": "NORA Oldie Party",
     "sources": {
       "streams": [
-        "https://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/"
+        "https://streams.norawebstreams.de/oldieparty/mp3-192/vtuner"
       ]
     },
     "languages": [
@@ -1896,6 +1868,7 @@
     "name": "Radio Arabella Schlager",
     "sources": {
       "streams": [
+        "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile",
         "https://edge64.streams.arabella.at/arabella-schlager"
       ]
     },
@@ -2154,20 +2127,6 @@
     "sources": {
       "streams": [
         "https://v2.radiodienst.de:9630/live"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nfwwZTyKgzRB7t",
-    "name": "Radio Helsinki",
-    "sources": {
-      "streams": [
-        "https://live.helsinki.at:8088/live160.mp3"
       ]
     },
     "languages": [
@@ -2515,9 +2474,9 @@
     "name": "Radio U1 Tirol",
     "sources": {
       "streams": [
+        "https://live.u1-radio.at/",
         "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-        "https://live.u1-radio.at/u1-tirol-live/mp3-192/",
-        "https://live.u1-radio.at/"
+        "https://live.u1-radio.at/u1-tirol-live/mp3-192"
       ]
     },
     "languages": [
@@ -2602,8 +2561,8 @@
     "name": "Radio Wien",
     "sources": {
       "streams": [
-        "https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8",
         "https://orf-live.ors-shoutcast.at/wie-q2a",
+        "https://ors-sn05.ors-shoutcast.at/wie-q2a",
         "https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8"
       ]
     },
@@ -2775,8 +2734,8 @@
     "name": "SoundStorm Radio",
     "sources": {
       "streams": [
-        "https://stream.soundstorm-radio.com/listen/soundstorm/aac",
-        "https://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3"
+        "https://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3",
+        "https://stream.soundstorm-radio.com/listen/soundstorm/aac"
       ]
     },
     "languages": [
@@ -2795,20 +2754,6 @@
     },
     "languages": [
       "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O46pvIzxHRaRuZ",
-    "name": "Splatoon Station Seven",
-    "sources": {
-      "streams": [
-        "https://audio.gendercriminals.gay/listen/splatoon_station_seven/radio-browser"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "at",
     "isGeoBlocked": false
@@ -2846,8 +2791,8 @@
     "name": "Styria Lounge",
     "sources": {
       "streams": [
-        "https://styrialounge.out.airtime.pro/styrialounge_a",
-        "https://styrialounge.out.airtime.pro:8000/styrialounge_a"
+        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
+        "https://styrialounge.out.airtime.pro/styrialounge_a"
       ]
     },
     "languages": [
@@ -3016,8 +2961,8 @@
     "name": "WELLE 1 Oberösterreich",
     "sources": {
       "streams": [
-        "https://live.welle1.at:17256/stream",
-        "https://live.welle1.at:17128/stream"
+        "https://live.welle1.at:17128/stream",
+        "https://live.welle1.at:17256/stream"
       ]
     },
     "languages": [

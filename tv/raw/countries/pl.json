@@ -196,6 +196,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YVXMNDK2rpUCOO",
+    "name": "dlaCiebie.tv",
+    "sources": {
+      "streams": [
+        "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9IWJvqi8MKA5iX",
     "name": "Dr G Medical Examiner",
     "sources": {
@@ -234,6 +248,60 @@
     },
     "languages": [
       "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5dT3o8Qzp8yON8",
+    "name": "FILMBOX+ Emotion Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KbidRDRhifoVAS",
+    "name": "FILMBOX+ Festival",
+    "sources": {
+      "streams": [
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9EkWIDYKroUA8f",
+    "name": "FILMBOX+ Hits Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L1MnKhYpJdL0NG",
+    "name": "FILMBOX+ Love & Crime Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -350,7 +418,7 @@
       "eng"
     ],
     "country": "pl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "PgSQJkjlJAZPaq",
@@ -451,20 +519,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "coRLnGknftkVsQ",
-    "name": "Sfera TV",
-    "sources": {
-      "streams": [
-        "https://stream.sferatv.pl/sferatvlive/live.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EQEGSe3LlRCr52",
     "name": "Szlagierowo: Biesiadne Radio",
     "sources": {
@@ -511,7 +565,7 @@
     "name": "Telewizja Gorzów",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/DKpTQ7Z37Qc"
+        "https://www.youtube-nocookie.com/embed/sN9JbSNngVs"
       ]
     },
     "languages": [
@@ -623,7 +677,7 @@
     "name": "Telewizja Zabrze",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/P085VB1IGb0"
+        "https://www.youtube-nocookie.com/embed/EVOt6OyHU9g"
       ]
     },
     "languages": [
@@ -658,7 +712,7 @@
       "eng"
     ],
     "country": "pl",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "rg1mqweNVc3OwT",
@@ -776,11 +830,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XOB3inPkwkHuWb",
-    "name": "TVP1",
+    "nanoid": "8fkva1GfM7tM4w",
+    "name": "TVSUDECKA PL",
     "sources": {
-      "streams": [
-        "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
       ]
     },
     "languages": [
@@ -790,11 +844,26 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8fkva1GfM7tM4w",
-    "name": "TVSUDECKA PL",
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
+      "streams": [
+        "https://stream.twoja.tv/ttv_hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hJ7RP05oeqLZ6y",
+    "name": "Ultra TV 4K",
+    "sources": {
+      "streams": [
+        "https://45.190.28.50/ULTRA/index.m3u8"
       ]
     },
     "languages": [

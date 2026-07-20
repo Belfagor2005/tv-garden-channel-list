@@ -4,9 +4,9 @@
     "name": "BFBS Gurkha Radio",
     "sources": {
       "streams": [
-        "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac",
         "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3",
-        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
+        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+        "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac"
       ]
     },
     "languages": [
@@ -89,11 +89,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kfZpK6BId0Qf5T",
+    "name": "Radio Kantipur",
+    "sources": {
+      "streams": [
+        "https://radio-broadcast.ekantipur.com/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nep"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Zy1eoJZdr9W0fF",
     "name": "Radio Nepal",
     "sources": {
       "streams": [
-        "https://stream1.radionepal.gov.np/live/"
+        "https://stream1.radionepal.gov.np/live"
       ]
     },
     "languages": [

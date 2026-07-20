@@ -100,6 +100,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VEgcJqQ72yDZHi",
+    "name": "Europa Plus Ukraine",
+    "sources": {
+      "streams": [
+        "https://s5.radioforge.com:7908/live"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MuQHW4bz5BFIJN",
     "name": "FM Галичина (Galychyna)",
     "sources": {
@@ -119,8 +133,8 @@
     "sources": {
       "streams": [
         "https://stream.freshrock.net/320.mp3",
-        "https://stream.freshrock.net/24.aac",
-        "https://stream.freshrock.net/128.mp3"
+        "https://stream.freshrock.net/128.mp3",
+        "https://stream.freshrock.net/24.aac"
       ]
     },
     "languages": [
@@ -192,8 +206,8 @@
     "name": "Kiss FM Digital",
     "sources": {
       "streams": [
-        "https://online.kissfm.ua/KissFM_Digital",
-        "https://online.kissfm.ua/KissFM_Digital_HD"
+        "https://online.kissfm.ua/KissFM_Digital_HD",
+        "https://online.kissfm.ua/KissFM_Digital"
       ]
     },
     "languages": [
@@ -724,6 +738,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UXnQmoPekiVfkv",
+    "name": "RockRadio UA (РокРадіо UA)",
+    "sources": {
+      "streams": [
+        "https://rockradioua.online:8433/rock_256"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DKI2LAISvIj66j",
     "name": "Seven Rays Radio",
     "sources": {
@@ -819,8 +847,8 @@
     "sources": {
       "streams": [
         "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/radio.mp3",
-        "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_48.m4a",
-        "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_96.m4a"
+        "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_96.m4a",
+        "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_48.m4a"
       ]
     },
     "languages": [
@@ -974,6 +1002,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LCnMcrjTYaPTHx",
+    "name": "Вільне Радіо Котельва",
+    "sources": {
+      "streams": [
+        "https://globalic.stream:1575/stream"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MXJ3Wa44dAzzlD",
     "name": "Всемирное Одесское Радио",
     "sources": {
@@ -1104,8 +1146,8 @@
     "name": "Люкс FM (Lux FM)",
     "sources": {
       "streams": [
+        "https://icecastdc.luxnet.ua/lux_mp3_128",
         "https://icecast.luxnet.ua/lux",
-        "https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8",
         "https://icecast.luxnet.ua/luxlviv"
       ]
     },
@@ -1342,6 +1384,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lTlpiDN4HncVco",
+    "name": "Радіо Ґарта",
+    "sources": {
+      "streams": [
+        "https://rockradioua.online:8433/metal_256"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6cRWO9T22AEYRy",
     "name": "Радіо Голос Надії",
     "sources": {
@@ -1356,12 +1412,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BzWpWF1U4y0LdA",
+    "name": "Радіо Дзвони",
+    "sources": {
+      "streams": [
+        "https://radio.dzvony.org.ua/"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iRuGtWExCx7Tx5",
     "name": "Радіо Західний полюс",
     "sources": {
       "streams": [
-        "https://online.z-polus.info/mobilehq",
         "https://online.z-polus.info/mobile",
+        "https://online.z-polus.info/mobilehq",
         "https://online.z-polus.info/hq"
       ]
     },
@@ -1618,6 +1688,21 @@
       ]
     },
     "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NcjHKXvM5ciRN4",
+    "name": "Радіо НВ (Radio NV)",
+    "sources": {
+      "streams": [
+        "https://online-radio.nv.ua/radionv.mp3"
+      ]
+    },
+    "languages": [
+      "rus",
       "ukr"
     ],
     "country": "ua",

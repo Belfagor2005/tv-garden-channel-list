@@ -1,9 +1,24 @@
 [
   {
+    "nanoid": "xdcIXKlQrLU4bG",
+    "name": ".black",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/263/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ok0YOGbjjwXfMY",
     "name": "2x2",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/187/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8"
       ]
     },
@@ -62,14 +77,15 @@
     "sources": {
       "streams": [
         "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
-        "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
+        "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+        "https://streaming.thestream.cyou/live/7000.m3u8"
       ]
     },
     "languages": [
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "5Piezdkcn8rLT9",
@@ -119,6 +135,20 @@
     "sources": {
       "streams": [
         "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "thN5J0xabRBwQr",
+    "name": "Amedia Hit",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/162/index.m3u8"
       ]
     },
     "languages": [
@@ -212,6 +242,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VZhk7cz2JcEXl3",
+    "name": "Avto24",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/78/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ge7j4UGzAwsFva",
     "name": "Belgorod 24",
     "sources": {
@@ -235,6 +279,20 @@
     },
     "languages": [
       "hin",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gleAqHgKmO9AU5",
+    "name": "BRIDGE Deluxe",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/92/index.m3u8"
+      ]
+    },
+    "languages": [
       "rus"
     ],
     "country": "ru",
@@ -289,7 +347,23 @@
     "name": "Channel 8",
     "sources": {
       "streams": [
-        "https://tshift-1.telecoma.tv/8channel/index.m3u8"
+        "https://tshift-1.telecoma.tv/8channel/index.m3u8",
+        "https://v4.proofix.ru/okino-tv/index.m3u8",
+        "https://v4.proofix.ru/8tv-russia/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jXS8I8IchjQyqy",
+    "name": "Channel 8 Novosibirsk",
+    "sources": {
+      "streams": [
+        "https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -304,14 +378,15 @@
     "sources": {
       "streams": [
         "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8",
-        "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8"
+        "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+        "https://streaming.thestream.cyou/live/7004.m3u8"
       ]
     },
     "languages": [
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "U4INrzVYWsDWWg",
@@ -319,6 +394,7 @@
     "sources": {
       "streams": [
         "https://178.217.49.7/1/index.m3u8",
+        "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8"
       ]
     },
@@ -385,20 +461,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gUswhqxHZdKrP1",
-    "name": "City Eden KinoAction",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41333/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n4R8lzuArvLNkC",
     "name": "City Eden KinoArt",
     "sources": {
@@ -413,53 +475,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wc02nSZr6VuoIF",
-    "name": "City Eden KinoAsia",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34393/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8Ucx5FG7ngDLh5",
-    "name": "City Eden KinoDetektiv",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41327/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UYW2WtzuwJvxrr",
     "name": "City Eden KinoDok",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zzxh5uo44jq1FL",
-    "name": "City Eden KinoFantastika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45268/index.m3u8"
       ]
     },
     "languages": [
@@ -511,11 +531,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eLHDrGKZWgbc15",
-    "name": "City Eden Sirtaki TV",
+    "nanoid": "TjR7nGppjiGshF",
+    "name": "Classic Music",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/46421/index.m3u8"
+        "https://stream.mcquack.net/312/index.m3u8"
       ]
     },
     "languages": [
@@ -529,8 +549,7 @@
     "name": "Crimea 24",
     "sources": {
       "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
-        "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8"
+        "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
       ]
     },
     "languages": [
@@ -583,6 +602,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DIlZLkrC2C3Vr6",
+    "name": "Dikaya okhota",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/274/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lMbPpHBoCjzoLt",
     "name": "Doctor",
     "sources": {
@@ -626,11 +659,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "tVKEKu2ttkc0Bj",
-    "name": "Drive",
+    "nanoid": "kJjByxu6KTTJt4",
+    "name": "Dorama",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
+        "https://stream.mcquack.net/412/index.m3u8"
       ]
     },
     "languages": [
@@ -640,11 +673,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xupLUhlUhMmQst",
-    "name": "Duma TV",
+    "nanoid": "tVKEKu2ttkc0Bj",
+    "name": "Drive",
     "sources": {
       "streams": [
-        "https://dumatv.iptv2022.com/playlist.m3u8"
+        "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -697,11 +730,81 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3b8CTZ3nNtF2zo",
+    "name": "Evrokino",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/385/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OWbwO4UAARAo91",
+    "name": "FAN",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/420/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yAWufo7GdMbTbc",
+    "name": "Fashion&LifeStyle",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/119/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fAUqob7LIqewI8",
     "name": "Fon Music",
     "sources": {
       "streams": [
         "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oXgJOEwrL2XNcq",
+    "name": "Fox",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/182/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JecIpXSXe0rzpH",
+    "name": "Fox Life",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/129/index.m3u8"
       ]
     },
     "languages": [
@@ -745,6 +848,20 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IafF9EonlIY9v8",
+    "name": "Hit",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/363/index.m3u8"
       ]
     },
     "languages": [
@@ -802,6 +919,7 @@
     "name": "Indiyskoye Kino",
     "sources": {
       "streams": [
+        "https://188.113.190.12/329/index.m3u8",
         "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -830,6 +948,7 @@
     "name": "Insayt TV 4K",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/361/index.m3u8",
         "https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -872,7 +991,21 @@
     "name": "Jetix",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/q1xg7r2TQCo"
+        "https://www.youtube-nocookie.com/embed/yBM93UsRlD8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9koflv64LcgdIT",
+    "name": "KHL Prime",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/178/index.m3u8"
       ]
     },
     "languages": [
@@ -929,6 +1062,34 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "H3UPSBAVuhUxL7",
+    "name": "Komedia",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/68/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f9wps5E9UYwNAb",
+    "name": "Kongress TV",
+    "sources": {
+      "streams": [
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
       ]
     },
     "languages": [
@@ -1064,11 +1225,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gFFIKEqF73szNM",
-    "name": "Maidan",
+    "nanoid": "I2sJdUJ6NK838p",
+    "name": "Mama",
     "sources": {
       "streams": [
-        "https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8"
+        "https://stream.mcquack.net/79/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggiFcFAUb7a1Xs",
+    "name": "Match! Arena",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/163/index.m3u8"
       ]
     },
     "languages": [
@@ -1083,6 +1258,20 @@
     "sources": {
       "streams": [
         "https://ukr.ukrainske.tv/134/keytvainua/video.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RQT4a6XQReMGRa",
+    "name": "Match! Ultra 4K",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/169/index.m3u8"
       ]
     },
     "languages": [
@@ -1142,6 +1331,7 @@
     "sources": {
       "streams": [
         "https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58",
+        "https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8",
         "https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8"
       ]
     },
@@ -1171,6 +1361,20 @@
     "sources": {
       "streams": [
         "https://moymir.ru/hls/onair.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1sylSgieonAaR5",
+    "name": "Moya stikhiya",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/141/index.m3u8"
       ]
     },
     "languages": [
@@ -1238,10 +1442,25 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "Fj9b4jGpuQr4ag",
+    "name": "Muzyka Live",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/303/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lUc7bxFOE90p3O",
     "name": "Muzyka Pervogo",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/153/index.m3u8",
         "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1257,7 +1476,22 @@
     "name": "Nano",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/419/index.m3u8",
         "https://s1.tv-nano.com/Nano_rec/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YSwqwjWz1Ji3Hg",
+    "name": "Nashe",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/217/index.m3u8"
       ]
     },
     "languages": [
@@ -1281,6 +1515,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jDb8tgaBS3dpwH",
+    "name": "National Geographic",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/116/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RdBj6vEFVhj28o",
     "name": "Nick Jr.",
     "sources": {
@@ -1289,6 +1537,21 @@
       ]
     },
     "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rXHwmhULYyEgNr",
+    "name": "Nickelodeon",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/443/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "rus"
     ],
     "country": "ru",
@@ -1466,10 +1729,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tqpekqbtzkiahc",
+    "name": "O!",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/60/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "skmeLVfBwTzGbY",
     "name": "Ohotnik i rybolov",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/194/index.m3u8",
         "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1484,6 +1762,7 @@
     "name": "Okhota i rybalka",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/155/index.m3u8",
         "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1495,11 +1774,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KJJjACOrggvwS0",
+    "name": "Osetiya-Iryston",
+    "sources": {
+      "streams": [
+        "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Dey2lxno90kK7c",
     "name": "OSN",
     "sources": {
       "streams": [
         "https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qr9xvBDjARPSP8",
+    "name": "Otkritiy mir. Zdorove",
+    "sources": {
+      "streams": [
+        "https://v4.proofix.ru/0mir/index.m3u8"
       ]
     },
     "languages": [
@@ -1537,11 +1844,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kDIn5P06JUE8QJ",
-    "name": "Perviy Krymskiy",
+    "nanoid": "ClrLVtv3nyuxRh",
+    "name": "Patriot",
     "sources": {
       "streams": [
-        "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
+        "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8"
       ]
     },
     "languages": [
@@ -1570,6 +1877,20 @@
     "sources": {
       "streams": [
         "https://streaming.thestream.cyou/live/43.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SCkxIIwhcJzUwx",
+    "name": "Premialnoe",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/421/index.m3u8"
       ]
     },
     "languages": [
@@ -1612,6 +1933,7 @@
     "name": "Prodvizhenie",
     "sources": {
       "streams": [
+        "https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8",
         "https://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8"
       ]
     },
@@ -1626,6 +1948,7 @@
     "name": "Prosveshchenie",
     "sources": {
       "streams": [
+        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
         "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
       ]
     },
@@ -1634,6 +1957,34 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8G4v5aSAbUit9l",
+    "name": "Radio 1",
+    "sources": {
+      "streams": [
+        "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "2Fzund01OrMQR9",
+    "name": "Radio Rossii",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "uuPEZrmKbOVuZJ",
@@ -1699,6 +2050,7 @@
     "name": "Retro",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/191/index.m3u8",
         "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1741,9 +2093,7 @@
     "name": "RT",
     "sources": {
       "streams": [
-        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
-        "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
-        "https://41.205.77.102/RT-ENGLISH/index.m3u8"
+        "https://wisewatchoott.wiseplayout.com/RT/master.m3u8"
       ]
     },
     "languages": [
@@ -1757,7 +2107,6 @@
     "name": "RT Arabic",
     "sources": {
       "streams": [
-        "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
         "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
       ]
     },
@@ -1772,8 +2121,7 @@
     "name": "RT Balkan",
     "sources": {
       "streams": [
-        "https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8",
-        "https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8"
+        "https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1783,40 +2131,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X0UpythUDXPOp6",
-    "name": "RTR-Planeta Asia",
+    "nanoid": "p0jnHTBehgm826",
+    "name": "RTG TV",
     "sources": {
       "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/211.m3u8",
-        "https://stream.smotrim.ru/hls2/planeta_rtr_asia/playlist_4.m3u8"
+        "https://stream.mcquack.net/164/index.m3u8"
       ]
     },
     "languages": [
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "YPsL7XyEBO32tl",
-    "name": "RTR-Planeta CIS",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls2/planeta_rtr_sng/playlist_4.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Y1NYjl7GEsAG9i",
-    "name": "RTR-Planeta Europe",
+    "name": "RTR Planeta Europe",
     "sources": {
       "streams": [
-        "https://stream.smotrim.ru/hls2/planeta_rtr_euro/playlist_4.m3u8"
+        "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d"
       ]
     },
     "languages": [
@@ -1830,6 +2163,7 @@
     "name": "RTVi",
     "sources": {
       "streams": [
+        "https://shift03.isp.bg/RTVi/index.m3u8",
         "https://s70378.cdn.ngenix.net/rtvi/index.m3u8"
       ]
     },
@@ -1844,7 +2178,6 @@
     "name": "RTД",
     "sources": {
       "streams": [
-        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
         "https://streaming.thestream.cyou/live/554.m3u8"
       ]
     },
@@ -1869,13 +2202,42 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X0UpythUDXPOp6",
+    "name": "Russia RTR Asia",
+    "sources": {
+      "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/211.m3u8",
+        "https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "YPsL7XyEBO32tl",
+    "name": "Russia RTR CIS",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "OGCmN6tl6MdX8f",
     "name": "Russia-1",
     "sources": {
       "streams": [
-        "https://41.223.30.230/RUSSIA1/index.m3u8",
         "https://109.207.243.18/2/index.m3u8",
-        "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8"
+        "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8",
+        "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -1914,6 +2276,62 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "7xNNFY1qQC2TBM",
+    "name": "Russkiy Bestseller",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/208/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "63NhZxqlpSKwDo",
+    "name": "Russkiy Detektiv",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/204/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "txZM6XCGS8gAEh",
+    "name": "Russkiy roman",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/266/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "93DsdscIFyGwKr",
+    "name": "Rybolov",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/264/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "b3MNVX3z2oxA71",
@@ -1976,7 +2394,22 @@
     "name": "Sankt-Peterburg",
     "sources": {
       "streams": [
-        "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8"
+        "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8",
+        "https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CknMbZ3aYMLqGf",
+    "name": "Sarafan",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/81/index.m3u8"
       ]
     },
     "languages": [
@@ -2004,6 +2437,7 @@
     "name": "Shanson TV",
     "sources": {
       "streams": [
+        "https://streaming.thestream.cyou/live/7009.m3u8",
         "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
         "https://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8"
       ]
@@ -2161,6 +2595,7 @@
     "sources": {
       "streams": [
         "https://tv.mediacdn.ru/live/solntse/playlist.m3u8",
+        "https://stream.mcquack.net/118/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
       ]
     },
@@ -2270,6 +2705,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9f7IFEFwv1iC1Z",
+    "name": "START Air",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/128/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4fSWekqVzO4BQS",
     "name": "Strana FM",
     "sources": {
@@ -2289,9 +2738,9 @@
     "name": "STS",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/138/index.m3u8",
         "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
-        "https://tshift-1.telecoma.tv/sts/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+        "https://tshift-1.telecoma.tv/sts/index.m3u8"
       ]
     },
     "languages": [
@@ -2305,6 +2754,7 @@
     "name": "STS Love",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/183/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
       ]
     },
@@ -2319,6 +2769,7 @@
     "name": "Subbota!",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/269/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8"
       ]
     },
@@ -2375,6 +2826,7 @@
     "name": "Tamyr",
     "sources": {
       "streams": [
+        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
         "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
       ]
     },
@@ -2527,6 +2979,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bEnt0TUe16DLhv",
+    "name": "Tochka RF",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/161/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qNo5nKmdri2pF3",
     "name": "Tolk",
     "sources": {
@@ -2644,6 +3110,7 @@
     "name": "U",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/230/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8"
       ]
     },
@@ -2697,11 +3164,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9ria4ZfYku6lmO",
+    "name": "Usadba",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/211/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SP0kNtTm9KEzd5",
     "name": "Vera 24",
     "sources": {
       "streams": [
         "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Tk0mG4VFLQVdIQ",
+    "name": "Vesti FM",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8"
       ]
     },
     "languages": [
@@ -2758,7 +3253,7 @@
     "name": "viju+ Sport",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8"
+        "https://stream.mcquack.net/333/index.m3u8"
       ]
     },
     "languages": [
@@ -2797,11 +3292,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pnRdmB03EI7cgW",
-    "name": "Vmeste-RF",
+    "nanoid": "K5EAZFvuWObb4f",
+    "name": "VIVA Russia",
     "sources": {
       "streams": [
-        "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2809,6 +3304,21 @@
     ],
     "country": "ru",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pnRdmB03EI7cgW",
+    "name": "Vmeste-RF",
+    "sources": {
+      "streams": [
+        "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8",
+        "https://streaming.thestream.cyou/live/7006.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "CX3tgybrTddfmZ",
@@ -2887,6 +3397,21 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a69WzJtbQZN4Ib",
+    "name": "Zhivaya priroda",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/225/index.m3u8",
+        "https://stream.mcquack.net/83/index.m3u8"
       ]
     },
     "languages": [
@@ -3073,6 +3598,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/ozFiyuUljag"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VRSVNzRuNbdCXJ",
+    "name": "Ювелирочка",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/--DszUWnbmM"
       ]
     },
     "languages": [

@@ -156,6 +156,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cihRbiX7gws0cD",
+    "name": "FashionBox",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QC400UPdsbVwAc",
     "name": "Fast&FunBox",
     "sources": {
@@ -189,62 +203,6 @@
     "sources": {
       "streams": [
         "https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iPLSWaME1Eh8cp",
-    "name": "FilmBox Arthouse",
-    "sources": {
-      "streams": [
-        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FsqGCMRqEpSuHU",
-    "name": "FilmBox+ Emotion Adria",
-    "sources": {
-      "streams": [
-        "https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mTMVPOuf7uKRkN",
-    "name": "FilmBox+ Hits Adria",
-    "sources": {
-      "streams": [
-        "https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KcN1k5dKr2fSSJ",
-    "name": "FilmBox+ Love & Crime Adria",
-    "sources": {
-      "streams": [
-        "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8"
       ]
     },
     "languages": [
@@ -1017,6 +975,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HILD48iLzHhprA",
+    "name": "RN7",
+    "sources": {
+      "streams": [
+        "https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bzhuoIIHDSQpOH",
     "name": "Rotterdam Podium TV",
     "sources": {
@@ -1254,20 +1226,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UyWYSAuGPQ1FRF",
-    "name": "RTV Westerwolde",
-    "sources": {
-      "streams": [
-        "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MG8m0vh6HIQQvq",
     "name": "RTV Zulthe",
     "sources": {
@@ -1329,6 +1287,20 @@
     "sources": {
       "streams": [
         "https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N4Ek6KWXUdPOHS",
+    "name": "Sleutelstad TV",
+    "sources": {
+      "streams": [
+        "https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8"
       ]
     },
     "languages": [

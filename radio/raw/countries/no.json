@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zmcjY7fnmFaADt",
-    "name": "5000 Bergen",
-    "sources": {
-      "streams": [
-        "https://bergen5000.radioca.st/stream"
-      ]
-    },
-    "languages": [
-      "nor"
-    ],
-    "country": "no",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vfVWjR1FdlRSJi",
     "name": "Arctic Outpost Radio",
     "sources": {
@@ -182,7 +168,7 @@
       "streams": [
         "https://lyd.nrk.no/nrk_radio_jazz_aac_h",
         "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
-        "https://lyd.nrk.no/nrk_radio_jazz_mp3_l"
+        "https://lyd.nrk.no/nrk_radio_jazz_mp3_h"
       ]
     },
     "languages": [
@@ -197,8 +183,8 @@
     "sources": {
       "streams": [
         "https://lyd.nrk.no/nrk_radio_klassisk_aac_h",
-        "https://lyd.nrk.no/nrk_radio_klassisk_mp3_l",
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h"
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h",
+        "https://lyd.nrk.no/nrk_radio_klassisk_mp3_l"
       ]
     },
     "languages": [
@@ -212,9 +198,9 @@
     "name": "NRK mP3",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_mp3_aac_h",
+        "https://lyd.nrk.no/nrk_radio_mp3_mp3_h",
         "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
-        "https://lyd.nrk.no/nrk_radio_mp3_mp3_l"
+        "https://lyd.nrk.no/nrk_radio_mp3_aac_h"
       ]
     },
     "languages": [
@@ -301,8 +287,8 @@
     "name": "NRK P1 Hordaland",
     "sources": {
       "streams": [
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h",
-        "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h"
+        "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h",
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h"
       ]
     },
     "languages": [
@@ -316,8 +302,8 @@
     "name": "NRK P1 Møre og Romsdal",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h",
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l"
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l",
+        "https://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h"
       ]
     },
     "languages": [
@@ -393,8 +379,8 @@
     "sources": {
       "streams": [
         "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
-        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7",
-        "https://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h"
+        "https://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h",
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7"
       ]
     },
     "languages": [
@@ -495,9 +481,8 @@
     "name": "NRK P1+",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1pluss_aac_h",
-        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_l",
-        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h"
+        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h",
+        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_l"
       ]
     },
     "languages": [
@@ -511,7 +496,6 @@
     "name": "NRK P2",
     "sources": {
       "streams": [
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
         "https://lyd.nrk.no/nrk_radio_p2_aac_h",
         "https://lyd.nrk.no/nrk_radio_p2_mp3_l"
       ]
@@ -589,6 +573,7 @@
     "name": "NRK Sport",
     "sources": {
       "streams": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h",
         "https://lyd.nrk.no/nrk_radio_sport_aac_h",
         "https://lyd.nrk.no/nrk_radio_sport_mp3_m"
       ]
@@ -649,8 +634,8 @@
     "name": "P5 Hits",
     "sources": {
       "streams": [
-        "https://p5.p4groupaudio.com/P05_MM",
-        "https://p4.p4groupaudio.com/P05_MM"
+        "https://p4.p4groupaudio.com/P05_MM",
+        "https://p5.p4groupaudio.com/P05_MM"
       ]
     },
     "languages": [
@@ -1033,8 +1018,8 @@
     "name": "Radio Topp 40",
     "sources": {
       "streams": [
-        "https://live-bauerno.sharp-stream.com/top40_no_aac",
-        "https://live-bauerno.sharp-stream.com/top40_no_mp3"
+        "https://live-bauerno.sharp-stream.com/top40_no_mp3",
+        "https://live-bauerno.sharp-stream.com/top40_no_aac"
       ]
     },
     "languages": [

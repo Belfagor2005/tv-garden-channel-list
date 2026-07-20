@@ -342,7 +342,6 @@
     "name": "Rádio Expres",
     "sources": {
       "streams": [
-        "https://stream.bauermedia.sk/128.mp3",
         "https://stream.expres.sk/128.mp3"
       ]
     },
@@ -503,20 +502,6 @@
     },
     "languages": [
       "hun",
-      "slk"
-    ],
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FMFEfEDLbMja6a",
-    "name": "Rádio Piešťany",
-    "sources": {
-      "streams": [
-        "https://solid33.streamupsolutions.com/proxy/gktiemqb/stream"
-      ]
-    },
-    "languages": [
       "slk"
     ],
     "country": "sk",
@@ -714,8 +699,8 @@
     "name": "Radio Viva",
     "sources": {
       "streams": [
-        "https://stream.sepia.sk:8000/viva128.mp3",
-        "https://stream.sepia.sk/viva128.mp3"
+        "https://stream.sepia.sk/viva128.mp3",
+        "https://stream.sepia.sk:8000/viva128.mp3"
       ]
     },
     "languages": [

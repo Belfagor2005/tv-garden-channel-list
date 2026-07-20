@@ -62,8 +62,8 @@
     "name": "Groove FM",
     "sources": {
       "streams": [
-        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8"
       ]
     },
     "languages": [
@@ -298,21 +298,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Gam9SFqLknCacC",
-    "name": "Radio Natale",
-    "sources": {
-      "streams": [
-        "https://streaming.radiostreamlive.com/radionatale_devices",
-        "https://streaming.radiostreamlive.com/radionatale_devices-low"
-      ]
-    },
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ylQLgzOMtYQT8A",
     "name": "Radio Nostalgia",
     "sources": {
@@ -345,8 +330,8 @@
     "name": "Radio Rock",
     "sources": {
       "streams": [
-        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+        "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8"
       ]
     },
     "languages": [
@@ -403,8 +388,8 @@
     "name": "Radio Suomipop",
     "sources": {
       "streams": [
-        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8"
       ]
     },
     "languages": [
@@ -433,20 +418,6 @@
     "sources": {
       "streams": [
         "https://cast2.radiovoima.fi/voima.mp3"
-      ]
-    },
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UiJEugOMhmzSTz",
-    "name": "Radiotuottaja 1",
-    "sources": {
-      "streams": [
-        "https://kaupunkiradio.radiotaajuus.fi:9013/radio"
       ]
     },
     "languages": [
@@ -571,25 +542,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WS1FmtDJAnkBnx",
-    "name": "Unexplained Agency Radio",
-    "sources": {
-      "streams": [
-        "https://radio.unexplained.agency/stream"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VGj2fpuySieN4P",
     "name": "Yle Klassinen",
     "sources": {
       "streams": [
-        "https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8",
         "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio"
       ]
     },
@@ -604,7 +560,6 @@
     "name": "Yle Radio 1",
     "sources": {
       "streams": [
-        "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8",
         "https://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio"
       ]
     },
@@ -633,8 +588,7 @@
     "name": "Yle Radio Suomi Helsinki",
     "sources": {
       "streams": [
-        "https://icecast.live.yle.fi/radio/YleRS/icecast.audio",
-        "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/256/variant.m3u8"
+        "https://icecast.live.yle.fi/radio/YleRS/icecast.audio"
       ]
     },
     "languages": [
@@ -649,20 +603,6 @@
     "sources": {
       "streams": [
         "https://icecast.live.yle.fi/radio/YleJKL/icecast.audio"
-      ]
-    },
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Vm0OgwlcKV751p",
-    "name": "Yle Radio Suomi Kemi",
-    "sources": {
-      "streams": [
-        "https://yleradiolive.akamaized.net/hls/live/2027706/in-YleKemi/master.m3u8"
       ]
     },
     "languages": [
@@ -705,20 +645,6 @@
     "sources": {
       "streams": [
         "https://icecast.live.yle.fi/radio/YleLahti/icecast.audio"
-      ]
-    },
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lYbcBTqxPL2KLR",
-    "name": "Yle Radio Suomi Lappeenranta",
-    "sources": {
-      "streams": [
-        "https://yleradiolive.akamaized.net/hls/live/2027711/in-YleLPR/master.m3u8"
       ]
     },
     "languages": [
@@ -826,26 +752,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kkkud6mppcAiRs",
-    "name": "Yle Radio Vega",
-    "sources": {
-      "streams": [
-        "https://yleradiolive.akamaized.net/hls/live/2027679/in-YleVega/master.m3u8"
-      ]
-    },
-    "languages": [
-      "swe"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eEQxWbL1YbMhd4",
     "name": "Yle Radio Vega Åboland",
     "sources": {
       "streams": [
-        "https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio",
-        "https://yleradiolive.akamaized.net/hls/live/2027716/in-YleVegaAboland/256/variant.m3u8"
+        "https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio"
       ]
     },
     "languages": [
@@ -897,25 +808,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C5kVSBc8ytRp20",
-    "name": "Yle Sámi Radio",
-    "sources": {
-      "streams": [
-        "https://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8"
-      ]
-    },
-    "languages": [
-      "sme"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dnZLj7n35vWJ2A",
     "name": "Yle X3M",
     "sources": {
       "streams": [
-        "https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8",
         "https://icecast.live.yle.fi/radio/YleX3M/icecast.audio"
       ]
     },
@@ -931,7 +827,6 @@
     "name": "YleX",
     "sources": {
       "streams": [
-        "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8",
         "https://icecast.live.yle.fi/radio/YleX/icecast.audio"
       ]
     },

@@ -176,8 +176,8 @@
     "name": "M-1",
     "sources": {
       "streams": [
-        "https://stream.m-1.fm/M-1aacp",
-        "https://radio.m-1.fm/m1/mp3"
+        "https://radio.m-1.fm/m1/mp3",
+        "https://stream.m-1.fm/M-1aacp"
       ]
     },
     "languages": [
@@ -235,9 +235,23 @@
     "name": "Pasaulio muzikos radijas (PMR)",
     "sources": {
       "streams": [
-        "https://pmr.lt/streams/pmr-3",
         "https://pmr.lt/streams/pmr-1",
+        "https://pmr.lt/streams/pmr-3",
         "https://pmr.lt/streams/pmr-2"
+      ]
+    },
+    "languages": [
+      "lit"
+    ],
+    "country": "lt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bzLH14yRYfaTLI",
+    "name": "Patejago Radijas",
+    "sources": {
+      "streams": [
+        "https://stream-46.zeno.fm/f6m1zbud5p8uv"
       ]
     },
     "languages": [
@@ -266,8 +280,8 @@
     "sources": {
       "streams": [
         "https://ice.leviracloud.eu/phr192-mp3",
-        "https://ice2.powerhitradio.lt/PHR_AAC",
-        "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv"
+        "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv",
+        "https://ice2.powerhitradio.lt/PHR_AAC"
       ]
     },
     "languages": [
@@ -298,20 +312,6 @@
     "sources": {
       "streams": [
         "https://pulsas.lt/stream"
-      ]
-    },
-    "languages": [
-      "lit"
-    ],
-    "country": "lt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uQPWTmycvESPoc",
-    "name": "RA-8",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/aae76827qtzuv"
       ]
     },
     "languages": [
@@ -509,8 +509,8 @@
     "name": "ZIP FM",
     "sources": {
       "streams": [
-        "https://stream1.zipfm.lt/zipfm128.mp3",
-        "https://stream2.zipfm.lt/zipfm128.mp3"
+        "https://stream2.zipfm.lt/zipfm128.mp3",
+        "https://stream1.zipfm.lt/zipfm128.mp3"
       ]
     },
     "languages": [
@@ -529,50 +529,6 @@
     },
     "languages": [
       "lit"
-    ],
-    "country": "lt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lFrSqktk3Dxos3",
-    "name": "Наша Лента (Nasha Lenta)",
-    "sources": {
-      "streams": [
-        "https://streaming.broadcastrd.com/audio/radio-lenta.mp3"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "lt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oNOMS5KOHxfLVU",
-    "name": "Радио Свободных Народов",
-    "sources": {
-      "streams": [
-        "https://radio.freenations.online/listen/radio_free_nations/radio.mp3"
-      ]
-    },
-    "languages": [
-      "kom",
-      "rus",
-      "tat"
-    ],
-    "country": "lt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CxMTdP4Iv5XZjl",
-    "name": "Радио Сигнал",
-    "sources": {
-      "streams": [
-        "https://streaming.broadcastrd.com/audio/radio-singnal.mp3"
-      ]
-    },
-    "languages": [
-      "rus"
     ],
     "country": "lt",
     "isGeoBlocked": false

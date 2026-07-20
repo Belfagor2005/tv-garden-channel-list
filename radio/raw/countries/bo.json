@@ -100,20 +100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "k2jhV7G3DcUrth",
-    "name": "FM Bolivia",
-    "sources": {
-      "streams": [
-        "https://stm11.xcast.com.br:11300/stream/1/"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wgidoyjiJhFmVR",
     "name": "FM La Paz 96.7",
     "sources": {
@@ -440,6 +426,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "B2F3bTGU37ehSW",
+    "name": "Radio Majestad 105.7",
+    "sources": {
+      "streams": [
+        "https://stream-175.zeno.fm/qvqzs5zetwzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oSbxrEbcCMhkLD",
     "name": "Radio Marítima",
     "sources": {
@@ -468,12 +468,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TKnjR21MuowTSi",
+    "name": "Radio Mosoj Chaski",
+    "sources": {
+      "streams": [
+        "https://xstreamer.galcom.org:8443/Mosoj-Chaski-Radio"
+      ]
+    },
+    "languages": [
+      "que",
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YkWzayRmTdUX8i",
     "name": "Radio Panamericana",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/pnwpbyfambruv",
-        "https://stream.zeno.fm/5hfx7xfambruv"
+        "https://stream.zeno.fm/5hfx7xfambruv",
+        "https://stream.zeno.fm/pnwpbyfambruv"
       ]
     },
     "languages": [

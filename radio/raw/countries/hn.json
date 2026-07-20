@@ -143,6 +143,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OoKzvVFekDlCM5",
+    "name": "La Top 102.9 FM",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/latop102"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3WqX2v427LZ6Uc",
     "name": "LHT Radio 104.1 FM",
     "sources": {
@@ -176,20 +190,6 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/AMERICA_SC"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DJ2eKEMGFBQKFW",
-    "name": "Radio Cortes FM",
-    "sources": {
-      "streams": [
-        "https://cortesfm-zikoxweb.radioca.st/stream/1/"
       ]
     },
     "languages": [
@@ -246,8 +246,8 @@
     "name": "Radio Musiquera 93.3 FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/83h238tqsceuv",
-        "https://stream-142.zeno.fm/83h238tqsceuv"
+        "https://stream-142.zeno.fm/83h238tqsceuv",
+        "https://stream.zeno.fm/83h238tqsceuv"
       ]
     },
     "languages": [
@@ -289,8 +289,8 @@
     "name": "Radioactiva 99.7 FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/fh8qfg75puquv",
-        "https://stream.zeno.fm/6n7fp9t2pceuv"
+        "https://stream.zeno.fm/6n7fp9t2pceuv",
+        "https://stream.zeno.fm/fh8qfg75puquv"
       ]
     },
     "languages": [

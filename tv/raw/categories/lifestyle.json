@@ -47,8 +47,8 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8",
-        "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8",
-        "https://amg02333-pbs-amg02333c5-samsung-nz-2440.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8"
+        "https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8"
       ]
     },
     "languages": [
@@ -119,8 +119,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
       ]
     },
     "languages": [
@@ -141,20 +141,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
     "isGeoBlocked": false
   },
   {
@@ -191,13 +177,41 @@
     "sources": {
       "streams": [
         "https://206.212.244.63/38/index.m3u8",
-        "https://40.160.24.52/Cleo_TV/index.m3u8"
+        "https://206.212.244.63/4234/index.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fom4DDGu8VmzCJ",
+    "name": "Code Fashion TV",
+    "sources": {
+      "streams": [
+        "https://cdn2.invivo.bg/Codefashion_5500/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "k1LyAwShA4pUGs",
+    "name": "Code Health TV",
+    "sources": {
+      "streams": [
+        "https://cdn2.invivo.bg/codehealth_test/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
     "isGeoBlocked": false
   },
   {
@@ -296,6 +310,34 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yAWufo7GdMbTbc",
+    "name": "Fashion&LifeStyle",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/119/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cihRbiX7gws0cD",
+    "name": "FashionBox",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
     "isGeoBlocked": false
   },
   {
@@ -402,8 +444,7 @@
     "name": "Great American Faith & Living",
     "sources": {
       "streams": [
-        "https://206.212.244.63/82/index.m3u8",
-        "https://40.160.24.52/GAC_LIVING/index.m3u8"
+        "https://206.212.244.63/82/index.m3u8"
       ]
     },
     "languages": [
@@ -445,7 +486,7 @@
     "name": "HGTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/g7ZXtDAM_VE"
+        "https://www.youtube-nocookie.com/embed/7MelgCw5FTQ"
       ]
     },
     "languages": [
@@ -488,8 +529,8 @@
     "sources": {
       "streams": [
         "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
-        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
-        "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
+        "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8",
+        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -556,34 +597,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZH7pMxeZHrM70T",
-    "name": "Logos TV Salud",
-    "sources": {
-      "streams": [
-        "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "es6wiTOOe1y1gn",
-    "name": "Loupe",
-    "sources": {
-      "streams": [
-        "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LOoaceDLue8eJw",
     "name": "MediCOOL TV",
     "sources": {
@@ -623,6 +636,20 @@
       "mya"
     ],
     "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LSoGDBr7qw33OY",
+    "name": "NBC LX Home",
+    "sources": {
+      "streams": [
+        "https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -684,6 +711,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qr9xvBDjARPSP8",
+    "name": "Otkritiy mir. Zdorove",
+    "sources": {
+      "streams": [
+        "https://v4.proofix.ru/0mir/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i9at9xUaP2xXBL",
     "name": "PBS Travel",
     "sources": {
@@ -710,21 +751,6 @@
       "spa"
     ],
     "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3FPl5RIfISFiTh",
-    "name": "PRIDEtv LATAM",
-    "sources": {
-      "streams": [
-        "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -816,6 +842,7 @@
     "sources": {
       "streams": [
         "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8",
         "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8"
       ]
     },
@@ -839,6 +866,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "C5BeaJj41VYD7f",
+    "name": "TV3 Life",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/373/index.m3u8"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2gvbHx7OrU70G2",

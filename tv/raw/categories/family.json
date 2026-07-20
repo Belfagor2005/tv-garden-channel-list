@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bxrLpOnIw2cIku",
-    "name": "BBC Three/CBBC",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/BBC-THREE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PCHpCRc0yRAZbi",
     "name": "Canal IPe",
     "sources": {
@@ -119,7 +105,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
+        "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
         "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8"
       ]
     },
@@ -134,8 +120,7 @@
     "name": "FETV",
     "sources": {
       "streams": [
-        "https://206.212.244.63/60/index.m3u8",
-        "https://40.160.24.52/FETV/index.m3u8"
+        "https://206.212.244.63/60/index.m3u8"
       ]
     },
     "languages": [
@@ -149,7 +134,6 @@
     "name": "Freeform East",
     "sources": {
       "streams": [
-        "https://40.160.24.52/FREEFORM/index.m3u8",
         "https://206.212.244.63/69/index.m3u8"
       ]
     },
@@ -178,7 +162,6 @@
     "name": "Great American Family",
     "sources": {
       "streams": [
-        "https://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8",
         "https://206.212.244.63/81/index.m3u8",
         "https://40.160.24.58/GAC_FAMILY/index.m3u8"
       ]
@@ -187,6 +170,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "29x0D5l70jxbBR",
+    "name": "Green TV",
+    "sources": {
+      "streams": [
+        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
     "isGeoBlocked": false
   },
   {
@@ -238,8 +235,7 @@
     "name": "Positiv TV",
     "sources": {
       "streams": [
-        "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8",
-        "https://trn03.bozztv.com/gin-positiv/index.m3u8"
+        "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8"
       ]
     },
     "languages": [
@@ -282,9 +278,9 @@
     "name": "STS",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/138/index.m3u8",
         "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
-        "https://tshift-1.telecoma.tv/sts/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+        "https://tshift-1.telecoma.tv/sts/index.m3u8"
       ]
     },
     "languages": [
@@ -298,6 +294,7 @@
     "name": "STS Love",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/183/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
       ]
     },
@@ -322,20 +319,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OFNCxJwQlhXnh3",
-    "name": "Tshwane TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GmMshdsdBRXuib",
     "name": "TV Familia",
     "sources": {
@@ -347,6 +330,20 @@
       "spa"
     ],
     "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "usETpjVP1bzVNN",
+    "name": "TV Famille",
+    "sources": {
+      "streams": [
+        "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "mq",
     "isGeoBlocked": false
   },
   {

@@ -417,20 +417,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hVgsZF75BE2sDG",
-    "name": "Faith Radio",
-    "sources": {
-      "streams": [
-        "https://nwm.streamguys1.com/ktis-am"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ug",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5mr8BV2gQRsE4O",
     "name": "Fame 95 FM",
     "sources": {
@@ -753,8 +739,7 @@
     "name": "Pearl FM",
     "sources": {
       "streams": [
-        "https://dc4.serverse.com/proxy/pearlfm/stream",
-        "https://dc4.serverse.com/proxy/pearlfm/stream/1/"
+        "https://dc4.serverse.com/proxy/pearlfm/stream"
       ]
     },
     "languages": [
@@ -851,6 +836,30 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KUS0LaK4IpX6Vk",
+    "name": "Radio Sapientia 94.4 FM",
+    "sources": {
+      "streams": [
+        "https://www.radiosapientia.com/live"
+      ]
+    },
+    "languages": [],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AAGiu7J7VPdL0c",
+    "name": "Radio Simba 97.3",
+    "sources": {
+      "streams": [
+        "https://www.radiosimba.ug/stream2"
+      ]
+    },
+    "languages": [],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "a7K3KL8gIOHC0j",
     "name": "Radio Sinza",
     "sources": {
@@ -862,6 +871,33 @@
       "eng",
       "lug",
       "swa"
+    ],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MVCsiSTA89YkL6",
+    "name": "Radio West 100.2",
+    "sources": {
+      "streams": [
+        "https://stream.hydeinnovations.com:2020/stream/radiowest/stream"
+      ]
+    },
+    "languages": [],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g7nKIpFrCk9NH6",
+    "name": "Radio Yoo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/v73tc5gwaphvv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lug"
     ],
     "country": "ug",
     "isGeoBlocked": false
@@ -1000,8 +1036,8 @@
     "name": "SonLife Radio",
     "sources": {
       "streams": [
-        "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
-        "https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8"
+        "https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8",
+        "https://live.radio.sonlife.olympusatmedia.com/index.m3u8"
       ]
     },
     "languages": [

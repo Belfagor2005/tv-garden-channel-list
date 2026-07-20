@@ -146,21 +146,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GrRSCE4Nsvcb8V",
-    "name": "Radio Rauan",
-    "sources": {
-      "streams": [
-        "https://listen4.myradio24.com/rauan"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8rLQBKweEkcdAc",
     "name": "Radio Sana",
     "sources": {
@@ -194,8 +179,8 @@
     "name": "Radio TMK",
     "sources": {
       "streams": [
-        "https://a4.radioheart.ru:9036/RH13170",
-        "https://listen.myrh.ru/radiotmk"
+        "https://listen.myrh.ru/radiotmk",
+        "https://a4.radioheart.ru:9036/RH13170"
       ]
     },
     "languages": [

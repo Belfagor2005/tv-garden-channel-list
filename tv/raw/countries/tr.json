@@ -53,7 +53,7 @@
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jCoBWUqi6AI"
+        "https://www.youtube-nocookie.com/embed/bB5ZhbLbgLQ"
       ]
     },
     "languages": [
@@ -97,6 +97,9 @@
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/r77EbUhb384"
       ]
     },
     "languages": [
@@ -319,11 +322,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9cbMZrwOtdSUeq",
-    "name": "Bir TV",
+    "nanoid": "Z7tHup27v1j2Td",
+    "name": "Bodrum Kent TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -448,6 +451,21 @@
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nqxj96I7x3VyQ2",
+    "name": "Cine 1",
+    "sources": {
+      "streams": [
+        "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8",
+        "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8"
       ]
     },
     "languages": [
@@ -618,7 +636,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1c6Z1_WWw1k"
+        "https://www.youtube-nocookie.com/embed/NvEQYk-ypSY"
       ]
     },
     "languages": [
@@ -750,20 +768,6 @@
     },
     "languages": [
       "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LkePMRrYywHJL3",
-    "name": "FilmBox Netherlands",
-    "sources": {
-      "streams": [
-        "https://193.239.186.231/FILMBOX/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "tr",
     "isGeoBlocked": false
@@ -961,7 +965,7 @@
     "name": "ibrahimlive",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8gh-3VNYLm8"
+        "https://www.youtube-nocookie.com/embed/DduBfrfY9AY"
       ]
     },
     "languages": [
@@ -1322,7 +1326,7 @@
     "name": "KRT TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SYV8LBFpE9k"
+        "https://www.youtube-nocookie.com/embed/K55ftr3c-fQ"
       ]
     },
     "languages": [
@@ -1972,7 +1976,7 @@
         "https://tjktv-live.tjk.org/tjktv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/g89RQMJtK6E"
+        "https://www.youtube-nocookie.com/embed/ZWNyq27gRFY"
       ]
     },
     "languages": [
@@ -2256,20 +2260,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UjJLXGxInD7yE1",
-    "name": "TV 42",
-    "sources": {
-      "streams": [
-        "https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bgn8mfchHatjpX",
     "name": "TV 52",
     "sources": {
@@ -2289,6 +2279,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4WSvLRk83-c"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZdxrMEOa28PZnq",
+    "name": "TV 264",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
       ]
     },
     "languages": [

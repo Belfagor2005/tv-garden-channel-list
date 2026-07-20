@@ -205,8 +205,8 @@
     "name": "RTL Gold",
     "sources": {
       "streams": [
-        "https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8",
-        "https://shoutcast.rtl.lu/rtlgold"
+        "https://shoutcast.rtl.lu/rtlgold",
+        "https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8"
       ]
     },
     "languages": [
@@ -222,7 +222,7 @@
     "sources": {
       "streams": [
         "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173",
-        "https://stream.rtlradio.de/rtl-de-national/mp3-192/",
+        "https://stream.rtlradio.de/rtl-de-national/mp3-192",
         "https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218"
       ]
     },
@@ -268,7 +268,7 @@
     "name": "RTL Schlagerliebe",
     "sources": {
       "streams": [
-        "https://stream.rtlradio.de/schlagerliebe/mp3-192/"
+        "https://stream.rtlradio.de/schlagerliebe/mp3-192"
       ]
     },
     "languages": [

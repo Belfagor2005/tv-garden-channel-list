@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DRw9wn4aT071aO",
-    "name": "As Contenidos",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/ascontenido/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FuTnPCDlGaBjIO",
     "name": "Audiokiss",
     "sources": {
@@ -98,20 +84,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tBCwhYIvDRfrhj",
     "name": "CN3 Television",
     "sources": {
@@ -145,20 +117,6 @@
     "sources": {
       "streams": [
         "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oh20dqyFkVNesT",
-    "name": "Dmoda Channel",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/dmoda/index.m3u8"
       ]
     },
     "languages": [
@@ -282,6 +240,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4frDgMPDz0NOom",
+    "name": "PTV",
+    "sources": {
+      "streams": [
+        "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pYqhwxhr9gjeaq",
     "name": "Radio Centro",
     "sources": {
@@ -296,11 +268,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yb5J2y39iS97LB",
-    "name": "Radio Gente",
+    "nanoid": "BnzbysvLZ1mHZ2",
+    "name": "Radio Clasica TV",
     "sources": {
       "streams": [
-        "https://edge.enhdtv.com/8068/index.m3u8"
+        "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8"
       ]
     },
     "languages": [
@@ -315,6 +287,20 @@
     "sources": {
       "streams": [
         "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OPWUaOk2V7zsOP",
+    "name": "Radio Mega TV Amazonia",
+    "sources": {
+      "streams": [
+        "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -352,6 +338,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hzi4nlNP3J2X8P",
+    "name": "Red CCTV",
+    "sources": {
+      "streams": [
+        "https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
+        "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "crhuDV1URlafW7",
     "name": "Red Rubi",
     "sources": {
@@ -380,11 +381,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F3BYfjJnpkzbsO",
-    "name": "Red Uno",
+    "nanoid": "izfFH8RnAwm70u",
+    "name": "RTP",
     "sources": {
       "streams": [
-        "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8"
+        "https://rtp.noxun.net/hls/stream.m3u8",
+        "https://rtp.noxun.net/hls480/stream2.m3u8",
+        "https://rtp.noxun.net/hls720/stream3.m3u8"
       ]
     },
     "languages": [
@@ -394,12 +397,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "izfFH8RnAwm70u",
-    "name": "RTP",
+    "nanoid": "jo5rZWZDxVWDCK",
+    "name": "Sucremanta TV",
     "sources": {
       "streams": [
-        "https://rtp.noxun.net/hls/stream.m3u8",
-        "https://rtp.noxun.net/hls720/stream3.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8"
       ]
     },
     "languages": [
@@ -423,20 +425,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VvgjeRVvJxgn4n",
-    "name": "TELE 6",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FQtLVabcRW3R96",
     "name": "Tele Fe Bolivia",
     "sources": {
@@ -451,11 +439,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lCPbDhC1z9VYdq",
-    "name": "TransMedia",
+    "nanoid": "oOiARRZ91GwBKV",
+    "name": "TL Estrella",
     "sources": {
       "streams": [
-        "https://edge.enhdtv.com/8064/index.m3u8"
+        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
       ]
     },
     "languages": [
@@ -485,20 +473,6 @@
     "sources": {
       "streams": [
         "https://edge.enhdtv.com/tvoff/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B7NbRDwCetPr7W",
-    "name": "TVU Sucre",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/8214/index.m3u8"
       ]
     },
     "languages": [

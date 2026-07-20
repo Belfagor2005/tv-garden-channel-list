@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f8r4FkU4I4cEwI",
+    "name": "103 Like FM",
+    "sources": {
+      "streams": [
+        "https://radio10.plathong.net/7064/;stream.mp3"
+      ]
+    },
+    "languages": [
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1d3KNVCMtqkoEZ",
     "name": "106 Family News Radio",
     "sources": {
@@ -85,27 +99,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "R2p6j2Gml5fJXD",
-    "name": "City Radio Pattaya 90.25 FM",
-    "sources": {
-      "streams": [
-        "https://media.onair.one:8200/stream/1/"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YwnO8kodaovgm6",
     "name": "COOLfahrenheit",
     "sources": {
       "streams": [
-        "https://coolism-web.cdn.byteark.com/;stream/1",
-        "https://coolism-web3rd.cdn.byteark.com/stream/1/"
+        "https://coolism-web.cdn.byteark.com/;stream/1"
       ]
     },
     "languages": [
@@ -225,11 +223,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J5XA67cagaMfI1",
-    "name": "MCOT Loei 100 FM",
+    "nanoid": "LRS2L9jbrrmJXh",
+    "name": "MCOT Chumphon 104.75 FM",
     "sources": {
       "streams": [
-        "https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8"
+        "https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8"
       ]
     },
     "languages": [
@@ -239,11 +237,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bi8kLhJce3qmgL",
-    "name": "MCOT Radio Chiangmai 100.75 FM",
+    "nanoid": "J5XA67cagaMfI1",
+    "name": "MCOT Loei 100 FM",
     "sources": {
       "streams": [
-        "https://live-org-01-cdn.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8"
+        "https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8"
       ]
     },
     "languages": [
@@ -262,48 +260,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4seHg2lo4Nfag4",
-    "name": "Request Radio Dance",
-    "sources": {
-      "streams": [
-        "https://cast.requestradio.in.th:850//stream/3"
-      ]
-    },
-    "languages": [
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OjIF4O7MhisqL9",
-    "name": "Request Radio For Life",
-    "sources": {
-      "streams": [
-        "https://cast.requestradio.in.th:830/stream/"
-      ]
-    },
-    "languages": [
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8SVDRt5rn4HzCK",
-    "name": "Request Radio Inter",
-    "sources": {
-      "streams": [
-        "https://cast.requestradio.in.th:840//stream/3"
-      ]
-    },
-    "languages": [
-      "tha"
     ],
     "country": "th",
     "isGeoBlocked": false

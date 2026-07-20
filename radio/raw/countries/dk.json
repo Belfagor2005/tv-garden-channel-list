@@ -159,8 +159,8 @@
     "name": "DR Nyheder",
     "sources": {
       "streams": [
-        "https://live-icy.gss.dr.dk/A/A02H.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A02L.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A02L.mp3",
+        "https://live-icy.gss.dr.dk/A/A02H.mp3"
       ]
     },
     "languages": [
@@ -188,9 +188,9 @@
     "name": "DR P2",
     "sources": {
       "streams": [
-        "https://live-icy.dr.dk/A/A04L.mp3",
         "https://live-icy.dr.dk/A/A27L.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A04H.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A04H.mp3",
+        "https://live-icy.dr.dk/A/A04L.mp3"
       ]
     },
     "languages": [
@@ -218,9 +218,9 @@
     "name": "DR P4 Bornholm",
     "sources": {
       "streams": [
-        "https://live-icy.gslb01.dr.dk/A/A06H.mp3",
         "https://live-icy.dr.dk/A/A30H.mp3",
-        "https://live-icy.gss.dr.dk/A/A06H.mp3"
+        "https://live-icy.gss.dr.dk/A/A06H.mp3",
+        "https://live-icy.gslb01.dr.dk/A/A06H.mp3"
       ]
     },
     "languages": [
@@ -263,9 +263,9 @@
     "name": "DR P4 København",
     "sources": {
       "streams": [
+        "https://live-icy.dr.dk/A/A08H.mp3",
         "https://live-icy.gslb01.dr.dk/A/A08H.mp3",
-        "https://live-icy.gss.dr.dk/A/A08H.mp3",
-        "https://live-icy.dr.dk/A/A08H.mp3"
+        "https://live-icy.gss.dr.dk/A/A08H.mp3"
       ]
     },
     "languages": [
@@ -279,8 +279,8 @@
     "name": "DR P4 Midt & Vest",
     "sources": {
       "streams": [
-        "https://live-icy.gslb01.dr.dk/A/A09H.mp3",
-        "https://live-icy.gss.dr.dk/A/A09H.mp3"
+        "https://live-icy.gss.dr.dk/A/A09H.mp3",
+        "https://live-icy.gslb01.dr.dk/A/A09H.mp3"
       ]
     },
     "languages": [
@@ -435,9 +435,9 @@
     "name": "DR P6 Beat",
     "sources": {
       "streams": [
-        "https://live-icy.gslb01.dr.dk/A/A29H.mp3",
+        "https://live-icy.dr.dk/A/A29H.mp3",
         "https://live-icy.gss.dr.dk/A/A29H.mp3",
-        "https://live-icy.dr.dk/A/A29H.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A29H.mp3"
       ]
     },
     "languages": [
@@ -551,8 +551,8 @@
     "name": "myROCK",
     "sources": {
       "streams": [
-        "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
-        "https://live-bauerdk.sharp-stream.com/myrock.mp3"
+        "https://live-bauerdk.sharp-stream.com/myrock.mp3",
+        "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3"
       ]
     },
     "languages": [
@@ -625,7 +625,7 @@
     "sources": {
       "streams": [
         "https://stream1.partyfm.dk/Party320",
-        "https://stream.partyfm.dk/Party320/"
+        "https://stream.partyfm.dk/Party320"
       ]
     },
     "languages": [
@@ -1107,8 +1107,8 @@
     "name": "Retro Radio",
     "sources": {
       "streams": [
-        "https://stream128.retro-radio.dk/retro",
-        "https://streammp3.retro-radio.dk/retro-mp3"
+        "https://streammp3.retro-radio.dk/retro-mp3",
+        "https://stream128.retro-radio.dk/retro"
       ]
     },
     "languages": [
@@ -1209,7 +1209,6 @@
     "name": "The Voice",
     "sources": {
       "streams": [
-        "https://live-bauerdk.sharp-stream.com/voice128.mp3",
         "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3"
       ]
     },
@@ -1252,8 +1251,8 @@
     "name": "Vinyl Hits",
     "sources": {
       "streams": [
-        "https://stream.vinylhits.dk/vinylmp3",
-        "https://stream.vinylhits.dk/vinylaac"
+        "https://stream.vinylhits.dk/vinylaac",
+        "https://stream.vinylhits.dk/vinylmp3"
       ]
     },
     "languages": [

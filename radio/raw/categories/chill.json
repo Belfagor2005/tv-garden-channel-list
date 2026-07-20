@@ -5,8 +5,8 @@
     "sources": {
       "streams": [
         "https://15693.live.streamtheworld.com/977_SMOOJAZZ_SC",
-        "https://18063.live.streamtheworld.com/977_SMOOJAZZ_SC",
-        "https://26353.live.streamtheworld.com/977_SMOOJAZZ_SC"
+        "https://17563.live.streamtheworld.com/977_SMOOJAZZ_SC",
+        "https://14543.live.streamtheworld.com/977_SMOOJAZZ_SC"
       ]
     },
     "languages": [
@@ -303,6 +303,7 @@
     "name": "1 Slow-Radio",
     "sources": {
       "streams": [
+        "https://1_slowradio.stream.laut.fm/1_slowradio",
         "https://1slowradio.stream.laut.fm/1_slowradio"
       ]
     },
@@ -545,8 +546,8 @@
     "name": "8Beats",
     "sources": {
       "streams": [
-        "https://n05.radiojar.com/2fa4wbch308uv",
-        "https://n10.radiojar.com/2fa4wbch308uv"
+        "https://n10.radiojar.com/2fa4wbch308uv",
+        "https://n05.radiojar.com/2fa4wbch308uv"
       ]
     },
     "languages": [
@@ -779,7 +780,7 @@
     "name": "94,3 rs2 relax",
     "sources": {
       "streams": [
-        "https://stream.rs2.de/rs2-relax/mp3-128/internetradio/",
+        "https://stream.rs2.de/rs2-relax/mp3-128/internetradio",
         "https://topradio-de-hz-fal-stream01-cluster01.radiohost.de/rs2-relax_mp3-128"
       ]
     },
@@ -902,6 +903,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kvs6fWY0d6OllO",
+    "name": "101 Smooth Jazz",
+    "sources": {
+      "streams": [
+        "https://edge1.peta.live365.net/b22139_128mp3",
+        "https://jking.cdnstream1.com/b22139_128mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pLbeSltHPLwFwH",
     "name": "101 Smooth Jazz - Mellow Mix",
     "sources": {
@@ -943,6 +959,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1FjCNuR3Sq1upy",
+    "name": "103.7 The Oasis",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/KOAZAM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1095,20 +1125,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZMQrG3JvEG4Q7P",
-    "name": "1000 Hits 60s",
-    "sources": {
-      "streams": [
-        "https://c4.auracast.net:8020/stream"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uVgbBNfIoeEvc9",
     "name": "1000 Melodien",
     "sources": {
@@ -1199,20 +1215,6 @@
     "sources": {
       "streams": [
         "https://streaming.radionomy.com/ABC-Lounge"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sNY0YDrZWrPpXu",
-    "name": "ABC Lounge Jazz",
-    "sources": {
-      "streams": [
-        "https://eu1.fastcast4u.com/proxy/kpmxz/stream"
       ]
     },
     "languages": [
@@ -1371,8 +1373,8 @@
     "name": "AirZen Radio",
     "sources": {
       "streams": [
-        "https://n07a-eu.rcs.revma.com/vuumdncf368uv",
-        "https://n22a-eu.rcs.revma.com/vuumdncf368uv"
+        "https://n22a-eu.rcs.revma.com/vuumdncf368uv",
+        "https://n07a-eu.rcs.revma.com/vuumdncf368uv"
       ]
     },
     "languages": [
@@ -1657,7 +1659,7 @@
     "name": "ambient.fm",
     "sources": {
       "streams": [
-        "https://ambient.fm/live/"
+        "https://ambient.fm/live"
       ]
     },
     "languages": [
@@ -1743,9 +1745,9 @@
     "name": "Antenne Bayern - Chillout",
     "sources": {
       "streams": [
-        "https://s1-webradio.antenne.de/chillout",
+        "https://s7-webradio.antenne.de/chillout",
         "https://mp3channels.webradio.antenne.de/chillout",
-        "https://s2-webradio.antenne.de/chillout.aac"
+        "https://s1-webradio.antenne.de/chillout"
       ]
     },
     "languages": [
@@ -1759,9 +1761,9 @@
     "name": "Antenne Bayern - Coffee Music",
     "sources": {
       "streams": [
-        "https://s3-webradio.webradio.de/coffee",
-        "https://s6-webradio.antenne.de/coffee/stream/aacp",
-        "https://s6-webradio.antenne.de/coffee.aac"
+        "https://stream.antenne.de/coffee/stream/mp3",
+        "https://mp3channels.webradio.de/coffee",
+        "https://s3-webradio.webradio.de/coffee"
       ]
     },
     "languages": [
@@ -1791,7 +1793,7 @@
     "sources": {
       "streams": [
         "https://mp3channels.webradio.antenne.de/relax",
-        "https://s2-webradio.antenne.de/relax.aac",
+        "https://s8-webradio.antenne.de/relax",
         "https://s4-webradio.antenne.de/relax/stream/aacp"
       ]
     },
@@ -1920,8 +1922,8 @@
     "name": "barba radio - Strandbar",
     "sources": {
       "streams": [
-        "https://streams.barbaradio.de/strandbar/mp3-192/homepage",
-        "https://streams.barbaradio.de/strandbar/mp3-192/vtuner/"
+        "https://streams.barbaradio.de/strandbar/mp3-192/vtuner",
+        "https://streams.barbaradio.de/strandbar/mp3-192/homepage"
       ]
     },
     "languages": [
@@ -1964,9 +1966,9 @@
     "name": "Beat 100.9 FM",
     "sources": {
       "streams": [
+        "https://18213.live.streamtheworld.com/XHSONFM_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac",
-        "https://18303.live.streamtheworld.com/XHSONFM_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM_SC"
+        "https://14223.live.streamtheworld.com/XHSONFM_SC"
       ]
     },
     "languages": [
@@ -2192,8 +2194,8 @@
     "name": "Breakz.FM",
     "sources": {
       "streams": [
-        "https://breakz-high.rautemusik.fm/",
-        "https://radio.breakz.fm/?upd-meta&upd-scheme=https&_art=dD0xNzgwNzY3NDA3JmQ9ZTQ5MmQ2YTEzMTI2ZjEwYzRlOGU",
+        "https://breakz-2012-high.rautemusik.fm/",
+        "https://radio.breakz.fm/?upd-meta&upd-scheme=https&_art=dD0xNzg0MjM3NzI3JmQ9ZGJmMjNiMjJmMGU5YmYzYjVlOTY",
         "https://rautemusik-de-hz-fal-stream17.radiohost.de/breakz"
       ]
     },
@@ -2209,8 +2211,8 @@
     "name": "Breakz.FM - Club Charts",
     "sources": {
       "streams": [
-        "https://radio.breakz.fm/",
-        "https://breakz-office.rautemusik.fm/"
+        "https://breakz-office.rautemusik.fm/",
+        "https://radio.breakz.fm/"
       ]
     },
     "languages": [
@@ -2477,20 +2479,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4Z8xlEDLxnj635",
-    "name": "Calm Radio - Zen",
-    "sources": {
-      "streams": [
-        "https://streams.calmradio.com:14028/stream/1/"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PRHam0qXkfcv3R",
     "name": "Calm Smooth FM",
     "sources": {
@@ -2509,9 +2497,9 @@
     "name": "Candlelight",
     "sources": {
       "streams": [
-        "https://22343.live.streamtheworld.com/CANDLELIGHT_SC",
-        "https://22603.live.streamtheworld.com/CANDLELIGHT_SC",
-        "https://25303.live.streamtheworld.com/CANDLELIGHT_SC"
+        "https://28973.live.streamtheworld.com/CANDLELIGHT_SC",
+        "https://22533.live.streamtheworld.com/CANDLELIGHT_SC",
+        "https://22603.live.streamtheworld.com/CANDLELIGHT_SC"
       ]
     },
     "languages": [
@@ -2582,8 +2570,8 @@
     "name": "charivari Relax",
     "sources": {
       "streams": [
-        "https://play.charivari.com/relax/webmp3/",
-        "https://play.charivari.com/relax/web/"
+        "https://play.charivari.com/relax/webmp3",
+        "https://play.charivari.com/relax/web"
       ]
     },
     "languages": [
@@ -2922,8 +2910,8 @@
     "name": "Chillout Ibiza FM",
     "sources": {
       "streams": [
-        "https://edge3.peta.live365.net/b05055_128mp3",
-        "https://ais-sa5.cdnstream1.com/b05055_128mp3"
+        "https://ais-sa5.cdnstream1.com/b05055_128mp3",
+        "https://edge3.peta.live365.net/b05055_128mp3"
       ]
     },
     "languages": [
@@ -2938,9 +2926,9 @@
     "name": "Chillout TreePines Radio",
     "sources": {
       "streams": [
+        "https://n07.radiojar.com/n4dzb3znn3quv.mp3",
         "https://n12.radiojar.com/n4dzb3znn3quv.mp3",
-        "https://n0f.radiojar.com/n4dzb3znn3quv.mp3",
-        "https://n07.radiojar.com/n4dzb3znn3quv.mp3"
+        "https://n0f.radiojar.com/n4dzb3znn3quv.mp3"
       ]
     },
     "languages": [
@@ -2962,20 +2950,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oHCqpgnGKuDhm1",
-    "name": "Chillsynth FM",
-    "sources": {
-      "streams": [
-        "https://stream.nightride.fm/chillsynth.m4a"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "au",
     "isGeoBlocked": false
   },
   {
@@ -3425,21 +3399,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ebEQjwZZPntwCY",
-    "name": "CoSTa's Ambient Radio",
-    "sources": {
-      "streams": [
-        "https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3"
-      ]
-    },
-    "languages": [
-      "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6cPsLaxHbMdwG2",
     "name": "Cozy FM",
     "sources": {
@@ -3665,6 +3624,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lCXwxYBn5YCwW4",
+    "name": "Culture Failure",
+    "sources": {
+      "streams": [
+        "https://culturefailure.com:8000/;"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hcAeoGMLFlVKQA",
     "name": "das Landradio",
     "sources": {
@@ -3757,7 +3730,7 @@
     "name": "Deluxe Easy",
     "sources": {
       "streams": [
-        "https://audiostreams.deluxemusic.tv/easy/mp3-128/audiostreams.deluxemusic.tv/"
+        "https://audiostreams.deluxemusic.tv/easy/mp3-128/audiostreams.deluxemusic.tv"
       ]
     },
     "languages": [
@@ -3974,7 +3947,7 @@
     "name": "DressFM Global",
     "sources": {
       "streams": [
-        "https://streams.fluxfm.de/nyir-glob/mp3-320/"
+        "https://streams.fluxfm.de/nyir-glob/mp3-320"
       ]
     },
     "languages": [
@@ -4192,7 +4165,8 @@
     "name": "Elektronisch Querbeat",
     "sources": {
       "streams": [
-        "https://elektronischquerbeat.stream.laut.fm/elektronisch_querbeat"
+        "https://elektronischquerbeat.stream.laut.fm/elektronisch_querbeat",
+        "https://elektronisch_querbeat.stream.laut.fm/elektronisch_querbeat"
       ]
     },
     "languages": [
@@ -4202,25 +4176,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vD8hDOiAJ03173",
-    "name": "ELF Radio",
-    "sources": {
-      "streams": [
-        "https://s0.radioheart.ru:8000/RH22766"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BBAopMIRXf1q6n",
     "name": "Ella Radio - Love Smooth Jazz",
     "sources": {
       "streams": [
-        "https://stream.ella-radio.de/ella-love-smooth-jazz/mp3-192/"
+        "https://stream.ella-radio.de/ella-love-smooth-jazz/mp3-192"
       ]
     },
     "languages": [
@@ -4234,7 +4194,7 @@
     "name": "Ella Radio - Mellow Smooth Jazz",
     "sources": {
       "streams": [
-        "https://stream.ella-radio.de/ella-mellow-smooth-jazz/mp3-192/"
+        "https://stream.ella-radio.de/ella-mellow-smooth-jazz/mp3-192"
       ]
     },
     "languages": [
@@ -4248,7 +4208,7 @@
     "name": "Ella Radio - Smooth Bossa Nova",
     "sources": {
       "streams": [
-        "https://stream.ella-radio.de/ella-smooth-bossa-nova/mp3-192/"
+        "https://stream.ella-radio.de/ella-smooth-bossa-nova/mp3-192"
       ]
     },
     "languages": [
@@ -4262,7 +4222,7 @@
     "name": "Ella Radio - Smooth Jazz",
     "sources": {
       "streams": [
-        "https://stream.ella-radio.de/ella-smooth-jazz/mp3-192/"
+        "https://stream.ella-radio.de/ella-smooth-jazz/mp3-192"
       ]
     },
     "languages": [
@@ -4276,7 +4236,7 @@
     "name": "Ella Radio - Smooth Jazz 24/7",
     "sources": {
       "streams": [
-        "https://stream.ella-radio.de/ella-smooth-jazz-247/mp3-192/"
+        "https://stream.ella-radio.de/ella-smooth-jazz-247/mp3-192"
       ]
     },
     "languages": [
@@ -4290,7 +4250,7 @@
     "name": "Ella Radio - Smooth Lounge",
     "sources": {
       "streams": [
-        "https://stream.ella-radio.de/ella-smooth-lounge/mp3-192/"
+        "https://stream.ella-radio.de/ella-smooth-lounge/mp3-192"
       ]
     },
     "languages": [
@@ -4304,7 +4264,7 @@
     "name": "Ella Radio - Smooth Uptempo",
     "sources": {
       "streams": [
-        "https://stream.ella-radio.de/ella-smooth-uptempo/mp3-192/"
+        "https://stream.ella-radio.de/ella-smooth-uptempo/mp3-192"
       ]
     },
     "languages": [
@@ -4318,7 +4278,7 @@
     "name": "Ella Radio - Smooth Vocals",
     "sources": {
       "streams": [
-        "https://stream.ella-radio.de/ella-smooth-vocals/mp3-192/"
+        "https://stream.ella-radio.de/ella-smooth-vocals/mp3-192"
       ]
     },
     "languages": [
@@ -5202,20 +5162,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HtfmfIiwowERW4",
-    "name": "Exotica Radio",
-    "sources": {
-      "streams": [
-        "https://solid67.streamupsolutions.com/proxy/repadnom/stream"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CVusQqbScQ2eDi",
     "name": "Experimentalgems",
     "sources": {
@@ -5305,9 +5251,9 @@
     "name": "FIP Groove",
     "sources": {
       "streams": [
-        "https://direct.fipradio.fr/live/fipgroove-hifi.aac",
         "https://icecast.radiofrance.fr/fipgroove-hifi.aac",
-        "https://icecast.radiofrance.fr/fipgroove-midfi.mp3"
+        "https://direct.fipradio.fr/live/fipgroove-hifi.aac",
+        "https://direct.fipradio.fr/live/fip-webradio3.mp3"
       ]
     },
     "languages": [
@@ -5349,8 +5295,8 @@
     "name": "FluxFM Berlin Beach House",
     "sources": {
       "streams": [
+        "https://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-320-2854993?sABC=6n595p5r%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784241246",
         "https://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-320-2854993",
-        "https://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-320-2854993?sABC=6n24634r%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780769614",
         "https://fluxfm.streamabc.net/flx-berlinbeachhouse-mp3-128-8501254"
       ]
     },
@@ -5366,7 +5312,7 @@
     "sources": {
       "streams": [
         "https://fluxfm.streamabc.net/flx-chillhop-mp3-320-1595440",
-        "https://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/"
+        "https://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de"
       ]
     },
     "languages": [
@@ -5381,7 +5327,7 @@
     "sources": {
       "streams": [
         "https://fluxfm.streamabc.net/flx-chillout-mp3-320-6160841",
-        "https://streams.fluxfm.de/chillout/mp3-320/streams.fluxfm.de/"
+        "https://streams.fluxfm.de/chillout/mp3-320/streams.fluxfm.de"
       ]
     },
     "languages": [
@@ -5409,8 +5355,8 @@
     "name": "FluxFM FluxLounge",
     "sources": {
       "streams": [
-        "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851",
-        "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851?sABC=6n246934%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780771124",
+        "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851?sABC=6n5941s8%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784234488",
+        "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-128-8660249?sABC=6n5941s5%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784234485",
         "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-128-8660249"
       ]
     },
@@ -5425,9 +5371,9 @@
     "name": "FluxFM Hippie Trippy Garden Pretty",
     "sources": {
       "streams": [
-        "https://fluxfm.streamabc.net/flx-event02-mp3-320-7134332",
-        "https://fluxfm.streamabc.net/flx-event02-mp3-128-5288342",
-        "https://fluxfm.streamabc.net/flx-event02-mp3-128-5288342?sABC=6n24628p%230%2332p1962023rpq23so3q5020459682s0o%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1780769420"
+        "https://fluxfm.streamabc.net/flx-event02-mp3-320-7134332?sABC=6n59303q%230%2364n822nq2o1r4qs696n15709971o9sp7%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1784229949",
+        "https://fluxfm.streamabc.net/flx-event02-mp3-128-5288342?sABC=6n593035%230%2364n822nq2o1r4qs696n15709971o9sp7%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1784229941",
+        "https://fluxfm.streamabc.net/flx-event02-aacplus-64-5884732?sABC=6n59302q%230%2364n822nq2o1r4qs696n15709971o9sp7%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1784229933"
       ]
     },
     "languages": [
@@ -5441,9 +5387,9 @@
     "name": "FluxFM neoFM",
     "sources": {
       "streams": [
-        "https://fluxfm.streamabc.net/flx-neofm-mp3-320-1670254?sABC=6n24n28n%230%2332p1962023rpq23so3q5020459682s0o%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1780785802",
+        "https://fluxfm.streamabc.net/flx-neofm-mp3-320-1670254",
         "https://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467",
-        "https://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467?sABC=6n24n27r%230%2332p1962023rpq23so3q5020459682s0o%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1780785790"
+        "https://fluxfm.streamabc.net/flx-neofm-aacplus-64-5150487"
       ]
     },
     "languages": [
@@ -5656,8 +5602,7 @@
     "sources": {
       "streams": [
         "https://centova.svdns.com.br:19373/stream",
-        "https://centova.svdns.com.br:19373/stream1",
-        "https://centova.svdns.com.br:19373/stream/2/"
+        "https://centova.svdns.com.br:19373/stream1"
       ]
     },
     "languages": [
@@ -5692,21 +5637,6 @@
       "eng"
     ],
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "trhkLXaLdagb0h",
-    "name": "Groove Salad (SomaFM)",
-    "sources": {
-      "streams": [
-        "https://ice4.somafm.com/groovesalad-256-mp3",
-        "https://ice1.somafm.com/groovesalad-32-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -5787,8 +5717,8 @@
     "name": "Hi On Line Lounge Radio",
     "sources": {
       "streams": [
-        "https://mediaserv33.live-streams.nl:8036/stream",
-        "https://mediaserv33.live-streams.nl:8036/live"
+        "https://mediaserv33.live-streams.nl:8036/live",
+        "https://mediaserv33.live-streams.nl:8036/stream"
       ]
     },
     "languages": [
@@ -5875,8 +5805,8 @@
     "name": "Hotmixradio Lounge",
     "sources": {
       "streams": [
-        "https://streaming.hotmixradio.com/hotmix-dance-en-mp3",
-        "https://streaming.hotmixradio.com/hotmix-lounge-en-mp3"
+        "https://streaming.hotmixradio.com/hotmix-lounge-en-mp3",
+        "https://streaming.hotmixradio.com/hotmix-dance-en-mp3"
       ]
     },
     "languages": [
@@ -5911,20 +5841,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "t5KZqxUS8tVaOM",
-    "name": "Huaiyuan Radio",
-    "sources": {
-      "streams": [
-        "https://lhttp.qingting.fm/live/5021993/64k.mp3"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -6031,8 +5947,8 @@
     "name": "I Love Radio The Beach",
     "sources": {
       "streams": [
-        "https://streams.ilovemusic.de/iloveradio7.mp3",
-        "https://stream01.ilovemusic.de/iloveradio7.mp3"
+        "https://stream01.ilovemusic.de/iloveradio7.mp3",
+        "https://streams.ilovemusic.de/iloveradio7.mp3"
       ]
     },
     "languages": [
@@ -6323,8 +6239,7 @@
     "name": "Jazz Sakura",
     "sources": {
       "streams": [
-        "https://kathy.torontocast.com:3330/;",
-        "https://kathy.torontocast.com:3330/stream/1/"
+        "https://kathy.torontocast.com:3330/;"
       ]
     },
     "languages": [
@@ -6534,7 +6449,7 @@
     "name": "Klassik Radio - Dinner Jazz",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/dinnerjazz/mp3-192/stream.klassikradio.de/",
+        "https://stream.klassikradio.de/dinnerjazz/mp3-192/stream.klassikradio.de",
         "https://stream.klassikradio.de/dinnerjazz/aac-64"
       ]
     },
@@ -6549,7 +6464,7 @@
     "name": "Klassik Radio - Friends @ Home",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/friendshome/mp3-128/",
+        "https://stream.klassikradio.de/friendshome/mp3-128",
         "https://stream.klassikradio.de/friendshome/aac-64/stream.klassikradio.de"
       ]
     },
@@ -6564,7 +6479,7 @@
     "name": "Klassik Radio - Games",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/games/mp3-128/"
+        "https://stream.klassikradio.de/games/mp3-128"
       ]
     },
     "languages": [
@@ -6578,8 +6493,8 @@
     "name": "Klassik Radio - Healing",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/healing/mp3-128/",
-        "https://stream.klassikradio.de/healing/aac-64/radiode/"
+        "https://stream.klassikradio.de/healing/mp3-128",
+        "https://stream.klassikradio.de/healing/aac-64/radiode"
       ]
     },
     "languages": [
@@ -6593,7 +6508,7 @@
     "name": "Klassik Radio - Lounge",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/lounge/mp3-128/www.klassikradio.de/"
+        "https://stream.klassikradio.de/lounge/mp3-128/www.klassikradio.de"
       ]
     },
     "languages": [
@@ -6607,7 +6522,7 @@
     "name": "Klassik Radio - Lounge Beat",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/lounge-beat/mp3-128/"
+        "https://stream.klassikradio.de/lounge-beat/mp3-128"
       ]
     },
     "languages": [
@@ -6621,7 +6536,7 @@
     "name": "Klassik Radio - Nature",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/nature/mp3-128/www.klassikradio.de/",
+        "https://stream.klassikradio.de/nature/mp3-128/www.klassikradio.de",
         "https://stream.klassikradio.de/nature/mp3-128"
       ]
     },
@@ -6650,7 +6565,7 @@
     "name": "Klassik Radio - Smooth",
     "sources": {
       "streams": [
-        "https://klassikr.streamabc.net/klr-smooth-mp3-128-7968529?sABC=6n24n6q3%230%2332p1962023rpq23so3q5020459682s0o%23enqvbfher&aw_0_1st.playerid=radiosure&amsparams=playerid:radiosure;skey:1780786899"
+        "https://klassikr.streamabc.net/klr-smooth-mp3-128-7968529?sABC=6n599q3q%230%2364n822nq2o1r4qs696n15709971o9sp7%23enqvbfher&aw_0_1st.playerid=radiosure&amsparams=playerid:radiosure;skey:1784257853"
       ]
     },
     "languages": [
@@ -6778,8 +6693,8 @@
     "name": "Light Rain",
     "sources": {
       "streams": [
-        "https://wz0liw.scahw.com.au/live/lightrain_128.stream/playlist.m3u8",
-        "https://sa46.scastream.com.au/live/lightrain_128.stream/playlist.m3u8"
+        "https://sa46.scastream.com.au/live/lightrain_128.stream/playlist.m3u8",
+        "https://wz0liw.scahw.com.au/live/lightrain_128.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -6801,20 +6716,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2NQY9CtPTsJ1Jk",
-    "name": "Lo-Fi Halloween and Chill",
-    "sources": {
-      "streams": [
-        "https://audio.gendercriminals.gay/listen/lo-fi_halloween_and_chill/radio-browser"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -6892,8 +6793,8 @@
     "name": "London Soul Radio",
     "sources": {
       "streams": [
-        "https://londonsoulradio.out.airtime.pro/londonsoulradio_a",
-        "https://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a"
+        "https://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
+        "https://londonsoulradio.out.airtime.pro/londonsoulradio_a"
       ]
     },
     "languages": [
@@ -6981,8 +6882,8 @@
     "sources": {
       "streams": [
         "https://de1.streamhosting.ch/",
-        "https://player.streamhosting.ch/lounge64.aac",
-        "https://player.streamhosting.ch/lounge128.ogg"
+        "https://fr1.streamhosting.ch/lounge128.mp3",
+        "https://player.streamhosting.ch/lounge64.aac"
       ]
     },
     "languages": [
@@ -7098,8 +6999,8 @@
     "name": "LuxuriaMusic",
     "sources": {
       "streams": [
-        "https://ice10.securenetsystems.net/LUXOMP3",
-        "https://ice10.securenetsystems.net/LUXOTRON"
+        "https://ice10.securenetsystems.net/LUXOTRON",
+        "https://ice10.securenetsystems.net/LUXOMP3"
       ]
     },
     "languages": [
@@ -7778,20 +7679,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZGonkCDY4PzXYa",
-    "name": "n5MD Radio",
-    "sources": {
-      "streams": [
-        "https://ice4.somafm.com/n5md-64-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5ZRNt0JSQu6CPA",
     "name": "Napolilounge",
     "sources": {
@@ -7966,8 +7853,8 @@
     "name": "Nightwave Plaza",
     "sources": {
       "streams": [
-        "https://radio.plaza.one/opus",
-        "https://radio.plaza.one/ogg_low"
+        "https://radio.plaza.one/ogg_low",
+        "https://radio.plaza.one/opus"
       ]
     },
     "languages": [
@@ -8030,20 +7917,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WUTqxyvIBesBkz",
-    "name": "NORA FM",
-    "sources": {
-      "streams": [
-        "https://25333.live.streamtheworld.com/NORA_FM.mp3"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
     "isGeoBlocked": false
   },
   {
@@ -8180,7 +8053,7 @@
       "streams": [
         "https://lyd.nrk.no/nrk_radio_jazz_aac_h",
         "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
-        "https://lyd.nrk.no/nrk_radio_jazz_mp3_l"
+        "https://lyd.nrk.no/nrk_radio_jazz_mp3_h"
       ]
     },
     "languages": [
@@ -8310,7 +8183,7 @@
     "sources": {
       "streams": [
         "https://irmedia.streamabc.net/irm-oswchillout-mp3-128-6135624",
-        "https://streamosw.ir-media-tec.com/chillout/mp3-128/web/"
+        "https://streamosw.ir-media-tec.com/chillout/mp3-128/web"
       ]
     },
     "languages": [
@@ -8453,9 +8326,8 @@
     "name": "Pepper 96.6 FM",
     "sources": {
       "streams": [
-        "https://pepper966.live24.gr/pepper9660",
         "https://netradio.live24.gr/pepper9660",
-        "https://stream.radiojar.com/pepper.m4a"
+        "https://pepper966.live24.gr/pepper9660"
       ]
     },
     "languages": [
@@ -9077,8 +8949,8 @@
     "name": "PromoDJ - Nu",
     "sources": {
       "streams": [
-        "https://radio.promodj.com/nu-192",
-        "https://radio.promodj.com/toonu-192"
+        "https://radio.promodj.com/toonu-192",
+        "https://radio.promodj.com/nu-192"
       ]
     },
     "languages": [
@@ -9107,8 +8979,8 @@
     "name": "R.SA - Das Schnarchnasenradio",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsasachseneinschlaf1882929-mp3-192-1689958?sABC=6n244so5%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1780764597",
-        "https://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/streams.rsa-sachsen.de/"
+        "https://rsa.streamabc.net/regc-rsasachsen60erold5866133-mp3-192-1592541?sABC=6n59669n%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1784243866",
+        "https://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/streams.rsa-sachsen.de"
       ]
     },
     "languages": [
@@ -9122,8 +8994,8 @@
     "name": "R.SA - Hinhörkanal",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970?sABC=6n24n537%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1780786487",
-        "https://streams.rsa-sachsen.de/rsa-hinhoer/mp3-128/streams.rsa-sachsen.de/"
+        "https://rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970?sABC=6n5964or%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1784243390",
+        "https://streams.rsa-sachsen.de/rsa-hinhoer/mp3-128/streams.rsa-sachsen.de"
       ]
     },
     "languages": [
@@ -9137,7 +9009,7 @@
     "name": "R.SH Relax",
     "sources": {
       "streams": [
-        "https://streams.rsh.de/relax/mp3-192/homepage/"
+        "https://streams.rsh.de/relax/mp3-192/homepage"
       ]
     },
     "languages": [
@@ -9166,6 +9038,20 @@
     "sources": {
       "streams": [
         "https://ice2.radia.cz/relax-morning-birds64.aac"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y6Uae4W0EjUdp4",
+    "name": "Radia.cz - Relax Fire",
+    "sources": {
+      "streams": [
+        "https://ice2.radia.cz/relax-fire64.aac"
       ]
     },
     "languages": [
@@ -9292,8 +9178,8 @@
     "name": "Radio Art - After Midnight",
     "sources": {
       "streams": [
-        "https://air.radioart.com/fAfter_midnight.mp3",
-        "https://air-tunein.radioart.com/fAfter_midnight.mp3"
+        "https://air-tunein.radioart.com/fAfter_midnight.mp3",
+        "https://air.radioart.com/fAfter_midnight.mp3"
       ]
     },
     "languages": [
@@ -9518,8 +9404,8 @@
     "name": "Radio Art - For Study",
     "sources": {
       "streams": [
-        "https://air.radioart.com/fFor_study.mp3",
-        "https://air-tunein.radioart.com/fFor_study.mp3"
+        "https://air-tunein.radioart.com/fFor_study.mp3",
+        "https://air.radioart.com/fFor_study.mp3"
       ]
     },
     "languages": [
@@ -9916,8 +9802,8 @@
     "name": "Radio Art - Psyndora Chillout",
     "sources": {
       "streams": [
-        "https://cast.magicstreams.gr/sc/psychill/stream",
-        "https://cast.magicstreams.gr:9125/stream"
+        "https://cast.magicstreams.gr:9125/stream",
+        "https://cast.magicstreams.gr/sc/psychill/stream"
       ]
     },
     "languages": [
@@ -10001,8 +9887,8 @@
     "name": "Radio Art - Sleep",
     "sources": {
       "streams": [
-        "https://air-tunein.radioart.com/fSleep.mp3",
-        "https://air.radioart.com/fSleep.mp3"
+        "https://air.radioart.com/fSleep.mp3",
+        "https://air-tunein.radioart.com/fSleep.mp3"
       ]
     },
     "languages": [
@@ -10115,8 +10001,8 @@
     "name": "Radio Art - Stress Relief",
     "sources": {
       "streams": [
-        "https://live.radioart.com/fStress_relief.mp3",
-        "https://air-tunein.radioart.com/fStress_relief.mp3"
+        "https://air-tunein.radioart.com/fStress_relief.mp3",
+        "https://live.radioart.com/fStress_relief.mp3"
       ]
     },
     "languages": [
@@ -10201,8 +10087,8 @@
     "name": "Radio Art - Yoga",
     "sources": {
       "streams": [
-        "https://air-tunein.radioart.com/fYoga.mp3",
-        "https://air.radioart.com/fYoga.mp3"
+        "https://air.radioart.com/fYoga.mp3",
+        "https://air-tunein.radioart.com/fYoga.mp3"
       ]
     },
     "languages": [
@@ -10255,41 +10141,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HjErSeq2ScmM19",
-    "name": "Rádio Autoestima JD33",
-    "sources": {
-      "streams": [
-        "https://stm20.xcast.com.br:8858/stream"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oaNszz4wNqhXZD",
-    "name": "Radio BNM Chill",
-    "sources": {
-      "streams": [
-        "https://c2.hostingcentar.com/streams/bnm-chill/"
-      ]
-    },
-    "languages": [
-      "hrv"
-    ],
-    "country": "hr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pONn4w8spikkUb",
     "name": "RADIO BOB! Unplugged",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/bob-chillout/mp3-192/mediaplayer/",
-        "https://streams.radiobob.de/bob-chillout/mp3-192/",
-        "https://streams.radiobob.de/bob-chillout/mp3-192/homepage/"
+        "https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/bob-chillout/mp3-192",
+        "https://streams.radiobob.de/bob-chillout/mp3-192/homepage"
       ]
     },
     "languages": [
@@ -10560,6 +10418,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QQvf3pCUsC2yXw",
+    "name": "Radio GMusic Relax",
+    "sources": {
+      "streams": [
+        "https://play.webradio-hosting.com:8002/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sIL33DniY41gh3",
     "name": "Radio Gong 96.3 - Chillout",
     "sources": {
@@ -10572,20 +10444,6 @@
       "eng"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XBRfF8d3wpcHK1",
-    "name": "Radio Horyzont",
-    "sources": {
-      "streams": [
-        "https://s1.slotex.pl:7328/stream/1/"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -10688,20 +10546,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q1LZMsVDYItRDZ",
-    "name": "Radio LibertyMP Chill",
-    "sources": {
-      "streams": [
-        "https://hs1.radiolibertymp.ro/listen/lmpchill/stream.mp3"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "R7SpNdw94zgUeT",
     "name": "Radio LoungeFM - UKW Wien",
     "sources": {
@@ -10734,8 +10578,7 @@
     "name": "Radio M Utrecht",
     "sources": {
       "streams": [
-        "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3",
-        "https://media.rtvutrecht.nl/radiomutrecht-bb-mp3"
+        "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3"
       ]
     },
     "languages": [
@@ -10844,35 +10687,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wu7CHMUi0yHucZ",
-    "name": "Radio Monte Carlo: Meditation",
-    "sources": {
-      "streams": [
-        "https://mc-meditation.hostingradio.ru/meditation96.aacp"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zkVf5taC6PxGBf",
-    "name": "Radio Monteolivete",
-    "sources": {
-      "streams": [
-        "https://online.monteolivete.org:8030/stream",
-        "https://online.monteolivete.org:8005/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6AJ0Q4Ch4Rf48M",
     "name": "Radio Nature",
     "sources": {
@@ -10920,9 +10734,9 @@
     "name": "Radio Paradise",
     "sources": {
       "streams": [
-        "https://stream.radioparadise.com/flacm",
-        "https://stream-dc1.radioparadise.com/aac-320",
-        "https://stream-uk1.radioparadise.com/aac-320"
+        "https://stream-uk1.radioparadise.com/aac-320",
+        "https://stream.radioparadise.com/aac-320",
+        "https://stream-dc1.radioparadise.com/aac-320"
       ]
     },
     "languages": [
@@ -10937,7 +10751,7 @@
     "sources": {
       "streams": [
         "https://stream.radioparadise.com/mellow-320",
-        "https://stream.radioparadise.com/mellow-flacm",
+        "https://stream.radioparadise.com/mellow-flac",
         "https://stream.radioparadise.com/mellow-192"
       ]
     },
@@ -11022,7 +10836,7 @@
     "name": "Radio PSR Relax",
     "sources": {
       "streams": [
-        "https://regiocast.streamabc.net/regc-psrrelax9917959-mp3-192-7369155?sABC=6n2456q5%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1780766421"
+        "https://regiocast.streamabc.net/regc-psrrelax9917959-mp3-192-7369155?sABC=6n598n8r%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1784253070"
       ]
     },
     "languages": [
@@ -11303,7 +11117,7 @@
     "name": "Radio Romantika",
     "sources": {
       "streams": [
-        "https://media-ice.radiodns.ru/romantika.m3u8"
+        "https://pub0202.101.ru:8443/stream/air/aac/64/101"
       ]
     },
     "languages": [
@@ -11359,7 +11173,7 @@
     "name": "radio SAW Relax",
     "sources": {
       "streams": [
-        "https://stream.radiosaw.de/saw-relax/mp3-192/radio-browser/",
+        "https://stream.radiosaw.de/saw-relax/mp3-192/radio-browser",
         "https://stream.saw-musikwelt.de/saw-relax/stream.mp3"
       ]
     },
@@ -11384,25 +11198,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5wjgJ6fVRagb5u",
-    "name": "Radio Sofa",
-    "sources": {
-      "streams": [
-        "https://listen.radioking.com/radio/292531/stream/338878"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "halNdXfgu7rqwm",
     "name": "Radio Stari Grad - Relax",
     "sources": {
       "streams": [
-        "https://stream.rsg.rs/relax/"
+        "https://stream.rsg.rs/relax"
       ]
     },
     "languages": [
@@ -11501,8 +11301,8 @@
     "name": "Radio TMK",
     "sources": {
       "streams": [
-        "https://a4.radioheart.ru:9036/RH13170",
-        "https://listen.myrh.ru/radiotmk"
+        "https://listen.myrh.ru/radiotmk",
+        "https://a4.radioheart.ru:9036/RH13170"
       ]
     },
     "languages": [
@@ -11684,8 +11484,8 @@
     "name": "radiOzora Chill",
     "sources": {
       "streams": [
-        "https://chill.out.airtime.pro/chill_a",
-        "https://chill.out.airtime.pro:8000/chill_a"
+        "https://chill.out.airtime.pro:8000/chill_a",
+        "https://chill.out.airtime.pro/chill_a"
       ]
     },
     "languages": [
@@ -11826,7 +11626,7 @@
     "name": "RauteMusik Coffee-Music",
     "sources": {
       "streams": [
-        "https://streams.rautemusik.fm/coffee-music/mp3-192/"
+        "https://streams.rautemusik.fm/coffee-music/mp3-192"
       ]
     },
     "languages": [
@@ -11857,8 +11657,8 @@
     "name": "RauteMusik Oriental",
     "sources": {
       "streams": [
-        "https://oriental-high.rautemusik.fm/",
-        "https://rautemusik-de-hz-fal-stream14.radiohost.de/oriental"
+        "https://rautemusik-de-hz-fal-stream14.radiohost.de/oriental",
+        "https://oriental-high.rautemusik.fm/"
       ]
     },
     "languages": [
@@ -11887,8 +11687,8 @@
     "name": "RauteMusik Traurig",
     "sources": {
       "streams": [
-        "https://rautemusik-de-hz-fal-stream12.radiohost.de/traurig",
-        "https://traurig-high.rautemusik.fm/"
+        "https://traurig-high.rautemusik.fm/",
+        "https://rautemusik-de-hz-fal-stream12.radiohost.de/traurig"
       ]
     },
     "languages": [
@@ -11954,21 +11754,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E8XDXmeHkwQw9X",
-    "name": "Red Wine Radio",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/pcbduafehg0uv"
-      ]
-    },
-    "languages": [
-      "eng",
-      "kat"
-    ],
-    "country": "ge",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kbs8QKCee1pQEE",
     "name": "Reggae Chill Cafe",
     "sources": {
@@ -12015,7 +11800,7 @@
     "name": "Relax FM",
     "sources": {
       "streams": [
-        "https://pub0302.101.ru:8000/stream/trust/mp3/128/264"
+        "https://pub0302.101.ru:8443/stream/air/aac/64/200"
       ]
     },
     "languages": [
@@ -12053,12 +11838,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kV7Y1icpZFUe2I",
+    "name": "Relax FM Gold",
+    "sources": {
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/air/aac/64/200"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EGqCD95U6JPw1V",
     "name": "Relax FM Instrumental",
     "sources": {
       "streams": [
-        "https://pub0101.101.ru/stream/pro/aac/64/28",
-        "https://pub0201.101.ru/stream/pro/aac/64/28"
+        "https://pub0201.101.ru/stream/pro/aac/64/28",
+        "https://pub0101.101.ru/stream/pro/aac/64/28"
       ]
     },
     "languages": [
@@ -12328,7 +12127,8 @@
     "name": "Rocket Radio",
     "sources": {
       "streams": [
-        "https://n05.radiojar.com/nvvyes7gud5tv"
+        "https://n05.radiojar.com/nvvyes7gud5tv",
+        "https://stream.radiojar.com/nvvyes7gud5tv"
       ]
     },
     "languages": [
@@ -12385,9 +12185,9 @@
     "name": "RPR1. Acoustic",
     "sources": {
       "streams": [
-        "https://streams.rpr1.de/rpr-acoustic-128-aac",
+        "https://stream.rpr1.de/acoustic/mp3-128/radiobrowser",
         "https://streams.rpr1.de/rpr-acoustic-128-mp3",
-        "https://stream.rpr1.de/acoustic/mp3-128/radiobrowser"
+        "https://streams.rpr1.de/rpr-acoustic-128-aac"
       ]
     },
     "languages": [
@@ -12430,9 +12230,9 @@
     "name": "RPR1. Lounge",
     "sources": {
       "streams": [
-        "https://streams.rpr1.de/rpr-lounge-128-aac",
+        "https://streams.rpr1.de/rpr-lounge-128-mp3",
         "https://streams.rpr1.de/lounge-128-mp3",
-        "https://streams.rpr1.de/rpr-lounge-128-mp3"
+        "https://streams.rpr1.de/rpr-lounge-128-aac"
       ]
     },
     "languages": [
@@ -12460,8 +12260,8 @@
     "name": "RPR1. Yoga Sounds",
     "sources": {
       "streams": [
-        "https://stream.rpr1.de/yogasounds/mp3-128/radiobrowser",
         "https://streams.rpr1.de/rpr-entspannung-128-aac",
+        "https://stream.rpr1.de/yogasounds/mp3-128/radiobrowser",
         "https://streams.rpr1.de/rpr-entspannung-128-mp3"
       ]
     },
@@ -12575,6 +12375,7 @@
     "name": "SerrebiRadio",
     "sources": {
       "streams": [
+        "https://radio.serrebiradio.com:8000/SerrebiRadio",
         "https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio",
         "https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadioHD"
       ]
@@ -12903,9 +12704,9 @@
     "name": "Smooth Chill",
     "sources": {
       "streams": [
-        "https://icecast.thisisdax.com/SmoothChillMP3",
         "https://media-ice.musicradio.com/ChillMP3",
-        "https://icecast.thisisdax.com/ChillMP3"
+        "https://icecast.thisisdax.com/SmoothChillMP3",
+        "https://media-ssl.musicradio.com/ChillMP3"
       ]
     },
     "languages": [
@@ -12969,6 +12770,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ITuIAtZqCkgaUO",
+    "name": "Smooth Jazz 111",
+    "sources": {
+      "streams": [
+        "https://cast.magicstreams.gr/sc/111radio/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "gr",
     "isGeoBlocked": false
   },
   {
@@ -13165,8 +12980,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128.aac"
       ]
     },
     "languages": [
@@ -13181,8 +12996,8 @@
     "sources": {
       "streams": [
         "https://smoothjazz.cdnstream1.com/2585_256.mp3",
-        "https://smoothjazz.cdnstream1.com/2585_128.mp3",
-        "https://smoothjazz.cdnstream1.com/2585_320.mp3"
+        "https://smoothjazz.cdnstream1.com/2585_320.mp3",
+        "https://smoothjazz.cdnstream1.com/2585_128.mp3"
       ]
     },
     "languages": [
@@ -13196,9 +13011,9 @@
     "name": "SmoothJazz.com.pl",
     "sources": {
       "streams": [
-        "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
+        "https://bcast.vigormultimedia.com:48888/sjcompl64aac",
         "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
-        "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
+        "https://bcast.vigormultimedia.com:48888/sjcomplflac"
       ]
     },
     "languages": [
@@ -13212,9 +13027,9 @@
     "name": "SmoothLounge.com",
     "sources": {
       "streams": [
+        "https://smoothjazz.cdnstream1.com/2586_256.mp3",
         "https://smoothjazz.cdnstream1.com/2586_320.mp3",
-        "https://smoothjazz.cdnstream1.com/2586_128.mp3",
-        "https://smoothjazz.cdnstream1.com/2586_256.mp3"
+        "https://smoothjazz.cdnstream1.com/2586_128.mp3"
       ]
     },
     "languages": [
@@ -13239,301 +13054,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6fh4MH2RxpZwZq",
-    "name": "SomaFM: Beat Blender",
-    "sources": {
-      "streams": [
-        "https://ice2.somafm.com/beatblender-128-aac",
-        "https://ice3.somafm.com/beatblender-128-aac",
-        "https://ice4.somafm.com/beatblender-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdntz2MQAX8k2W",
-    "name": "SomaFM: Bossa Beyond",
-    "sources": {
-      "streams": [
-        "https://ice2.somafm.com/bossa-128-aac",
-        "https://ice3.somafm.com/bossa-128-aac",
-        "https://ice4.somafm.com/bossa-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VbPhzCpFWR3Ctb",
-    "name": "SomaFM: Chillits",
-    "sources": {
-      "streams": [
-        "https://ice5.somafm.com/chillits-128-aac",
-        "https://ice6.somafm.com/chillits-128-aac",
-        "https://ice2.somafm.com/chillits-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G9tCCz1e3x2Lbk",
-    "name": "SomaFM: Christmas Lounge",
-    "sources": {
-      "streams": [
-        "https://ice6.somafm.com/christmas-256-mp3",
-        "https://ice2.somafm.com/christmas-256-mp3",
-        "https://ice4.somafm.com/christmas-256-mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6hFNqd0s5s8Mob",
-    "name": "SomaFM: Deep Space One",
-    "sources": {
-      "streams": [
-        "https://ice5.somafm.com/deepspaceone-128-mp3",
-        "https://ice1.somafm.com/deepspaceone-128-aac",
-        "https://ice4.somafm.com/deepspaceone-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nxJy5wdb9HGO9d",
-    "name": "SomaFM: DEF CON Radio",
-    "sources": {
-      "streams": [
-        "https://ice1.somafm.com/defcon-256-mp3",
-        "https://ice3.somafm.com/defcon-128-aac",
-        "https://ice5.somafm.com/defcon-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ypDskxWUc2d4UH",
-    "name": "SomaFM: Doomed",
-    "sources": {
-      "streams": [
-        "https://ice2.somafm.com/doomed-256-mp3",
-        "https://ice3.somafm.com/doomed-256-mp3",
-        "https://ice4.somafm.com/doomed-256-mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PdbqX030AwDSbK",
-    "name": "SomaFM: Drone Zone",
-    "sources": {
-      "streams": [
-        "https://ice1.somafm.com/dronezone-256-mp3",
-        "https://ice6.somafm.com/dronezone-128-aac",
-        "https://ice2.somafm.com/dronezone-128-mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2UZDreE5Fj7NtJ",
     "name": "SomaFM: Groove Salad",
     "sources": {
       "streams": [
-        "https://ice1.somafm.com/groovesalad-256-mp3",
-        "https://hls.somafm.com/hls//gs-surround/program.m3u8",
-        "https://ice4.somafm.com/groovesalad-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nnC1Uoc1Umb38k",
-    "name": "SomaFM: Groove Salad Classic",
-    "sources": {
-      "streams": [
-        "https://ice5.somafm.com/gsclassic-128-mp3",
-        "https://ice6.somafm.com/gsclassic-128-mp3",
-        "https://ice2.somafm.com/gsclassic-128-mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5lsYJbGGrkw9Nz",
-    "name": "SomaFM: Illinois Street Lounge",
-    "sources": {
-      "streams": [
-        "https://ice4.somafm.com/illstreet-128-aac",
-        "https://ice5.somafm.com/illstreet-128-aac",
-        "https://ice6.somafm.com/illstreet-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gIf5FrEtBXrTR4",
-    "name": "SomaFM: Lush",
-    "sources": {
-      "streams": [
-        "https://ice3.somafm.com/lush-128-aac",
-        "https://ice4.somafm.com/lush-128-aac",
-        "https://ice5.somafm.com/lush-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "85Nqtd648LncrA",
-    "name": "SomaFM: Mission Control",
-    "sources": {
-      "streams": [
-        "https://ice4.somafm.com/missioncontrol-128-mp3",
-        "https://ice4.somafm.com/missioncontrol-128-aac",
-        "https://ice6.somafm.com/missioncontrol-128-mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XsJDTKw1Wa1eRf",
-    "name": "SomaFM: n5MD",
-    "sources": {
-      "streams": [
-        "https://ice2.somafm.com/n5md-128-aac",
-        "https://ice3.somafm.com/n5md-128-aac",
-        "https://ice4.somafm.com/n5md-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b4PjrkQQ5oMEhK",
-    "name": "SomaFM: Secret Agent",
-    "sources": {
-      "streams": [
-        "https://ice4.somafm.com/secretagent-128-aac",
-        "https://ice5.somafm.com/secretagent-128-aac",
-        "https://ice6.somafm.com/secretagent-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bTjgJwD6tlhI9N",
-    "name": "SomaFM: SF 10-33",
-    "sources": {
-      "streams": [
-        "https://ice6.somafm.com/sf1033-128-mp3",
-        "https://ice2.somafm.com/sf1033-128-mp3",
-        "https://ice3.somafm.com/sf1033-128-mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JY8n8vMRQKcx0d",
-    "name": "SomaFM: Space Station Soma",
-    "sources": {
-      "streams": [
-        "https://ice5.somafm.com/spacestation-128-aac",
-        "https://ice4.somafm.com/spacestation-128-aac",
-        "https://ice2.somafm.com/spacestation-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NoQAQHmmipgy1o",
-    "name": "SomaFM: Synphaera",
-    "sources": {
-      "streams": [
-        "https://ice6.somafm.com/synphaera-256-mp3",
-        "https://ice2.somafm.com/synphaera-256-mp3",
-        "https://ice3.somafm.com/synphaera-256-mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UA6XJiE00WE3uQ",
-    "name": "SomaFM: The Dark Zone",
-    "sources": {
-      "streams": [
-        "https://ice2.somafm.com/darkzone-256-mp3",
-        "https://ice3.somafm.com/darkzone-256-mp3",
-        "https://ice4.somafm.com/darkzone-256-mp3"
+        "https://hls.somafm.com/hls/groovesalad/320k/program.m3u8",
+        "https://hls.somafm.com/hls//gs-surround/program.m3u8"
       ]
     },
     "languages": [
@@ -13735,9 +13261,9 @@
     "name": "STR - Space Travel Radio",
     "sources": {
       "streams": [
-        "https://spacetravelradio.de:2893/stream/1/",
+        "https://spacetravelradio.de:2893/stream/3/",
         "https://spacetravelradio.de:2893/stream/2/",
-        "https://spacetravelradio.de:2893/stream/3/"
+        "https://spacetravelradio.de:2893/stream/1/"
       ]
     },
     "languages": [
@@ -13767,8 +13293,8 @@
     "name": "Styria Lounge",
     "sources": {
       "streams": [
-        "https://styrialounge.out.airtime.pro/styrialounge_a",
-        "https://styrialounge.out.airtime.pro:8000/styrialounge_a"
+        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
+        "https://styrialounge.out.airtime.pro/styrialounge_a"
       ]
     },
     "languages": [
@@ -13839,7 +13365,7 @@
     "sources": {
       "streams": [
         "https://sunsl.streamabc.net/sunsl-chillout-mp3-192-3900120",
-        "https://stream.sunshine-live.de/sp8/mp3-192/stream.sunshine-live.de/"
+        "https://stream.sunshine-live.de/sp8/mp3-192/stream.sunshine-live.de"
       ]
     },
     "languages": [
@@ -13853,8 +13379,8 @@
     "name": "sunshine live - Lounge",
     "sources": {
       "streams": [
-        "https://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/",
-        "https://stream.sunshine-live.de/lounge/mp3-192"
+        "https://stream.sunshine-live.de/lounge/mp3-192",
+        "https://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de"
       ]
     },
     "languages": [
@@ -13869,7 +13395,7 @@
     "sources": {
       "streams": [
         "https://sunsl.streamabc.net/sunsl-winterchill-mp3-192-4518810",
-        "https://stream.sunshine-live.de/winterchill/mp3-192/stream.sunshine-live.de/"
+        "https://stream.sunshine-live.de/winterchill/mp3-192/stream.sunshine-live.de"
       ]
     },
     "languages": [
@@ -13883,7 +13409,7 @@
     "name": "sunshine live - Relax",
     "sources": {
       "streams": [
-        "https://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/"
+        "https://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de"
       ]
     },
     "languages": [
@@ -13992,21 +13518,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oSZcPmW0lFrnwV",
-    "name": "Taiwan Lounge Radio",
-    "sources": {
-      "streams": [
-        "https://azuracast.conceptradio.fr:8030/stream.mp3",
-        "https://azuracast.conceptradio.fr/radio/8030/stream.mp3"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TDF0jftUcyWM68",
     "name": "Technolovers - Ibiza House",
     "sources": {
@@ -14048,20 +13559,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0Bgm7SDhuXcfRz",
-    "name": "The Christmas Lounge (SomaFM)",
-    "sources": {
-      "streams": [
-        "https://ice1.somafm.com/christmas-128-aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -14314,20 +13811,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5GegM44NtgjdgJ",
-    "name": "Traxx FM Ambient",
-    "sources": {
-      "streams": [
-        "https://traxx011.ice.infomaniak.ch/traxx011-low.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ch",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tB1SJVYIe5jxew",
     "name": "Traxx FM Cool Jam",
     "sources": {
@@ -14410,20 +13893,6 @@
       "eng"
     ],
     "country": "no",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AcvMfMOFeEqh7B",
-    "name": "United Czech Chillers",
-    "sources": {
-      "streams": [
-        "https://chill.mfnet.cz/radio/8000/radio192.mp3"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
     "isGeoBlocked": false
   },
   {
@@ -14657,7 +14126,7 @@
     "name": "Weihnachtsmusik.fm Lounge Weihnachten",
     "sources": {
       "streams": [
-        "https://streams.weihnachtsmusik.fm/lounge/mp3-192/streams.weihnachtsmusik.fm/"
+        "https://streams.weihnachtsmusik.fm/lounge/mp3-192/streams.weihnachtsmusik.fm"
       ]
     },
     "languages": [
@@ -14706,6 +14175,20 @@
       "eng"
     ],
     "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1vix6jwGJHQuQ2",
+    "name": "Wit FM Lounge",
+    "sources": {
+      "streams": [
+        "https://witlounge.ice.infomaniak.ch/witlounge.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -14779,8 +14262,8 @@
     "name": "Your City Radio",
     "sources": {
       "streams": [
-        "https://c28.radioboss.fm:18234/stream",
-        "https://c34.radioboss.fm:8234/stream"
+        "https://c34.radioboss.fm:8234/stream",
+        "https://c28.radioboss.fm:18234/stream"
       ]
     },
     "languages": [
@@ -14949,6 +14432,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3QTev23mvlJQlR",
+    "name": "Радио Бархат",
+    "sources": {
+      "streams": [
+        "https://radio.albrin.online:9000/nonstop"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xrKbKCZEG3hULf",
     "name": "Радио Гималаи",
     "sources": {
@@ -15034,11 +14531,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "124icRPl3JRox6",
-    "name": "Радио Пляж",
+    "nanoid": "gNscSvocPj8hkO",
+    "name": "Радио Новая Волна: Для души",
     "sources": {
       "streams": [
-        "https://stream.pcradio.ru/radio_beach_net-med"
+        "https://stream.radionv.ru:4265/stream"
       ]
     },
     "languages": [

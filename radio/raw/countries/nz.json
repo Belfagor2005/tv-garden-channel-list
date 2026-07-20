@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "JWPxoXWNlIxGWT",
-    "name": "8K.NZ",
-    "sources": {
-      "streams": [
-        "https://radio8k.out.airtime.pro:8000/radio8k_a"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Uozf9hXtraG8hM",
     "name": "91.2 FM Oamaru",
     "sources": {
@@ -32,9 +18,9 @@
     "name": "95bFM",
     "sources": {
       "streams": [
+        "https://streams.95bfm.com/stream112",
         "https://streams.95bfm.com/stream128",
-        "https://streams.95bfm.com/stream95",
-        "https://streams.95bfm.com/stream112"
+        "https://streams.95bfm.com/stream95"
       ]
     },
     "languages": [
@@ -481,20 +467,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uPBNT9vb5XUK5a",
-    "name": "Life FM",
-    "sources": {
-      "streams": [
-        "https://rhema-radio.streamguys1.com/rhema-lifefm.aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zulzbd1k2EwHOu",
     "name": "MAD FM 106.7",
     "sources": {
@@ -655,7 +627,8 @@
     "name": "Niu FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC"
       ]
     },
     "languages": [
@@ -956,6 +929,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T39F2PCWeuPaiM",
+    "name": "Radio Spice 88.0",
+    "sources": {
+      "streams": [
+        "https://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "pan"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v0DdlJiplylZbk",
     "name": "Radio Te Aroha 88 FM",
     "sources": {
@@ -1003,6 +992,7 @@
     "sources": {
       "streams": [
         "https://stream.radiowavenz.com/stream-aac",
+        "https://stream.radiowavenz.com/stream-aac-low",
         "https://stream.radiowavenz.com/stream"
       ]
     },
@@ -1229,8 +1219,8 @@
     "name": "The Cheese",
     "sources": {
       "streams": [
-        "https://station.thecheese.co.nz/listen/the_cheese/flac",
-        "https://station.thecheese.co.nz/listen/the_cheese/128.mp3"
+        "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
+        "https://station.thecheese.co.nz/listen/the_cheese/flac"
       ]
     },
     "languages": [
@@ -1244,8 +1234,7 @@
     "name": "The Generator FM",
     "sources": {
       "streams": [
-        "https://s1.myradiostream.com/:14268/;",
-        "https://s1.myradiostream.com/14268/stream/1/"
+        "https://s1.myradiostream.com/:14268/;"
       ]
     },
     "languages": [

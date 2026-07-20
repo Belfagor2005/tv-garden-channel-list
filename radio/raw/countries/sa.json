@@ -288,21 +288,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A0D59TuWOde7Qj",
-    "name": "OFW Kabayan Radio",
-    "sources": {
-      "streams": [
-        "https://c2.radioboss.fm:18478/stream"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vfQbINYEyE50GJ",
     "name": "OFW Tambayan FM",
     "sources": {
@@ -364,8 +349,8 @@
     "name": "Radio Asharq with Bloomberg",
     "sources": {
       "streams": [
-        "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8",
-        "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
+        "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
+        "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8"
       ]
     },
     "languages": [
@@ -471,20 +456,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fgYVLw3dzxv08A",
-    "name": "The Salaf Way FM",
-    "sources": {
-      "streams": [
-        "https://airtime.salafwayfm.ly/"
-      ]
-    },
-    "languages": [
-      "ara"
     ],
     "country": "sa",
     "isGeoBlocked": false

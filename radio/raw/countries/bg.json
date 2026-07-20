@@ -18,8 +18,8 @@
     "name": "Avto Radio",
     "sources": {
       "streams": [
-        "https://25483.live.streamtheworld.com/AVTORADIOAAC_L.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac",
+        "https://25483.live.streamtheworld.com/AVTORADIOAAC_L.aac"
       ]
     },
     "languages": [
@@ -226,20 +226,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kwPEYICd9g5jGZ",
-    "name": "Deep Lounge",
-    "sources": {
-      "streams": [
-        "https://radio.jump.bg/proxy/georgi18/stream"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JdcQNQDrKwANpl",
     "name": "Deluxe Radio",
     "sources": {
@@ -307,20 +293,6 @@
     },
     "languages": [
       "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kjwCWReRo3Y0Lf",
-    "name": "House Music Radio",
-    "sources": {
-      "streams": [
-        "https://home.radionrg.com/hls/housemusic/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "bg",
     "isGeoBlocked": false
@@ -860,8 +832,8 @@
     "name": "The Voice",
     "sources": {
       "streams": [
-        "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
-        "https://bss1.neterra.tv/thevoicefm/stream_0.m3u8"
+        "https://bss1.neterra.tv/thevoicefm/stream_0.m3u8",
+        "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8"
       ]
     },
     "languages": [
@@ -885,11 +857,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IBkJmkoD02mSWa",
+    "name": "Victoria Radio",
+    "sources": {
+      "streams": [
+        "https://play.radiomaxxfm.com/victoriafm"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RriXBboWOWYl1x",
     "name": "XRaydio 1",
     "sources": {
       "streams": [
         "https://xraydio.ddns.net/live"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G0iSLZXe73wkwA",
+    "name": "XRaydio 2",
+    "sources": {
+      "streams": [
+        "https://xraydio.ddns.net/jukebox"
       ]
     },
     "languages": [
