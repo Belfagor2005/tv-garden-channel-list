@@ -18,7 +18,7 @@
     "name": "AnewZ",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ecURQqhWQlE"
+        "https://www.youtube-nocookie.com/embed/zQgdE-oIag0"
       ]
     },
     "languages": [
@@ -48,20 +48,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/WUcxwi6zXNc"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PE9tkcIaMZtMuU",
-    "name": "CNBC Africa",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/UBpIbNO8r7U"
       ]
     },
     "languages": [
@@ -203,6 +189,20 @@
     ],
     "country": "za",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "oLnLTQ4nnHeCAZ",
+    "name": "Soweto TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Es7qApbSf615KN",

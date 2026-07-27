@@ -1,5 +1,20 @@
 [
   {
+    "nanoid": "aNWcalM8ImXSeK",
+    "name": "Aruba.TV",
+    "sources": {
+      "streams": [
+        "https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BdwSSDTGxvneTK",
     "name": "Beach TV Florida & Alabama",
     "sources": {
@@ -244,6 +259,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "goNrMuzefDwskd",
+    "name": "Maldives TV",
+    "sources": {
+      "streams": [
+        "https://lana.psm.mv/live/mtv.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "mv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1sylSgieonAaR5",
     "name": "Moya stikhiya",
     "sources": {
@@ -255,6 +284,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IG7KP9uOfXV0Z7",
+    "name": "OEPM TV",
+    "sources": {
+      "streams": [
+        "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -283,48 +326,6 @@
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv-en.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6qAfF0Ciz7BFIk",
-    "name": "Peer TV Sudtirol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2SO49MQT0NpYBk",
-    "name": "Pocono Television Network",
-    "sources": {
-      "streams": [
-        "https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -360,8 +361,7 @@
     "name": "Space Live powered by sen",
     "sources": {
       "streams": [
-        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
-        "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
+        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8"
       ]
     },
     "languages": [

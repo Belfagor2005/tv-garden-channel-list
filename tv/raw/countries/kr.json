@@ -363,6 +363,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LeEKq1Wp81fOe3",
+    "name": "HLAN-DTV",
+    "sources": {
+      "streams": [
+        "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pnA1ESNuQBhdp0",
     "name": "HLAT-DTV",
     "sources": {
@@ -382,6 +396,20 @@
     "sources": {
       "streams": [
         "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jOYpv2cv2xRFLe",
+    "name": "HLCT-DTV",
+    "sources": {
+      "streams": [
+        "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -479,7 +507,7 @@
     "name": "JTBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3BbvU7iFbhc"
+        "https://www.youtube-nocookie.com/embed/erRWdkjYN9w"
       ]
     },
     "languages": [
@@ -493,10 +521,25 @@
     "name": "KBS News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/qfktkEqErx4"
+        "https://www.youtube-nocookie.com/embed/-LwtuLg2awo"
       ]
     },
     "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y96VZMuCp67Sxq",
+    "name": "KBS World",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1448/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "kor"
     ],
     "country": "kr",
@@ -633,7 +676,7 @@
     "name": "Pororo 뽀로로",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/y-Srsw9pAb4"
+        "https://www.youtube-nocookie.com/embed/m6pQPFVm28Q"
       ]
     },
     "languages": [
@@ -661,7 +704,7 @@
     "name": "SBS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PTfF-ZFuCuk"
+        "https://www.youtube-nocookie.com/embed/RGHjS3dQCkI"
       ]
     },
     "languages": [
@@ -745,7 +788,7 @@
     "name": "TVCHOSUN JOY",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VmvWXJLYeYQ"
+        "https://www.youtube-nocookie.com/embed/TOyYvYAmKw4"
       ]
     },
     "languages": [
@@ -759,7 +802,7 @@
     "name": "TVCHOSUN MUSIC",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yrTk6kPpYhU"
+        "https://www.youtube-nocookie.com/embed/RI3dWPiioHk"
       ]
     },
     "languages": [

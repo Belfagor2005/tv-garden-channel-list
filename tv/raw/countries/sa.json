@@ -158,20 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eNsC6GxX1XiJq8",
-    "name": "Asharq Documentary",
-    "sources": {
-      "streams": [
-        "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3IPx7Vn2DfdZ1y",
     "name": "Asharq News",
     "sources": {
@@ -211,21 +197,6 @@
     },
     "languages": [
       "ara"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ESV7BqrJfCdnl1",
-    "name": "Dr Pal TV",
-    "sources": {
-      "streams": [
-        "https://stream.cisk.tech/drpal/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "eng"
     ],
     "country": "sa",
     "isGeoBlocked": false
@@ -352,6 +323,20 @@
     "sources": {
       "streams": [
         "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LPJDqWkJ3mRR4C",
+    "name": "Nidae AlIslam Radio",
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8"
       ]
     },
     "languages": [

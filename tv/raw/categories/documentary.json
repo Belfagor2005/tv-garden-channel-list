@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "AIqYrCIPBEiM2N",
+    "name": "365 days TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/70/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tn94bXCcZQXp4I",
     "name": "Al Arabiya Programs",
     "sources": {
@@ -28,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eNsC6GxX1XiJq8",
-    "name": "Asharq Documentary",
-    "sources": {
-      "streams": [
-        "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "54R2DRyAaS8Mcs",
     "name": "Atlas",
     "sources": {
@@ -60,8 +60,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -69,6 +68,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "VBigvYn8JkeFMl",
+    "name": "BBC Earth Romania",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/bbcearth/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "eQ0MWZIQb0YBdg",
@@ -166,6 +179,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pOal2u88RSp40P",
+    "name": "Chemodan TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/399/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "sources": {
@@ -178,20 +206,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -244,7 +258,7 @@
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-        "https://csm-e-ceshared1lusordlive-98202546.bln1.yospace.com/csm/extlive/lawnewzprd01,court-tv.m3u8"
+        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
       ]
     },
     "languages": [
@@ -324,6 +338,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TNly8sU14Nq55M",
+    "name": "DocuBay TV",
+    "sources": {
+      "streams": [
+        "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -701,20 +729,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "AQcwe6Z9P7sz9G",
-    "name": "MRTV Farmer",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yWqRPjIHcgYftM",
     "name": "Nano",
     "sources": {
@@ -741,6 +755,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h02ivdi6VUowym",
+    "name": "National Geographic",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -800,17 +829,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v63UFM91nMh49U",
+    "nanoid": "L8DhkS4ZVRWBVB",
     "name": "National Geographic Wild",
     "sources": {
       "streams": [
-        "https://41.205.77.102/NATGEO-WILD/index.m3u8"
+        "https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8"
       ]
     },
     "languages": [
-      "fra"
+      "ron"
     ],
-    "country": "fr",
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -818,8 +847,8 @@
     "name": "National Geographic Wild East",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8",
-        "https://206.212.244.63/123/index.m3u8"
+        "https://206.212.244.63/123/index.m3u8",
+        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
       ]
     },
     "languages": [
@@ -901,6 +930,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nWF8Imk61O9FuP",
+    "name": "Nauka",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/125/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5dGASmS4TNjspn",
     "name": "O'zbekiston Tarixi",
     "sources": {
@@ -933,8 +976,8 @@
     "name": "Reelz",
     "sources": {
       "streams": [
-        "https://206.212.244.63/144/index.m3u8",
-        "https://40.160.24.55/REELZ/index.m3u8"
+        "https://40.160.24.55/REELZ/index.m3u8",
+        "https://206.212.244.63/144/index.m3u8"
       ]
     },
     "languages": [
@@ -948,6 +991,7 @@
     "name": "RTД",
     "sources": {
       "streams": [
+        "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
         "https://streaming.thestream.cyou/live/554.m3u8"
       ]
     },
@@ -1101,11 +1145,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pZthsgjcG9ZCMb",
+    "name": "viju Explore",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/239/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8XdbeDHcvZuIPU",
+    "name": "viju History",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/101/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lHhrFobodop0gc",
     "name": "viju Nature",
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dod05Sp6xlTtg2",
+    "name": "viju+ Planet",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/240/index.m3u8"
       ]
     },
     "languages": [

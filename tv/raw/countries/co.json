@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "b9E07ezUKVar1z",
+    "name": "Alerta Bogota",
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "RENB7FpGag5A0S",
     "name": "Amaga Television",
     "sources": {
@@ -33,20 +47,6 @@
     "sources": {
       "streams": [
         "https://canal.aupurtv.co/live/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DhFWPxFh4aKhyC",
-    "name": "Avivamiento TV",
-    "sources": {
-      "streams": [
-        "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -102,7 +102,6 @@
     "name": "BUM Television",
     "sources": {
       "streams": [
-        "https://movil.ejeserver.com/live/visiondorada.m3u8",
         "https://video.ejeserver.com/live/visiondorada.m3u8"
       ]
     },
@@ -170,6 +169,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t77vURUv4tfKdi",
+    "name": "Canal 9 Cosespu",
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s64BgUfTafeYF2",
     "name": "Canal 14 Codazzi",
     "sources": {
@@ -189,6 +202,20 @@
     "sources": {
       "streams": [
         "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pxpERTjTLU5biZ",
+    "name": "Canal CHD",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
       ]
     },
     "languages": [
@@ -318,20 +345,6 @@
     "sources": {
       "streams": [
         "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y6DIrrNamySBRa",
-    "name": "Caracol Televisión",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/0HJsa_pQ5LA"
       ]
     },
     "languages": [
@@ -948,34 +961,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HgBlAsHZW8C65f",
-    "name": "Tele Mocoa Canal 10",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aJPAtWT0lETbk1",
-    "name": "Telebolivar",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "sources": {
@@ -989,20 +974,6 @@
     ],
     "country": "co",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J0rJwxe8lgoosT",
-    "name": "Telepacifico",
-    "sources": {
-      "streams": [
-        "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "BTUtiIKXJH39q3",

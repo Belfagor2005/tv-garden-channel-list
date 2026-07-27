@@ -127,11 +127,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5BmPVKnvVw5EhX",
+    "name": "Comedy Central",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lwOO3yKfQFwVFA",
     "name": "Comedy Central East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/44/index.m3u8"
+        "https://206.212.244.63/44/index.m3u8",
+        "https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8"
       ]
     },
     "languages": [
@@ -157,17 +172,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QDT0Nt5qZTPoXG",
-    "name": "Comedy Play",
+    "nanoid": "pCIEKxr3ezot69",
+    "name": "Comedy TV",
     "sources": {
       "streams": [
-        "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8"
+        "https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8"
       ]
     },
     "languages": [
-      "ron"
+      "eng"
     ],
-    "country": "ro",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -227,6 +242,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JUh78ibwjZjSWp",
+    "name": "Kinokomedija",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/265/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H3UPSBAVuhUxL7",
     "name": "Komedia",
     "sources": {
@@ -241,12 +270,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xK0Yp3bEUvrU5e",
+    "name": "Komediynoe",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/74/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BuvrzlOygGxrJ9",
     "name": "Laff",
     "sources": {
       "streams": [
         "https://206.212.244.63/101/index.m3u8",
-        "https://40.160.24.53/LAFF_TV/index.m3u8"
+        "https://40.160.24.53/LAFF_TV/index.m3u8",
+        "https://tvsen7.aynascope.net/laff/index.m3u8"
       ]
     },
     "languages": [
@@ -314,6 +358,7 @@
     "name": "Mystery Science Theater 3000",
     "sources": {
       "streams": [
+        "https://mst3k-vizio.amagi.tv/playlist.m3u8",
         "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
       ]
     },
@@ -328,7 +373,7 @@
     "name": "Mystery Science Theater 3000: FOREVER-a-thon",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ai8jOHPBggM"
+        "https://www.youtube-nocookie.com/embed/Q2wocb89yGc"
       ]
     },
     "languages": [
@@ -423,6 +468,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CXYeH7nn79yAkB",
+    "name": "Starz Comedy East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/STARZ_COMEDY/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yenlo48DOLbqmP",
     "name": "The Chat Show Channel",
     "sources": {
@@ -497,19 +557,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3KIbg37PQUOdm7",
-    "name": "Viasat Kino Comedy",
+    "nanoid": "xQAk5wZODkxgWi",
+    "name": "viju+ Comedy",
     "sources": {
       "streams": [
-        "https://ukr.ukrainske.tv/493/keytvainua/video.m3u8"
+        "https://stream.mcquack.net/201/index.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "lat",
       "rus"
     ],
-    "country": "ua",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

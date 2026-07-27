@@ -28,6 +28,34 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "bZQGzeEyald0Ck",
+    "name": "Bollywood Classic",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d8w13QXT1QMGcP",
+    "name": "BRIDGE Classic",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/272/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3FibakB882ByKy",
     "name": "Classic TV",
     "sources": {
@@ -116,7 +144,7 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/H7xYUj9qAVQ"
+        "https://www.youtube-nocookie.com/embed/-T7i1VbDMxQ"
       ]
     },
     "languages": [
@@ -174,6 +202,7 @@
     "name": "Retro TV East",
     "sources": {
       "streams": [
+        "https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8",
         "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8"
       ]
     },

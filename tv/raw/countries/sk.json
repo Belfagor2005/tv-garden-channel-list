@@ -18,7 +18,7 @@
     "name": "Česko-Slovenská regionálna televízia",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/sReJEPMMVDQ"
+        "https://www.youtube-nocookie.com/embed/jYTGwngcgbA"
       ]
     },
     "languages": [
@@ -160,6 +160,7 @@
     "name": "TV Central",
     "sources": {
       "streams": [
+        "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
         "https://dash4.antik.sk/live/test_central/playlist.m3u8"
       ]
     },
@@ -230,7 +231,7 @@
     "name": "TV Nitra",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/whY0919YRWI"
+        "https://www.youtube-nocookie.com/embed/EnvKQV3l5SQ"
       ]
     },
     "languages": [
@@ -357,6 +358,20 @@
     "sources": {
       "streams": [
         "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5vF3N7IdinbhWc",
+    "name": "Zapadoslovenska TV",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8"
       ]
     },
     "languages": [

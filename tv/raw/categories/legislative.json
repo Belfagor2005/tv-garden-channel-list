@@ -112,6 +112,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "s7bMJMlkZ9S5PS",
+    "name": "C-SPAN",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Do7oeDT3YviGiQ",
+    "name": "C-SPAN 2",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/C-SPAN_2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UTKM2yB8tUj85p",
     "name": "Camera dei Deputati",
     "sources": {
@@ -147,7 +175,7 @@
         "https://canalgov-stream.ebc.com.br/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3gGHN13xwdI"
+        "https://www.youtube-nocookie.com/embed/nqfph9USEYA"
       ]
     },
     "languages": [
@@ -190,20 +218,6 @@
     "sources": {
       "streams": [
         "https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xIwhqLk3kSoWQX",
-    "name": "CFM TV Channel 98",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8"
       ]
     },
     "languages": [
@@ -408,6 +422,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/gCCprKcaG24"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -694,20 +722,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p69vsxFs98WVu8",
-    "name": "Hluttaw S & D",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fA9TEJ4ZsGIi2e",
     "name": "HTV 1 Houston Television",
     "sources": {
@@ -806,41 +820,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pEAMt0Cl6awh5C",
-    "name": "KTOP",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa",
-      "vie"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QCanIPPvtrIdKY",
     "name": "Lake Havasu City 4",
     "sources": {
       "streams": [
         "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ib0vAPeUOAHuDp",
-    "name": "LBTV",
-    "sources": {
-      "streams": [
-        "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
       ]
     },
     "languages": [
@@ -983,6 +967,20 @@
     "sources": {
       "streams": [
         "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G91NOrrqX23WUi",
+    "name": "Natick Government Channel",
+    "sources": {
+      "streams": [
+        "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1204,20 +1202,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TGxMGkMiPXHlY0",
-    "name": "Rio TV Câmara",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/-W727PeeOEQ"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "sources": {
@@ -1369,7 +1353,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cTcLQgQD3N4"
+        "https://www.youtube-nocookie.com/embed/tLcD5aVxMHk"
       ]
     },
     "languages": [

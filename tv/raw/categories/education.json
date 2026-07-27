@@ -1,17 +1,5 @@
 [
   {
-    "nanoid": "rWtKJSewbglBpX",
-    "name": "Agro TV",
-    "sources": {
-      "streams": [
-        "https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CtdqbL5wtTjnvo",
     "name": "AgroCanal",
     "sources": {
@@ -199,6 +187,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pOal2u88RSp40P",
+    "name": "Chemodan TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/399/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Sb9t7HbJFX4dw4",
     "name": "Ciftci TV",
     "sources": {
@@ -301,6 +304,7 @@
     "name": "Da Vinci",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/238/index.m3u8",
         "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -736,21 +740,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qo704xbyXZJTCe",
-    "name": "En Lengua de Senas TV",
-    "sources": {
-      "streams": [
-        "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa",
-      "ssp"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b9z8Esreszehk1",
     "name": "English Club TV",
     "sources": {
@@ -785,7 +774,7 @@
     "name": "FGN Channel",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fi-hhOk50B4"
+        "https://www.youtube-nocookie.com/embed/HVyl8bB3FBU"
       ]
     },
     "languages": [
@@ -954,6 +943,20 @@
     "sources": {
       "streams": [
         "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uvGkHvj4kYuGpc",
+    "name": "MCPSS TV",
+    "sources": {
+      "streams": [
+        "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1316,34 +1319,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Po4Shf4tXLTh89",
-    "name": "Rede Minas",
-    "sources": {
-      "streams": [
-        "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
-    "sources": {
-      "streams": [
-        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xT4SS5ryo4F6PC",
     "name": "SMCTV Channel 24",
     "sources": {
@@ -1697,20 +1672,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JliijnACP4jH0u",
-    "name": "Wiki TV",
-    "sources": {
-      "streams": [
-        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
     "sources": {
@@ -1766,20 +1727,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qY3In36TCPaQmA",
-    "name": "XEIPN-TDT",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/stream/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

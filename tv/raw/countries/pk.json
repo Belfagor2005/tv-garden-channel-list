@@ -21,7 +21,7 @@
         "https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jhSwh8i6q3I"
+        "https://www.youtube-nocookie.com/embed/-ZYyUiuRXH4"
       ]
     },
     "languages": [
@@ -77,7 +77,7 @@
     "name": "ARY News Pakistan",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ORYqk9pGiCM"
+        "https://www.youtube-nocookie.com/embed/5FW9ZVMR_7M"
       ]
     },
     "languages": [
@@ -119,6 +119,7 @@
     "name": "BS Film",
     "sources": {
       "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8",
         "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8"
       ]
     },
@@ -147,7 +148,7 @@
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yoCBYiGUHZA"
+        "https://www.youtube-nocookie.com/embed/YwOhOxoA4nQ"
       ]
     },
     "languages": [
@@ -161,7 +162,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-ZSDEvo0ydo"
+        "https://www.youtube-nocookie.com/embed/qBih0DPrlMQ"
       ]
     },
     "languages": [
@@ -514,6 +515,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OkQ04QjkopDSrH",
+    "name": "Jeremiah TV",
+    "sources": {
+      "streams": [
+        "https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "keDnMBwKoBk3De",
     "name": "JooMusic",
     "sources": {
@@ -603,7 +618,35 @@
     "name": "Lahore News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TQzhl7sj2S4"
+        "https://www.youtube-nocookie.com/embed/BLm2_Tr0tmM"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OgLxSC2tuxXw6J",
+    "name": "M News",
+    "sources": {
+      "streams": [
+        "https://cdn.rabta.stream/M-News/index.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hQwO2hX6QgN3n6",
+    "name": "M Sports",
+    "sources": {
+      "streams": [
+        "https://cdn.rabta.stream/M-Sports/index.m3u8"
       ]
     },
     "languages": [
@@ -680,7 +723,7 @@
         "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/68TO6kvdRp0"
+        "https://www.youtube-nocookie.com/embed/ezf8o0rEJyI"
       ]
     },
     "languages": [
@@ -751,7 +794,21 @@
     "name": "PTV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/edVrNd4kzIg"
+        "https://www.youtube-nocookie.com/embed/poLqld7QiIE"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eEl9GNsGZ69KhR",
+    "name": "PTV Sports",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/Sports1/index.m3u8"
       ]
     },
     "languages": [
@@ -765,7 +822,7 @@
     "name": "PTV World",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BA4aQK1WXvY"
+        "https://www.youtube-nocookie.com/embed/SNUxMMF1ASI"
       ]
     },
     "languages": [
@@ -806,11 +863,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WXuOh2YwSDNDLT",
-    "name": "Sky News Urdu",
+    "nanoid": "3iCM6TWrro0iqg",
+    "name": "Sindh TV News",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/qdpZqqFCS3Q"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oy323hi3qdqwPY",
+    "name": "Such TV",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8"
+        "https://video.primexsports.com/suchnews/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -829,20 +900,6 @@
     },
     "languages": [
       "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VEXklR7hnzsBoP",
-    "name": "VSH News",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lsEZ_IEmY0Y"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "pk",
     "isGeoBlocked": false

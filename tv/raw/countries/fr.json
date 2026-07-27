@@ -173,21 +173,7 @@
     "name": "B SMART",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/m6zjylEfnWY"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kJYDf0pliJrAhX",
-    "name": "BabyTV France HD",
-    "sources": {
-      "streams": [
-        "https://41.223.30.230/BABYTV/index.m3u8"
+        "https://www.youtube-nocookie.com/embed/C8cTc9pWLug"
       ]
     },
     "languages": [
@@ -319,20 +305,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rao826EJExOvWU",
-    "name": "Canal J",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/CANALJ/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tiXtRLicL19CEx",
     "name": "Cannes Lerins TV",
     "sources": {
@@ -403,20 +375,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Q60Bq0egXWGDrD",
-    "name": "Disney Jr.",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/DISNEY-JUNIOR/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WxYEpzQmBTG6Du",
     "name": "Drive TV",
     "sources": {
@@ -439,6 +397,18 @@
     "languages": [
       "fra"
     ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hlG7Qk94i6rOfx",
+    "name": "Enquetes de Choc",
+    "sources": {
+      "streams": [
+        "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -611,6 +581,20 @@
     },
     "languages": [
       "rus"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "obM4Ta9tHLJdKA",
+    "name": "Evandis Gospel TV",
+    "sources": {
+      "streams": [
+        "https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -864,20 +848,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OXrSvXG0IZZsyw",
-    "name": "Gulli",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/GULLI/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OgCZtD8wAAsw56",
     "name": "HANDICAP TV",
     "sources": {
@@ -968,20 +938,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EjjtspCPPNAewo",
-    "name": "KTO",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/KTO/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ao2VustxYc4JJe",
     "name": "Le Figaro TV Ile-de-France",
     "sources": {
@@ -1059,6 +1015,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fZyKRU2kHKETIx",
+    "name": "Lou!",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/YBjg_5xDFKs"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tZGs9rIPSzUbKH",
     "name": "Maurienne TV",
     "sources": {
@@ -1077,7 +1047,22 @@
     "name": "Mezzo",
     "sources": {
       "streams": [
-        "https://live-3.otcnet.ru/Mezzo/index.m3u8"
+        "https://live-3.otcnet.ru/Mezzo/index.m3u8",
+        "https://aes.m3u8simplu.workers.dev/mezzo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LMz39hxqiqUJdI",
+    "name": "Mezzo Live",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/276/index.m3u8"
       ]
     },
     "languages": [
@@ -1170,20 +1155,6 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "v63UFM91nMh49U",
-    "name": "National Geographic Wild",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/NATGEO-WILD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "SbCVyIRCGshv9Z",
@@ -1298,42 +1269,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "kVuXOdBXr2x3dW",
-    "name": "Rakuten TV Alerte Cobra",
-    "sources": {
-      "streams": [
-        "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
-    "sources": {
-      "streams": [
-        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "phice2bsfFKDLs",
-    "name": "Rakuten TV Séries Crime",
-    "sources": {
-      "streams": [
-        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K1cCEN7WNbjDun",
     "name": "Revry Europe (Frequency backend)",
     "sources": {
@@ -1351,34 +1286,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/OAoLGxrlBPY"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pNZPBmJUBxUNCk",
-    "name": "RMC Decouverte",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/RMCDECOUVERTE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oHu9taZgmNAnls",
-    "name": "RMC Life",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/CHERIE25/index.m3u8"
       ]
     },
     "languages": [
@@ -1422,6 +1329,20 @@
     "sources": {
       "streams": [
         "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/IDfHkdSMWs8"
       ]
     },
     "languages": [
@@ -1519,20 +1440,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0vj7h7luvbbLt2",
-    "name": "Teva",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/TEVA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LPPYKgzOw76HUC",
     "name": "The '80s Guy: Darksynth FM",
     "sources": {
@@ -1542,20 +1449,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "poeRKF8tYIPqgm",
-    "name": "TiJi",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/TIJI/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1807,7 +1700,6 @@
     "name": "Trace Sport Stars",
     "sources": {
       "streams": [
-        "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
         "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8",
         "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8"
       ]
@@ -2023,20 +1915,6 @@
     "sources": {
       "streams": [
         "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SbiWPbW9abVIyM",
-    "name": "Vosges TV",
-    "sources": {
-      "streams": [
-        "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
       ]
     },
     "languages": [

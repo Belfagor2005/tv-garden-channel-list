@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "IJEPFGHoTCx2uL",
+    "name": "Premier Sports 1",
+    "sources": {
+      "streams": [
+        "https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Q69JQxUyNRBniH",
     "name": "Setanta Sports 1 Eurasia",
     "sources": {
@@ -25,20 +39,6 @@
     "languages": [
       "eng",
       "rus"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P9dhHsssENL6sF",
-    "name": "Sky News",
-    "sources": {
-      "streams": [
-        "https://41.205.77.102/SKYNEWS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ie",
     "isGeoBlocked": false
