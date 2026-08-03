@@ -4,7 +4,7 @@
     "name": "AAC Television",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GC3saFn1i2M"
+        "https://www.youtube-nocookie.com/embed/Gg1-CKLZM9I"
       ]
     },
     "languages": [
@@ -46,7 +46,7 @@
     "name": "CoinVaultTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iThg2WQi5EU"
+        "https://www.youtube-nocookie.com/embed/DIolKHLH-5k"
       ]
     },
     "languages": [
@@ -116,7 +116,7 @@
     "name": "FairON",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/qvmXIrrSIfk"
+        "https://www.youtube-nocookie.com/embed/j5SKVCCLlps"
       ]
     },
     "languages": [
@@ -741,9 +741,9 @@
     "name": "QVC",
     "sources": {
       "streams": [
-        "https://206.212.244.63/141/index.m3u8",
         "https://40.160.24.55/QVC/index.m3u8",
-        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+        "https://206.212.244.63/141/index.m3u8"
       ]
     },
     "languages": [
@@ -892,8 +892,8 @@
     "name": "QVC2",
     "sources": {
       "streams": [
-        "https://206.212.244.63/142/index.m3u8",
-        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8",
+        "https://206.212.244.63/142/index.m3u8"
       ]
     },
     "languages": [
@@ -957,20 +957,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yLB43ge13jrHoP",
-    "name": "Red TV Shop",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/redtvshop/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
     "isGeoBlocked": false
   },
   {

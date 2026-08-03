@@ -335,11 +335,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V9OoiU0u2pwSNH",
-    "name": "TV Keszthely",
+    "nanoid": "UxOgU5kfFfuxCm",
+    "name": "Tatai TV",
     "sources": {
       "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8"
+        "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uOI7Fr7hGWDmjp",
+    "name": "TelePaks",
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
       ]
     },
     "languages": [

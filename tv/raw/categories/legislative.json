@@ -46,7 +46,7 @@
     "name": "Assembleia SC: AO VIVO",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mA0MMvmshLA"
+        "https://www.youtube-nocookie.com/embed/A-MJ8liNUNQ"
       ]
     },
     "languages": [
@@ -227,6 +227,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xIwhqLk3kSoWQX",
+    "name": "CFM TV Channel 98",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8h6KOJsz3bPpts",
     "name": "CGTV",
     "sources": {
@@ -238,21 +252,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "udSOaNy3d31JFB",
-    "name": "Chamber TV",
-    "sources": {
-      "streams": [
-        "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "ltz"
-    ],
-    "country": "lu",
     "isGeoBlocked": false
   },
   {
@@ -425,20 +424,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/gCCprKcaG24"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5ymwJKVoGafdCH",
     "name": "COStv",
     "sources": {
@@ -473,20 +458,6 @@
     "sources": {
       "streams": [
         "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "54APtzgfl8rhY2",
-    "name": "CT-N Live Stream 2",
-    "sources": {
-      "streams": [
-        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -623,6 +594,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -719,6 +704,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p69vsxFs98WVu8",
+    "name": "Hluttaw S & D",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -1075,20 +1074,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hKXziqHmvJRVZi",
-    "name": "Parlamentsfernsehen 1",
-    "sources": {
-      "streams": [
-        "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "sources": {
@@ -1199,6 +1184,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TGxMGkMiPXHlY0",
+    "name": "Rio TV Câmara",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/KKbl9L_39ic"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1353,7 +1352,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tLcD5aVxMHk"
+        "https://www.youtube-nocookie.com/embed/iE-_NnyEo94"
       ]
     },
     "languages": [
@@ -1382,8 +1381,22 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8",
-        "https://45.190.28.50/TV_CAMARA/index.m3u8"
+        "https://45.190.28.50/TV_CAMARA/index.m3u8",
+        "https://45.162.64.114/TV_CAMARA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ljxQJllBAK9Pvk",
+    "name": "TV Câmara Porto Alegre",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/N1PoGceZ8i8"
       ]
     },
     "languages": [
@@ -1419,6 +1432,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "veywE9r1ITeufF",
+    "name": "TV Legislativa",
+    "sources": {
+      "streams": [
+        "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
     "isGeoBlocked": false
   },
   {

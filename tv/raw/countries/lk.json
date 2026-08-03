@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Peq2FVjvdeypXQ",
-    "name": "Jaya Tv Live",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/JJMABOvPc_Y"
-      ]
-    },
-    "languages": [
-      "sin"
-    ],
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SfoZRyfL73LUNW",
     "name": "Karma",
     "sources": {
@@ -88,11 +74,25 @@
     "name": "Methmaga TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TLFkdTr9V5c"
+        "https://www.youtube-nocookie.com/embed/szJDK_lLXwA"
       ]
     },
     "languages": [
       "sin"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lb91CXq3a9VbL6",
+    "name": "NDTV LANKA",
+    "sources": {
+      "streams": [
+        "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
     ],
     "country": "lk",
     "isGeoBlocked": false
@@ -116,7 +116,7 @@
     "name": "Sathi TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ANPAAs9Yjww"
+        "https://www.youtube-nocookie.com/embed/9reeyckNp0Y"
       ]
     },
     "languages": [

@@ -42,20 +42,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qF4K7YKWjkSybG",
-    "name": "Bread TV",
-    "sources": {
-      "streams": [
-        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
-      ]
-    },
-    "languages": [
-      "cmn"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jPny5x45PjO9YA",
     "name": "CCTV-1",
     "sources": {
@@ -90,20 +76,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/vNVp6bxkL1c"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8qbHNd2Zc2MjWY",
-    "name": "CCTV-9",
-    "sources": {
-      "streams": [
-        "https://xykt-fix.github.io/Y77.m3u8"
       ]
     },
     "languages": [
@@ -388,6 +360,20 @@
     "sources": {
       "streams": [
         "https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ixOgDfLWthKimS",
+    "name": "Jiangsu Public & News Channel",
+    "sources": {
+      "streams": [
+        "https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8"
       ]
     },
     "languages": [
@@ -691,7 +677,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GoDcMyfgbcQ"
+        "https://www.youtube-nocookie.com/embed/MkwtLFWlTnc"
       ]
     },
     "languages": [

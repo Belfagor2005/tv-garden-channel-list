@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "b9E07ezUKVar1z",
-    "name": "Alerta Bogota",
-    "sources": {
-      "streams": [
-        "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "RENB7FpGag5A0S",
     "name": "Amaga Television",
     "sources": {
@@ -47,6 +33,20 @@
     "sources": {
       "streams": [
         "https://canal.aupurtv.co/live/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DhFWPxFh4aKhyC",
+    "name": "Avivamiento TV",
+    "sources": {
+      "streams": [
+        "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -102,21 +102,8 @@
     "name": "BUM Television",
     "sources": {
       "streams": [
+        "https://movil.ejeserver.com/live/visiondorada.m3u8",
         "https://video.ejeserver.com/live/visiondorada.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4HcNT0v8tNO0ck",
-    "name": "Cable Nobsa TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/8164/index.m3u8"
       ]
     },
     "languages": [
@@ -211,6 +198,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4tOQsHNAnrUk50",
+    "name": "Canal Calima TV",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/calimatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pxpERTjTLU5biZ",
     "name": "Canal CHD",
     "sources": {
@@ -230,6 +231,20 @@
     "sources": {
       "streams": [
         "https://canal.mediaserver.com.co/live/cinedios.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nZ3VlBbXU9SC9N",
+    "name": "Canal Institucional",
+    "sources": {
+      "streams": [
+        "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -354,6 +369,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y6DIrrNamySBRa",
+    "name": "Caracol Televisión",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/x0eOenDDelg"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2I5wA02i045lh7",
     "name": "Cine35mm",
     "sources": {
@@ -372,7 +401,7 @@
     "name": "CityTv",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/s-opMBii6so"
+        "https://www.youtube-nocookie.com/embed/_DdoXz60u3I"
       ]
     },
     "languages": [
@@ -678,6 +707,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2RNOyGKRiGPXuw",
+    "name": "MasMusica FM",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/masmusica.m3u8",
+        "https://video.ejeserver.com/live/masmusica.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Lzh8NoZwGUGsG2",
     "name": "MCI Television",
     "sources": {
@@ -725,7 +769,7 @@
     "name": "Noticias Caracol",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mgA6CqSCFR8"
+        "https://www.youtube-nocookie.com/embed/XE-HAP0KALo"
       ]
     },
     "languages": [
@@ -782,20 +826,6 @@
     "sources": {
       "streams": [
         "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vIdlh7SNXt3y4k",
-    "name": "Panche Television",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8"
       ]
     },
     "languages": [
@@ -876,11 +906,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "31iHbRE43GfdAe",
-    "name": "Salsa Latina FM",
+    "nanoid": "3mWLWKcj1kfrS0",
+    "name": "Santel TV",
     "sources": {
       "streams": [
-        "https://panel.streamingmedia.com.co:3557/stream/play.m3u8"
+        "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8"
       ]
     },
     "languages": [
@@ -890,11 +920,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3mWLWKcj1kfrS0",
-    "name": "Santel TV",
+    "nanoid": "cFQi4ufWGZkS8a",
+    "name": "Senal Colombia",
     "sources": {
       "streams": [
-        "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8"
+        "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -961,6 +991,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HgBlAsHZW8C65f",
+    "name": "Tele Mocoa Canal 10",
+    "sources": {
+      "streams": [
+        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "sources": {
@@ -970,6 +1014,48 @@
     },
     "languages": [
       "icr",
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J0rJwxe8lgoosT",
+    "name": "Telepacifico",
+    "sources": {
+      "streams": [
+        "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "MbGewayZqG9s6Q",
+    "name": "TeleQuindio",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Clv7XzV3Q51izu",
+    "name": "Telesangil",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8"
+      ]
+    },
+    "languages": [
       "spa"
     ],
     "country": "co",

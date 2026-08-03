@@ -4,7 +4,7 @@
     "name": "1062 Mad Radio Live",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/k82aM7uGQOA"
+        "https://www.youtube-nocookie.com/embed/4BOiO-Gw15c"
       ]
     },
     "languages": [
@@ -211,11 +211,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "czhjHEIYdtj7dY",
+    "name": "Ecclesia TV",
+    "sources": {
+      "streams": [
+        "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c5sRTm8qGDYdgm",
     "name": "ecclesiaTV.gr",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/aBatgXtfT5M"
+        "https://www.youtube-nocookie.com/embed/Gmg2m9HNf3A"
       ]
     },
     "languages": [
@@ -309,20 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rNwXK8U9QtgSSA",
-    "name": "Faros TV2",
-    "sources": {
-      "streams": [
-        "https://s1.cystream.net/live/faros2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "BBnkN7RuoWZuoo",
     "name": "Gnomi TV",
     "sources": {
@@ -343,20 +343,6 @@
       "streams": [
         "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
         "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AURLtstTTkUIiV",
-    "name": "Hlektra TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -394,11 +380,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xWjSZw9S9xgZ2w",
+    "name": "Kos TV",
+    "sources": {
+      "streams": [
+        "https://eu1.streams.gr:8081/kostv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1vkifiAz0M09X4",
     "name": "Kriti TV",
     "sources": {
       "streams": [
         "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5gU0KM4Sn73Y6s",
+    "name": "Messatida TV",
+    "sources": {
+      "streams": [
+        "https://rtmp.streams.ovh:8081/mtv/index.m3u8"
       ]
     },
     "languages": [
@@ -507,20 +521,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HUFnf2hzpL68qM",
-    "name": "RedMusic",
-    "sources": {
-      "streams": [
-        "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tIsI0Q7tcEru0t",
     "name": "Skai TV",
     "sources": {
@@ -564,6 +564,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "axcim7j9dTO22W",
+    "name": "Start TV",
+    "sources": {
+      "streams": [
+        "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lH4dJFZ2RLNxKP",
     "name": "Syros TV1",
     "sources": {
@@ -597,6 +611,20 @@
     "sources": {
       "streams": [
         "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m8BDyIFQ09DrYt",
+    "name": "TRT",
+    "sources": {
+      "streams": [
+        "https://av.hellasnet.tv/rst/trt/main_stream.m3u8"
       ]
     },
     "languages": [

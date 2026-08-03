@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uGCjnDiIPhWb6B",
-    "name": "Alt Media TV",
+    "nanoid": "JAreuKNijuO7ug",
+    "name": "Bruno Masi TV",
     "sources": {
       "streams": [
-        "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8"
+        "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -84,11 +84,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "p69caBRji1PKLv",
+    "name": "Canal 8 C&C Producciones",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6EkiXPfK5IL7VS",
     "name": "Canal 8 Vision TV",
     "sources": {
       "streams": [
         "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0w7Ai7GtLMZNLS",
+    "name": "Canal Pro",
+    "sources": {
+      "streams": [
+        "https://www.desde-paraguay.com/pro.m3u8"
       ]
     },
     "languages": [
@@ -243,8 +271,7 @@
     "name": "Invasiva TV",
     "sources": {
       "streams": [
-        "https://tv-omega-nine.vercel.app/hls/live.m3u8",
-        "https://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3"
+        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
       ]
     },
     "languages": [
@@ -273,6 +300,34 @@
     "sources": {
       "streams": [
         "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vCORrvB9khbwBn",
+    "name": "Mega TV",
+    "sources": {
+      "streams": [
+        "https://www.desde-paraguay.com/mega.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ksZqh8hqVd6zjZ",
+    "name": "MiTV",
+    "sources": {
+      "streams": [
+        "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -494,6 +549,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TeqRUHz0t6Kdc6",
+    "name": "Radio TV El Arca del Pacto",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dLi3714dJiy1F0",
     "name": "RCC TV",
     "sources": {
@@ -653,6 +722,20 @@
     "sources": {
       "streams": [
         "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nx1oFHhjhBuFCV",
+    "name": "UniRadio TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8"
       ]
     },
     "languages": [

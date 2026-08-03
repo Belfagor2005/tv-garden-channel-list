@@ -215,20 +215,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t3gyipKDDyWxmg",
-    "name": "AXN White",
-    "sources": {
-      "streams": [
-        "https://aes.m3u8simplu.workers.dev/axnwhite/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ByVhPHhbBMgsJX",
     "name": "BBC Drama Spain",
     "sources": {
@@ -453,20 +439,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wr9NlZQAm85FIF",
-    "name": "Canal Luz Television",
-    "sources": {
-      "streams": [
-        "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CTZYBRtAYF88Ky",
     "name": "Canal Malaga RTV",
     "sources": {
@@ -544,7 +516,7 @@
         "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yJ6MBmiFQp0"
+        "https://www.youtube-nocookie.com/embed/e_oYf-DMTQ4"
       ]
     },
     "languages": [
@@ -812,7 +784,7 @@
     "name": "El Futuro En tu Mano",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1lT_U9waO8U"
+        "https://www.youtube-nocookie.com/embed/ZzlY3d_YSF0"
       ]
     },
     "languages": [
@@ -863,6 +835,20 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vBQYI4XuRuNh2P",
+    "name": "Estepona Television",
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8022/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mCiVfIGYDaqE2r",
@@ -1057,7 +1043,8 @@
     "name": "Historia",
     "sources": {
       "streams": [
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8"
       ]
     },
     "languages": [
@@ -1102,6 +1089,20 @@
     },
     "languages": [
       "ukr"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0PUyDm92WwiPWX",
+    "name": "La 8 Mediterraneo",
+    "sources": {
+      "streams": [
+        "https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1501,11 +1502,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6xG0BDh6352B56",
-    "name": "Rakuten TV Comedy Movies Spain",
+    "nanoid": "5yu8uNtNIpaTKc",
+    "name": "Radio Television Marbella",
     "sources": {
       "streams": [
-        "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+        "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9DzDnm8vJPwosX",
+    "name": "Rakuten TV Top Movies Spain",
+    "sources": {
+      "streams": [
+        "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
       ]
     },
     "languages": [
@@ -1673,21 +1688,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SKSq9EL0wsiHSO",
-    "name": "STZ Telebista",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eus",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pIMH6WPwb6VNHf",
     "name": "SX3",
     "sources": {
@@ -1795,20 +1795,6 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/39tFLvriPTs"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "sources": {
-      "streams": [
-        "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2099,6 +2085,20 @@
     },
     "languages": [
       "eus"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IKMYFInzhM8nN6",
+    "name": "Ventdelnord TV",
+    "sources": {
+      "streams": [
+        "https://ventdelnord.tv:8080/hls/directe.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
