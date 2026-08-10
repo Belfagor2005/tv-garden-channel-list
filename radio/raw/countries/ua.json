@@ -100,20 +100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VEgcJqQ72yDZHi",
-    "name": "Europa Plus Ukraine",
-    "sources": {
-      "streams": [
-        "https://s5.radioforge.com:7908/live"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MuQHW4bz5BFIJN",
     "name": "FM Галичина (Galychyna)",
     "sources": {
@@ -206,8 +192,8 @@
     "name": "Kiss FM Digital",
     "sources": {
       "streams": [
-        "https://online.kissfm.ua/KissFM_Digital_HD",
-        "https://online.kissfm.ua/KissFM_Digital"
+        "https://online.kissfm.ua/KissFM_Digital",
+        "https://online.kissfm.ua/KissFM_Digital_HD"
       ]
     },
     "languages": [
@@ -681,20 +667,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HpwiXboNDNPRGN",
-    "name": "Radio X.ON",
-    "sources": {
-      "streams": [
-        "https://audio.x-on.com.ua:8443/x-on-aacp-64.aac"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zJIm2czh1nX6WQ",
     "name": "RadiVo",
     "sources": {
@@ -729,20 +701,6 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/r6o4xljca6cvv"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UXnQmoPekiVfkv",
-    "name": "RockRadio UA (РокРадіо UA)",
-    "sources": {
-      "streams": [
-        "https://rockradioua.online:8433/rock_256"
       ]
     },
     "languages": [
@@ -825,6 +783,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gzt6j5duenjVsl",
+    "name": "Svoboda.FM",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/623869/stream/686722"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JfPDM8xXVlg60M",
     "name": "Trance Is Star Radio",
     "sources": {
@@ -848,7 +820,7 @@
       "streams": [
         "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/radio.mp3",
         "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_96.m4a",
-        "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_48.m4a"
+        "https://iceantstats.eclipse-streaming.co.za/TWR-ukraine.mp3"
       ]
     },
     "languages": [
@@ -1072,20 +1044,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4gsDfs9yUNMO5r",
-    "name": "Гуцульське Радіо",
-    "sources": {
-      "streams": [
-        "https://stream320.galychyna.fm/HutsulFM_RP"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qxj3ds28UHRxIL",
     "name": "Єдині Новини",
     "sources": {
@@ -1128,41 +1086,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "M1gHxIFsmT74Tn",
-    "name": "Київ FM",
-    "sources": {
-      "streams": [
-        "https://cdn.vsnw.net:8943/kyiv_fm_128k"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KeBm4hbMl72KfD",
     "name": "Люкс FM (Lux FM)",
     "sources": {
       "streams": [
-        "https://icecastdc.luxnet.ua/lux_mp3_128",
         "https://icecast.luxnet.ua/lux",
-        "https://icecast.luxnet.ua/luxlviv"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ccSbQ5dNAFaOfw",
-    "name": "Люкс FM Львів",
-    "sources": {
-      "streams": [
-        "https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8"
+        "https://icecast.luxnet.ua/luxlviv",
+        "https://icecastdc.luxnet.ua/lux_mp3_128"
       ]
     },
     "languages": [
@@ -1793,20 +1723,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "B9MjwWB8VBHUA3",
-    "name": "Радіо Рейд",
-    "sources": {
-      "streams": [
-        "https://a9.asurahosting.com:7390/radio.mp3"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iFd2gimhjpoWkD",
     "name": "Радіо Сільпо",
     "sources": {
@@ -1996,20 +1912,6 @@
     "sources": {
       "streams": [
         "https://tim-fm.tim.ua/mp3"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NNH2Y2potnU13Z",
-    "name": "Українське радіо - Радіоточка",
-    "sources": {
-      "streams": [
-        "https://radio.ukr.radio/ur5-mp3"
       ]
     },
     "languages": [

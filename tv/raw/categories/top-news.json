@@ -5,8 +5,7 @@
     "sources": {
       "streams": [
         "https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8",
-        "https://206.212.244.63/2/index.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/iipR5yUp36o"
@@ -145,9 +144,9 @@
     "name": "France 24 English",
     "sources": {
       "streams": [
+        "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
-        "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8"
+        "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/HvZt-nh9sGg"
@@ -202,6 +201,8 @@
     "name": "RT",
     "sources": {
       "streams": [
+        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
+        "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
         "https://wisewatchoott.wiseplayout.com/RT/master.m3u8"
       ]
     },

@@ -220,7 +220,8 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
-        "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8"
+        "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
+        "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/5vfaDsMhCF4"
@@ -299,6 +300,48 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mIGdPVCQ0ktnig",
+    "name": "CBFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "C2IpSsj3CjIb2e",
+    "name": "CBKFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "1yLst6OvN4IiS8",
+    "name": "CBLFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "qMfxPERIpN5bJn",
@@ -605,6 +648,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "ZjrdyB3hSZu0bK",
+    "name": "CP24",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/cp24/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5FIig7aRRBANHx",
     "name": "CTV Speed Channel",
     "sources": {
@@ -738,7 +795,8 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -946,6 +1004,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "0bMKdIaIAwnMdw",
+    "name": "Kidoodle.TV",
+    "sources": {
+      "streams": [
+        "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
     "sources": {
@@ -1044,7 +1116,9 @@
     "name": "Love Nature",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+        "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8",
+        "https://bamus-klowdtv.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1243,6 +1317,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZegDKx8OsbVOFA",
+    "name": "PTC Punjabi Canada",
+    "sources": {
+      "streams": [
+        "https://stream.ottlive.co.in/ptccanada/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VMIbt20f2NiiTt",
     "name": "Qello Concerts by Stingray",
     "sources": {
@@ -1318,20 +1406,6 @@
     },
     "languages": [
       "pan"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jVntXYmn9juMuc",
-    "name": "Slice",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/SLICE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -2087,25 +2161,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "daf0IVQd6eS7Tl",
-    "name": "Super Channel Vault",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/6142/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/CjPJKbRnUpg"
+        "https://www.youtube-nocookie.com/embed/N4r5TtmElHk"
       ]
     },
     "languages": [
@@ -2119,7 +2179,7 @@
     "name": "Super Simple: Noodle and Pals",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/4cdYOm7dPfo"
+        "https://www.youtube-nocookie.com/embed/W1dfqgezcds"
       ]
     },
     "languages": [
@@ -2133,7 +2193,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lFunrP2n0Zk"
+        "https://www.youtube-nocookie.com/embed/jGiamrhQ9rg"
       ]
     },
     "languages": [
@@ -2310,62 +2370,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ai9BqwKChqqER5",
-    "name": "TSN2",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wb9D3FYsHIR9Dd",
-    "name": "TSN3",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_3/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5ikJPlxT4rSlki",
-    "name": "TSN4",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_4/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WWeaDyjDDgcRDS",
-    "name": "TSN5",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_5/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "26wbYyZD2WNH5P",
     "name": "TV Punjab",
     "sources": {
@@ -2384,7 +2388,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/YZU8u8eoMLw"
+        "https://www.youtube-nocookie.com/embed/fEey7L7ggbU"
       ]
     },
     "languages": [

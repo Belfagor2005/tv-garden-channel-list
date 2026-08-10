@@ -185,20 +185,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d7VMc71XojDegl",
-    "name": "NinjaBox",
-    "sources": {
-      "streams": [
-        "https://djuplink.com/ninjabox.mp3"
-      ]
-    },
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "37hZIIVWhDYXs2",
     "name": "POPfm",
     "sources": {
@@ -388,8 +374,8 @@
     "name": "Radio Suomipop",
     "sources": {
       "streams": [
-        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
-        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8"
+        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
       ]
     },
     "languages": [
@@ -418,6 +404,20 @@
     "sources": {
       "streams": [
         "https://cast2.radiovoima.fi/voima.mp3"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UiJEugOMhmzSTz",
+    "name": "Radiotuottaja 1",
+    "sources": {
+      "streams": [
+        "https://kaupunkiradio.radiotaajuus.fi:9013/radio"
       ]
     },
     "languages": [

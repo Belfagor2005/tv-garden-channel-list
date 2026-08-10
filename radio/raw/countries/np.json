@@ -5,8 +5,8 @@
     "sources": {
       "streams": [
         "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3",
-        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
-        "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac"
+        "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac",
+        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
       ]
     },
     "languages": [
@@ -22,20 +22,6 @@
     "sources": {
       "streams": [
         "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60"
-      ]
-    },
-    "languages": [
-      "nep"
-    ],
-    "country": "np",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PKchb4ExVntR0W",
-    "name": "Kalika FM 95.2",
-    "sources": {
-      "streams": [
-        "https://streaming.softnep.net:10828/stream"
       ]
     },
     "languages": [
@@ -184,6 +170,20 @@
     },
     "languages": [
       "eng",
+      "nep"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZBN9TSqyMsKWCp",
+    "name": "Vijaya FM 101.6",
+    "sources": {
+      "streams": [
+        "https://live.itech.host:3320/stream"
+      ]
+    },
+    "languages": [
       "nep"
     ],
     "country": "np",

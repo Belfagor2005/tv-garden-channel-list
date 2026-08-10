@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "Lsqja1VsPDrh6o",
-    "name": "1FM",
-    "sources": {
-      "streams": [
-        "https://s2.radio.co/s914ffa700/listen"
-      ]
-    },
-    "languages": [
-      "nor"
-    ],
-    "country": "no",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vfVWjR1FdlRSJi",
     "name": "Arctic Outpost Radio",
     "sources": {
@@ -62,8 +48,8 @@
     "name": "Historyradio.org",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/6bmecgg3wd5tv",
-        "https://n03.radiojar.com/6bmecgg3wd5tv"
+        "https://n03.radiojar.com/6bmecgg3wd5tv",
+        "https://stream.radiojar.com/6bmecgg3wd5tv"
       ]
     },
     "languages": [
@@ -166,7 +152,7 @@
     "name": "NRK Jazz",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_jazz_aac_h",
+        "https://lyd.nrk.no/nrk_radio_jazz_mp3_l",
         "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
         "https://lyd.nrk.no/nrk_radio_jazz_mp3_h"
       ]
@@ -183,8 +169,8 @@
     "sources": {
       "streams": [
         "https://lyd.nrk.no/nrk_radio_klassisk_aac_h",
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h",
-        "https://lyd.nrk.no/nrk_radio_klassisk_mp3_l"
+        "https://lyd.nrk.no/nrk_radio_klassisk_mp3_l",
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h"
       ]
     },
     "languages": [
@@ -198,8 +184,8 @@
     "name": "NRK mP3",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_mp3_mp3_h",
         "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
+        "https://lyd.nrk.no/nrk_radio_mp3_mp3_h",
         "https://lyd.nrk.no/nrk_radio_mp3_aac_h"
       ]
     },
@@ -215,8 +201,8 @@
     "sources": {
       "streams": [
         "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h",
-        "https://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h",
-        "https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter",
+        "https://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h"
       ]
     },
     "languages": [
@@ -287,8 +273,8 @@
     "name": "NRK P1 Hordaland",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h",
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h"
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h",
+        "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h"
       ]
     },
     "languages": [
@@ -348,8 +334,8 @@
     "sources": {
       "streams": [
         "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h",
-        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15",
-        "https://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h"
+        "https://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h",
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15"
       ]
     },
     "languages": [
@@ -363,7 +349,6 @@
     "name": "NRK P1 Rogaland",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9",
         "https://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_m"
       ]
     },
@@ -379,8 +364,8 @@
     "sources": {
       "streams": [
         "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
-        "https://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h",
-        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7",
+        "https://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h"
       ]
     },
     "languages": [
@@ -451,9 +436,9 @@
     "name": "NRK P1 Trøndelag",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l",
+        "https://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h",
         "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5",
-        "https://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h"
+        "https://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l"
       ]
     },
     "languages": [
@@ -481,8 +466,9 @@
     "name": "NRK P1+",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h",
-        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_l"
+        "https://lyd.nrk.no/nrk_radio_p1pluss_aac_h",
+        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_l",
+        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h"
       ]
     },
     "languages": [
@@ -496,6 +482,7 @@
     "name": "NRK P2",
     "sources": {
       "streams": [
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
         "https://lyd.nrk.no/nrk_radio_p2_aac_h",
         "https://lyd.nrk.no/nrk_radio_p2_mp3_l"
       ]
@@ -511,9 +498,9 @@
     "name": "NRK P3",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p3_aac_h",
+        "https://lyd.nrk.no/nrk_radio_p3_mp3_h",
         "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
-        "https://lyd.nrk.no/nrk_radio_p3_mp3_l"
+        "https://lyd.nrk.no/nrk_radio_p3_aac_h"
       ]
     },
     "languages": [
@@ -573,8 +560,8 @@
     "name": "NRK Sport",
     "sources": {
       "streams": [
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h",
         "https://lyd.nrk.no/nrk_radio_sport_aac_h",
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h",
         "https://lyd.nrk.no/nrk_radio_sport_mp3_m"
       ]
     },
@@ -634,8 +621,8 @@
     "name": "P5 Hits",
     "sources": {
       "streams": [
-        "https://p4.p4groupaudio.com/P05_MM",
-        "https://p5.p4groupaudio.com/P05_MM"
+        "https://p5.p4groupaudio.com/P05_MM",
+        "https://p4.p4groupaudio.com/P05_MM"
       ]
     },
     "languages": [
@@ -943,20 +930,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GtSwh8SWcjsn9p",
-    "name": "Radio Nova",
-    "sources": {
-      "streams": [
-        "https://stream.radionova.no/mp3"
-      ]
-    },
-    "languages": [
-      "nor"
-    ],
-    "country": "no",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2sB6zjDJCj5MAH",
     "name": "Radio Randsfjord",
     "sources": {
@@ -1075,8 +1048,8 @@
     "name": "radiOrakel",
     "sources": {
       "streams": [
-        "https://stream.radiorakel.no/radiorakel_hq",
-        "https://stream.radiorakel.no/fm993.mp3"
+        "https://stream.radiorakel.no/fm993.mp3",
+        "https://stream.radiorakel.no/radiorakel_hq"
       ]
     },
     "languages": [

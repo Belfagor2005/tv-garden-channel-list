@@ -255,6 +255,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9hSPMJ0VJU5uNM",
+    "name": "ČRo Dvojka",
+    "sources": {
+      "streams": [
+        "https://rozhlas.stream/dvojka_high.aac"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pDcjz3ifhQGckf",
     "name": "ČRo Hradec Králové",
     "sources": {
@@ -734,7 +748,6 @@
     "name": "Frekvence 1",
     "sources": {
       "streams": [
-        "https://ice.actve.net/fm-frekvence1-aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3"
       ]
     },
@@ -862,8 +875,8 @@
     "name": "Hitrádio Devadesátka",
     "sources": {
       "streams": [
-        "https://ice2.radia.cz/hit90128.aac",
-        "https://ice.abradio.cz/hit90128.mp3"
+        "https://ice.abradio.cz/hit90128.mp3",
+        "https://ice2.radia.cz/hit90128.aac"
       ]
     },
     "languages": [
@@ -947,8 +960,8 @@
     "name": "Hitrádio Osmdesátka",
     "sources": {
       "streams": [
-        "https://ice.abradio.cz/hit80128.mp3",
-        "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac"
+        "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac",
+        "https://ice.abradio.cz/hit80128.mp3"
       ]
     },
     "languages": [
@@ -1071,20 +1084,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nKBgAOYuXNODeQ",
-    "name": "Mňau TV",
-    "sources": {
-      "streams": [
-        "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Al1LUXRdSka4wI",
     "name": "Netro Life Radio 100.8 FM",
     "sources": {
@@ -1150,20 +1149,6 @@
     },
     "languages": [
       "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8rYk0HuXB4zJZ0",
-    "name": "Phonk Nation Radio",
-    "sources": {
-      "streams": [
-        "https://radio.mxnticek.eu/listen/phonk/128.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "cz",
     "isGeoBlocked": false
@@ -1357,9 +1342,8 @@
     "name": "Rádio Beat",
     "sources": {
       "streams": [
-        "https://icecast2.play.cz/beat128aac",
-        "https://icecast1.play.cz/beat64.mp3",
-        "https://icecast2.play.cz/radiobeat128.mp3"
+        "https://icecast2.play.cz/radiobeat128.mp3",
+        "https://icecast1.play.cz/beat64.mp3"
       ]
     },
     "languages": [
@@ -1532,27 +1516,13 @@
     "name": "Radio Farda",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/cp13r2cpn3quv",
         "https://n01.radiojar.com/cp13r2cpn3quv",
+        "https://stream.radiojar.com/cp13r2cpn3quv",
         "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
       ]
     },
     "languages": [
       "fas"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SDbYNqCtlRvjLB",
-    "name": "Rádio Folk",
-    "sources": {
-      "streams": [
-        "https://ice2.abradio.cz/folk64a.aac"
-      ]
-    },
-    "languages": [
-      "ces"
     ],
     "country": "cz",
     "isGeoBlocked": false
@@ -1619,6 +1589,20 @@
     "sources": {
       "streams": [
         "https://icecast3.play.cz/hey-radio128.mp3"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P8CVoeb0ZmzkSt",
+    "name": "Rádio Humor",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac"
       ]
     },
     "languages": [
@@ -1703,9 +1687,23 @@
     "name": "Radio Kiss",
     "sources": {
       "streams": [
-        "https://icecast4.play.cz/kiss128.mp3",
+        "https://icecast8.play.cz/kisshady128.mp3",
         "https://icecast1.play.cz/kissdelta128.mp3",
-        "https://icecast8.play.cz/kisshady128.mp3"
+        "https://icecast4.play.cz/kiss128.mp3"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nmdMv9osFq9bCw",
+    "name": "Rádio Koleda",
+    "sources": {
+      "streams": [
+        "https://ice3.radia.cz/koleda_64.aac"
       ]
     },
     "languages": [
@@ -1725,6 +1723,20 @@
     "languages": [
       "rus",
       "ukr"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D55h4uLNU2PxmP",
+    "name": "Rádio MB",
+    "sources": {
+      "streams": [
+        "https://icecast3.play.cz/radiomb.mp3"
+      ]
+    },
+    "languages": [
+      "ces"
     ],
     "country": "cz",
     "isGeoBlocked": false
@@ -1818,8 +1830,9 @@
     "name": "Radio Prague International",
     "sources": {
       "streams": [
-        "https://rozhlas.stream/cro7_mp3_128.mp3",
-        "https://icecast2.play.cz/cro7-128.mp3"
+        "https://rozhlas.stream/radio_prague_int_high.aac",
+        "https://icecast2.play.cz/cro7-128.mp3",
+        "https://rozhlas.stream/cro7_mp3_128.mp3"
       ]
     },
     "languages": [
@@ -2147,9 +2160,9 @@
     "name": "We House Radio",
     "sources": {
       "streams": [
+        "https://stream.wehouseradio.com/stream/3",
         "https://stream.wehouseradio.com/stream/1",
-        "https://stream.wehouseradio.com/stream/2",
-        "https://stream.wehouseradio.com/stream/3"
+        "https://stream.wehouseradio.com/stream/2"
       ]
     },
     "languages": [
@@ -2192,8 +2205,8 @@
     "sources": {
       "streams": [
         "https://ice.actve.net/web-80",
-        "https://ice.actve.net/web-e2-csweb",
-        "https://ice.actve.net/web-f1-legendy"
+        "https://ice.actve.net/web-f1-legendy",
+        "https://ice.actve.net/web-e2-csweb"
       ]
     },
     "languages": [
@@ -2279,8 +2292,8 @@
     "name": "Крым.Реалии",
     "sources": {
       "streams": [
-        "https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8",
-        "https://stream.radiojar.com/wm9sntcpn3quv"
+        "https://stream.radiojar.com/wm9sntcpn3quv",
+        "https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2295,9 +2308,9 @@
     "name": "Радио Свобода",
     "sources": {
       "streams": [
-        "https://n01.radiojar.com/hcrb063nn3quv",
-        "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
-        "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04"
+        "https://stream.radiojar.com/hcrb063nn3quv",
+        "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04",
+        "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8"
       ]
     },
     "languages": [

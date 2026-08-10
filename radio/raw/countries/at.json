@@ -60,9 +60,9 @@
     "name": "88.6 OnAir",
     "sources": {
       "streams": [
-        "https://edge07.streamonkey.net/radio886-onair/stream/mp3",
+        "https://edge82.streamonkey.net/radio886-onair/stream/mp3",
         "https://radio886.at/streams/radio_88.6/mp3",
-        "https://edge82.streamonkey.net/radio886-onair/stream/mp3"
+        "https://edge07.streamonkey.net/radio886-onair/stream/mp3"
       ]
     },
     "languages": [
@@ -246,8 +246,8 @@
     "name": "Antenne Vorarlberg 80er Hits",
     "sources": {
       "streams": [
-        "https://web.radio.antennevorarlberg.at/av-80er",
-        "https://edge63.radio.antennevorarlberg.at/av-live"
+        "https://edge63.radio.antennevorarlberg.at/av-live",
+        "https://web.radio.antennevorarlberg.at/av-80er"
       ]
     },
     "languages": [
@@ -744,8 +744,8 @@
     "name": "Flash 90s",
     "sources": {
       "streams": [
-        "https://stream.flash90s.at/flash90s/mp3-192",
-        "https://liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105"
+        "https://liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105",
+        "https://stream.flash90s.at/flash90s/mp3-192"
       ]
     },
     "languages": [
@@ -874,8 +874,8 @@
     "name": "I Love Deutschrap First",
     "sources": {
       "streams": [
-        "https://streams.ilovemusic.de/iloveradio104.mp3",
-        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst"
+        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst",
+        "https://streams.ilovemusic.de/iloveradio104.mp3"
       ]
     },
     "languages": [
@@ -903,8 +903,8 @@
     "name": "JazzW3",
     "sources": {
       "streams": [
-        "https://air.jazz.w3.at/jazzw3.ogg",
-        "https://air.jazz.w3.at/jazzw3.mp3"
+        "https://air.jazz.w3.at/jazzw3.mp3",
+        "https://air.jazz.w3.at/jazzw3.ogg"
       ]
     },
     "languages": [
@@ -1134,8 +1134,8 @@
     "name": "Life Radio Tirol",
     "sources": {
       "streams": [
-        "https://stream.liferadio.tirol/live/mp3-192/link",
-        "https://stream.liferadio.tirol/live/aac-256/SHQ"
+        "https://stream.liferadio.tirol/live/aac-256/SHQ",
+        "https://stream.liferadio.tirol/live/mp3-192/link"
       ]
     },
     "languages": [
@@ -1234,8 +1234,8 @@
     "name": "METAL Radio",
     "sources": {
       "streams": [
-        "https://stream.radiotechnikum.at:80/METALRadio",
-        "https://stream.radiotechnikum.at/METALRadio"
+        "https://stream.radiotechnikum.at/METALRadio",
+        "https://stream.radiotechnikum.at:80/METALRadio"
       ]
     },
     "languages": [
@@ -1603,20 +1603,6 @@
     "sources": {
       "streams": [
         "https://s5.radio.co/sa760ba7af/listen"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y7oUjRiCSnIlpZ",
-    "name": "Radio 3: The DJ Johnson Somerset Remixes",
-    "sources": {
-      "streams": [
-        "https://radio.eduneu.eu:8020/radio.mp3"
       ]
     },
     "languages": [
@@ -2136,6 +2122,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nfwwZTyKgzRB7t",
+    "name": "Radio Helsinki",
+    "sources": {
+      "streams": [
+        "https://live.helsinki.at:8088/live160.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DPUIGJkR1OnUvO",
     "name": "Radio Himmelberg",
     "sources": {
@@ -2444,8 +2444,8 @@
     "name": "Radio Superfly",
     "sources": {
       "streams": [
-        "https://edge80.stream.superfly.fm/superfly-livesound",
-        "https://edge80.stream.superfly.fm/superfly-live"
+        "https://edge80.stream.superfly.fm/superfly-live",
+        "https://edge80.stream.superfly.fm/superfly-livesound"
       ]
     },
     "languages": [
@@ -2474,9 +2474,9 @@
     "name": "Radio U1 Tirol",
     "sources": {
       "streams": [
-        "https://live.u1-radio.at/",
-        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-        "https://live.u1-radio.at/u1-tirol-live/mp3-192"
+        "https://live.u1-radio.at/u1-tirol-live/mp3-192",
+        "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192",
+        "https://live.u1-radio.at/"
       ]
     },
     "languages": [
@@ -2563,7 +2563,7 @@
       "streams": [
         "https://orf-live.ors-shoutcast.at/wie-q2a",
         "https://ors-sn05.ors-shoutcast.at/wie-q2a",
-        "https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8"
+        "https://orf-live.ors-shoutcast.at/wie-q1a"
       ]
     },
     "languages": [
@@ -2787,21 +2787,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7C8xJTE7Gn9Owk",
-    "name": "Styria Lounge",
-    "sources": {
-      "streams": [
-        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
-        "https://styrialounge.out.airtime.pro/styrialounge_a"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rf1IYjW29uqjXN",
     "name": "Sub FM",
     "sources": {
@@ -2961,8 +2946,8 @@
     "name": "WELLE 1 Oberösterreich",
     "sources": {
       "streams": [
-        "https://live.welle1.at:17128/stream",
-        "https://live.welle1.at:17256/stream"
+        "https://live.welle1.at:17256/stream",
+        "https://live.welle1.at:17128/stream"
       ]
     },
     "languages": [

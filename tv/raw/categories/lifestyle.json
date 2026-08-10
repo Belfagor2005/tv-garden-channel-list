@@ -47,7 +47,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8",
-        "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8",
+        "https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8",
         "https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8"
       ]
     },
@@ -157,6 +157,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7uNjpsoS436Esc",
     "name": "CinePride",
     "sources": {
@@ -171,19 +185,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xc6IpLccTTfU6S",
-    "name": "Cleo TV",
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
     "sources": {
       "streams": [
-        "https://206.212.244.63/38/index.m3u8",
-        "https://206.212.244.63/4234/index.m3u8",
-        "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8"
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "rus"
     ],
-    "country": "us",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -257,20 +269,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kYQnPKKVLeV7yp",
-    "name": "Dog TV",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/56/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "H02hn1sGkwKEV1",
     "name": "Domashniy",
     "sources": {
@@ -290,7 +288,7 @@
     "name": "El Futuro En tu Mano",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZzlY3d_YSF0"
+        "https://www.youtube-nocookie.com/embed/Dr_QUl3MVMc"
       ]
     },
     "languages": [
@@ -417,21 +415,7 @@
     "name": "Friends of Felines Rescue Center",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_NTiH_PJYEQ"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sbhZ10bGdSZMPq",
-    "name": "FYI East",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/78/index.m3u8"
+        "https://www.youtube-nocookie.com/embed/xLhcFDGWL2A"
       ]
     },
     "languages": [
@@ -466,21 +450,6 @@
       "heb"
     ],
     "country": "il",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eGHy3rK88v9mBY",
-    "name": "Great American Faith & Living",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/82/index.m3u8",
-        "https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -558,9 +527,9 @@
     "name": "INFAST",
     "sources": {
       "streams": [
-        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
-        "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
-        "https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8",
+        "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -673,6 +642,7 @@
     "name": "NDTV Good Times",
     "sources": {
       "streams": [
+        "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
         "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8"
       ]
     },
@@ -727,6 +697,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZaL0G4IX2UbO5f",
+    "name": "ON Life",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=188"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qr9xvBDjARPSP8",
     "name": "Otkritiy mir. Zdorove",
     "sources": {
@@ -767,6 +751,21 @@
       "spa"
     ],
     "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3FPl5RIfISFiTh",
+    "name": "PRIDEtv LATAM",
+    "sources": {
+      "streams": [
+        "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -858,6 +857,7 @@
     "sources": {
       "streams": [
         "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8",
         "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8"
       ]
     },

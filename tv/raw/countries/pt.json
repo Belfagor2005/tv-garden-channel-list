@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "UMtS6zsgi9sFxf",
-    "name": "ADB TV",
-    "sources": {
-      "streams": [
-        "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "k9YVnaB9vAhdV8",
     "name": "Angel TV Portuguese",
     "sources": {
@@ -38,6 +24,18 @@
     "languages": [
       "por"
     ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qRQX6zHTSR3gUI",
+    "name": "FUEL TV",
+    "sources": {
+      "streams": [
+        "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "pt",
     "isGeoBlocked": false
   },
@@ -75,7 +73,7 @@
     "name": "FUEL TV US",
     "sources": {
       "streams": [
-        "https://206.212.244.63/71/index.m3u8"
+        "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -211,20 +209,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IowNjd0p51Ov4o",
-    "name": "NPC Radio e TV",
-    "sources": {
-      "streams": [
-        "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oGBDTLuvXcCKsV",
     "name": "ON FM",
     "sources": {
@@ -249,6 +233,32 @@
     "languages": [
       "por"
     ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zyLVOcYTONpkxG",
+    "name": "Radio Sines",
+    "sources": {
+      "streams": [
+        "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Fv8cd5HoZ9hOmr",
+    "name": "Rakuten Documentários",
+    "sources": {
+      "streams": [
+        "https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "pt",
     "isGeoBlocked": false
   },

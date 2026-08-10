@@ -112,11 +112,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4QXgwdYwMkY8d0",
+    "name": "LAMIL35 TV",
+    "sources": {
+      "streams": [
+        "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cwqY1fSd0UvwAg",
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-T7i1VbDMxQ"
+        "https://www.youtube-nocookie.com/embed/goeRRwG3OsU"
       ]
     },
     "languages": [
@@ -274,7 +288,6 @@
     "name": "TV Land East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/164/index.m3u8",
         "https://40.160.24.55/TV_LAND/index.m3u8"
       ]
     },

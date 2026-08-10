@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zDrvFUZTP4zt2k",
-    "name": "alpha Moretime",
-    "sources": {
-      "streams": [
-        "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BFNn9BFX5O3vY0",
     "name": "Anger Management Channel",
     "sources": {
@@ -118,35 +104,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/37-X4eYGOFY"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "K1Rki2QXOUbCd5",
-    "name": "Classic Mr Bean",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XQLEvieRMj4"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lwOO3yKfQFwVFA",
-    "name": "Comedy Central East",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8",
-        "https://206.212.244.63/44/index.m3u8"
       ]
     },
     "languages": [
@@ -228,6 +185,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Cpn6uRs6WJZHOr",
+    "name": "HAHA TV",
+    "sources": {
+      "streams": [
+        "https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yQMuoatPHbGi75",
     "name": "Jordan Comedy",
     "sources": {
@@ -288,23 +259,8 @@
     "name": "Laff",
     "sources": {
       "streams": [
-        "https://206.212.244.63/101/index.m3u8",
         "https://40.160.24.53/LAFF_TV/index.m3u8",
         "https://tvsen7.aynascope.net/laff/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e8szC96ftGfIR5",
-    "name": "Laugh After Dark",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/mlxauS36oYo"
       ]
     },
     "languages": [
@@ -425,20 +381,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bSyZI3uj6B02G3",
-    "name": "Roya Comedy",
-    "sources": {
-      "streams": [
-        "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4VE8AYBTYbd8ii",
     "name": "Sirippoli TV",
     "sources": {
@@ -532,8 +474,7 @@
     "sources": {
       "streams": [
         "https://40.160.24.55/USA_NETWORK/index.m3u8",
-        "https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8",
-        "https://206.212.244.63/168/index.m3u8"
+        "https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8"
       ]
     },
     "languages": [

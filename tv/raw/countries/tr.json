@@ -53,7 +53,7 @@
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Z2GwHVIHxSE"
+        "https://www.youtube-nocookie.com/embed/HVSxZ7TCqz0"
       ]
     },
     "languages": [
@@ -197,7 +197,7 @@
     "name": "Ankara Büyükşehir Belediyesi",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2fy_rq0Eur8"
+        "https://www.youtube-nocookie.com/embed/B-84y-luaTs"
       ]
     },
     "languages": [
@@ -240,7 +240,6 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -314,7 +313,8 @@
     "name": "Bir TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -370,7 +370,7 @@
     "name": "CAH Medya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Lt7DWQawXIw"
+        "https://www.youtube-nocookie.com/embed/DL99RVqsAvg"
       ]
     },
     "languages": [
@@ -466,7 +466,6 @@
     "name": "Cine 1",
     "sources": {
       "streams": [
-        "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8",
         "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8"
       ]
     },
@@ -611,20 +610,6 @@
     "sources": {
       "streams": [
         "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZF8u92PVuJI4iM",
-    "name": "EKOTÜRK TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/R3tFcS7M0_s"
       ]
     },
     "languages": [
@@ -939,7 +924,7 @@
     "name": "ibrahimlive",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/D-syaEFe85M"
+        "https://www.youtube-nocookie.com/embed/-d6kI_g4Lmg"
       ]
     },
     "languages": [
@@ -984,20 +969,6 @@
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YTsctuJa7qKVvB",
-    "name": "Kanal 7",
-    "sources": {
-      "streams": [
-        "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8"
       ]
     },
     "languages": [
@@ -1214,20 +1185,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JwNiVAH26fmfiw",
-    "name": "Kanal V",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zbs9DkUTcak0mx",
     "name": "Kay TV",
     "sources": {
@@ -1274,8 +1231,8 @@
     "name": "Kocaeli TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
+        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
+        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1331,7 +1288,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GMyOsTfSt8E"
+        "https://www.youtube-nocookie.com/embed/KRm4U6CNxb0"
       ]
     },
     "languages": [
@@ -1485,7 +1442,7 @@
     "name": "Muhteşem Yüzyıl",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0dmPGl8HV3A"
+        "https://www.youtube-nocookie.com/embed/d8pBFfmscKo"
       ]
     },
     "languages": [
@@ -1763,36 +1720,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mighzagP16kd5V",
-    "name": "Semerkand Way",
-    "sources": {
-      "streams": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/mt_0.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GOBdXHd7gdoheA",
-    "name": "Sercem TV",
-    "sources": {
-      "streams": [
-        "https://canli.sercemtv.com.tr/hls/0/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "kur",
-      "tur",
-      "zza"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e6ku1z7iZYh6lv",
     "name": "Show Max",
     "sources": {
@@ -1875,39 +1802,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CnystWlqwvCCW3",
-    "name": "Tarim TV",
-    "sources": {
-      "streams": [
-        "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "InVI6XNTBkTyM8",
     "name": "TBMM TV",
     "sources": {
       "streams": [
         "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5GoagSnDbPwxmH",
-    "name": "Tele 1",
-    "sources": {
-      "streams": [
-        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
       ]
     },
     "languages": [
@@ -1962,28 +1861,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J9YegrVG7tK0JA",
-    "name": "Tivi 6",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vtSycR8Kbn52EY",
     "name": "TJK TV",
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/M-zzzwyMooE"
       ]
     },
     "languages": [
@@ -2007,39 +1889,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FBBGW2J5SzIqYo",
-    "name": "Trabzon Buyuksehir Belediyesi TV FHD",
-    "sources": {
-      "streams": [
-        "https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DvCN8WstHjmxKR",
     "name": "Trakya Turk",
     "sources": {
       "streams": [
         "https://live.euromediacenter.com/trakyaturk/tracks-v1a1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e8zax7Tb0zc8Eu",
-    "name": "TRT 1",
-    "sources": {
-      "streams": [
-        "https://tv-trt1.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [
@@ -2069,20 +1923,6 @@
     "sources": {
       "streams": [
         "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YCPZsdEDhEaJOB",
-    "name": "TRT Cocuk",
-    "sources": {
-      "streams": [
-        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [

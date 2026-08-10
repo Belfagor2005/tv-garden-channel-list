@@ -54,5 +54,19 @@
     ],
     "country": "mn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MAOux0m2eWC9Zr",
+    "name": "MNB Mongolyn Radio",
+    "sources": {
+      "streams": [
+        "https://live.mnb.mn/hls/radio1.stream.m3u8"
+      ]
+    },
+    "languages": [
+      "mon"
+    ],
+    "country": "mn",
+    "isGeoBlocked": false
   }
 ]

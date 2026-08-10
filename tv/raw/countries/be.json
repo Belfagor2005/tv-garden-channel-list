@@ -71,20 +71,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v8hzHLNa329Qxl",
-    "name": "Canal Z",
-    "sources": {
-      "streams": [
-        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "abeLxZZAtDB502",
     "name": "Fun Vision",
     "sources": {
@@ -113,11 +99,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eJyaKdO16IOPE0",
-    "name": "Kanaal Z",
+    "nanoid": "yvHz6nCixzmZ76",
+    "name": "Klara",
     "sources": {
       "streams": [
-        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
+        "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8"
       ]
     },
     "languages": [
@@ -141,6 +127,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T3lFd2TRO2UgTl",
+    "name": "MNM",
+    "sources": {
+      "streams": [
+        "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VaXjiVOr6bKqVn",
     "name": "Notele",
     "sources": {
@@ -155,15 +155,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dbLCGehk04Xrpd",
-    "name": "Ring House TV",
+    "nanoid": "JNyT4TtrF2sWvu",
+    "name": "Radio 1",
     "sources": {
       "streams": [
-        "https://eggproiptv.duckdns.org:3946/hybrid/play.m3u8"
+        "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8"
       ]
     },
     "languages": [
-      "fra"
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8nTZOrtoShKyg8",
+    "name": "Radio 2",
+    "sources": {
+      "streams": [
+        "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
     ],
     "country": "be",
     "isGeoBlocked": false
@@ -178,6 +192,20 @@
     },
     "languages": [
       "kur"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DyMJivaAXMvjos",
+    "name": "StuBru",
+    "sources": {
+      "streams": [
+        "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
     ],
     "country": "be",
     "isGeoBlocked": false

@@ -212,20 +212,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H762FT7Kp5gfjZ",
-    "name": "Del Plata 95.5",
-    "sources": {
-      "streams": [
-        "https://alba-uy-delplata-delplata.stream.mediatiquestream.com/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "uy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aKAdWdGCIq04FO",
     "name": "DelSol",
     "sources": {
@@ -567,8 +553,8 @@
     "name": "Océano",
     "sources": {
       "streams": [
-        "https://oceano-2.nty.uy/netradio/listen.mp3",
-        "https://oceano-2.nty.uy/"
+        "https://oceano-2.nty.uy/",
+        "https://oceano-2.nty.uy/netradio/listen.mp3"
       ]
     },
     "languages": [
@@ -774,20 +760,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3rdt6qN3bFRIUL",
-    "name": "Radio Futura 91.1 FM",
-    "sources": {
-      "streams": [
-        "https://alba-uy-radiofutura-futura.stream.mediatiquestream.com/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "uy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pPlPoZcqRK42tI",
     "name": "Radio Kairos",
     "sources": {
@@ -807,20 +779,6 @@
     "sources": {
       "streams": [
         "https://radios.solumedia.com:6270/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "uy",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vTPIOWiBMl2xLq",
-    "name": "Radio Monte Carlo CX20-AM930",
-    "sources": {
-      "streams": [
-        "https://streamingcasazorrilla.innovanexo.com:8000/montecarlo.mp3"
       ]
     },
     "languages": [
@@ -887,20 +845,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Eulf1tcmOdbKVt",
-    "name": "Radio Uruguay 1050",
-    "sources": {
-      "streams": [
-        "https://radios.iwstreaming.uy/8036/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "uy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jzxmA21Xlbe5Jr",
     "name": "Radio Voz de Melo",
     "sources": {
@@ -920,20 +864,6 @@
     "sources": {
       "streams": [
         "https://server-usa2.radioseninternet.net/9312/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "uy",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dkd5AU1vAcF6pP",
-    "name": "Sport 890",
-    "sources": {
-      "streams": [
-        "https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8"
       ]
     },
     "languages": [

@@ -33,8 +33,8 @@
     "name": "Asima FM 99.8",
     "sources": {
       "streams": [
-        "https://asima.out.airtime.pro:8000/asima_a",
-        "https://asima.out.airtime.pro/asima_a"
+        "https://asima.out.airtime.pro/asima_a",
+        "https://asima.out.airtime.pro:8000/asima_a"
       ]
     },
     "languages": [
@@ -59,13 +59,41 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6qePpxfMUt2tIz",
+    "name": "Radio Damascus (إذاعة دمشق)",
+    "sources": {
+      "streams": [
+        "https://radiodamascus.ortas.live/RDimshq/RDimshqAudioLive/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wEFuoqHUbyjJ6u",
     "name": "Radio Nasaem",
     "sources": {
       "streams": [
+        "https://stream.zeno.fm/u1wbm3k7gxquv",
         "https://stream-69.zeno.fm/u1wbm3k7gxquv",
-        "https://stream.zeno.fm/2qds7p2nerruv",
-        "https://stream.zeno.fm/u1wbm3k7gxquv"
+        "https://stream.zeno.fm/2qds7p2nerruv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "upn2LcHjpsYNPc",
+    "name": "Rayan FM 90.2",
+    "sources": {
+      "streams": [
+        "https://broadcast.shoutstream.co.uk:8078/stream"
       ]
     },
     "languages": [

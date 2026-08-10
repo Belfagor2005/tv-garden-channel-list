@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XDIohCk6OLAeyE",
+    "name": "La Central 103.7 FM",
+    "sources": {
+      "streams": [
+        "https://radio.videct.com/8176/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dS1uEKJNgUANN6",
     "name": "La Jefa Radio",
     "sources": {
@@ -84,11 +98,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zy2HLDOWoOFkai",
-    "name": "Radio ABC 100.1 FM",
+    "nanoid": "i6BSn3RShXwFuP",
+    "name": "Radio Astral 102.9 FM",
     "sources": {
       "streams": [
-        "https://streaming.rcs.com.sv/proxy/abc/stream"
+        "https://streaming.rcs.com.sv/proxy/astral/stream"
       ]
     },
     "languages": [
@@ -252,6 +266,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jffKcGDg8rDKNR",
+    "name": "Radio Mil 80 101.7 FM",
+    "sources": {
+      "streams": [
+        "https://radio.videct.com/8002/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Og13ErgEGSg1c8",
     "name": "Radio Nacional de El Salvador 96.9 FM",
     "sources": {
@@ -298,8 +326,8 @@
     "name": "Radio Rumba Latina",
     "sources": {
       "streams": [
-        "https://c11.radioboss.fm:18303/stream",
-        "https://c11.radioboss.fm:8303/stream"
+        "https://c11.radioboss.fm:8303/stream",
+        "https://c11.radioboss.fm:18303/stream"
       ]
     },
     "languages": [

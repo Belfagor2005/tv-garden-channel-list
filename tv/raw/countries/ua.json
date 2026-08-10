@@ -429,7 +429,8 @@
     "name": "FREEDOM",
     "sources": {
       "streams": [
-        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
+        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_uatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -734,6 +735,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hjiMU2OFUZxRJ0",
+    "name": "Maincast Cybersport",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/487/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xFJ3rx9OkFAm5w",
+    "name": "Maincast Sport",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/490/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cbLWWMbLPWdeyx",
     "name": "Mason TV",
     "sources": {
@@ -813,6 +842,36 @@
       ]
     },
     "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zby3EFKjfMDiTX",
+    "name": "Nauka",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/403/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O2ACBT3EyZ5vGM",
+    "name": "Novyi Channel",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/157/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
       "ukr"
     ],
     "country": "ua",
@@ -1313,36 +1372,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WcoZqsaKguXix1",
-    "name": "TUSO",
-    "sources": {
-      "streams": [
-        "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TSbUr1OhqLkxuT",
-    "name": "TVA",
-    "sources": {
-      "streams": [
-        "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-        "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
-        "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "O5Az9Ll0PoTkp2",
     "name": "Tviy serial",
     "sources": {
@@ -1445,7 +1474,7 @@
     "name": "Телеканал Конкурент TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/LJ1dvSF67aE"
+        "https://www.youtube-nocookie.com/embed/KjkhSiHuKJA"
       ]
     },
     "languages": [

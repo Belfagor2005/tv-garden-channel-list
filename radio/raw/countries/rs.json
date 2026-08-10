@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "CfXnK3fgURN5VN",
-    "name": "Bum Bum Radio",
-    "sources": {
-      "streams": [
-        "https://bumbum.nlnet.rs:8443/bumbum"
-      ]
-    },
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M1JoDqum7j8iWw",
     "name": "Cool Radio",
     "sources": {
@@ -244,8 +230,8 @@
     "name": "Naš radio MM",
     "sources": {
       "streams": [
-        "https://radio.dukahosting.com:7045/;",
-        "https://radio.dukahosting.com:7045/stream"
+        "https://radio.dukahosting.com:7045/stream",
+        "https://radio.dukahosting.com:7045/;"
       ]
     },
     "languages": [
@@ -259,8 +245,8 @@
     "name": "Naxi 70e Radio",
     "sources": {
       "streams": [
-        "https://naxidigital-70s128ssl.streaming.rs:8382/;",
-        "https://naxidigital-70s128ssl.streaming.rs:8042/;"
+        "https://naxidigital-70s128ssl.streaming.rs:8042/;",
+        "https://naxidigital-70s128ssl.streaming.rs:8382/;"
       ]
     },
     "languages": [
@@ -1229,6 +1215,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E1JlzVwDYU5z40",
+    "name": "Radio Kolo",
+    "sources": {
+      "streams": [
+        "https://mars.streamerr.co/8280/stream"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1W7U36D2JYwMzz",
     "name": "Radio Krajina 019",
     "sources": {
@@ -1472,8 +1472,8 @@
     "name": "Radio S3 Narodni",
     "sources": {
       "streams": [
-        "https://stream.radios.rs:9016/;",
-        "https://stream.radios.rs:9016/;*.mp3"
+        "https://stream.radios.rs:9016/;*.mp3",
+        "https://stream.radios.rs:9016/;"
       ]
     },
     "languages": [

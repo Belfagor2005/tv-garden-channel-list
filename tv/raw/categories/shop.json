@@ -46,7 +46,7 @@
     "name": "CoinVaultTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/DIolKHLH-5k"
+        "https://www.youtube-nocookie.com/embed/eIuDLAWxs2c"
       ]
     },
     "languages": [
@@ -144,7 +144,7 @@
     "name": "Gem Shopping",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-nb2CGmHjjw"
+        "https://www.youtube-nocookie.com/embed/SUNbQfa1HqA"
       ]
     },
     "languages": [
@@ -457,7 +457,7 @@
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/DMpVvusgGgY"
+        "https://www.youtube-nocookie.com/embed/hHrJB5xMQ7g"
       ]
     },
     "languages": [
@@ -741,9 +741,9 @@
     "name": "QVC",
     "sources": {
       "streams": [
-        "https://40.160.24.55/QVC/index.m3u8",
         "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
-        "https://206.212.244.63/141/index.m3u8"
+        "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8",
+        "https://40.160.24.55/QVC/index.m3u8"
       ]
     },
     "languages": [
@@ -892,8 +892,7 @@
     "name": "QVC2",
     "sources": {
       "streams": [
-        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8",
-        "https://206.212.244.63/142/index.m3u8"
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
       ]
     },
     "languages": [
@@ -907,8 +906,7 @@
     "name": "QVC3",
     "sources": {
       "streams": [
-        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
-        "https://206.212.244.63/143/index.m3u8"
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
       ]
     },
     "languages": [
@@ -957,6 +955,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yLB43ge13jrHoP",
+    "name": "Red TV Shop",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/redtvshop/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
     "isGeoBlocked": false
   },
   {
@@ -1132,20 +1144,6 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WcoZqsaKguXix1",
-    "name": "TUSO",
-    "sources": {
-      "streams": [
-        "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
     "isGeoBlocked": false
   },
   {

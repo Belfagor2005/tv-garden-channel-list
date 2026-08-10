@@ -86,34 +86,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "N8NpfamJga6X6D",
-    "name": "C103 North",
-    "sources": {
-      "streams": [
-        "https://wg.cdn.tibus.net/C103"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KJdvILkIR8TsPP",
-    "name": "C103 West",
-    "sources": {
-      "streams": [
-        "https://wg.cdn.tibus.net/C103West"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IFNjI9xsxM2MCX",
     "name": "Christmas FM",
     "sources": {
@@ -176,20 +148,6 @@
     "sources": {
       "streams": [
         "https://c6.radioboss.fm:8225/stream"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "npa3yC7oU9nNiI",
-    "name": "Cork's 96FM",
-    "sources": {
-      "streams": [
-        "https://wg.cdn.tibus.net/96fm"
       ]
     },
     "languages": [
@@ -316,8 +274,7 @@
     "name": "Dublin's Q102",
     "sources": {
       "streams": [
-        "https://onic.dublin.live.stream.broadcasting.news/stream-q102",
-        "https://wg.cdn.tibus.net/q102MP3128"
+        "https://onic.dublin.live.stream.broadcasting.news/stream-q102"
       ]
     },
     "languages": [
@@ -375,20 +332,6 @@
     "sources": {
       "streams": [
         "https://edge3.audioxi.com/FREEDOMFM"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DifYt4vWMtDqfm",
-    "name": "Galway Bay FM",
-    "sources": {
-      "streams": [
-        "https://wg.cdn.tibus.net/galwaybay.mp3"
       ]
     },
     "languages": [
@@ -486,8 +429,8 @@
     "name": "iRadio",
     "sources": {
       "streams": [
-        "https://live-bauerie.sharp-stream.com/IRADNW",
-        "https://live-bauerie.sharp-stream.com/IRADNWAAC"
+        "https://live-bauerie.sharp-stream.com/IRADNWAAC",
+        "https://live-bauerie.sharp-stream.com/IRADNW"
       ]
     },
     "languages": [
@@ -539,34 +482,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GIKOTIWnWl4zSl",
-    "name": "Limerick's Live 95FM",
-    "sources": {
-      "streams": [
-        "https://wg.cdn.tibus.net/Live95fm"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5dzIAXfcgqsz5v",
-    "name": "LMFM",
-    "sources": {
-      "streams": [
-        "https://wg.cdn.tibus.net/LMFM"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Zbh5N9QzxUVbYV",
     "name": "LMFM Country Express",
     "sources": {
@@ -600,8 +515,8 @@
     "sources": {
       "streams": [
         "https://direct.sharp-stream.com/midwestfmie.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3"
       ]
     },
     "languages": [
@@ -658,20 +573,6 @@
     "sources": {
       "streams": [
         "https://sc.mpbnl.nl/radio2.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hMY5FdH2Fck6FH",
-    "name": "MPB Radio 2 90s & 00s",
-    "sources": {
-      "streams": [
-        "https://sc.mpbnl.nl/radio2-90s00s.mp3"
       ]
     },
     "languages": [
@@ -894,20 +795,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wodcSJC2tR98zB",
-    "name": "Pacific FM Relax",
-    "sources": {
-      "streams": [
-        "https://radiozender.mpbnetwerken.nl/pacificfm-relax"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PIJGLyayq5qtWj",
     "name": "Planet Radio Ireland",
     "sources": {
@@ -960,20 +847,6 @@
     },
     "languages": [
       "pol"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mfS4owe17ioU6d",
-    "name": "Radio Nova",
-    "sources": {
-      "streams": [
-        "https://stream.audioxi.com/NOVA"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ie",
     "isGeoBlocked": false
@@ -1071,8 +944,8 @@
     "name": "RTÉ 2fm",
     "sources": {
       "streams": [
-        "https://icecast.rte.ie/2fm",
-        "https://icecast2.rte.ie/ie2fm"
+        "https://icecast2.rte.ie/ie2fm",
+        "https://icecast.rte.ie/2fm"
       ]
     },
     "languages": [
@@ -1114,8 +987,8 @@
     "name": "RTÉ Radio 1",
     "sources": {
       "streams": [
-        "https://icecast1.rte.ie/radio1",
         "https://icecast.rte.ie/radio1",
+        "https://icecast1.rte.ie/radio1",
         "https://icecast.rte.ie/ieradio1"
       ]
     },
@@ -1159,8 +1032,8 @@
     "name": "Solid Gold Radio Ireland",
     "sources": {
       "streams": [
-        "https://a1.asurahosting.com:10000/radio.mp3",
-        "https://az11.yesstreaming.net:8020/radio.mp3"
+        "https://az11.yesstreaming.net:8020/radio.mp3",
+        "https://a1.asurahosting.com:10000/radio.mp3"
       ]
     },
     "languages": [
@@ -1188,9 +1061,9 @@
     "name": "SPIN South West",
     "sources": {
       "streams": [
-        "https://edge.audioxi.com/SW",
+        "https://live-bauerie.sharp-stream.com/SW",
         "https://stream.audioxi.com/SW",
-        "https://live-bauerie.sharp-stream.com/SW"
+        "https://edge.audioxi.com/SW"
       ]
     },
     "languages": [
@@ -1205,20 +1078,6 @@
     "sources": {
       "streams": [
         "https://live-bauerie.sharp-stream.com/SUN"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xMM8PvjztRQWmc",
-    "name": "The Sound of Ireland",
-    "sources": {
-      "streams": [
-        "https://christmasfm.cdnstream1.com/2548_128.mp3"
       ]
     },
     "languages": [
@@ -1274,9 +1133,9 @@
     "name": "Today FM",
     "sources": {
       "streams": [
-        "https://stream.audioxi.com/TD",
         "https://pri.gocaster.net/td",
-        "https://live-bauerie.sharp-stream.com/TDAAC"
+        "https://live-bauerie.sharp-stream.com/TDAAC",
+        "https://edge.audioxi.com/TDAAC"
       ]
     },
     "languages": [
@@ -1349,20 +1208,6 @@
     "sources": {
       "streams": [
         "https://stream.btsstream.com/stream/iworship"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZeCjKTiek5WnQC",
-    "name": "West Limerick 102 FM",
-    "sources": {
-      "streams": [
-        "https://s29.myradiostream.com/17796/listen.mp3"
       ]
     },
     "languages": [

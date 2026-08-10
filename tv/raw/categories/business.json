@@ -150,7 +150,6 @@
     "name": "Bloomberg Originals US",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
         "https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
         "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8"
       ],
@@ -170,21 +169,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/f39oHo6vFLg"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TGIxs2mxFIlLmz",
-    "name": "Bloomberg TV US",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/22/index.m3u8",
-        "https://gpuserver3.tier1streams.com/BLOOMBERG/index.m3u8"
       ]
     },
     "languages": [
@@ -257,7 +241,7 @@
         "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SDG-NDDFQQY"
+        "https://www.youtube-nocookie.com/embed/svekeJWi27o"
       ]
     },
     "languages": [
@@ -281,20 +265,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v8hzHLNa329Qxl",
-    "name": "Canal Z",
-    "sources": {
-      "streams": [
-        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vxtY5UyNAjZlYv",
     "name": "CGTN Global Biz",
     "sources": {
@@ -307,20 +277,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BrKtlgOZb5CWr8",
-    "name": "Cheddar Business",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -341,10 +297,6 @@
     "nanoid": "7XcP1junyS1aZN",
     "name": "CNBC",
     "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/CNBC/index.m3u8",
-        "https://206.212.244.63/41/index.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
       ]
@@ -455,21 +407,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "HZSopribXygq7f",
-    "name": "CNBC World",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/42/index.m3u8",
-        "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -502,7 +439,7 @@
     "name": "Ekhon TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jehDZOcmk4Q"
+        "https://www.youtube-nocookie.com/embed/fY9eJwH_qeg"
       ]
     },
     "languages": [
@@ -516,7 +453,6 @@
     "name": "Fox Business Network",
     "sources": {
       "streams": [
-        "https://206.212.244.63/66/index.m3u8",
         "https://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8",
         "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
       ]
@@ -539,34 +475,6 @@
       "kor"
     ],
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E9smyEh0BaQpif",
-    "name": "JOB TV",
-    "sources": {
-      "streams": [
-        "https://jobtvserver.eu/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eJyaKdO16IOPE0",
-    "name": "Kanaal Z",
-    "sources": {
-      "streams": [
-        "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -736,9 +644,9 @@
     "name": "Yahoo! Finance",
     "sources": {
       "streams": [
+        "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
         "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
-        "https://yahoo-plex.amagi.tv/playlist.m3u8",
-        "https://yahoo-samsung.amagi.tv/playlist.m3u8"
+        "https://yahoo-plex.amagi.tv/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/KQp-e_XQnDE"

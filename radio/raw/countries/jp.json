@@ -130,6 +130,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zpqAPKwxHaAjAp",
+    "name": "Fuji Cyber Forest",
+    "sources": {
+      "streams": [
+        "https://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QcdNMaoKaY56oV",
     "name": "Gensokyo Radio",
     "sources": {
@@ -308,9 +322,9 @@
     "name": "LISTEN.moe K-Pop",
     "sources": {
       "streams": [
-        "https://listen.moe/kpop/fallback",
+        "https://listen.moe/kpop/stream",
         "https://listen.moe/kpop/opus",
-        "https://listen.moe/kpop/stream"
+        "https://listen.moe/kpop/fallback"
       ]
     },
     "languages": [
@@ -399,6 +413,20 @@
     "sources": {
       "streams": [
         "https://kathy.torontocast.com:2880/;"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GIbt9MdLkqXnrn",
+    "name": "Otohama Coastal Soundscape",
+    "sources": {
+      "streams": [
+        "https://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3"
       ]
     },
     "languages": [

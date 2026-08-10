@@ -222,6 +222,7 @@
     "name": "BBC News Europe",
     "sources": {
       "streams": [
+        "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
         "https://stream.mcquack.net/85/index.m3u8",
         "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
       ]
@@ -231,21 +232,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "BUsm8kgtVtmneU",
-    "name": "BBC News North America",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/14/index.m3u8",
-        "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "JhHpiYec647IOL",
@@ -287,7 +273,7 @@
         "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XRHV-9m_WO4"
+        "https://www.youtube-nocookie.com/embed/I0PU3dgFnGQ"
       ]
     },
     "languages": [
@@ -446,20 +432,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K1Rki2QXOUbCd5",
-    "name": "Classic Mr Bean",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XQLEvieRMj4"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UtpfVv78Uwxz3y",
     "name": "Clubbing TV UK",
     "sources": {
@@ -506,18 +478,6 @@
     "sources": {
       "streams": [
         "https://d1nu0yp2dagil0.cloudfront.net/Conan_OBrien_TV.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dmaMTKPhSS0Zr8",
-    "name": "Cool Summer Channel",
-    "sources": {
-      "streams": [
-        "https://d2hzqddebd4oer.cloudfront.net/csts.m3u8"
       ]
     },
     "languages": [],
@@ -641,18 +601,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3EAyXZQ5ppRRBG",
-    "name": "Def Jam",
-    "sources": {
-      "streams": [
-        "https://d1t9jj3kgy7bur.cloudfront.net/gigs.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rADCLb8afz5x2i",
     "name": "Demand Drama",
     "sources": {
@@ -706,12 +654,27 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "BtGcx9v6eZu6vK",
+    "name": "Dog Whisperer UK",
+    "sources": {
+      "streams": [
+        "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "6DT2CZ9jL47ilp",
     "name": "Duck Dynasty UK",
     "sources": {
       "streams": [
         "https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8",
+        "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8"
       ]
     },
     "languages": [
@@ -883,9 +846,9 @@
     "name": "GB News",
     "sources": {
       "streams": [
+        "https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8",
         "https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8",
-        "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8",
-        "https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/playlist/amg01076-lightningintern-gbnewsse-samsungse/playlist.m3u8"
+        "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/I8E6eDmhegY"
@@ -1018,8 +981,8 @@
     "sources": {
       "streams": [
         "https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8",
-        "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
-        "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
+        "https://pb-lf7eocnc8ua2e.akamaized.net/Hells_Kitchen_SONO10.m3u8",
+        "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1074,6 +1037,20 @@
     "sources": {
       "streams": [
         "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gfaamDst89W7kn",
+    "name": "Horrid Henry",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Fw16joHIp8k"
       ]
     },
     "languages": [
@@ -1153,7 +1130,6 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -1434,7 +1410,8 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
-        "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
+        "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
+        "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
       ]
     },
     "languages": [
@@ -1503,8 +1480,8 @@
     "sources": {
       "streams": [
         "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
-        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8"
+        "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8",
+        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1536,9 +1513,6 @@
     "nanoid": "840FgWNafPoU83",
     "name": "MTA2 Europe",
     "sources": {
-      "streams": [
-        "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/TEGnBvhnCj0"
       ]
@@ -1573,9 +1547,6 @@
     "nanoid": "8aepLLt93YRC0U",
     "name": "MTA6 Asia",
     "sources": {
-      "streams": [
-        "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/e2NELtEb_nI"
       ]
@@ -1592,21 +1563,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iaqZtNqjxbaRq8",
-    "name": "MTA7 Asia",
+    "nanoid": "eg3goyColncJv1",
+    "name": "MTV Global",
     "sources": {
       "streams": [
-        "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8"
+        "https://shift03.isp.bg/MTVEurope/index.m3u8"
       ]
     },
     "languages": [
-      "ara",
-      "ben",
-      "eng",
-      "hin",
-      "mal",
-      "tam",
-      "urd"
+      "eng"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1616,7 +1581,6 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
-        "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
         "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
       ]
@@ -2087,7 +2051,7 @@
     "name": "S4C",
     "sources": {
       "streams": [
-        "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8"
+        "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8"
       ]
     },
     "languages": [
@@ -2135,6 +2099,34 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vvrRqhZZsrU"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M2QygmPlR8J2Gq",
+    "name": "Sky Nature",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/skynature/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2278,7 +2270,6 @@
     "name": "Tennis+",
     "sources": {
       "streams": [
-        "https://amg01935-amg01935c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0002/playlist.m3u8",
         "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
       ]
     },
@@ -2426,7 +2417,8 @@
     "name": "Top Gear",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8",
+        "https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2635,6 +2627,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "thwTTdpER98ZSZ",
+    "name": "Utsav Bharat",
+    "sources": {
+      "streams": [
+        "https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pdGlkzuQkXlPIE",
     "name": "V2BEAT TV",
     "sources": {
@@ -2797,6 +2803,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MbPIxYg8e29Ojj",
+    "name": "WildBrain: Inspector Gadget",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/n1QXuDJV55k"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "sources": {
@@ -2831,7 +2851,6 @@
     "name": "World War TV",
     "sources": {
       "streams": [
-        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },
@@ -2852,19 +2871,5 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "25EJA2ZeSSXbwm",
-    "name": "YAAAS!",
-    "sources": {
-      "streams": [
-        "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
   }
 ]

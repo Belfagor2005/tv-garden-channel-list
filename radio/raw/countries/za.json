@@ -19,8 +19,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-        "https://22343.live.streamtheworld.com/FM702_SC",
-        "https://25293.live.streamtheworld.com/FM702_SC"
+        "https://28513.live.streamtheworld.com/FM702_SC",
+        "https://22533.live.streamtheworld.com/FM702_SC"
       ]
     },
     "languages": [
@@ -49,9 +49,9 @@
     "name": "947",
     "sources": {
       "streams": [
-        "https://22653.live.streamtheworld.com/FM947AAC_SC",
-        "https://25283.live.streamtheworld.com/FM947AAC_SC",
-        "https://27953.live.streamtheworld.com/FM947AAC_SC"
+        "https://22733.live.streamtheworld.com/FM947AAC_SC",
+        "https://25223.live.streamtheworld.com/FM947AAC_SC",
+        "https://25703.live.streamtheworld.com/FM947_SC"
       ]
     },
     "languages": [
@@ -106,8 +106,8 @@
     "name": "Amapiano FM",
     "sources": {
       "streams": [
-        "https://stream-37.zeno.fm/xs6zeac1ts8uv",
-        "https://stream.zeno.fm/xs6zeac1ts8uv"
+        "https://stream.zeno.fm/xs6zeac1ts8uv",
+        "https://stream-37.zeno.fm/xs6zeac1ts8uv"
       ]
     },
     "languages": [
@@ -170,25 +170,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8rg4fzawNAqBJg",
-    "name": "Bush Radio 89.5 FM",
-    "sources": {
-      "streams": [
-        "https://zas4.ndx.co.za:9100/stream"
-      ]
-    },
-    "languages": [],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cmssuXkPvx4TcG",
     "name": "Cape Talk",
     "sources": {
       "streams": [
         "https://22733.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://23623.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://25453.live.streamtheworld.com/CAPE_TALK_SC"
+        "https://25643.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://27823.live.streamtheworld.com/CAPE_TALK_SC"
       ]
     },
     "languages": [
@@ -436,21 +424,6 @@
     "sources": {
       "streams": [
         "https://s5.radio.co/s68c6f4028/listen"
-      ]
-    },
-    "languages": [
-      "afr",
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b2v3cqTE4grPa1",
-    "name": "HelderbergFM",
-    "sources": {
-      "streams": [
-        "https://helderberg.highquality.radiostream.co.za/"
       ]
     },
     "languages": [
@@ -771,8 +744,7 @@
     "name": "Metro FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFM_SC",
-        "https://25283.live.streamtheworld.com/METROFMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFM_SC"
       ]
     },
     "languages": [],
@@ -1332,6 +1304,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QZcDwSdJMDaIAJ",
+    "name": "SFM 90.1",
+    "sources": {
+      "streams": [
+        "https://iceant.eclipse-streaming.co.za/SFM"
+      ]
+    },
+    "languages": [
+      "afr"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bH6wVVsQdUrjyn",
     "name": "Simply Making Success Radio",
     "sources": {
@@ -1470,6 +1456,20 @@
       ]
     },
     "languages": [],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "koENG4uGsqQxmY",
+    "name": "Ukhozi FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC"
+      ]
+    },
+    "languages": [
+      "zul"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },

@@ -144,20 +144,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mAl50UnEXvw3NE",
-    "name": "Afontovo",
-    "sources": {
-      "streams": [
-        "https://stream.afontovo.ru/hd.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hCnlUCWzC85Pyo",
     "name": "AIST TV",
     "sources": {
@@ -186,39 +172,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zDrvFUZTP4zt2k",
-    "name": "alpha Moretime",
-    "sources": {
-      "streams": [
-        "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "thN5J0xabRBwQr",
     "name": "Amedia Hit",
     "sources": {
       "streams": [
         "https://stream.mcquack.net/162/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3VqJp1fO3TYTIw",
-    "name": "Angel TV Russian",
-    "sources": {
-      "streams": [
-        "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -487,8 +445,23 @@
     "name": "Channel 8",
     "sources": {
       "streams": [
+        "https://tshift-1.telecoma.tv/8channel/index.m3u8",
         "https://v4.proofix.ru/okino-tv/index.m3u8",
         "https://v4.proofix.ru/8tv-russia/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BfwqBiX5DmpUq5",
+    "name": "Channel 8 Krasnoyarsk",
+    "sources": {
+      "streams": [
+        "https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8"
       ]
     },
     "languages": [
@@ -572,67 +545,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Gq4mY3pzS19BJ0",
-    "name": "City Eden AutoGid",
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/47515/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BN8UK0JlgAMrEm",
-    "name": "City Eden Birma Play",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34364/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Lk2MXbqIFnMEMM",
-    "name": "City Eden Classic Music",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47400/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4R8lzuArvLNkC",
-    "name": "City Eden KinoArt",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38398/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9QIFKg7aQ0UqIc",
-    "name": "City Eden Play",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34100/index.m3u8"
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
       ]
     },
     "languages": [
@@ -660,8 +577,7 @@
     "name": "Crimea 24",
     "sources": {
       "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
-        "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8"
+        "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
       ]
     },
     "languages": [
@@ -1146,20 +1062,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "etbkA5a5Tjztc5",
-    "name": "Ingushetia",
-    "sources": {
-      "streams": [
-        "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nXaeivkDQS2yX6",
     "name": "Insayt TV 4K",
     "sources": {
@@ -1207,7 +1109,7 @@
     "name": "Jetix",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/OUdgAypvWtc"
+        "https://www.youtube-nocookie.com/embed/ISZKW-UkJRo"
       ]
     },
     "languages": [
@@ -2104,20 +2006,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "FPW5dG6jwJsfts",
-    "name": "Novyi Russkii",
-    "sources": {
-      "streams": [
-        "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nqorl9gKU461MK",
     "name": "NST",
     "sources": {
@@ -2311,20 +2199,6 @@
     "sources": {
       "streams": [
         "https://stream.mcquack.net/492/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KJJjACOrggvwS0",
-    "name": "Osetiya-Iryston",
-    "sources": {
-      "streams": [
-        "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2696,6 +2570,8 @@
     "name": "RT",
     "sources": {
       "streams": [
+        "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
+        "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
         "https://wisewatchoott.wiseplayout.com/RT/master.m3u8"
       ]
     },
@@ -2736,6 +2612,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Slt5syXsekpkl9",
+    "name": "RT Documentary English",
+    "sources": {
+      "streams": [
+        "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+        "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "p0jnHTBehgm826",
     "name": "RTG TV",
     "sources": {
@@ -2768,6 +2659,7 @@
     "name": "RTVi",
     "sources": {
       "streams": [
+        "https://shift03.isp.bg/RTVi/index.m3u8",
         "https://s70378.cdn.ngenix.net/rtvi/index.m3u8"
       ]
     },
@@ -3058,9 +2950,7 @@
     "name": "Shanson TV",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/7009.m3u8",
-        "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
-        "https://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8"
+        "https://streaming.thestream.cyou/live/7009.m3u8"
       ]
     },
     "languages": [
@@ -3241,6 +3131,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uuwdAM4ggDTLQ4",
+    "name": "SONGTV Russia",
+    "sources": {
+      "streams": [
+        "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gG2sCG4QdpdTl7",
     "name": "Soyuz",
     "sources": {
@@ -3347,7 +3251,7 @@
       "streams": [
         "https://stream.mcquack.net/138/index.m3u8",
         "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+        "https://tshift-1.telecoma.tv/sts/index.m3u8"
       ]
     },
     "languages": [
@@ -3448,7 +3352,6 @@
     "name": "Tamyr",
     "sources": {
       "streams": [
-        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
         "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
       ]
     },
@@ -4084,20 +3987,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K5EAZFvuWObb4f",
-    "name": "VIVA Russia",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pnRdmB03EI7cgW",
     "name": "Vmeste-RF",
     "sources": {
@@ -4160,20 +4049,6 @@
     "sources": {
       "streams": [
         "https://stream.mcquack.net/237/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MzPT9rWsVbKTNy",
-    "name": "YaPervyy",
-    "sources": {
-      "streams": [
-        "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -4392,9 +4267,7 @@
         "https://streaming.thestream.cyou/live/210.m3u8"
       ]
     },
-    "languages": [
-      "rus"
-    ],
+    "languages": [],
     "country": "ru",
     "isGeoBlocked": false
   },

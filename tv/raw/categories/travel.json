@@ -172,10 +172,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FqOEEF2vJ9P2jA",
+    "name": "GoTraveler",
+    "sources": {
+      "streams": [
+        "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "681XV5aGJin4Gd",
     "name": "INTRAVEL Philippines",
     "sources": {
       "streams": [
+        "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
       ]
@@ -256,6 +271,20 @@
       "tgl"
     ],
     "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "goNrMuzefDwskd",
+    "name": "Maldives TV",
+    "sources": {
+      "streams": [
+        "https://lana.psm.mv/live/mtv.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "mv",
     "isGeoBlocked": false
   },
   {
@@ -452,6 +481,20 @@
       "spa"
     ],
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gc9aeOkbQG1vYx",
+    "name": "Turistik TV",
+    "sources": {
+      "streams": [
+        "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {

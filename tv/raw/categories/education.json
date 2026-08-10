@@ -88,17 +88,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7vuNKG15VuJZNX",
-    "name": "Campus TV",
+    "nanoid": "w9iKnoeRBQ99pR",
+    "name": "Can Tho TV 2",
     "sources": {
       "streams": [
-        "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8"
+        "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "vie"
     ],
-    "country": "hn",
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -156,6 +156,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAS6xjp5V4DYwH",
+    "name": "Canal Universidad",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -611,20 +625,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kYQnPKKVLeV7yp",
-    "name": "Dog TV",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/56/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IvsuFrM7fgKeFe",
     "name": "EBS 1TV",
     "sources": {
@@ -760,7 +760,7 @@
     "name": "FGN Channel",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HVyl8bB3FBU"
+        "https://www.youtube-nocookie.com/embed/tJpxOKMFLqI"
       ]
     },
     "languages": [
@@ -952,6 +952,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uvGkHvj4kYuGpc",
+    "name": "MCPSS TV",
+    "sources": {
+      "streams": [
+        "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vGCm6ufhO0hHv0",
     "name": "MediBizTV",
     "sources": {
@@ -1064,6 +1078,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n4MkAIlXwdSE8X",
+    "name": "OUN",
+    "sources": {
+      "streams": [
+        "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qHPud6QAjClK6g",
     "name": "Palestine Edu",
     "sources": {
@@ -1096,22 +1124,7 @@
     "name": "PBS Kids",
     "sources": {
       "streams": [
-        "https://206.212.244.63/669/index.m3u8",
         "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IDUBNLTYka9iGY",
-    "name": "PBS Kids 24/7",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/672/index.m3u8"
       ]
     },
     "languages": [
@@ -1431,20 +1444,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ufquGR4ncw7ZpB",
-    "name": "TV BUAP",
-    "sources": {
-      "streams": [
-        "https://tvenvivo.buap.mx/livestream/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LSV8LWxmVrWxS3",
     "name": "TV Cuatro 4.4",
     "sources": {
@@ -1658,6 +1657,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JvGEcuMecAcih8",
+    "name": "Unison TV",
+    "sources": {
+      "streams": [
+        "https://stream.unison.mx/hls/unisontvatem.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "Unisul TV",
     "sources": {
@@ -1669,34 +1682,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vvLSrEdftAhFqe",
-    "name": "Vyas Channel",
-    "sources": {
-      "streams": [
-        "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JliijnACP4jH0u",
-    "name": "Wiki TV",
-    "sources": {
-      "streams": [
-        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
     "isGeoBlocked": false
   },
   {
@@ -1755,20 +1740,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5X15DRPWWS1LoX",
-    "name": "XHMNL-TDT",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

@@ -46,9 +46,9 @@
     "name": "AFN 360 Benelux",
     "sources": {
       "streams": [
-        "https://27863.live.streamtheworld.com/AFNE_BLX_SC",
-        "https://25583.live.streamtheworld.com/AFNE_BLX_SC",
-        "https://25603.live.streamtheworld.com/AFNE_BLX_SC"
+        "https://22183.live.streamtheworld.com/AFNE_BLX_SC",
+        "https://25453.live.streamtheworld.com/AFNE_BLX_SC",
+        "https://28563.live.streamtheworld.com/AFNE_BLX_SC"
       ]
     },
     "languages": [
@@ -242,6 +242,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X24PbmoOxlC4BD",
+    "name": "Candie Radio",
+    "sources": {
+      "streams": [
+        "https://clubfmserver.be/pink.mp3"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gb6pCrB6kaCHY6",
     "name": "Chérie Belgique",
     "sources": {
@@ -318,8 +332,8 @@
     "sources": {
       "streams": [
         "https://radios.rtbf.be/classic21-128.mp3",
-        "https://radios.rtbf.be/classic21-64.aac",
-        "https://radio.rtbf.be/c21/aac-128/fl"
+        "https://radio.rtbf.be/c21/aac-128/fl",
+        "https://radios.rtbf.be/classic21-64.aac"
       ]
     },
     "languages": [
@@ -348,6 +362,21 @@
     "sources": {
       "streams": [
         "https://radios.rtbf.be/wr-c21-70-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0JJemvGDGGwWoc",
+    "name": "Classic 21 80's New Wave",
+    "sources": {
+      "streams": [
+        "https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383",
+        "https://radio.rtbf.be/c21-80nw/mp3-128/me"
       ]
     },
     "languages": [
@@ -461,6 +490,20 @@
     "sources": {
       "streams": [
         "https://radios.rtbf.be/wr-c21-route66-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d7lfd5y91MNghc",
+    "name": "Classic 21 Soul Power",
+    "sources": {
+      "streams": [
+        "https://radios.rtbf.be/wr-c21-soul-128.mp3"
       ]
     },
     "languages": [
@@ -643,8 +686,8 @@
     "name": "Fun Radio Belgique",
     "sources": {
       "streams": [
-        "https://funradiobe.ice.infomaniak.ch/funradiobe-high",
-        "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3"
+        "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
+        "https://funradiobe.ice.infomaniak.ch/funradiobe-high"
       ]
     },
     "languages": [
@@ -663,6 +706,20 @@
     },
     "languages": [
       "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0M9uGflbRUOwzt",
+    "name": "Gold FM",
+    "sources": {
+      "streams": [
+        "https://onair.goldfm.be:8000/stream"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
     "country": "be",
     "isGeoBlocked": false
@@ -760,8 +817,8 @@
     "name": "Joe",
     "sources": {
       "streams": [
-        "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
         "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac"
       ]
     },
@@ -887,12 +944,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oA5nEWSLPIrMVT",
+    "name": "Klara",
+    "sources": {
+      "streams": [
+        "https://icecast.vrtcdn.be/klara.aac",
+        "https://icecast.vrtcdn.be/klara-high.mp3"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZnVEnEnJvj6mxm",
     "name": "Klara Continuo",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/klaracontinuo.aac",
-        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3"
+        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3",
+        "https://icecast.vrtcdn.be/klaracontinuo.aac"
       ]
     },
     "languages": [
@@ -922,20 +994,6 @@
       "streams": [
         "https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067",
         "https://radios.rtbf.be/laprem1ere-128.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ciPAYVm9jWKJ4h",
-    "name": "LN Radio",
-    "sources": {
-      "streams": [
-        "https://stream.rcs.revma.com/yp6mhdt3pzzuv"
       ]
     },
     "languages": [
@@ -982,6 +1040,20 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YqbdoYmgzUMcnc",
+    "name": "MNM",
+    "sources": {
+      "streams": [
+        "https://icecast.vrtcdn.be/mnm-high.mp3"
+      ]
+    },
+    "languages": [
+      "nld"
     ],
     "country": "be",
     "isGeoBlocked": false
@@ -2010,20 +2082,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "raNCNoMtYKnSTs",
-    "name": "Radio Sunshine",
-    "sources": {
-      "streams": [
-        "https://stream.radio-sunshine.info/live"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XvSza0VHtfCyTS",
     "name": "Radio Valencia",
     "sources": {
@@ -2224,8 +2282,8 @@
     "name": "RTBF La Première",
     "sources": {
       "streams": [
-        "https://radios.rtbf.be/laprem1ere-64.aac",
-        "https://radios.rtbf.be/laprem1erebxl-128.mp3"
+        "https://radios.rtbf.be/laprem1erebxl-128.mp3",
+        "https://radios.rtbf.be/laprem1ere-64.aac"
       ]
     },
     "languages": [
@@ -2255,6 +2313,20 @@
     "sources": {
       "streams": [
         "https://radios.rtbf.be/pure-64.aac"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rZ40poisiMqKSu",
+    "name": "RTBF Tarmac",
+    "sources": {
+      "streams": [
+        "https://radios.rtbf.be/tarmac-128.mp3"
       ]
     },
     "languages": [
@@ -2348,11 +2420,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oreRstHDhRMugp",
-    "name": "RTBF VivaCité Namur & Brabant Wallon",
+    "nanoid": "FbadviZxqGnkDz",
+    "name": "RTBF VivaCité Luxembourg",
     "sources": {
       "streams": [
-        "https://radios.rtbf.be/vivanamurbw-64.aac"
+        "https://radios.rtbf.be/vivalux-64.aac"
       ]
     },
     "languages": [
@@ -2362,16 +2434,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZEHJ02ZCm3eQUt",
-    "name": "Slow Radio",
+    "nanoid": "oreRstHDhRMugp",
+    "name": "RTBF VivaCité Namur & Brabant Wallon",
     "sources": {
       "streams": [
-        "https://stream2.slowradio.com/",
-        "https://stream3.slowradio.com/"
+        "https://radios.rtbf.be/vivanamurbw-64.aac"
       ]
     },
     "languages": [
-      "nld"
+      "fra"
     ],
     "country": "be",
     "isGeoBlocked": false
@@ -2412,6 +2483,21 @@
     "sources": {
       "streams": [
         "https://icecast.vrtcdn.be/stubru_bruut-high.mp3"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EBNPpd2DQ8uAvg",
+    "name": "Studio Brussel UNTZ",
+    "sources": {
+      "streams": [
+        "https://icecast.vrtcdn.be/stubru_untz.aac",
+        "https://icecast.vrtcdn.be/stubru_untz-high.mp3"
       ]
     },
     "languages": [
@@ -2538,8 +2624,8 @@
     "name": "TOPretroarena",
     "sources": {
       "streams": [
-        "https://str.topradio.be/topradioretroarena.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac",
+        "https://str.topradio.be/topradioretroarena.mp3"
       ]
     },
     "languages": [
@@ -2810,7 +2896,7 @@
       "streams": [
         "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
         "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3",
-        "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac"
+        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac"
       ]
     },
     "languages": [
@@ -2882,20 +2968,6 @@
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3",
         "https://str.topradio.be/zenfm.mp3"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FfF2KBovRT2ATz",
-    "name": "Zoe FM",
-    "sources": {
-      "streams": [
-        "https://icecast.movemedia.be/zoe128"
       ]
     },
     "languages": [

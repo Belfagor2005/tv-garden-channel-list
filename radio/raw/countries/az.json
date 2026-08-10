@@ -4,8 +4,8 @@
     "name": "Anti Radio",
     "sources": {
       "streams": [
-        "https://stream.antiradio.net/listen/anti_radio/mp3",
-        "https://stream.antiradio.net/radio/8000/mp3"
+        "https://stream.antiradio.net/radio/8000/mp3",
+        "https://stream.antiradio.net/listen/anti_radio/mp3"
       ]
     },
     "languages": [
@@ -137,20 +137,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fy9V5sLKgilnF1",
-    "name": "Day.Az Radio",
-    "sources": {
-      "streams": [
-        "https://radio.day.az:9443/128m"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Nmn7osH383EKlw",
     "name": "Enerji FM 101.1",
     "sources": {
@@ -270,20 +256,6 @@
     "sources": {
       "streams": [
         "https://s39.myradiostream.com/:5458/listen.mp3"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qfXsRyCAR9VreT",
-    "name": "Sağlam Radio",
-    "sources": {
-      "streams": [
-        "https://s24.myradiostream.com/:17446/listen.mp3"
       ]
     },
     "languages": [

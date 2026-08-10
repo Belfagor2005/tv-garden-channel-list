@@ -5,6 +5,9 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/X-GOSC1NkRs"
       ]
     },
     "languages": [
@@ -56,6 +59,35 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "er9g2gU6CcPeIA",
+    "name": "Animax",
+    "sources": {
+      "streams": [
+        "https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7UHEij0gHfh2GK",
+    "name": "Animax Asia India",
+    "sources": {
+      "streams": [
+        "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "jpn"
+    ],
+    "country": "in",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "6jwIdmT15n1Yze",
     "name": "Anime x HIDIVE",
     "sources": {
@@ -68,6 +100,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "u2iS7uczBAriSJ",
+    "name": "Aniplus Asia",
+    "sources": {
+      "streams": [
+        "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "sg",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "724JcFRQ3UIDmr",
@@ -109,20 +155,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "sources": {
-      "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -196,15 +228,31 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VCUvM2AMC0JyGp",
-    "name": "DreamWorks Channel Latin America",
+    "nanoid": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
     "sources": {
       "streams": [
-        "https://live.nxplay.com.br/DREAMWORKS/index.m3u8"
+        "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
       ]
     },
-    "languages": [],
-    "country": "us",
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek FAN",
+    "sources": {
+      "streams": [
+        "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -461,6 +509,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4QXgwdYwMkY8d0",
+    "name": "LAMIL35 TV",
+    "sources": {
+      "streams": [
+        "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dValMPk4YLHMz4",
     "name": "Marvel HQ: Marvel's Avengers Assemble",
     "sources": {
@@ -517,27 +579,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AEeYcID6Rdmmt5",
-    "name": "MeTV Toons",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/112/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "R6VpE6L98QcSep",
     "name": "Mr. Bean Animated",
     "sources": {
       "streams": [
         "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
-        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8"
+        "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8",
+        "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -716,6 +764,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vvrRqhZZsrU"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "P0LU27eSLAz1HY",
     "name": "Shout! Studios: Speed Racer",
     "sources": {
@@ -734,7 +796,7 @@
     "name": "Simon Super Lapin",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IDfHkdSMWs8"
+        "https://www.youtube-nocookie.com/embed/dvYreLu9xos"
       ]
     },
     "languages": [
@@ -832,6 +894,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ul1MxG7pzChnBN",
+    "name": "Teenage Mutant Ninja Turtles: TMNT",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/9EdqbWHXOPw"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7ou9OY1nQUGsSq",
     "name": "Tiguerito TV",
     "sources": {
@@ -843,6 +919,20 @@
       "spa"
     ],
     "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lif7wI9SEZFwXL",
+    "name": "TokuSHOUTsu: ReBoot",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Ovfekp_5nYU"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -930,17 +1020,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tmleCZATQa5PCa",
-    "name": "Universal Jr: Team Mekbots",
+    "nanoid": "yxnA1ZxHgc48wp",
+    "name": "WOW Kidz Hindi",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/rBGX059Ht6Q"
+      "streams": [
+        "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       ]
     },
     "languages": [
-      "eng"
+      "hin"
     ],
-    "country": "us",
+    "country": "in",
     "isGeoBlocked": false
   },
   {

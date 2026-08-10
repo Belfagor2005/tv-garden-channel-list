@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "yFdFyVl7hBji9T",
+    "name": "Akamba FM",
+    "sources": {
+      "streams": [
+        "https://a9.asurahosting.com:7350/radio.mp3"
+      ]
+    },
+    "languages": [
+      "swa"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EBtSXjBSERKfup",
     "name": "AT254 Radio",
     "sources": {
@@ -66,6 +80,20 @@
     },
     "languages": [
       "swa"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JYMhic61YxCDeX",
+    "name": "Classic 105",
+    "sources": {
+      "streams": [
+        "https://atunwadigital.streamguys1.com/classic105"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ke",
     "isGeoBlocked": false
@@ -160,9 +188,9 @@
     "name": "Ghetto Radio",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/kvudezx1h2zuv",
         "https://stream-27.zeno.fm/kvudezx1h2zuv",
-        "https://stream-47.zeno.fm/gf58b0pt5x8uv"
+        "https://stream-47.zeno.fm/gf58b0pt5x8uv",
+        "https://stream.zeno.fm/cs4q33arb2zuv"
       ]
     },
     "languages": [
@@ -217,21 +245,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LSMk0hG3FmvIWw",
-    "name": "Jesus Is Lord Radio",
-    "sources": {
-      "streams": [
-        "https://s3.radio.co/s97f38db97/listen"
-      ]
-    },
-    "languages": [
-      "eng",
-      "swa"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5wveCwDi7RZ6vR",
     "name": "Juja FM",
     "sources": {
@@ -242,20 +255,6 @@
     "languages": [
       "eng",
       "swa"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3zH6bSDWqGrumb",
-    "name": "Juraini Radio",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/fe0nc58z8vzuv"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ke",
     "isGeoBlocked": false
@@ -289,39 +288,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UE1dhnwVbGG9bp",
-    "name": "KBC Kitwek FM",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/gh67mvp8f2zuv"
-      ]
-    },
-    "languages": [
-      "swa"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4ULyaxnz9q0mY8",
     "name": "KBC Mayienga FM",
     "sources": {
       "streams": [
         "https://stream.zeno.fm/ayw9hk0st5quv"
-      ]
-    },
-    "languages": [
-      "swa"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DafhOBUlzg7SkG",
-    "name": "KBC Minto FM",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/u3dw22zst5quv"
       ]
     },
     "languages": [
@@ -349,8 +320,8 @@
     "name": "KBC Radio Taifa",
     "sources": {
       "streams": [
-        "https://stream-161.zeno.fm/4fdwx9mydbruv",
-        "https://stream.zeno.fm/ud2u96xst5quv"
+        "https://stream.zeno.fm/ud2u96xst5quv",
+        "https://stream-161.zeno.fm/4fdwx9mydbruv"
       ]
     },
     "languages": [
@@ -458,20 +429,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pwmdsnRTN0K9Vj",
-    "name": "Mwatu FM",
-    "sources": {
-      "streams": [
-        "https://stream-26.zeno.fm/ppe1pafexa0uv"
-      ]
-    },
-    "languages": [
-      "swa"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WRVEFIbbuftgod",
     "name": "Nation FM",
     "sources": {
@@ -542,6 +499,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tWxuLJSNpGbx7c",
+    "name": "Radio Jambo",
+    "sources": {
+      "streams": [
+        "https://atunwadigital.streamguys1.com/radiojambo"
+      ]
+    },
+    "languages": [
+      "swa"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Jy6Uc5nijRRHhC",
     "name": "Radio Maisha",
     "sources": {
@@ -565,20 +536,6 @@
     },
     "languages": [
       "eng",
-      "swa"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "V8Y6uotGZFnh91",
-    "name": "Radio Tumaini",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/nu9qfhxx9reuv"
-      ]
-    },
-    "languages": [
       "swa"
     ],
     "country": "ke",

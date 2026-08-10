@@ -32,8 +32,8 @@
     "name": "GPB Radio 2",
     "sources": {
       "streams": [
-        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8",
-        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8"
+        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8",
+        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8"
       ]
     },
     "languages": [
@@ -163,8 +163,8 @@
     "name": "Radio Imedi",
     "sources": {
       "streams": [
-        "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8",
-        "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
+        "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast",
+        "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8"
       ]
     },
     "languages": [
@@ -179,20 +179,6 @@
     "sources": {
       "streams": [
         "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "kat"
-    ],
-    "country": "ge",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3OBD5JDSL4Bigy",
-    "name": "Radio Palitra",
-    "sources": {
-      "streams": [
-        "https://radiostream.palitra.ge/stream.mp3"
       ]
     },
     "languages": [

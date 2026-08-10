@@ -169,36 +169,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rrcb6MIbYmpCxc",
-    "name": "Dabar Radio",
-    "sources": {
-      "streams": [
-        "https://a1.asurahosting.com:8720/radio.mp3",
-        "https://a1.asurahosting.com:8720/radio.mp3/;"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y2uiuztlKAO6CJ",
-    "name": "Elite Radio 88.5 FM",
-    "sources": {
-      "streams": [
-        "https://stream20.usastreams.com/8008/;",
-        "https://stream20.usastreams.com/8008/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "329ILd8luHLhZU",
     "name": "Faro del Caribe",
     "sources": {
@@ -283,6 +253,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tNzKB3mjoDzO0s",
+    "name": "Radio Costa",
+    "sources": {
+      "streams": [
+        "https://sonicpanel.globalstream.pro:10979/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xkrfGTmVL2WKu4",
     "name": "Radio Hit 104.7 FM",
     "sources": {
@@ -331,6 +315,20 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/ftcx2988uwzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KvdfVQmBNAxy4y",
+    "name": "Teletica Radio 91.5 FM",
+    "sources": {
+      "streams": [
+        "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8"
       ]
     },
     "languages": [
