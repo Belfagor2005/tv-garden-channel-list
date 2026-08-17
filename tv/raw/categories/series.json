@@ -245,6 +245,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -417,6 +431,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "sources": {
+      "streams": [
+        "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RQLjZpBmmmFy6U",
     "name": "Duck Dynasty",
     "sources": {
@@ -579,20 +607,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L4ZW2ACSc1dIYj",
-    "name": "Hallmark Mystery East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1iqAggt1jlZlAx",
     "name": "HauntTV",
     "sources": {
@@ -646,7 +660,9 @@
         "https://stream.mcquack.net/381/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "heb"
+    ],
     "country": "il",
     "isGeoBlocked": false
   },
@@ -768,7 +784,7 @@
     "name": "Muhteşem Yüzyıl",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/d8pBFfmscKo"
+        "https://www.youtube-nocookie.com/embed/OefcAkar12A"
       ]
     },
     "languages": [
@@ -884,20 +900,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "s9YZ1VJSz718zN",
-    "name": "Paramount Network East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EqniGxixO4xx8t",
     "name": "PBS Antiques Roadshow",
     "sources": {
@@ -970,20 +972,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aRFi5tYztwXALW",
-    "name": "Series Classic",
-    "sources": {
-      "streams": [
-        "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1072,20 +1060,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SZ2cNzXyjIL9do",
-    "name": "Start TV",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/START_TV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3WLQIvLWgJCx9b",
     "name": "Super TV",
     "sources": {
@@ -1120,8 +1094,6 @@
     "name": "SYFY East",
     "sources": {
       "streams": [
-        "https://40.160.24.55/SYFY/index.m3u8",
-        "https://gpuserver5.tier1streams.com/SYFY/index.m3u8",
         "https://tvsen7.aynascope.net/syfy/index.m3u8"
       ]
     },
@@ -1194,6 +1166,7 @@
     "name": "TNT Novelas Brazil",
     "sources": {
       "streams": [
+        "https://168.197.104.22/TNT_NOVELAS/index.m3u8",
         "https://45.162.64.114/TNT_NOVELAS/index.m3u8"
       ]
     },
@@ -1333,35 +1306,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lKPGETEt2FJ6ge",
-    "name": "USA Network East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK/index.m3u8",
-        "https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fE02SPfh0IePpn",
-    "name": "USA Network West",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK_WEST/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rbTDCc0BqwXsLy",
     "name": "viju+ Serial",
     "sources": {
@@ -1380,7 +1324,7 @@
     "name": "We TV East",
     "sources": {
       "streams": [
-        "https://40.160.24.55/WE_TV/index.m3u8",
+        "https://170.254.17.2/WE_TV/index.m3u8",
         "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
       ]
     },

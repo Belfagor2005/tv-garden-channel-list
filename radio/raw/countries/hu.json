@@ -85,9 +85,9 @@
     "name": "BDPST ROCK",
     "sources": {
       "streams": [
-        "https://bdpstrock.hu/live.mp3",
+        "https://bdpstrock.hu/live_320.mp3",
         "https://s2.audiostream.hu/bdpstrock_FLAC",
-        "https://bdpstrock.hu/live_320.mp3"
+        "https://bdpstrock.hu/live.mp3"
       ]
     },
     "languages": [
@@ -724,6 +724,7 @@
     "name": "Dance Wave!",
     "sources": {
       "streams": [
+        "https://dancewave.online/dance.aac",
         "https://dancewave.online/dance.flac.ogg",
         "https://dancewave.online/station/dance-wave-ogg"
       ]
@@ -798,8 +799,8 @@
     "name": "Disco Diamond Radio",
     "sources": {
       "streams": [
-        "https://discodiamond.radioca.st/stream",
-        "https://ddr2020.radioca.st/stream"
+        "https://ddr2020.radioca.st/stream",
+        "https://discodiamond.radioca.st/stream"
       ]
     },
     "languages": [
@@ -1508,8 +1509,7 @@
     "name": "Ozone FM",
     "sources": {
       "streams": [
-        "https://oxygenmusic.hu:8443/ozonefm_320",
-        "https://oxygenmusic.hu:8000/ozonefm_128"
+        "https://oxygenmusic.hu:8443/ozonefm_320"
       ]
     },
     "languages": [
@@ -1851,8 +1851,8 @@
     "name": "radiOzora Chill",
     "sources": {
       "streams": [
-        "https://chill.out.airtime.pro/chill_a",
-        "https://chill.out.airtime.pro:8000/chill_a"
+        "https://chill.out.airtime.pro:8000/chill_a",
+        "https://chill.out.airtime.pro/chill_a"
       ]
     },
     "languages": [
@@ -2023,8 +2023,8 @@
     "name": "SuperDj Rádió",
     "sources": {
       "streams": [
-        "https://s03.diazol.hu:35150/live",
-        "https://s03.diazol.hu:35152/stream"
+        "https://s03.diazol.hu:35152/stream",
+        "https://s03.diazol.hu:35150/live"
       ]
     },
     "languages": [

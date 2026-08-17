@@ -71,34 +71,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOEq3NoerlOlHl",
-    "name": "1000 Hits 80s",
-    "sources": {
-      "streams": [
-        "https://c2.auracast.net:8048/stream"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fZt4e6clVeSsXv",
-    "name": "1000 Hits Spain",
-    "sources": {
-      "streams": [
-        "https://c2.auracast.net:8022/;"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XDl0Ka5QneKb6C",
     "name": "A Xente de Teo",
     "sources": {
@@ -189,9 +161,9 @@
     "name": "AFN Rota",
     "sources": {
       "streams": [
-        "https://22183.live.streamtheworld.com/AFNE_RTA_SC",
         "https://22193.live.streamtheworld.com/AFNE_RTA_SC",
-        "https://27743.live.streamtheworld.com/AFNE_RTA_SC"
+        "https://27913.live.streamtheworld.com/AFNE_RTA_SC",
+        "https://27943.live.streamtheworld.com/AFNE_RTA_SC"
       ]
     },
     "languages": [
@@ -245,30 +217,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yZNLSK2sjkNU4Q",
-    "name": "Alhaurín Radio",
+    "nanoid": "3M8mle8G61WWfD",
+    "name": "Almodóvar en La Onda",
     "sources": {
       "streams": [
-        "https://server8.emitironline.com:18266/radio"
+        "https://nrf1.newradio.it:9972/stream"
       ]
     },
     "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wHnvwL5KDmuU1O",
-    "name": "Alpicat Ràdio",
-    "sources": {
-      "streams": [
-        "https://streaming.enacast.com/alpicatradio128.mp3",
-        "https://enacast.com/alpicatradio/streams/SD"
-      ]
-    },
-    "languages": [
-      "cat",
       "spa"
     ],
     "country": "es",
@@ -279,8 +235,8 @@
     "name": "Altafulla Ràdio",
     "sources": {
       "streams": [
-        "https://streaming.enacast.com/altafulla128.mp3",
-        "https://enacast.com/altafullaradio/streams/HD"
+        "https://enacast.com/altafullaradio/streams/HD",
+        "https://streaming.enacast.com/altafulla128.mp3"
       ]
     },
     "languages": [
@@ -339,6 +295,20 @@
     "sources": {
       "streams": [
         "https://sonic.sistemahost.es:7002/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ql5GuJdBxFa5jL",
+    "name": "Aqua Radio",
+    "sources": {
+      "streams": [
+        "https://quincy.torontocast.com:2260/;"
       ]
     },
     "languages": [
@@ -539,8 +509,8 @@
     "name": "Cadena 100",
     "sources": {
       "streams": [
-        "https://cadena100-cope.flumotion.com/chunks.m3u8",
         "https://cadena100-cope.flumotion.com/playlist.m3u8",
+        "https://cadena100-cope.flumotion.com/chunks.m3u8",
         "https://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3"
       ]
     },
@@ -571,8 +541,8 @@
     "name": "Cadena Dial",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3"
       ]
     },
     "languages": [
@@ -829,9 +799,9 @@
     "name": "Cadena SER Radio Galicia",
     "sources": {
       "streams": [
-        "https://27823.live.streamtheworld.com/SER_GALICIA_SC",
-        "https://29083.live.streamtheworld.com/SER_GALICIA_SC",
-        "https://19983.live.streamtheworld.com/SER_GALICIA_SC"
+        "https://20043.live.streamtheworld.com/SER_GALICIA_SC",
+        "https://23553.live.streamtheworld.com/SER_GALICIA_SC",
+        "https://25493.live.streamtheworld.com/SER_GALICIA_SC"
       ]
     },
     "languages": [
@@ -846,8 +816,8 @@
     "name": "Cadena SER Radio Guadix",
     "sources": {
       "streams": [
-        "https://25543.live.streamtheworld.com/SER_ASO_GUADIXAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIXAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIXAAC_SC",
+        "https://25543.live.streamtheworld.com/SER_ASO_GUADIXAAC_SC"
       ]
     },
     "languages": [
@@ -918,9 +888,9 @@
     "name": "Cadena SER Radio Murcia",
     "sources": {
       "streams": [
-        "https://19993.live.streamtheworld.com/SER_MURCIA_SC",
         "https://20043.live.streamtheworld.com/SER_MURCIA_SC",
-        "https://23603.live.streamtheworld.com/SER_MURCIA_SC"
+        "https://27833.live.streamtheworld.com/SER_MURCIA_SC",
+        "https://19993.live.streamtheworld.com/SER_MURCIA_SC"
       ]
     },
     "languages": [
@@ -1901,7 +1871,7 @@
     "name": "COPE Albacete",
     "sources": {
       "streams": [
-        "https://wecast28-o-cloud.flumotion.com/copesedes/albacete.mp3"
+        "https://wecast23-o-cloud.flumotion.com/copesedes/albacete.mp3"
       ]
     },
     "languages": [
@@ -1959,20 +1929,6 @@
     "sources": {
       "streams": [
         "https://sonic.mediatelekom.net/8096/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BTBj0IFl4yVYAr",
-    "name": "COPE Tenerife",
-    "sources": {
-      "streams": [
-        "https://wecast17-h-cloud.flumotion.com/copesedes/tenerife-mas.mp3"
       ]
     },
     "languages": [
@@ -2146,7 +2102,7 @@
     "name": "Deep Mix Radio",
     "sources": {
       "streams": [
-        "https://deepmix.org/stream"
+        "https://deepmixradio.com/stream"
       ]
     },
     "languages": [
@@ -2318,8 +2274,8 @@
     "name": "EDM Festival",
     "sources": {
       "streams": [
-        "https://stream.0nlineradio.com/edm-festival",
-        "https://stream.technolovers.fm/edm"
+        "https://stream.technolovers.fm/edm",
+        "https://stream.0nlineradio.com/edm-festival"
       ]
     },
     "languages": [
@@ -2343,6 +2299,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g86wlLmfxiehUg",
+    "name": "EduNeu Radio 3",
+    "sources": {
+      "streams": [
+        "https://radio.eduneu.eu:8020/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aEGFhfxoqacSMs",
     "name": "EITB Euskal Kantak",
     "sources": {
@@ -2352,20 +2322,6 @@
     },
     "languages": [
       "eus"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BOrjcKlthuXn9I",
-    "name": "El Salto Radio",
-    "sources": {
-      "streams": [
-        "https://radio.radiobot.org/listen/salto/elsaltoradio.mp3"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -2844,8 +2800,8 @@
     "name": "FLOW Radio",
     "sources": {
       "streams": [
-        "https://flow.urbanrevolution.es:8445/flow",
-        "https://st1.urbanrevolution.es:8445/flow"
+        "https://st1.urbanrevolution.es:8445/flow",
+        "https://flow.urbanrevolution.es:8445/flow"
       ]
     },
     "languages": [
@@ -3208,6 +3164,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Q5IY1ankZwwbId",
+    "name": "HKM Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rhf9cqkz3yzuv.aac",
+        "https://stream.zenolive.com/rhf9cqkz3yzuv.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "idzl3hxCRK5aiw",
     "name": "Holiday Gym FM",
     "sources": {
@@ -3495,6 +3466,21 @@
       ]
     },
     "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hU7WBcAt9XLXps",
+    "name": "Intimidad Relax",
+    "sources": {
+      "streams": [
+        "https://eu1.lhdserver.es:9121/stream"
+      ]
+    },
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "es",
@@ -3835,21 +3821,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gDRThE4R1HOPtA",
-    "name": "La Urban Radio",
-    "sources": {
-      "streams": [
-        "https://st1.urbanrevolution.es:8443/laurbanfm.mp3"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yd57T5afRdx5Ja",
     "name": "La Veu d'Ondara",
     "sources": {
@@ -4118,6 +4089,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K8cSLYvC7cBb2s",
+    "name": "Lola 80s",
+    "sources": {
+      "streams": [
+        "https://digitalcreative.es:9000/lolafm_80s"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QQsMLy9ORPY5I0",
     "name": "Lola Dance",
     "sources": {
@@ -4195,8 +4180,8 @@
     "name": "LOS40 Classic",
     "sources": {
       "streams": [
-        "https://25633.live.streamtheworld.com/LOS40_CLASSIC.mp3",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC_SC",
+        "https://25633.live.streamtheworld.com/LOS40_CLASSIC.mp3",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3"
       ]
     },
@@ -4311,8 +4296,8 @@
     "name": "Makina FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/roqewn7dp4gtv",
-        "https://stream-157.zeno.fm/roqewn7dp4gtv"
+        "https://stream-157.zeno.fm/roqewn7dp4gtv",
+        "https://stream.zeno.fm/roqewn7dp4gtv"
       ]
     },
     "languages": [
@@ -4346,20 +4331,6 @@
     },
     "languages": [
       "fra",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jATHhyGOhB44OF",
-    "name": "MariskalRock Radio",
-    "sources": {
-      "streams": [
-        "https://media.profesionalhosting.com:8047/stream"
-      ]
-    },
-    "languages": [
       "spa"
     ],
     "country": "es",
@@ -4540,8 +4511,8 @@
     "name": "MegaStar FM",
     "sources": {
       "streams": [
-        "https://megastar-cope.flumotion.com/chunks.m3u8",
-        "https://megastar-cope.flumotion.com/playlist.m3u8"
+        "https://megastar-cope.flumotion.com/playlist.m3u8",
+        "https://megastar-cope.flumotion.com/chunks.m3u8"
       ]
     },
     "languages": [
@@ -5427,8 +5398,8 @@
     "name": "Onda Wantuki",
     "sources": {
       "streams": [
-        "https://stream-53.zeno.fm/5dfkzqm70s8uv",
-        "https://stream.zeno.fm/5dfkzqm70s8uv"
+        "https://stream.zeno.fm/5dfkzqm70s8uv",
+        "https://stream-53.zeno.fm/5dfkzqm70s8uv"
       ]
     },
     "languages": [
@@ -5520,6 +5491,20 @@
     },
     "languages": [
       "eng",
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9275QwWEZhEDOA",
+    "name": "PabloMix Music",
+    "sources": {
+      "streams": [
+        "https://sonic2.sistemahost.es/8068/stream"
+      ]
+    },
+    "languages": [
       "spa"
     ],
     "country": "es",
@@ -5628,8 +5613,8 @@
     "name": "PlayTrance Radio",
     "sources": {
       "streams": [
-        "https://streaming.playtrance.com/playtrance-main-high",
-        "https://live-ff.playtrance.com/playtrance-main.mp3"
+        "https://live-ff.playtrance.com/playtrance-main.mp3",
+        "https://streaming.playtrance.com/playtrance-main-high"
       ]
     },
     "languages": [
@@ -6481,20 +6466,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "csx6fsAXIVmXpX",
-    "name": "Radio Gracia Celestial",
-    "sources": {
-      "streams": [
-        "https://stream4.305stream.com:9463/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0taNYWgT6ITO05",
     "name": "Radio Guadaíra",
     "sources": {
@@ -6589,6 +6560,20 @@
     },
     "languages": [
       "cat",
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1oiMZ6Y2zYjo1r",
+    "name": "Radio Huayna Picchu",
+    "sources": {
+      "streams": [
+        "https://conectperu.com/8048/stream"
+      ]
+    },
+    "languages": [
       "spa"
     ],
     "country": "es",
@@ -6797,8 +6782,8 @@
     "name": "Radio Laredo",
     "sources": {
       "streams": [
-        "https://radio.radiolaredo.com/8002/strem",
-        "https://radio.radiolaredo.com/8002/stream"
+        "https://radio.radiolaredo.com/8002/stream",
+        "https://radio.radiolaredo.com/8002/strem"
       ]
     },
     "languages": [
@@ -7033,8 +7018,8 @@
     "name": "Radio Marca Málaga",
     "sources": {
       "streams": [
-        "https://malagafm.streaming-pro.com:8131/malagafmmobile",
-        "https://malagafm.streaming-pro.com:8130/malagafmmobile"
+        "https://malagafm.streaming-pro.com:8130/malagafmmobile",
+        "https://malagafm.streaming-pro.com:8131/malagafmmobile"
       ]
     },
     "languages": [
@@ -7193,8 +7178,8 @@
     "name": "Radio Nature",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/sfpqezsh6f0uv",
-        "https://stream.zeno.fm/3ac97ysh6f0uv.aac"
+        "https://stream.zeno.fm/3ac97ysh6f0uv.aac",
+        "https://stream.zeno.fm/sfpqezsh6f0uv"
       ]
     },
     "languages": [
@@ -7280,8 +7265,7 @@
     "name": "Radio Pimienta",
     "sources": {
       "streams": [
-        "https://www.ivoox.com/emision-1451_mh_120373925_feed_1.mp3",
-        "https://cervera.eldialdigital.com:21182/stream"
+        "https://www.ivoox.com/emision-1451_mh_120373925_feed_1.mp3"
       ]
     },
     "languages": [
@@ -7301,20 +7285,6 @@
     "languages": [
       "cat",
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0rpgWaB3Amop3f",
-    "name": "Radio Piratona",
-    "sources": {
-      "streams": [
-        "https://zeppelin.streampunk.cc/_stream/radiopiratona.ogg"
-      ]
-    },
-    "languages": [
-      "glg"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -8461,6 +8431,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aKIoLniLYq01jd",
+    "name": "RàdioSeu 107.2 FM",
+    "sources": {
+      "streams": [
+        "https://enacast.com/radioseu/streams/HD",
+        "https://streaming.enacast.com/radiolaseu128.mp3"
+      ]
+    },
+    "languages": [
+      "cat",
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8KBD5rGM04kQRu",
     "name": "RadioSky Hits",
     "sources": {
@@ -8964,8 +8950,8 @@
     "name": "Smooth Jazz Classics",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/w3phtkukfg8uv",
-        "https://stream-57.zeno.fm/w3phtkukfg8uv"
+        "https://stream-57.zeno.fm/w3phtkukfg8uv",
+        "https://stream.zeno.fm/w3phtkukfg8uv"
       ]
     },
     "languages": [
@@ -9236,20 +9222,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4509isE9PEZYnH",
-    "name": "The Flow",
-    "sources": {
-      "streams": [
-        "https://server8.emitironline.com:18738/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XAOn7yWKx6aJEm",
     "name": "The Waiting Room",
     "sources": {
@@ -9313,20 +9285,6 @@
     "sources": {
       "streams": [
         "https://server1.easystreaming.pro:8443/unika"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UQz201nBO70ySu",
-    "name": "Urban con Ñ",
-    "sources": {
-      "streams": [
-        "https://st1.urbanrevolution.es:8443/hispano"
       ]
     },
     "languages": [
@@ -9514,21 +9472,6 @@
     },
     "languages": [
       "eus"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NCo6DOHGM6CRF7",
-    "name": "Zona Electrónica",
-    "sources": {
-      "streams": [
-        "https://st1.urbanrevolution.es:8443/zonaelectronica"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false

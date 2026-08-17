@@ -60,21 +60,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "svqGAAzdRdQYUr",
-    "name": "Radio Buntu",
-    "sources": {
-      "streams": [
-        "https://stream.rcast.net/62581"
-      ]
-    },
-    "languages": [
-      "fra",
-      "run"
-    ],
-    "country": "bi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BgGZXgZW7QpHnE",
     "name": "Radio Inkinzo",
     "sources": {
@@ -90,11 +75,26 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bhh94HsZ4VuCqf",
-    "name": "Radio Patriot",
+    "nanoid": "phsXu4HVFHc0np",
+    "name": "Radio Isanganiro",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/7bezn4ppxxhvv"
+        "https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ],
+    "country": "bi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8lCAmzzGOVaVw5",
+    "name": "Radio Nderagakura",
+    "sources": {
+      "streams": [
+        "https://eu10.fastcast4u.com/nderagakura/;"
       ]
     },
     "languages": [

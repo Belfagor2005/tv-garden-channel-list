@@ -553,8 +553,8 @@
     "name": "Océano",
     "sources": {
       "streams": [
-        "https://oceano-2.nty.uy/",
-        "https://oceano-2.nty.uy/netradio/listen.mp3"
+        "https://oceano-2.nty.uy/netradio/listen.mp3",
+        "https://oceano-2.nty.uy/"
       ]
     },
     "languages": [
@@ -788,6 +788,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vTPIOWiBMl2xLq",
+    "name": "Radio Monte Carlo CX20-AM930",
+    "sources": {
+      "streams": [
+        "https://streamingcasazorrilla.innovanexo.com:8000/montecarlo.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "uy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BGaxC7gcIf8hLF",
     "name": "Radio Pipí Cucú",
     "sources": {
@@ -836,6 +850,20 @@
     "sources": {
       "streams": [
         "https://s1.radiosenialesfm.com:8030/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "uy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Eulf1tcmOdbKVt",
+    "name": "Radio Uruguay 1050",
+    "sources": {
+      "streams": [
+        "https://radios.iwstreaming.uy/8036/stream"
       ]
     },
     "languages": [

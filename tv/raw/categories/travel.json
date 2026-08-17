@@ -90,7 +90,8 @@
     "name": "China Travel",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
       ]
     },
     "languages": [
@@ -202,20 +203,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "K06jw1yFEpsZGk",
-    "name": "Jamaica Travel Channel",
-    "sources": {
-      "streams": [
-        "https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "jm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IpMm8lGTn8YwfA",
     "name": "Journy",
     "sources": {
@@ -262,8 +249,8 @@
     "name": "Living Asia Channel",
     "sources": {
       "streams": [
-        "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
-        "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
+        "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
+        "https://streams.comclark.com/pknsd/lac/playlist.m3u8"
       ]
     },
     "languages": [
@@ -432,6 +419,7 @@
     "name": "Travel Box Brazil",
     "sources": {
       "streams": [
+        "https://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8",
         "https://45.190.28.50/TRAVEL_BOX_HD/index.m3u8"
       ]
     },

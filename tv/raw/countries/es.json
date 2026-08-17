@@ -87,6 +87,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "evUeZsCd7b98tf",
+    "name": "12tv",
+    "sources": {
+      "streams": [
+        "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0ql8ScPnCzsSJo",
     "name": "28 kanala",
     "sources": {
@@ -600,8 +614,7 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
-        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
       ]
     },
     "languages": [
@@ -668,20 +681,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6163FYOTsmSDoK",
-    "name": "Cordoba TV",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/8020/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dUunw6na7BVxaU",
     "name": "Costa Noroeste TV",
     "sources": {
@@ -704,6 +703,34 @@
       ]
     },
     "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XpbmfDemwD3cxf",
+    "name": "Deportes por Movistar Plus+",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cYGWjqo31Nlvlm",
+    "name": "Diez TV Las Villas",
+    "sources": {
+      "streams": [
+        "https://streaming.cloud.innovasur.es/mmj2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -837,21 +864,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vBQYI4XuRuNh2P",
     "name": "Estepona Television",
     "sources": {
@@ -862,18 +874,6 @@
     "languages": [
       "spa"
     ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "awUBqlQNui5V6X",
-    "name": "Estilo y Vida",
-    "sources": {
-      "streams": [
-        "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1052,11 +1052,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "waVMWHYlkj0xMU",
-    "name": "Hamaika Telebista",
+    "nanoid": "RjKOHS1V7q1DJZ",
+    "name": "Historia",
     "sources": {
       "streams": [
-        "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8"
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8"
       ]
     },
     "languages": [
@@ -1066,12 +1067,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RjKOHS1V7q1DJZ",
-    "name": "Historia",
+    "nanoid": "h9YxHU0Ug32YMW",
+    "name": "HOLA! Play",
     "sources": {
       "streams": [
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8"
+        "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
       ]
     },
     "languages": [
@@ -1121,6 +1121,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pV0og9AjUUraI8",
+    "name": "La 1",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "0PUyDm92WwiPWX",
     "name": "La 8 Mediterraneo",
     "sources": {
@@ -1140,6 +1154,20 @@
     "sources": {
       "streams": [
         "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IyBtlkokBslYMw",
+    "name": "Liga de Campeones por Movistar Plus+",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8"
       ]
     },
     "languages": [
@@ -1318,20 +1346,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "to6WdXHX9Bv9Ju",
-    "name": "Nova",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/Nova/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "q7nooMvVTTe0YZ",
     "name": "Onda 15 TV",
     "sources": {
@@ -1416,76 +1430,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L0dEIQTJzvEZO6",
-    "name": "PTV Cordoba",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wyi6TV1fm0mxaX",
-    "name": "PTV Granada",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/PTV-granada/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6Cliy0YRCsxozG",
-    "name": "PTV Linares",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "awdi4zyBaZyzdT",
-    "name": "PTV Malaga",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/PTV-malaga/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dZdJcGwwUlFFBA",
-    "name": "PTV Sevilla",
-    "sources": {
-      "streams": [
-        "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MUGH45wnKxFBS7",
     "name": "Punt 3",
     "sources": {
@@ -1543,37 +1487,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "duHgjkhG7rfbm4",
-    "name": "Rakuten TV Family Movies Spain",
+    "nanoid": "9yewxbvb9FUiND",
+    "name": "Rakuten TV Action Movies Spain",
     "sources": {
       "streams": [
-        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yoWnDlFSJLbaIM",
-    "name": "Rakuten TV Thrillers Spain",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9DzDnm8vJPwosX",
-    "name": "Rakuten TV Top Movies Spain",
-    "sources": {
-      "streams": [
-        "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+        "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
       ]
     },
     "languages": [
@@ -1847,7 +1765,7 @@
         "https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/39tFLvriPTs"
+        "https://www.youtube-nocookie.com/embed/Lhr0aoi2MGw"
       ]
     },
     "languages": [

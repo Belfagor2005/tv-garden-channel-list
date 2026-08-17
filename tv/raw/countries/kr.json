@@ -363,6 +363,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hJP0GSnYM15Xax",
+    "name": "HLAJ-DTV",
+    "sources": {
+      "streams": [
+        "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LeEKq1Wp81fOe3",
     "name": "HLAN-DTV",
     "sources": {
@@ -433,11 +447,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "klJTuuuc9Rkoag",
-    "name": "HLKJ-DTV",
+    "nanoid": "hI9SMCGhwuM1Tn",
+    "name": "HLDP-DTV",
     "sources": {
       "streams": [
-        "https://123.140.197.22/stream/1/play.m3u8"
+        "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8"
       ]
     },
     "languages": [
@@ -493,7 +507,7 @@
     "name": "JTBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ef2B2PllUAY"
+        "https://www.youtube-nocookie.com/embed/MkGwVxLmKhM"
       ]
     },
     "languages": [
@@ -507,7 +521,7 @@
     "name": "KBS News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/j65LoxmxosA"
+        "https://www.youtube-nocookie.com/embed/1_c4DHK5TyA"
       ]
     },
     "languages": [
@@ -537,20 +551,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/OxQQsIvJTTU"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lvIrwQpUaM4Bib",
-    "name": "KTV",
-    "sources": {
-      "streams": [
-        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -676,7 +676,7 @@
     "name": "Pororo 뽀로로",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/512J9ZTkCXw"
+        "https://www.youtube-nocookie.com/embed/ZshH8LC5zXA"
       ]
     },
     "languages": [
@@ -704,7 +704,7 @@
     "name": "SBS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oGGe_diKFas"
+        "https://www.youtube-nocookie.com/embed/eQ-YOdNnYRc"
       ]
     },
     "languages": [
@@ -788,7 +788,7 @@
     "name": "TVCHOSUN JOY",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XPILX4c-VNA"
+        "https://www.youtube-nocookie.com/embed/rhweE3m3-hU"
       ]
     },
     "languages": [
@@ -802,7 +802,7 @@
     "name": "TVCHOSUN MUSIC",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7ELI0d3StHE"
+        "https://www.youtube-nocookie.com/embed/fhVIAInvu4g"
       ]
     },
     "languages": [
@@ -956,7 +956,7 @@
     "name": "서울경제TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JVBVZIUAAtI"
+        "https://www.youtube-nocookie.com/embed/ciA-0rInLwQ"
       ]
     },
     "languages": [

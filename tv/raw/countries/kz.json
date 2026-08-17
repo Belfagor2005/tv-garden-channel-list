@@ -116,7 +116,6 @@
     "sources": {
       "streams": [
         "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
-        "https://89.218.30.37/ktklive/live.hq/playlist.m3u8",
         "https://stream.mcquack.net/26/index.m3u8"
       ]
     },
@@ -266,11 +265,25 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "HKWXuzT38k7GF2",
+    "name": "TDK 42",
+    "sources": {
+      "streams": [
+        "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "if2kwrLRFc4oRC",
     "name": "Телеканал 24kz",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PsRal4OMuI4"
+        "https://www.youtube-nocookie.com/embed/U7gbYOIg91c"
       ]
     },
     "languages": [

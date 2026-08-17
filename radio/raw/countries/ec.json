@@ -130,8 +130,8 @@
     "name": "Contigo FM",
     "sources": {
       "streams": [
-        "https://panel.innovatestream.pe:10852/;",
-        "https://panel.innovatestream.pe:10852/stream"
+        "https://panel.innovatestream.pe:10852/stream",
+        "https://panel.innovatestream.pe:10852/;"
       ]
     },
     "languages": [
@@ -722,8 +722,8 @@
     "name": "Radio 11Q",
     "sources": {
       "streams": [
-        "https://streamingecuador.net:8012/stream",
-        "https://streamingecuador.net:8012/radio11q"
+        "https://streamingecuador.net:8012/radio11q",
+        "https://streamingecuador.net:8012/stream"
       ]
     },
     "languages": [
@@ -752,20 +752,6 @@
     "sources": {
       "streams": [
         "https://dattavolt.com/8346/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EqGPqZsjJyuZSF",
-    "name": "Radio Andina",
-    "sources": {
-      "streams": [
-        "https://grupomundodigital.com:8580/stream"
       ]
     },
     "languages": [
@@ -1134,6 +1120,20 @@
     "sources": {
       "streams": [
         "https://streamingecuador.net:7500/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gLYxfNVabcJI9w",
+    "name": "Radio Pichincha",
+    "sources": {
+      "streams": [
+        "https://icecast.radiopichincha.com/radiopichincha"
       ]
     },
     "languages": [
@@ -1526,20 +1526,6 @@
     "sources": {
       "streams": [
         "https://dattavolt.com/8028/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UEY5i4lwWaslqy",
-    "name": "Tambo FM",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/uqwrvvpvhm0uv"
       ]
     },
     "languages": [

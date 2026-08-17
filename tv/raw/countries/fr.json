@@ -684,7 +684,7 @@
       "streams": [
         "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
+        "https://170.83.16.50/FRANCE_24/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/HvZt-nh9sGg"
@@ -1073,18 +1073,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
-    "sources": {
-      "streams": [
-        "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hDKihfnR1gIzAi",
     "name": "MyZen TV",
     "sources": {
@@ -1114,6 +1102,20 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B7oUuXqbWsfBhP",
+    "name": "OGGY",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/1R8767hzeLk"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1231,6 +1233,18 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "9PtGiKgkdbGXR3",
+    "name": "Rakuten TV Films Action",
+    "sources": {
+      "streams": [
+        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K1cCEN7WNbjDun",
     "name": "Revry Europe (Frequency backend)",
     "sources": {
@@ -1248,6 +1262,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/OAoLGxrlBPY"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YtkPirsEkzhkfe",
+    "name": "RMC Sport 1",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8"
       ]
     },
     "languages": [
@@ -1935,6 +1963,20 @@
     },
     "languages": [
       "eng",
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kz1QrxbntvR2ns",
+    "name": "Zig & Sharko",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0flIX2kXnZs"
+      ]
+    },
+    "languages": [
       "fra"
     ],
     "country": "fr",

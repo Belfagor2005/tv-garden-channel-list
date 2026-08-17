@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "CfXnK3fgURN5VN",
+    "name": "Bum Bum Radio",
+    "sources": {
+      "streams": [
+        "https://bumbum.nlnet.rs:8443/bumbum"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "M1JoDqum7j8iWw",
     "name": "Cool Radio",
     "sources": {
@@ -230,8 +244,8 @@
     "name": "Naš radio MM",
     "sources": {
       "streams": [
-        "https://radio.dukahosting.com:7045/stream",
-        "https://radio.dukahosting.com:7045/;"
+        "https://radio.dukahosting.com:7045/;",
+        "https://radio.dukahosting.com:7045/stream"
       ]
     },
     "languages": [
@@ -708,8 +722,8 @@
     "name": "OK Radio",
     "sources": {
       "streams": [
-        "https://live7.okradio.net/;*.mp3",
-        "https://sslstream.okradio.net/;"
+        "https://sslstream.okradio.net/;",
+        "https://live7.okradio.net/;*.mp3"
       ]
     },
     "languages": [
@@ -904,20 +918,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zp8I6NyaLX4Ltx",
-    "name": "Radio 021 Rock",
-    "sources": {
-      "streams": [
-        "https://centova.dukahosting.com/proxy/rock/stream"
-      ]
-    },
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OZiTr1MEcHQWSR",
     "name": "Radio 31 Plus",
     "sources": {
@@ -1077,7 +1077,7 @@
     "name": "Radio D59B",
     "sources": {
       "streams": [
-        "https://n0e.radiojar.com/gn6dqzhf9mzuv"
+        "https://n11.radiojar.com/gn6dqzhf9mzuv"
       ]
     },
     "languages": [
@@ -1440,6 +1440,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Jlw7EKYlKirj0T",
+    "name": "Radio S3",
+    "sources": {
+      "streams": [
+        "https://edge-rs-01.maksnet.tv/asmedia/pingvin/chunklist_w12686921.m3u8"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cM1FIKoHzdd5Ky",
     "name": "Radio S3 Folk Stars",
     "sources": {
@@ -1472,8 +1486,8 @@
     "name": "Radio S3 Narodni",
     "sources": {
       "streams": [
-        "https://stream.radios.rs:9016/;*.mp3",
-        "https://stream.radios.rs:9016/;"
+        "https://stream.radios.rs:9016/;",
+        "https://stream.radios.rs:9016/;*.mp3"
       ]
     },
     "languages": [

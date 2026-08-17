@@ -75,7 +75,8 @@
     "name": "ACI Radio",
     "sources": {
       "streams": [
-        "https://sphera.fluidstream.eu/company.mp3"
+        "https://sphera.fluidstream.eu/company.mp3",
+        "https://nr7.newradio.it:18003/stream"
       ]
     },
     "languages": [
@@ -146,8 +147,8 @@
     "sources": {
       "streams": [
         "https://22183.live.streamtheworld.com/AFNE_AVN_SC",
-        "https://27863.live.streamtheworld.com/AFNE_AVN_SC",
-        "https://28563.live.streamtheworld.com/AFNE_AVN_SC"
+        "https://25603.live.streamtheworld.com/AFNE_AVN_SC",
+        "https://27913.live.streamtheworld.com/AFNE_AVN_SC"
       ]
     },
     "languages": [
@@ -162,8 +163,8 @@
     "sources": {
       "streams": [
         "https://21633.live.streamtheworld.com/AFNE_NAP_SC",
-        "https://25443.live.streamtheworld.com/AFNE_NAP_SC",
-        "https://28503.live.streamtheworld.com/AFNE_NAP_SC"
+        "https://23623.live.streamtheworld.com/AFNE_NAP_SC",
+        "https://25443.live.streamtheworld.com/AFNE_NAP_SC"
       ]
     },
     "languages": [
@@ -178,8 +179,8 @@
     "sources": {
       "streams": [
         "https://23543.live.streamtheworld.com/AFNE_SIG_SC",
-        "https://25633.live.streamtheworld.com/AFNE_SIG_SC",
-        "https://28513.live.streamtheworld.com/AFNE_SIG_SC"
+        "https://28513.live.streamtheworld.com/AFNE_SIG_SC",
+        "https://25633.live.streamtheworld.com/AFNE_SIG_SC"
       ]
     },
     "languages": [
@@ -194,8 +195,8 @@
     "sources": {
       "streams": [
         "https://22653.live.streamtheworld.com/AFNE_VIC_SC",
-        "https://23543.live.streamtheworld.com/AFNE_VIC_SC",
-        "https://27783.live.streamtheworld.com/AFNE_VIC_SC"
+        "https://25633.live.streamtheworld.com/AFNE_VIC_SC",
+        "https://23543.live.streamtheworld.com/AFNE_VIC_SC"
       ]
     },
     "languages": [
@@ -328,6 +329,20 @@
     },
     "languages": [
       "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "awZKtBhWjIL4zi",
+    "name": "China FM 89.5",
+    "sources": {
+      "streams": [
+        "https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream"
+      ]
+    },
+    "languages": [
+      "zho"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -613,8 +628,8 @@
     "sources": {
       "streams": [
         "https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8",
-        "https://icstream.rds.radio/dssn",
-        "https://icstream.rds.radio/dssc"
+        "https://icstream.rds.radio/dssc",
+        "https://icstream.rds.radio/dssn"
       ]
     },
     "languages": [
@@ -858,9 +873,9 @@
     "name": "Funky Radio",
     "sources": {
       "streams": [
-        "https://my.streamingmedia.it/listen/discofunk/play",
+        "https://my.streamingmedia.it:8020/play",
         "https://discofunk.streamingmedia.it/play",
-        "https://my.streamingmedia.it:8020/play"
+        "https://my.streamingmedia.it/listen/discofunk/play"
       ]
     },
     "languages": [
@@ -903,8 +918,8 @@
     "name": "Gargano FM",
     "sources": {
       "streams": [
-        "https://stream1.xdevel.com/audio0s975759-322/stream/icecast.audio",
-        "https://onlineradiobox.com/json/it/gargano/play"
+        "https://onlineradiobox.com/json/it/gargano/play",
+        "https://stream1.xdevel.com/audio0s975759-322/stream/icecast.audio"
       ]
     },
     "languages": [
@@ -1710,7 +1725,8 @@
     "name": "OneShot Radio",
     "sources": {
       "streams": [
-        "https://stream.buraglio.it/oneshot"
+        "https://stream.buraglio.it/oneshot",
+        "https://buraglio.it:8000/oneshot"
       ]
     },
     "languages": [
@@ -1806,6 +1822,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J3KpPZC7mUwTVp",
+    "name": "PyRadio",
+    "sources": {
+      "streams": [
+        "https://buraglio.it:8000/pyradio"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Q4kz68CjXJVG5n",
     "name": "Q8 Radio",
     "sources": {
@@ -1824,8 +1854,8 @@
     "name": "R101",
     "sources": {
       "streams": [
-        "https://icy.unitedradio.it/R101_558.aac",
         "https://icecast.unitedradio.it/r101_mp3",
+        "https://icy.unitedradio.it/R101_558.aac",
         "https://icecast.unitedradio.it/r101"
       ]
     },
@@ -2422,20 +2452,6 @@
     },
     "languages": [
       "deu",
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uoITZ0Fj8NKHPL",
-    "name": "Radio 6023",
-    "sources": {
-      "streams": [
-        "https://stream12.top-ix.org/radio6023"
-      ]
-    },
-    "languages": [
       "ita"
     ],
     "country": "it",
@@ -3124,9 +3140,9 @@
     "name": "Radio Capital Funky Town",
     "sources": {
       "streams": [
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytownbck/radiocapitalfunkytownbck/play1.m3u8",
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8",
         "https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8",
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8"
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytownbck/radiocapitalfunkytownbck/play1.m3u8"
       ]
     },
     "languages": [
@@ -3281,20 +3297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KrbxFVU544svEa",
-    "name": "Radio Città Aperta",
-    "sources": {
-      "streams": [
-        "https://be.server89.com/8020/stream"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kTJsoj7y5xDgt8",
     "name": "Radio Città Fujiko",
     "sources": {
@@ -3397,8 +3399,8 @@
     "name": "Radio Company Easy",
     "sources": {
       "streams": [
-        "https://str01.fluidstream.net/ceasy.aac",
-        "https://ice02.fluidstream.net/ceasy.aac"
+        "https://ice02.fluidstream.net/ceasy.aac",
+        "https://str01.fluidstream.net/ceasy.aac"
       ]
     },
     "languages": [
@@ -3667,8 +3669,8 @@
     "name": "Radio Deejay",
     "sources": {
       "streams": [
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8",
         "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8",
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8",
         "https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8"
       ]
     },
@@ -4049,6 +4051,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "U3eMy3LD2d9Rw1",
+    "name": "Radio Game Firenze",
+    "sources": {
+      "streams": [
+        "https://radiogame.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UuRT1aDFbeDH0C",
     "name": "Radio Gamma",
     "sources": {
@@ -4165,8 +4181,8 @@
     "name": "Radio Globo",
     "sources": {
       "streams": [
-        "https://globo.newradio.it/globorm64",
-        "https://globo.newradio.it/globorm128"
+        "https://globo.newradio.it/globorm128",
+        "https://globo.newradio.it/globorm64"
       ]
     },
     "languages": [
@@ -5342,8 +5358,8 @@
     "name": "Radio Monte Carlo",
     "sources": {
       "streams": [
-        "https://icecast.unitedradio.it/RMC.mp3",
-        "https://icy.unitedradio.it/RMC.aac"
+        "https://icy.unitedradio.it/RMC.aac",
+        "https://icecast.unitedradio.it/RMC.mp3"
       ]
     },
     "languages": [
@@ -5550,6 +5566,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WMR1YUSZXmzyMT",
+    "name": "Radio Nettuno Bologna Uno",
+    "sources": {
+      "streams": [
+        "https://audio6.nemostream.tv/proxy/nettunobologna1ice1/stream"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JAWxdOZoOMptqv",
     "name": "Radio News 24",
     "sources": {
@@ -5568,8 +5598,8 @@
     "name": "Radio Nichelino Comunità",
     "sources": {
       "streams": [
-        "https://icecast.top-ix.org/radionichelino",
-        "https://icecast.top-ix.org:80/radionichelino"
+        "https://icecast.top-ix.org:80/radionichelino",
+        "https://icecast.top-ix.org/radionichelino"
       ]
     },
     "languages": [
@@ -6118,6 +6148,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yi3JdlWDeqPI8P",
+    "name": "Radio Radio",
+    "sources": {
+      "streams": [
+        "https://sr6.inmystream.it:18102/stream"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KPYhAsKIn3Yc5S",
     "name": "Radio Raheem",
     "sources": {
@@ -6220,8 +6264,8 @@
     "name": "Radio Rock",
     "sources": {
       "streams": [
-        "https://rrock.fluidstream.eu/radiorock.aac",
-        "https://onlineradiobox.com/json/it/radiorock/play"
+        "https://onlineradiobox.com/json/it/radiorock/play",
+        "https://rrock.fluidstream.eu/radiorock.aac"
       ]
     },
     "languages": [
@@ -6697,34 +6741,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zdMsMyPoT0Z8RE",
-    "name": "Radio Studio Nord 80 Energia",
-    "sources": {
-      "streams": [
-        "https://nr6.newradio.it:19393/;"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j2vm7OpiKwWl6y",
-    "name": "Radio Studio Nord Rock Cafè",
-    "sources": {
-      "streams": [
-        "https://nr6.newradio.it:19363/;"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7rsrXuarX65sLB",
     "name": "Radio Studio Sicar",
     "sources": {
@@ -7129,8 +7145,8 @@
     "name": "Radio Wombat",
     "sources": {
       "streams": [
-        "https://s.streampunk.cc/wombat.mp3",
-        "https://blimp.streampunk.cc/_stream/wombat.ogg"
+        "https://blimp.streampunk.cc/_stream/wombat.ogg",
+        "https://s.streampunk.cc/wombat.mp3"
       ]
     },
     "languages": [
@@ -7283,6 +7299,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ck6fWxrG8EQMFD",
+    "name": "Radiolina",
+    "sources": {
+      "streams": [
+        "https://streaming.shoutcast.com/radiolina"
+      ]
+    },
+    "languages": [
+      "ita",
+      "srd"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oRbEnGnO7Kkeev",
     "name": "Radionorba",
     "sources": {
@@ -7302,6 +7333,34 @@
     "sources": {
       "streams": [
         "https://stream7.xdevel.com/audio1s975885-1084/stream/icecast.audio"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1UuNNwpYRrK6r6",
+    "name": "Radiorizzonti InBlu",
+    "sources": {
+      "streams": [
+        "https://stream.radiorizzonti.com/orizzonti"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zfws1BddN66Kuq",
+    "name": "Rai Alto Adige",
+    "sources": {
+      "streams": [
+        "https://radiobzlive.rai.it/RAI_AltoAdige"
       ]
     },
     "languages": [
@@ -7504,21 +7563,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sgWLYx07bN2Kr3",
-    "name": "Rai Südtirol",
-    "sources": {
-      "streams": [
-        "https://radiobzlive.rai.it/RAIBZ_Livestream"
-      ]
-    },
-    "languages": [
-      "deu",
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mkz5vMonwVrW1Z",
     "name": "RAM Power",
     "sources": {
@@ -7623,8 +7667,8 @@
     "sources": {
       "streams": [
         "https://icstream.rds.radio/rds64k",
-        "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8",
-        "https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8"
+        "https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8",
+        "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8"
       ]
     },
     "languages": [
@@ -7725,20 +7769,6 @@
     "sources": {
       "streams": [
         "https://reteradioazzurra.radioca.st/stream"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dIg9FyDaYdQIwr",
-    "name": "Rete Sport",
-    "sources": {
-      "streams": [
-        "https://icecast.ithost.it/retesport.ogg"
       ]
     },
     "languages": [
@@ -7951,8 +7981,8 @@
     "name": "Rocket Radio",
     "sources": {
       "streams": [
-        "https://n05.radiojar.com/nvvyes7gud5tv",
-        "https://stream.radiojar.com/nvvyes7gud5tv"
+        "https://stream.radiojar.com/nvvyes7gud5tv",
+        "https://n05.radiojar.com/nvvyes7gud5tv"
       ]
     },
     "languages": [
@@ -8207,8 +8237,8 @@
     "sources": {
       "streams": [
         "https://a2.asurahosting.com:6150/radio.mp3",
-        "https://nrf1.newradio.it:10346/stream",
-        "https://nrf1.newradio.it:10418/stream"
+        "https://nrf1.newradio.it:10418/stream",
+        "https://nrf1.newradio.it:10346/stream"
       ]
     },
     "languages": [
@@ -8684,6 +8714,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xPGw7CtXSJOsrO",
+    "name": "Urban Radio",
+    "sources": {
+      "streams": [
+        "https://nr3.newradio.it:18100/stream"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kmk8vTdaq8j2hs",
     "name": "V2BEAT Radio & TV",
     "sources": {
@@ -8761,8 +8805,8 @@
     "name": "Virgin Radio",
     "sources": {
       "streams": [
-        "https://icecast.unitedradio.it/Virgin.mp3",
-        "https://icy.unitedradio.it/Virgin.mp3"
+        "https://icy.unitedradio.it/Virgin.mp3",
+        "https://icecast.unitedradio.it/Virgin.mp3"
       ]
     },
     "languages": [

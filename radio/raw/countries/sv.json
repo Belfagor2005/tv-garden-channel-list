@@ -98,6 +98,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Zy2HLDOWoOFkai",
+    "name": "Radio ABC 100.1 FM",
+    "sources": {
+      "streams": [
+        "https://streaming.rcs.com.sv/proxy/abc/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i6BSn3RShXwFuP",
     "name": "Radio Astral 102.9 FM",
     "sources": {
@@ -326,22 +340,8 @@
     "name": "Radio Rumba Latina",
     "sources": {
       "streams": [
-        "https://c11.radioboss.fm:8303/stream",
-        "https://c11.radioboss.fm:18303/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j6m67JgPGA8kMX",
-    "name": "Radio Soda 105.3 FM",
-    "sources": {
-      "streams": [
-        "https://streaming.rcs.com.sv/proxy/soda/stream"
+        "https://c11.radioboss.fm:18303/stream",
+        "https://c11.radioboss.fm:8303/stream"
       ]
     },
     "languages": [

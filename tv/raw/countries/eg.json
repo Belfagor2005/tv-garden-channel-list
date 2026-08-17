@@ -130,7 +130,7 @@
     "name": "eXtra news",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Bbccg-9ujf4"
+        "https://www.youtube-nocookie.com/embed/vfr7hKW5k40"
       ]
     },
     "languages": [
@@ -159,6 +159,20 @@
     "sources": {
       "streams": [
         "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zNKcIL8vSfNOiJ",
+    "name": "Mix Hollywood",
+    "sources": {
+      "streams": [
+        "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
       ]
     },
     "languages": [

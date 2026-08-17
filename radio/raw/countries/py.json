@@ -334,8 +334,8 @@
     "name": "Radio Monumental 1080 AM",
     "sources": {
       "streams": [
-        "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
-        "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio"
+        "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
+        "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b"
       ]
     },
     "languages": [
@@ -406,8 +406,8 @@
     "name": "Radio Vibras 92.7 FM",
     "sources": {
       "streams": [
-        "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
-        "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8"
+        "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8",
+        "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
       ]
     },
     "languages": [

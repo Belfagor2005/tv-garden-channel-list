@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "FLJTgXx5Ik6ljh",
-    "name": "Angel TV Chinese",
-    "sources": {
-      "streams": [
-        "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uzMnROBDMiNzKY",
     "name": "Anhui TV",
     "sources": {
@@ -85,20 +71,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fKZLucUhJYe0vc",
-    "name": "CCTV-5+",
-    "sources": {
-      "streams": [
-        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8qbHNd2Zc2MjWY",
     "name": "CCTV-9",
     "sources": {
@@ -150,7 +122,7 @@
         "https://0472.org/hls/cgtn.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BOy2xDU1LC8"
+        "https://www.youtube-nocookie.com/embed/LJgXwC-AKu8"
       ]
     },
     "languages": [
@@ -196,7 +168,7 @@
     "name": "CGTN Europe",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_6dRRfnYJws"
+        "https://www.youtube-nocookie.com/embed/fZqr56lztHw"
       ]
     },
     "languages": [
@@ -226,7 +198,8 @@
     "name": "CGTN Global Biz",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
       ]
     },
     "languages": [
@@ -287,7 +260,8 @@
     "name": "China Travel",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
       ]
     },
     "languages": [
@@ -302,7 +276,8 @@
     "name": "Discovering China",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8"
       ]
     },
     "languages": [
@@ -582,11 +557,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZMTYKvEKk1dmYw",
-    "name": "上虞經濟文化",
+    "nanoid": "2Fb8Um99xfgPRq",
+    "name": "上虞3新商都",
     "sources": {
       "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
       ]
     },
     "languages": [],
@@ -682,12 +657,24 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MFDjU2LUFcM"
+        "https://www.youtube-nocookie.com/embed/z7E3JYEhXno"
       ]
     },
     "languages": [
       "zho"
     ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9wRBNHe95BnBON",
+    "name": "嵊州综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -704,6 +691,30 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "LWZapZpACANZ13",
+    "name": "新昌休闲影视",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4rBoFSFcNpIZxe",
+    "name": "新昌新聞綜合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UKPg4OIuLFiPtH",
     "name": "松原新闻综合",
     "sources": {
@@ -714,18 +725,6 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "THg2ymDAp3wTLF",
-    "name": "河源综合",
-    "sources": {
-      "streams": [
-        "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "q3imX08R99F529",
@@ -757,18 +756,6 @@
     "sources": {
       "streams": [
         "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DGN51eNb7kGHRy",
-    "name": "浙江民生",
-    "sources": {
-      "streams": [
-        "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
       ]
     },
     "languages": [],

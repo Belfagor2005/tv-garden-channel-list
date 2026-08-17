@@ -101,6 +101,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wy0n7nMu8vmDBB",
+    "name": "Leproradio",
+    "sources": {
+      "streams": [
+        "https://live.leproradio.com/bender.ogg"
+      ]
+    },
+    "languages": [
+      "lit"
+    ],
+    "country": "lt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8bSGuqcYrW4jK0",
     "name": "Lietus",
     "sources": {
@@ -217,22 +231,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zfR8RHAFT9b0qI",
-    "name": "Pasaulio muzikos radijas (PMR)",
-    "sources": {
-      "streams": [
-        "https://pmr.lt/streams/pmr-1",
-        "https://pmr.lt/streams/pmr-3",
-        "https://pmr.lt/streams/pmr-4"
-      ]
-    },
-    "languages": [
-      "lit"
-    ],
-    "country": "lt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bzLH14yRYfaTLI",
     "name": "Patejago Radijas",
     "sources": {
@@ -265,8 +263,8 @@
     "name": "Power Hit Radio",
     "sources": {
       "streams": [
-        "https://ice2.powerhitradio.lt/PHR_AAC",
         "https://ice.leviracloud.eu/phr192-mp3",
+        "https://ice2.powerhitradio.lt/PHR_AAC",
         "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv"
       ]
     },
@@ -340,8 +338,8 @@
     "name": "Radiocentras",
     "sources": {
       "streams": [
-        "https://stream2.rockfm.lt/crf128.mp3",
-        "https://stream2.rc.lt/rc128.mp3"
+        "https://stream2.rc.lt/rc128.mp3",
+        "https://stream2.rockfm.lt/crf128.mp3"
       ]
     },
     "languages": [

@@ -47,8 +47,8 @@
     "sources": {
       "streams": [
         "https://22183.live.streamtheworld.com/AFNE_BLX_SC",
-        "https://25453.live.streamtheworld.com/AFNE_BLX_SC",
-        "https://28563.live.streamtheworld.com/AFNE_BLX_SC"
+        "https://27793.live.streamtheworld.com/AFNE_BLX_SC",
+        "https://25453.live.streamtheworld.com/AFNE_BLX_SC"
       ]
     },
     "languages": [
@@ -331,9 +331,9 @@
     "name": "Classic 21",
     "sources": {
       "streams": [
-        "https://radios.rtbf.be/classic21-128.mp3",
         "https://radio.rtbf.be/c21/aac-128/fl",
-        "https://radios.rtbf.be/classic21-64.aac"
+        "https://radios.rtbf.be/classic21-64.aac",
+        "https://radios.rtbf.be/classic21-128.mp3"
       ]
     },
     "languages": [
@@ -686,8 +686,8 @@
     "name": "Fun Radio Belgique",
     "sources": {
       "streams": [
-        "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
-        "https://funradiobe.ice.infomaniak.ch/funradiobe-high"
+        "https://funradiobe.ice.infomaniak.ch/funradiobe-high",
+        "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3"
       ]
     },
     "languages": [
@@ -817,8 +817,8 @@
     "name": "Joe",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
         "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
         "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac"
       ]
     },
@@ -875,8 +875,8 @@
     "name": "Joe Lage Landen",
     "sources": {
       "streams": [
-        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3",
-        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac"
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac",
+        "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3"
       ]
     },
     "languages": [
@@ -948,8 +948,8 @@
     "name": "Klara",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/klara.aac",
-        "https://icecast.vrtcdn.be/klara-high.mp3"
+        "https://icecast.vrtcdn.be/klara-high.mp3",
+        "https://icecast.vrtcdn.be/klara.aac"
       ]
     },
     "languages": [
@@ -963,8 +963,8 @@
     "name": "Klara Continuo",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3",
-        "https://icecast.vrtcdn.be/klaracontinuo.aac"
+        "https://icecast.vrtcdn.be/klaracontinuo.aac",
+        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3"
       ]
     },
     "languages": [
@@ -1449,8 +1449,8 @@
     "name": "Q-Foute Radio",
     "sources": {
       "streams": [
-        "https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac",
-        "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3"
+        "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3",
+        "https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac"
       ]
     },
     "languages": [
@@ -2082,6 +2082,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "raNCNoMtYKnSTs",
+    "name": "Radio Sunshine",
+    "sources": {
+      "streams": [
+        "https://stream.radio-sunshine.info/live"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XvSza0VHtfCyTS",
     "name": "Radio Valencia",
     "sources": {
@@ -2448,13 +2462,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZEHJ02ZCm3eQUt",
+    "name": "Slow Radio",
+    "sources": {
+      "streams": [
+        "https://stream2.slowradio.com/"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "haf1eW0bDillHm",
     "name": "Studio Brussel",
     "sources": {
       "streams": [
+        "https://icecast.vrtcdn.be/stubru.aac",
         "https://icecast.vrtcdn.be/stubru-high.mp3",
-        "https://icecast.vrtcdn.be/stubru-mid.mp3",
-        "https://icecast.vrtcdn.be/stubru.aac"
+        "https://icecast.vrtcdn.be/stubru-mid.mp3"
       ]
     },
     "languages": [
@@ -2511,8 +2539,8 @@
     "name": "Studio Brussel Vuurland",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/stubru_tgs-high.mp3",
-        "https://icecast.vrtcdn.be/stubru_tgs.aac"
+        "https://icecast.vrtcdn.be/stubru_tgs.aac",
+        "https://icecast.vrtcdn.be/stubru_tgs-high.mp3"
       ]
     },
     "languages": [
@@ -2751,9 +2779,9 @@
     "name": "VRT Radio 1",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/radio1.aac",
+        "https://icecast.vrtcdn.be/radio1-high.mp3",
         "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8",
-        "https://icecast.vrtcdn.be/radio1-high.mp3"
+        "https://icecast.vrtcdn.be/radio1-mid.mp3"
       ]
     },
     "languages": [
@@ -2968,6 +2996,20 @@
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3",
         "https://str.topradio.be/zenfm.mp3"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FfF2KBovRT2ATz",
+    "name": "Zoe FM",
+    "sources": {
+      "streams": [
+        "https://icecast.movemedia.be/zoe128"
       ]
     },
     "languages": [

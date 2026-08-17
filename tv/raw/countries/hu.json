@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IAuzwfi3ffN5aQ",
+    "name": "Alfold TV",
+    "sources": {
+      "streams": [
+        "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZTvTYkAMkRF41z",
     "name": "Bajai TV",
     "sources": {
@@ -42,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bjtUkZwN7hFmXK",
-    "name": "Balaton TV",
+    "nanoid": "oh8HdDJ2MJ0IrA",
+    "name": "Budapest Europa Televizio",
     "sources": {
       "streams": [
-        "https://stream.iptvservice.eu/hls/balatontv.m3u8"
+        "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -211,6 +225,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zfJa4qfi7LBJ6S",
+    "name": "M4 Sport",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/80/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ufaYLBxnznSR4O",
     "name": "Mora-Net TV",
     "sources": {
@@ -293,11 +321,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uOI7Fr7hGWDmjp",
-    "name": "TelePaks",
+    "nanoid": "UxOgU5kfFfuxCm",
+    "name": "Tatai TV",
     "sources": {
       "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
+        "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
       ]
     },
     "languages": [

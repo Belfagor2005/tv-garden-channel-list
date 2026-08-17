@@ -85,6 +85,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "OULTM0gM1sr5Ul",
+    "name": "BBC Earth Turkiye",
+    "sources": {
+      "streams": [
+        "https://nord.ayakkabiparti.lol/bbc/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eQ0MWZIQb0YBdg",
     "name": "BBC Earth US",
     "sources": {
@@ -198,7 +212,8 @@
     "name": "China Travel",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
       ]
     },
     "languages": [
@@ -206,6 +221,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -330,7 +359,8 @@
     "name": "Discovering China",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8"
       ]
     },
     "languages": [
@@ -487,6 +517,8 @@
     "name": "History",
     "sources": {
       "streams": [
+        "https://45.177.114.114/HISTORY/index.m3u8",
+        "https://170.83.16.50/HISTORY/index.m3u8",
         "https://45.190.28.50/HISTORY_HD/index.m3u8"
       ]
     },
@@ -501,6 +533,7 @@
     "name": "History 2 Latin America Brazil",
     "sources": {
       "streams": [
+        "https://45.177.114.114/HISTORY_2/index.m3u8",
         "https://45.190.28.50/H2_HD/index.m3u8"
       ]
     },
@@ -511,11 +544,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D0kxX68lMX7LDk",
-    "name": "History East",
+    "nanoid": "OdnRloFb9PVDPW",
+    "name": "History Asia",
     "sources": {
       "streams": [
-        "https://40.160.24.53/HISTORY_CHANNEL/index.m3u8"
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
       ]
     },
     "languages": [
@@ -791,18 +824,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hLMd0T3SoxEtoM",
-    "name": "National Geographic East",
+    "nanoid": "T6sJd0DONpZMP2",
+    "name": "National Geographic",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO/index.m3u8"
+        "https://nord.ayakkabiparti.lol/natgeo/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "tur"
     ],
-    "country": "us",
-    "isGeoBlocked": false
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "g2bTTopTiGfPsS",
@@ -819,18 +852,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pfvOjTL0SzRiOd",
-    "name": "National Geographic Wild East",
+    "nanoid": "nc1DjS7LywoSFc",
+    "name": "National Geographic Wild",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
+        "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "tur"
     ],
-    "country": "us",
-    "isGeoBlocked": false
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "AbcJxYxf3cyf3H",
@@ -861,20 +894,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T0TMY0MmpuHlBC",
-    "name": "Nature Time",
-    "sources": {
-      "streams": [
-        "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "846V8NIrMo8bSl",
     "name": "NatureTime",
     "sources": {
@@ -902,6 +921,20 @@
       "eng"
     ],
     "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T0TMY0MmpuHlBC",
+    "name": "NatureTime UK",
+    "sources": {
+      "streams": [
+        "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -944,20 +977,6 @@
       "fas"
     ],
     "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mFFUoffryCMwcN",
-    "name": "Reelz",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/REELZ/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1131,6 +1150,20 @@
       "bul"
     ],
     "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HU7t21P03xeEXV",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {

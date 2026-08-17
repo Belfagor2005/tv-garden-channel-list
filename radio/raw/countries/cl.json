@@ -318,8 +318,8 @@
     "name": "Distorsión FM",
     "sources": {
       "streams": [
-        "https://tunein.radiomaniacos.cl/distorsion.mp3",
         "https://radioemisoras.cl/distorsion.mp3",
+        "https://tunein.radiomaniacos.cl/distorsion.mp3",
         "https://radioemisoras.cl/distorsion.flac"
       ]
     },
@@ -406,9 +406,9 @@
     "name": "FMDOS",
     "sources": {
       "streams": [
-        "https://29326.live.streamtheworld.com/FMDOSAAC_SC",
-        "https://27343.live.streamtheworld.com/FMDOSAAC_SC",
-        "https://24423.live.streamtheworld.com/FMDOSAAC_SC"
+        "https://23243.live.streamtheworld.com/FMDOSAAC_SC",
+        "https://24413.live.streamtheworld.com/FMDOSAAC_SC",
+        "https://27433.live.streamtheworld.com/FMDOSAAC_SC"
       ]
     },
     "languages": [
@@ -759,6 +759,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CCynMnfag25HdF",
+    "name": "Radio Arcoíris FM",
+    "sources": {
+      "streams": [
+        "https://audio2.tustreaming.cl/7210/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r4zI9S1TjBhR9A",
     "name": "Radio Armonía",
     "sources": {
@@ -787,13 +801,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tzuwJErCNjztZh",
+    "name": "Radio Austral",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/austral.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HOYs7cxRkYZjKm",
     "name": "Radio Beethoven",
     "sources": {
       "streams": [
         "https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio",
-        "https://unlimited5-us.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8",
-        "https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8"
+        "https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8",
+        "https://unlimited5-us.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8"
       ]
     },
     "languages": [
@@ -807,9 +835,9 @@
     "name": "Radio Bío-Bío",
     "sources": {
       "streams": [
-        "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio",
         "https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio",
-        "https://unlimited3-cl.dps.live/biobiovalparaiso/mp3/icecast.audio"
+        "https://unlimited3-cl.dps.live/biobiovalparaiso/mp3/icecast.audio",
+        "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio"
       ]
     },
     "languages": [
@@ -1229,6 +1257,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "r9wuRSBrf0HZwJ",
+    "name": "Radio Del Maipo",
+    "sources": {
+      "streams": [
+        "https://sonic.mallocohosting.cl/8012/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "k2H4oIbUBSmmCV",
     "name": "Radio Destino",
     "sources": {
@@ -1262,9 +1304,9 @@
     "name": "Radio Dulce",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/kc5hofr05tavv",
-        "https://stream.zeno.fm/uftblekcpxguv",
-        "https://stream.zeno.fm/yo6udiulqhbvv"
+        "https://stream.zeno.fm/yo6udiulqhbvv",
+        "https://stream.zeno.fm/bx6zuwssrnjvv",
+        "https://stream.zeno.fm/dzvavezs85ouv"
       ]
     },
     "languages": [
@@ -1661,20 +1703,6 @@
     "sources": {
       "streams": [
         "https://sp.totalstreaming.net:8018/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u3SnXQB7AQ2XL4",
-    "name": "Radio Kurruf",
-    "sources": {
-      "streams": [
-        "https://radio.latina.red/radiokurruf.mp3"
       ]
     },
     "languages": [
@@ -2234,20 +2262,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ywg6zdZlawG2rs",
-    "name": "Radio Tiempo Salvador",
-    "sources": {
-      "streams": [
-        "https://cast235.indax.cl/8024/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CMdulH9uBgJoo3",
     "name": "Radio Tropikal Rancheras",
     "sources": {
@@ -2332,6 +2346,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "p01m43NUArbcGO",
+    "name": "Radio UVM",
+    "sources": {
+      "streams": [
+        "https://streaming1.tecnoera.com:8020/;stream.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1lc1tBfGxUBtNJ",
     "name": "Radio Valentín Letelier",
     "sources": {
@@ -2392,7 +2420,7 @@
     "name": "RadioActiva",
     "sources": {
       "streams": [
-        "https://29326.live.streamtheworld.com/ACTIVA_SC",
+        "https://23243.live.streamtheworld.com/ACTIVA_SC",
         "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3",
         "https://stream.zeno.fm/pvs6hqz3crtvv"
       ]
@@ -2480,9 +2508,9 @@
     "name": "Rock & Pop",
     "sources": {
       "streams": [
-        "https://14073.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
-        "https://24503.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
-        "https://24493.live.streamtheworld.com/ROCK_AND_POPAAC_SC"
+        "https://24283.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+        "https://24413.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+        "https://26573.live.streamtheworld.com/ROCK_AND_POPAAC_SC"
       ]
     },
     "languages": [

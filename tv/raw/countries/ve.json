@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xNO3EJp4mhTrDD",
-    "name": "AS3 Sport TV",
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
     "sources": {
       "streams": [
-        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+        "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -28,11 +28,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4OE4ZIp6ZfzmtV",
-    "name": "Audaz TV",
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
     "sources": {
       "streams": [
-        "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
+        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -89,34 +89,6 @@
     "sources": {
       "streams": [
         "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1GpRDoekUac7eR",
-    "name": "Canal I",
-    "sources": {
-      "streams": [
-        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fUuKAKoxR67afP",
-    "name": "Canal Once",
-    "sources": {
-      "streams": [
-        "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
       ]
     },
     "languages": [
@@ -210,6 +182,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QQi0FMbNByIzUs",
     "name": "LaPuraCrema Television",
     "sources": {
@@ -285,34 +271,6 @@
     "sources": {
       "streams": [
         "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tbGxevqWx6uLGr",
-    "name": "Maxima TV",
-    "sources": {
-      "streams": [
-        "https://maximatv.net/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4vAoi7DUnPi0Mm",
-    "name": "Onza TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8"
       ]
     },
     "languages": [
@@ -522,20 +480,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
-    "sources": {
-      "streams": [
-        "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IMxxuZcthSxVVc",
     "name": "Tu TV",
     "sources": {
@@ -569,20 +513,6 @@
     "sources": {
       "streams": [
         "https://servilive.com:3562/live/vav4c8z38live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XdOMLij5yy08uC",
-    "name": "TVM para ti",
-    "sources": {
-      "streams": [
-        "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
       ]
     },
     "languages": [

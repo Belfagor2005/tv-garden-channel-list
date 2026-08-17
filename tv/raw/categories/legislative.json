@@ -130,7 +130,8 @@
     "name": "Canal Gov",
     "sources": {
       "streams": [
-        "https://canalgov-stream.ebc.com.br/index.m3u8"
+        "https://canalgov-stream.ebc.com.br/index.m3u8",
+        "https://168.197.104.22/TV_BRASIL_2/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/nqfph9USEYA"
@@ -154,20 +155,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zjs8fScsFVoj7q",
-    "name": "Canal Parlamento del Congreso de Jalisco",
-    "sources": {
-      "streams": [
-        "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -386,7 +373,7 @@
     "name": "Congreso del Perú en Vivo",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XpwgNS0zKlQ"
+        "https://www.youtube-nocookie.com/embed/uNHXS0OEuKg"
       ]
     },
     "languages": [
@@ -791,20 +778,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lvIrwQpUaM4Bib",
-    "name": "KTV",
-    "sources": {
-      "streams": [
-        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QCanIPPvtrIdKY",
     "name": "Lake Havasu City 4",
     "sources": {
@@ -837,27 +810,12 @@
     "name": "Legislative Assembly of Ontario",
     "sources": {
       "streams": [
-        "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
         "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
       ]
     },
     "languages": [
       "eng",
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "sources": {
-      "streams": [
-        "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1187,20 +1145,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TGxMGkMiPXHlY0",
-    "name": "Rio TV Câmara",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/vbBYCCnU9Yc"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "sources": {
@@ -1337,7 +1281,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/p7PGeae6qq8"
+        "https://www.youtube-nocookie.com/embed/o2EXI6LsOBQ"
       ]
     },
     "languages": [
@@ -1367,7 +1311,7 @@
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
         "https://45.190.28.50/TV_CAMARA/index.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8"
+        "https://186.219.52.187/tv_camara/index.m3u8"
       ]
     },
     "languages": [
@@ -1417,6 +1361,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "veywE9r1ITeufF",
+    "name": "TV Legislativa",
+    "sources": {
+      "streams": [
+        "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
     "isGeoBlocked": false
   },
   {

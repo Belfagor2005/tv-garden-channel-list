@@ -480,20 +480,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "cz0NSemk409jgG",
-    "name": "NOOS TV",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OgYe6u4a9Y8YAf",
     "name": "Omroep Brabant",
     "sources": {
@@ -564,20 +550,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hk7PXKEYotjuny",
-    "name": "Omroep Hoeksche Waard",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Es6l1ExFTcGD0U",
     "name": "Omroep Land van Cuijk",
     "sources": {
@@ -597,20 +569,6 @@
     "sources": {
       "streams": [
         "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Mgcwl4ZNsvp5P5",
-    "name": "Omroep Peelrand",
-    "sources": {
-      "streams": [
-        "https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -978,6 +936,20 @@
     "sources": {
       "streams": [
         "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MOZ6D8VfrxOi60",
+    "name": "RTV Purmerend",
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8"
       ]
     },
     "languages": [

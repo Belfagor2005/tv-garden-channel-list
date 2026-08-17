@@ -211,20 +211,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ikktOdYS7Y2w0s",
-    "name": "Sitha FM",
-    "sources": {
-      "streams": [
-        "https://shaincast.caster.fm:48148/listen.mp3"
-      ]
-    },
-    "languages": [
-      "sin"
-    ],
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yhdhWrEg2l5QMT",
     "name": "Siyatha FM",
     "sources": {
@@ -234,6 +220,20 @@
     },
     "languages": [
       "sin"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRs2glVUso7M2f",
+    "name": "Star FM",
+    "sources": {
+      "streams": [
+        "https://stream.starfm.lk:12025/stream"
+      ]
+    },
+    "languages": [
+      "tam"
     ],
     "country": "lk",
     "isGeoBlocked": false

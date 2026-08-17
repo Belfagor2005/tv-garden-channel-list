@@ -259,8 +259,8 @@
     "name": "Joint Radio Beat",
     "sources": {
       "streams": [
-        "https://star.jointil.net/proxy/jrn_beat",
-        "https://jointil.com/stream-beat"
+        "https://jointil.com/stream-beat",
+        "https://star.jointil.net/proxy/jrn_beat"
       ]
     },
     "languages": [
@@ -274,8 +274,8 @@
     "name": "Joint Radio Blues",
     "sources": {
       "streams": [
-        "https://jointil.com/stream-blues",
-        "https://star.jointil.net/proxy/jrn_blues"
+        "https://star.jointil.net/proxy/jrn_blues",
+        "https://jointil.com/stream-blues"
       ]
     },
     "languages": [
@@ -934,6 +934,20 @@
     "languages": [
       "eng",
       "rus"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4MPDInpZK5piHd",
+    "name": "Teder FM",
+    "sources": {
+      "streams": [
+        "https://radio.streamgates.net/stream/teder"
+      ]
+    },
+    "languages": [
+      "heb"
     ],
     "country": "il",
     "isGeoBlocked": false

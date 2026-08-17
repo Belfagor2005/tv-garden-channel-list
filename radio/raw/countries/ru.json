@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aUMh8viP1ToaIg",
-    "name": "32 Радио",
-    "sources": {
-      "streams": [
-        "https://online.guberniya.tv:8443/32radio"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YqrWu1OSznbVcp",
     "name": "50 Festival Radio",
     "sources": {
@@ -98,56 +84,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GeXbrls0xp8NNv",
-    "name": "90-е Россия",
-    "sources": {
-      "streams": [
-        "https://stream.pcradio.ru/nineties_rus_pcradio-hi"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XtlPidxfXwdAmt",
     "name": "90RU",
     "sources": {
       "streams": [
         "https://stream.pcradio.ru/ru90pcradio-hi"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z83T5sEn8DrxEc",
-    "name": "101.ru - Big Room",
-    "sources": {
-      "streams": [
-        "https://pub0302.101.ru:8443/stream/trust/mp3/128/220"
-      ]
-    },
-    "languages": [
-      "deu",
-      "eng",
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kU7qLbpXSonNQe",
-    "name": "101.ru - Enigma",
-    "sources": {
-      "streams": [
-        "https://pub0302.101.ru:8443/stream/pro/aac/64/175",
-        "https://stream.dar.fm/125334"
       ]
     },
     "languages": [
@@ -186,22 +127,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vsiiAtn0sOPA3J",
-    "name": "101.ru - Modern Talking",
-    "sources": {
-      "streams": [
-        "https://pub0301.101.ru:8443/stream/pro/aac/64/115",
-        "https://stream.dar.fm/119941"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pkxQo89B5lp1M1",
     "name": "101.ru - Mylene Farmer",
     "sources": {
@@ -226,20 +151,6 @@
     },
     "languages": [
       "eng",
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zPEH5rDnrJvB23",
-    "name": "101.ru - Russian Dance",
-    "sources": {
-      "streams": [
-        "https://pub0302.101.ru:8443/stream/trust/mp3/128/17"
-      ]
-    },
-    "languages": [
       "rus"
     ],
     "country": "ru",
@@ -304,40 +215,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uJrKk1u864zc6t",
-    "name": "101.ru - День Победы",
-    "sources": {
-      "streams": [
-        "https://pub0302.101.ru:8443/stream/pro/aac/64/178"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7fhF1iTJU7Gx9i",
-    "name": "101.ru - Дискотека 80",
-    "sources": {
-      "streams": [
-        "https://pub0302.101.ru:8443/stream/pro/aac/64/1"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5JSSk8BvyHePV0",
     "name": "101.ru - Любэ",
     "sources": {
       "streams": [
-        "https://pub0202.101.ru:8443/stream/pro/aac/64/158",
         "https://pub0101.101.ru/stream/pro/aac/64/158"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zA7CjmRdz2RFc5",
+    "name": "101.ru - Михаил Боярский",
+    "sources": {
+      "streams": [
+        "https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/1786150"
       ]
     },
     "languages": [
@@ -367,20 +263,6 @@
     "sources": {
       "streams": [
         "https://srv01.gpmradio.ru:8443/stream/pro/aac/64/106"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AP14wyVIe6ewr2",
-    "name": "101.ru: Прикосновение",
-    "sources": {
-      "streams": [
-        "https://pub0202.101.ru:8443/stream/trust/mp3/128/196"
       ]
     },
     "languages": [
@@ -649,8 +531,8 @@
     "name": "Best FM",
     "sources": {
       "streams": [
-        "https://nashe1.hostingradio.ru/best-128.mp3",
-        "https://nashe.streamr.ru/best-128.mp3"
+        "https://nashe.streamr.ru/best-128.mp3",
+        "https://nashe1.hostingradio.ru/best-128.mp3"
       ]
     },
     "languages": [
@@ -866,8 +748,8 @@
     "name": "Cassiopeia Station (Наука)",
     "sources": {
       "streams": [
-        "https://stream.cassiopeia-station.ru:5125/stream",
         "https://stream.cassiopeia-station.ru:1240/stream",
+        "https://stream.cassiopeia-station.ru:5125/stream",
         "https://stream.cassiopeia-station.ru:1095/stream"
       ]
     },
@@ -1454,20 +1336,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5HawJN3ODxCZsk",
-    "name": "DFM Dance Gold 2010s",
-    "sources": {
-      "streams": [
-        "https://dfm-dancegold10.hostingradio.ru/dancegold1096.aacp"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "p2A1QCoVLXIf3s",
     "name": "DFM Dance Gold 2020s",
     "sources": {
@@ -1693,6 +1561,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2OpTmWop4erJcD",
+    "name": "DFM Кемерово 101.8 FM",
+    "sources": {
+      "streams": [
+        "https://online2.gkvr.ru:8001/dfm_kem_64.aac"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VLMNppsY5eXjvT",
     "name": "DFM Ростов-на-Дону 104.6 FM",
     "sources": {
@@ -1801,6 +1683,20 @@
     },
     "languages": [
       "eng",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "708SXApF4OBuUr",
+    "name": "Drumfunk.ru",
+    "sources": {
+      "streams": [
+        "https://ice.drumfunk.ru:8050/on.mp3"
+      ]
+    },
+    "languages": [
       "rus"
     ],
     "country": "ru",
@@ -2053,8 +1949,8 @@
     "name": "Grand FM",
     "sources": {
       "streams": [
-        "https://grandfm.ru:8005/radio",
-        "https://grandfm.ru:8000/radio"
+        "https://grandfm.ru:8000/radio",
+        "https://grandfm.ru:8005/radio"
       ]
     },
     "languages": [
@@ -2102,6 +1998,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sDqWti2VyDMqKG",
+    "name": "Humor FM",
+    "sources": {
+      "streams": [
+        "https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
     ],
     "country": "ru",
     "isGeoBlocked": false
@@ -2334,20 +2244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AXkFTxUE2lLzkO",
-    "name": "Like FM",
-    "sources": {
-      "streams": [
-        "https://srv21.gpmradio.ru:8443/stream/air/aac/64/219"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9sAbZ0oVReTtzE",
     "name": "Love Radio",
     "sources": {
@@ -2519,20 +2415,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "loWIy5Fkr53SfT",
-    "name": "Mixadance FM - Jazz",
-    "sources": {
-      "streams": [
-        "https://stream.mixadance.fm/mixadancejazz"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UHcGC1q9Ej4cMk",
     "name": "Mixadance FM - Relax",
     "sources": {
@@ -2650,6 +2532,20 @@
     "sources": {
       "streams": [
         "https://a7.radioheart.ru:8044/newageradio"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZCZPbRX7u6rUhX",
+    "name": "New Wave Radio",
+    "sources": {
+      "streams": [
+        "https://stream.radionv.ru:4175/stream"
       ]
     },
     "languages": [
@@ -2916,8 +2812,8 @@
     "name": "PromoDJ - Nu",
     "sources": {
       "streams": [
-        "https://radio.promodj.com/toonu-192",
-        "https://radio.promodj.com/nu-192"
+        "https://radio.promodj.com/nu-192",
+        "https://radio.promodj.com/toonu-192"
       ]
     },
     "languages": [
@@ -2952,6 +2848,20 @@
     },
     "languages": [
       "eng",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AWJ8w8MQWZ1Pfe",
+    "name": "PromoDJ - Trance",
+    "sources": {
+      "streams": [
+        "https://radio.promodj.com/fullmoon-192"
+      ]
+    },
+    "languages": [
       "rus"
     ],
     "country": "ru",
@@ -3035,8 +2945,8 @@
     "name": "Radio Art City",
     "sources": {
       "streams": [
-        "https://myradio24.org/artcity",
-        "https://listen7.myradio24.com/artcity"
+        "https://listen7.myradio24.com/artcity",
+        "https://myradio24.org/artcity"
       ]
     },
     "languages": [
@@ -3193,9 +3103,9 @@
     "name": "Radio Dacha",
     "sources": {
       "streams": [
-        "https://stream2.n340.com/12_dacha_64_reg_1093",
-        "https://listen13.vdfm.ru:8000/dacha",
-        "https://stream2.n340.com/12_dacha_28_reg_316"
+        "https://stream2.n340.com/12_dacha_28_reg_316",
+        "https://stream.n340.com/14_dacha_64",
+        "https://stream2.n340.com/12_dacha_64_reg_1093"
       ]
     },
     "languages": [
@@ -3307,8 +3217,8 @@
     "name": "Radio Gameplay",
     "sources": {
       "streams": [
-        "https://c22.radioboss.fm:8144/GamePlay",
-        "https://c22.radioboss.fm:18144/GamePlay"
+        "https://c22.radioboss.fm:18144/GamePlay",
+        "https://c22.radioboss.fm:8144/GamePlay"
       ]
     },
     "languages": [
@@ -3431,6 +3341,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1L6Jq0NIJRBQs4",
+    "name": "Radio Maximum - Beats & Riffs",
+    "sources": {
+      "streams": [
+        "https://maximum-erock.hostingradio.ru/maxerock96.aacp"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DSEYOIvtD2Bcfu",
     "name": "Radio Maximum - Britpop",
     "sources": {
@@ -3466,21 +3391,6 @@
     "sources": {
       "streams": [
         "https://depechemode.hostingradio.ru/depechemode96.aacp"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bxc3O5yYoQwecR",
-    "name": "Radio Maximum - Emo",
-    "sources": {
-      "streams": [
-        "https://maximum-dark.hostingradio.ru/maxdark96.aacp"
       ]
     },
     "languages": [
@@ -3685,6 +3595,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gztpmhw5aJNHva",
+    "name": "Radio Maximum - Rock Hits",
+    "sources": {
+      "streams": [
+        "https://rockhits.hostingradio.ru/rockhits96.aacp"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s21SD3g9rMp9dH",
     "name": "Radio Maximum - Rugby",
     "sources": {
@@ -3748,9 +3673,9 @@
     "name": "Radio Minor",
     "sources": {
       "streams": [
-        "https://radiominor.ru:8443/radiominor_ru_indie.mp3",
+        "https://radiominor.ru:8443/radiominor_ru_rurock.mp3",
         "https://radiominor.ru:8443/192khz.mp3",
-        "https://radiominor.ru:8443/radiominor_ru_rurock.mp3"
+        "https://radiominor.ru:8443/radiominor_ru_indie.mp3"
       ]
     },
     "languages": [
@@ -4136,7 +4061,7 @@
       "streams": [
         "https://air.unmixed.ru/record320",
         "https://radio-srv1.11one.ru/record192k.mp3",
-        "https://radiorecord.hostingradio.ru/rr_main96.aacp"
+        "https://radio-srv1.11one.ru/rec64k"
       ]
     },
     "languages": [
@@ -4979,11 +4904,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jHtK4Bq9ZrVUAo",
-    "name": "Radio Romantika",
+    "nanoid": "tBGL8lvaYR6yLy",
+    "name": "Radio Romantika - Piano Covers",
     "sources": {
       "streams": [
-        "https://pub0202.101.ru:8443/stream/air/aac/64/101"
+        "https://pub0201.101.ru:8443/stream/pro/aac/64/375"
       ]
     },
     "languages": [
@@ -4993,11 +4918,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tBGL8lvaYR6yLy",
-    "name": "Radio Romantika - Piano Covers",
+    "nanoid": "Z6wXsx0xRL4Jsa",
+    "name": "Radio Seva",
     "sources": {
       "streams": [
-        "https://pub0201.101.ru:8443/stream/pro/aac/64/375"
+        "https://seva.ru/radio/stream"
       ]
     },
     "languages": [
@@ -5096,8 +5021,8 @@
     "name": "Radio Tourist",
     "sources": {
       "streams": [
-        "https://n11.radiojar.com/av2rrf6547zuv",
-        "https://stream.radiojar.com/av2rrf6547zuv"
+        "https://stream.radiojar.com/av2rrf6547zuv",
+        "https://n11.radiojar.com/av2rrf6547zuv"
       ]
     },
     "languages": [
@@ -5106,6 +5031,20 @@
       "rus",
       "tur",
       "ukr"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p0qzWZoXtcDzU0",
+    "name": "Radio Ulitka",
+    "sources": {
+      "streams": [
+        "https://radioulitka.ru/mount"
+      ]
+    },
+    "languages": [
+      "rus"
     ],
     "country": "ru",
     "isGeoBlocked": false
@@ -5532,34 +5471,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PdwyObTqKEqOcv",
-    "name": "Relax FM",
-    "sources": {
-      "streams": [
-        "https://pub0302.101.ru:8443/stream/air/aac/64/200"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AOp6DearVOw993",
-    "name": "Relax FM - Lo-Fi",
-    "sources": {
-      "streams": [
-        "https://pub0202.101.ru:8443/stream/pro/aac/64/358"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f0XXJ5FyOH1Qt3",
     "name": "Relax FM Chillout",
     "sources": {
@@ -5615,20 +5526,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7vJTOn0tJnSVmf",
-    "name": "Relax FM Latino",
-    "sources": {
-      "streams": [
-        "https://pub0302.101.ru:8443/stream/trust/mp3/128/265"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v5vsT3pY8hTWdl",
     "name": "Relax FM Lo-Fi",
     "sources": {
@@ -5647,7 +5544,6 @@
     "name": "Relax FM Smooth Jazz",
     "sources": {
       "streams": [
-        "https://pub0202.101.ru:8443/stream/trust/mp3/128/31",
         "https://pub0201.101.ru/stream/trust/mp3/128/31"
       ]
     },
@@ -6413,8 +6309,8 @@
     "sources": {
       "streams": [
         "https://channel_3.waveani.fun/stream",
-        "https://channel_2.waveani.fun/stream",
-        "https://channel_1.waveani.fun/stream"
+        "https://channel_1.waveani.fun/stream",
+        "https://channel_2.waveani.fun/stream"
       ]
     },
     "languages": [
@@ -6581,34 +6477,6 @@
     "sources": {
       "streams": [
         "https://online2.gkvr.ru:8001/avtoradio_mzd_64.aac"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pLqLgvRUZS1DmO",
-    "name": "Авторадио: Дискотека 90-х",
-    "sources": {
-      "streams": [
-        "https://pub0202.101.ru:8443/stream/pro/aac/64/74"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3Eqc30Wcp7w2DI",
-    "name": "Авторадио: Зарубежный Рок",
-    "sources": {
-      "streams": [
-        "https://srv12.gpmradio.ru:8443/stream/pro/aac/64/160"
       ]
     },
     "languages": [
@@ -7255,8 +7123,8 @@
     "sources": {
       "streams": [
         "https://dorognoe.hostingradio.ru:8000/radio",
-        "https://dorognoe.hostingradio.ru/dorognoe",
-        "https://dorognoe.hostingradio.ru/dorognoe_acc"
+        "https://dorognoe.hostingradio.ru/dorognoe_acc",
+        "https://dorognoe.hostingradio.ru:8000/dorognoe"
       ]
     },
     "languages": [
@@ -7550,8 +7418,8 @@
     "name": "Европа Плюс",
     "sources": {
       "streams": [
-        "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
         "https://ep128server.streamr.ru:8030/ep128",
+        "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
         "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8"
       ]
     },
@@ -8503,6 +8371,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rUrMdqqWfjUI89",
+    "name": "Матур Радио",
+    "sources": {
+      "streams": [
+        "https://radio.matur-tv.ru/radio/radio-mp3-128k"
+      ]
+    },
+    "languages": [
+      "bak",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LH2C5qY0aJoUql",
     "name": "Межзвездное Радио Кассиопея",
     "sources": {
@@ -8970,20 +8853,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b2JWmbGDl8UGIf",
-    "name": "Первое Радио Кубани",
-    "sources": {
-      "streams": [
-        "https://stream.pervoe.fm:8443/"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XDZgSADoPeQFIY",
     "name": "Первое Сетевое 104.2 FM",
     "sources": {
@@ -9258,9 +9127,9 @@
     "name": "Радио DFM",
     "sources": {
       "streams": [
-        "https://dfm-basshouse.hostingradio.ru/basshouse96.aacp",
         "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
-        "https://dfm.hostingradio.ru/dfm96.aacp"
+        "https://dfm-basshouse.hostingradio.ru/basshouse96.aacp",
+        "https://dfm.hostingradio.ru/dfm128.mp3"
       ]
     },
     "languages": [
@@ -9332,7 +9201,7 @@
       "streams": [
         "https://nashe1.hostingradio.ru/jazz-256",
         "https://jazz.streamr.ru/jazz-128.mp3",
-        "https://main.hostingradio.ru:80/jazz-128.mp3"
+        "https://main.hostingradio.ru/jazz-128.mp3"
       ]
     },
     "languages": [
@@ -9346,8 +9215,8 @@
     "name": "Радио Maximum",
     "sources": {
       "streams": [
-        "https://maximum.hostingradio.ru/maximum96.aacp",
-        "https://maximum.hostingradio.ru/maximum128.mp3"
+        "https://maximum.hostingradio.ru/maximum128.mp3",
+        "https://maximum.hostingradio.ru/maximum96.aacp"
       ]
     },
     "languages": [
@@ -9387,20 +9256,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rpkGHr3RWjPzND",
-    "name": "Радио Romantika",
-    "sources": {
-      "streams": [
-        "https://srv12.gpmradio.ru:8443/stream/air/aac/64/101"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S2WgRbOrJZjbng",
     "name": "Радио Sputnik",
     "sources": {
@@ -9422,7 +9277,7 @@
       "streams": [
         "https://nashe1.hostingradio.ru/ultra-256",
         "https://nashe1.hostingradio.ru/ultra-128.mp3",
-        "https://nashe1.hostingradio.ru/ultra-192.mp3"
+        "https://nashe2.hostingradio.ru/ultra-128.mp3"
       ]
     },
     "languages": [
@@ -9610,6 +9465,20 @@
     },
     "languages": [
       "bak",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3QTev23mvlJQlR",
+    "name": "Радио Бархат",
+    "sources": {
+      "streams": [
+        "https://radio.albrin.online:9000/nonstop"
+      ]
+    },
+    "languages": [
       "rus"
     ],
     "country": "ru",
@@ -9929,8 +9798,8 @@
     "name": "Радио Гусь",
     "sources": {
       "streams": [
-        "https://stream.radiogoose.ru:8000/play",
-        "https://stream.radiogoose.ru/listen/radiogoose/play"
+        "https://stream.radiogoose.ru/listen/radiogoose/play",
+        "https://stream.radiogoose.ru:8000/play"
       ]
     },
     "languages": [
@@ -10196,8 +10065,8 @@
     "name": "Радио Двухтысячных",
     "sources": {
       "streams": [
-        "https://air.radio2000x.com:8000/stream",
-        "https://air.radio2000x.com:8005/stream"
+        "https://air.radio2000x.com:8005/stream",
+        "https://air.radio2000x.com:8000/stream"
       ]
     },
     "languages": [
@@ -10267,8 +10136,8 @@
     "name": "Радио ЗВЕЗДА",
     "sources": {
       "streams": [
-        "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128",
-        "https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128"
+        "https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128",
+        "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128"
       ]
     },
     "languages": [
@@ -10425,20 +10294,6 @@
     "sources": {
       "streams": [
         "https://kpradio.hostingradio.ru:8000/habarovsk.radiokp64.mp3"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tgdbC0gtGLS81s",
-    "name": "Радио Комсомольская Правда 89.8 FM",
-    "sources": {
-      "streams": [
-        "https://kpradio.hostingradio.ru:8000/rostov.radiokp128.mp3"
       ]
     },
     "languages": [
@@ -10776,9 +10631,7 @@
     "name": "Радио Мелодия",
     "sources": {
       "streams": [
-        "https://stream.salyutfm.ru:4020/stream",
-        "https://stream128.melodiafm.spb.ru:8000/melodia128",
-        "https://stream64.melodiafm.spb.ru:8000/melodia64"
+        "https://stream.salyutfm.ru:4020/stream"
       ]
     },
     "languages": [
@@ -10975,6 +10828,7 @@
     "name": "Радио Новая Жизнь",
     "sources": {
       "streams": [
+        "https://nlradio.stream/hifi",
         "https://nlradio.net/stream/nlradio-low.aac"
       ]
     },
@@ -11073,9 +10927,9 @@
     "name": "Радио Орфей",
     "sources": {
       "streams": [
+        "https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3",
         "https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3",
-        "https://orfeyfm.hostingradio.ru:8034/orfeyfm64.mp3",
-        "https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3"
+        "https://orfeyfm.hostingradio.ru:8034/orfeyfm64.mp3"
       ]
     },
     "languages": [
@@ -11226,20 +11080,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7LOsgoRGM7lJtG",
-    "name": "Радио Портал",
-    "sources": {
-      "streams": [
-        "https://icecast-ext.dimfm.ru/portal"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yfXpT45VPPtHDs",
     "name": "Радио Прибой",
     "sources": {
@@ -11259,6 +11099,20 @@
     "sources": {
       "streams": [
         "https://station.waveradio.org/provodach"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JTsm2MMCY76eeD",
+    "name": "Радио Пурга",
+    "sources": {
+      "streams": [
+        "https://radiostream.chukotnet.ru/RadioPurga_48"
       ]
     },
     "languages": [
@@ -11583,6 +11437,20 @@
     "sources": {
       "streams": [
         "https://stream.salyutfm.ru:8000/stream"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3eJ0dvbc6Ss7VQ",
+    "name": "Радио Самопознание",
+    "sources": {
+      "streams": [
+        "https://radio.albrin.online:8001/nonstop"
       ]
     },
     "languages": [
@@ -12306,7 +12174,7 @@
       "streams": [
         "https://retro70.hostingradio.ru:8025/retro70-128.mp3",
         "https://hls-01-retro70.emgsound.ru/1/32/playlist.m3u8",
-        "https://hls-01-retro70.emgsound.ru/1/64/playlist.m3u8"
+        "https://hls-01-retro70.emgsound.ru/1/128/playlist.m3u8"
       ]
     },
     "languages": [
@@ -12352,7 +12220,7 @@
       "streams": [
         "https://retro90.hostingradio.ru:8025/retro90-128.mp3",
         "https://hls-01-retro90.emgsound.ru/3/32/playlist.m3u8",
-        "https://hls-01-retro90.emgsound.ru/3/128/playlist.m3u8"
+        "https://hls-01-retro90.emgsound.ru/3/64/playlist.m3u8"
       ]
     },
     "languages": [
@@ -12551,8 +12419,8 @@
     "sources": {
       "streams": [
         "https://emgspb.hostingradio.ru/retrofmspb128.mp3",
-        "https://hls-01-retro.emgsound.ru/12/192/playlist.m3u8",
-        "https://hls-01-retro.emgsound.ru/12/32/playlist.m3u8"
+        "https://hls-01-retro.emgsound.ru/12/32/playlist.m3u8",
+        "https://hls-01-retro.emgsound.ru/12/64/playlist.m3u8"
       ]
     },
     "languages": [
@@ -12566,8 +12434,8 @@
     "name": "Ретро FM: Вечеринка",
     "sources": {
       "streams": [
-        "https://hls-01-retro-vecherinka.emgsound.ru/20/32/playlist.m3u8",
         "https://hls-01-retro-vecherinka.emgsound.ru/20/128/playlist.m3u8",
+        "https://hls-01-retro-vecherinka.emgsound.ru/20/32/playlist.m3u8",
         "https://hls-01-retro-vecherinka.emgsound.ru/20/64/playlist.m3u8"
       ]
     },
@@ -12679,20 +12547,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "stAx5JjIv7Y2Pz",
-    "name": "Россия 90-х",
-    "sources": {
-      "streams": [
-        "https://pub0202.101.ru:8443/stream/pro/aac/64/33"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gV7w8oCTJYlV3H",
     "name": "Руки Вверх!",
     "sources": {
@@ -12784,7 +12638,7 @@
       "streams": [
         "https://air2.volna.top/RusHit-MSK",
         "https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_19_ruhit_64_reg_1",
-        "https://stream2.n340.com/19_ruhit_24_reg_1"
+        "https://stream.n340.com/19_ruhit_24"
       ]
     },
     "languages": [
@@ -12899,20 +12753,6 @@
     "sources": {
       "streams": [
         "https://broadcast.osetiafm.ru/rr.mp3"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fzNyywatXSkXMw",
-    "name": "Русское Радио Rock Fam",
-    "sources": {
-      "streams": [
-        "https://rr-rockfam.hostingradio.ru/rockfam96.aacp"
       ]
     },
     "languages": [
@@ -13374,8 +13214,8 @@
     "name": "Соловьёв FM",
     "sources": {
       "streams": [
-        "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
-        "https://solovievfm.hostingradio.ru/solovievfm128.aacp"
+        "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
+        "https://solovievfm.hostingradio.ru/solovievfm32.aacp"
       ]
     },
     "languages": [
@@ -13654,21 +13494,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5EoD3gzITboHuL",
-    "name": "Умное Радио 107.0 FM",
-    "sources": {
-      "streams": [
-        "https://radio.sarov.info:8010/clever-radio",
-        "https://radio.sarov.info/radio/8010/clever-radio"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Sxi6iHyonzHvp5",
     "name": "ФМ-на-Дону 100.7 FM",
     "sources": {
@@ -13701,8 +13526,8 @@
     "name": "Хит FM",
     "sources": {
       "streams": [
-        "https://hitfm.hostingradio.ru/hitfm128.mp3",
-        "https://hitfm.hostingradio.ru/hitfm96.aacp"
+        "https://hitfm.hostingradio.ru/hitfm96.aacp",
+        "https://hitfm.hostingradio.ru/hitfm128.mp3"
       ]
     },
     "languages": [
@@ -13895,20 +13720,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6mlPFGc5ugSuAw",
-    "name": "Чиж и Co",
-    "sources": {
-      "streams": [
-        "https://stream.pcradio.ru/chizh_i_ko-hi"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K9NyAgDZlXQIFS",
     "name": "Читаем Евангелие (ЦСЯ)",
     "sources": {
@@ -14012,8 +13823,8 @@
     "name": "Эхо",
     "sources": {
       "streams": [
-        "https://noasrv.caster.fm:10034/stream",
-        "https://i1.echofm.online:8443/stream"
+        "https://i1.echofm.online:8443/stream",
+        "https://noasrv.caster.fm:10034/stream"
       ]
     },
     "languages": [
@@ -14116,20 +13927,6 @@
     },
     "languages": [
       "eng",
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w1RmtfFvNLhacz",
-    "name": "Яхт-Радио: Старый Маяк",
-    "sources": {
-      "streams": [
-        "https://yacht-radio.lv:1175/stream"
-      ]
-    },
-    "languages": [
       "rus"
     ],
     "country": "ru",

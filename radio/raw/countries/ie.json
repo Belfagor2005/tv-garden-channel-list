@@ -259,8 +259,7 @@
     "name": "Dublin's FM104",
     "sources": {
       "streams": [
-        "https://onic.dublin.live.stream.broadcasting.news/stream-fm104",
-        "https://wg.cdn.tibus.net/fm104MP3128"
+        "https://onic.dublin.live.stream.broadcasting.news/stream-fm104"
       ]
     },
     "languages": [
@@ -275,20 +274,6 @@
     "sources": {
       "streams": [
         "https://onic.dublin.live.stream.broadcasting.news/stream-q102"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SLsvMkxePtUay1",
-    "name": "Dublin's Q102 80s",
-    "sources": {
-      "streams": [
-        "https://wg.cdn.tibus.net/Q10280s"
       ]
     },
     "languages": [
@@ -482,20 +467,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zbh5N9QzxUVbYV",
-    "name": "LMFM Country Express",
-    "sources": {
-      "streams": [
-        "https://gbradio.cdn.tibus.net/LMFMCountry"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "O5lMdoQyby1khN",
     "name": "Loughrea Community Radio",
     "sources": {
@@ -515,8 +486,8 @@
     "sources": {
       "streams": [
         "https://direct.sharp-stream.com/midwestfmie.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac"
       ]
     },
     "languages": [
@@ -573,6 +544,20 @@
     "sources": {
       "streams": [
         "https://sc.mpbnl.nl/radio2.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hMY5FdH2Fck6FH",
+    "name": "MPB Radio 2 90s & 00s",
+    "sources": {
+      "streams": [
+        "https://sc.mpbnl.nl/radio2-90s00s.mp3"
       ]
     },
     "languages": [
@@ -944,8 +929,8 @@
     "name": "RTÉ 2fm",
     "sources": {
       "streams": [
-        "https://icecast2.rte.ie/ie2fm",
-        "https://icecast.rte.ie/2fm"
+        "https://icecast.rte.ie/2fm",
+        "https://icecast2.rte.ie/ie2fm"
       ]
     },
     "languages": [
@@ -987,9 +972,9 @@
     "name": "RTÉ Radio 1",
     "sources": {
       "streams": [
-        "https://icecast.rte.ie/radio1",
         "https://icecast1.rte.ie/radio1",
-        "https://icecast.rte.ie/ieradio1"
+        "https://icecast.rte.ie/ieradio1",
+        "https://icecast.rte.ie/radio1"
       ]
     },
     "languages": [
@@ -1061,9 +1046,9 @@
     "name": "SPIN South West",
     "sources": {
       "streams": [
+        "https://edge.audioxi.com/SW",
         "https://live-bauerie.sharp-stream.com/SW",
-        "https://stream.audioxi.com/SW",
-        "https://edge.audioxi.com/SW"
+        "https://stream.audioxi.com/SW"
       ]
     },
     "languages": [
@@ -1134,8 +1119,8 @@
     "sources": {
       "streams": [
         "https://pri.gocaster.net/td",
-        "https://live-bauerie.sharp-stream.com/TDAAC",
-        "https://edge.audioxi.com/TDAAC"
+        "https://stream.audioxi.com/TD",
+        "https://live-bauerie.sharp-stream.com/TDAAC"
       ]
     },
     "languages": [

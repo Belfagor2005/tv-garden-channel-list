@@ -4,8 +4,8 @@
     "name": "4Drive Jazz",
     "sources": {
       "streams": [
-        "https://radio.streemlion.com:1150/stream",
-        "https://radio.streemlion.com:4870/stream"
+        "https://radio.streemlion.com:4870/stream",
+        "https://radio.streemlion.com:1150/stream"
       ]
     },
     "languages": [
@@ -34,8 +34,8 @@
     "name": "Antena 1",
     "sources": {
       "streams": [
-        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
         "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
+        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena180a.mp3"
       ]
     },
@@ -108,8 +108,8 @@
     "name": "Antena 2",
     "sources": {
       "streams": [
-        "https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8",
         "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8",
+        "https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena280a.mp3"
       ]
     },
@@ -1364,8 +1364,8 @@
     "name": "RCP-VAR",
     "sources": {
       "streams": [
-        "https://sonic.servsonic.com:7003/;",
-        "https://sonic.servsonic.com/8028/stream"
+        "https://sonic.servsonic.com/8028/stream",
+        "https://sonic.servsonic.com:7003/;"
       ]
     },
     "languages": [

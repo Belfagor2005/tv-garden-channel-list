@@ -46,8 +46,8 @@
     "name": "Alba Ciudad 96.3 FM",
     "sources": {
       "streams": [
-        "https://envivo.albaciudad.org/alba16.mp3",
-        "https://envivo.albaciudad.org/albaciudad.mp3"
+        "https://envivo.albaciudad.org/albaciudad.mp3",
+        "https://envivo.albaciudad.org/alba16.mp3"
       ]
     },
     "languages": [
@@ -295,20 +295,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RYLnrLHWLAYAD4",
-    "name": "Clásicos 93.1 FM Mérida",
-    "sources": {
-      "streams": [
-        "https://acp4.lorini.net:15046/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "400uWSwZKqsZii",
     "name": "Clásicos 101.3 FM San Cristóbal",
     "sources": {
@@ -441,20 +427,6 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/xag8wa3c4v8uv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QrxvZsWQkJst8v",
-    "name": "Dinámica 103.3 FM",
-    "sources": {
-      "streams": [
-        "https://acp2.lorini.net:36075/stream"
       ]
     },
     "languages": [
@@ -650,8 +622,8 @@
     "name": "Fiesta Latina 106.1 FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/e2kzfpr34d0uv/;type=mp3",
-        "https://stream.zeno.fm/e2kzfpr34d0uv"
+        "https://stream.zeno.fm/e2kzfpr34d0uv",
+        "https://stream.zeno.fm/e2kzfpr34d0uv/;type=mp3"
       ]
     },
     "languages": [
@@ -871,20 +843,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LAolZ2Ks6O2JT5",
-    "name": "Líder 92.3 FM Mérida",
-    "sources": {
-      "streams": [
-        "https://acp4.lorini.net:15022/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "y8jtOjlu8OwFxT",
     "name": "Líder 94.9 FM Barquisimeto",
     "sources": {
@@ -929,11 +887,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9MAwwZCRtl6g4c",
-    "name": "Líder 100.5 FM Maracaibo",
+    "nanoid": "08sX3UfGkIp4zj",
+    "name": "Líder 100.3 FM Puerto Ordaz",
     "sources": {
       "streams": [
-        "https://acp4.lorini.net:15030/stream"
+        "https://acp4.lorini.net:15032/stream",
+        "https://stream.zeno.fm/ee4zas6mva0uv"
       ]
     },
     "languages": [
@@ -1018,20 +977,6 @@
     "sources": {
       "streams": [
         "https://cloudstream2030.conectarhosting.com/8324/;"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "53QoNaAiDoNQd4",
-    "name": "Maracaibera 98.3 FM",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/t8g2xp8gr68uv"
       ]
     },
     "languages": [
@@ -1139,20 +1084,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pd4km9PVLFiGeW",
-    "name": "Playera 101.9 FM",
-    "sources": {
-      "streams": [
-        "https://acp2.lorini.net:28008/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kCrmNrpCsW66s2",
     "name": "Pregón 95.7 FM",
     "sources": {
@@ -1172,20 +1103,6 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/1jvlfyg36swuv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qdXW1V856GC0ig",
-    "name": "Radio Activa 103.5 FM Mérida",
-    "sources": {
-      "streams": [
-        "https://acp4.lorini.net:15040/stream"
       ]
     },
     "languages": [
@@ -1406,20 +1323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3h0zEcS9JUxCkZ",
-    "name": "Radio Rumbos 670 AM",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/c3q3w8zfe18uv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6WsFHBczcg2U0b",
     "name": "Radio Sol 89.1",
     "sources": {
@@ -1467,20 +1370,6 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/s4vcagrndg8uv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "90ns6ubIhuGUWt",
-    "name": "RockNet Radio",
-    "sources": {
-      "streams": [
-        "https://s2.myradiostream.com/:31836/listen.mp3"
       ]
     },
     "languages": [
@@ -1635,20 +1524,6 @@
     "sources": {
       "streams": [
         "https://guri.tepuyserver.net/8457/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4wJ1rfhJqGGRXA",
-    "name": "Total 92.7 FM",
-    "sources": {
-      "streams": [
-        "https://streaming.produccionesvanessa.com/8006/stream"
       ]
     },
     "languages": [

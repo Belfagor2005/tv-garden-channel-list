@@ -192,8 +192,8 @@
     "name": "Kiss FM Digital",
     "sources": {
       "streams": [
-        "https://online.kissfm.ua/KissFM_Digital",
-        "https://online.kissfm.ua/KissFM_Digital_HD"
+        "https://online.kissfm.ua/KissFM_Digital_HD",
+        "https://online.kissfm.ua/KissFM_Digital"
       ]
     },
     "languages": [
@@ -667,6 +667,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HpwiXboNDNPRGN",
+    "name": "Radio X.ON",
+    "sources": {
+      "streams": [
+        "https://audio.x-on.com.ua:8443/x-on-aacp-64.aac"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zJIm2czh1nX6WQ",
     "name": "RadiVo",
     "sources": {
@@ -701,6 +715,20 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/r6o4xljca6cvv"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UXnQmoPekiVfkv",
+    "name": "RockRadio UA (РокРадіо UA)",
+    "sources": {
+      "streams": [
+        "https://rockradioua.online:8433/rock_256"
       ]
     },
     "languages": [
@@ -834,8 +862,8 @@
     "name": "True Black Metal Radio",
     "sources": {
       "streams": [
-        "https://trueblackmetalradio.com:666/radio",
-        "https://trueblackmetalradio.com:8000/radio"
+        "https://trueblackmetalradio.com:8000/radio",
+        "https://trueblackmetalradio.com:666/radio"
       ]
     },
     "languages": [
@@ -1091,8 +1119,8 @@
     "sources": {
       "streams": [
         "https://icecast.luxnet.ua/lux",
-        "https://icecast.luxnet.ua/luxlviv",
-        "https://icecastdc.luxnet.ua/lux_mp3_128"
+        "https://icecastdc.luxnet.ua/lux_mp3_128",
+        "https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1233,8 +1261,8 @@
     "name": "Радіо MAXIMUM",
     "sources": {
       "streams": [
-        "https://icecast.luxnet.ua/radio24",
-        "https://icecastdc.luxnet.ua/maximum_mp3_128"
+        "https://icecastdc.luxnet.ua/maximum_mp3_128",
+        "https://icecast.luxnet.ua/radio24"
       ]
     },
     "languages": [
@@ -1672,20 +1700,6 @@
     "sources": {
       "streams": [
         "https://cast.mediaonline.net.ua/radiopyatnica320"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Fyj0RdAPiE7fkQ",
-    "name": "Радіо Перше",
-    "sources": {
-      "streams": [
-        "https://live.radio1.com.ua/liveradio64"
       ]
     },
     "languages": [

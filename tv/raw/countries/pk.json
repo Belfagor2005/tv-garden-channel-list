@@ -4,7 +4,7 @@
     "name": "24 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/p5jVgAbSuzc"
+        "https://www.youtube-nocookie.com/embed/KTd-jhsdygw"
       ]
     },
     "languages": [
@@ -21,7 +21,7 @@
         "https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/qbxQsdFm1C0"
+        "https://www.youtube-nocookie.com/embed/ThPmgOTmtzg"
       ]
     },
     "languages": [
@@ -35,7 +35,7 @@
     "name": "Aaj TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hFkmOsQie1g"
+        "https://www.youtube-nocookie.com/embed/9lLVNq4lWVk"
       ]
     },
     "languages": [
@@ -89,7 +89,22 @@
     "name": "BS Film",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8",
+        "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zGAV8bRJNSfMxb",
+    "name": "BSTV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -103,7 +118,7 @@
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/sd5nVCCpQhU"
+        "https://www.youtube-nocookie.com/embed/p25w7bhMR2I"
       ]
     },
     "languages": [
@@ -117,7 +132,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/08hPNMo-N5E"
+        "https://www.youtube-nocookie.com/embed/TSh6DPOdDGE"
       ]
     },
     "languages": [
@@ -286,34 +301,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "97TDYmlPdbsepe",
-    "name": "God Stands Kids Club TV English",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oXC3NCXK3UzLO5",
-    "name": "God Stands Kids Club TV Urdu",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TmKO7eJbzWWIRg",
     "name": "God Stands TV Arabic",
     "sources": {
@@ -365,21 +352,6 @@
     },
     "languages": [
       "hin"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gmAnyp0vi78tWo",
-    "name": "God Stands TV Main",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -513,6 +485,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Jr_sWW86aI0"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0DyoG3XduwwwLj",
     "name": "King TV",
     "sources": {
@@ -545,7 +531,7 @@
     "name": "KTN NEWS TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XrqGZjUoOKw"
+        "https://www.youtube-nocookie.com/embed/QUBbw-V7KIg"
       ]
     },
     "languages": [
@@ -678,7 +664,7 @@
         "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HA__FLiCxRM"
+        "https://www.youtube-nocookie.com/embed/fpQj5en0_3o"
       ]
     },
     "languages": [
@@ -693,6 +679,20 @@
     "sources": {
       "streams": [
         "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zzEkf9yZmrhUaA",
+    "name": "PK Sports",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -799,20 +799,6 @@
     },
     "languages": [
       "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3iCM6TWrro0iqg",
-    "name": "Sindh TV News",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/iaPwGA-yTJk"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "pk",
     "isGeoBlocked": false

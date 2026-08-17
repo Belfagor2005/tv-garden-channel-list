@@ -241,25 +241,26 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XI0tj0hHgDA4kn",
-    "name": "Extra TV 42",
+    "nanoid": "xMyWNZNLNYysjq",
+    "name": "Enlace",
     "sources": {
       "streams": [
-        "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8"
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
       ]
     },
     "languages": [
+      "eng",
       "spa"
     ],
     "country": "cr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ejJZfMgOR7K5m8",
-    "name": "Extrema Kids TV",
+    "nanoid": "XI0tj0hHgDA4kn",
+    "name": "Extra TV 42",
     "sources": {
       "streams": [
-        "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+        "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
@@ -367,20 +368,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hWONN4ANlWd0XQ",
-    "name": "La Potente Radio TV",
-    "sources": {
-      "streams": [
-        "https://latamvdo.com:3626/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YEWQw0DloTzS1o",
     "name": "Limon TV",
     "sources": {
@@ -427,7 +414,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vTUwPIFFdgM"
+        "https://www.youtube-nocookie.com/embed/WgMtJFFL-gs"
       ]
     },
     "languages": [
@@ -646,34 +633,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xLJatClo1nNRli",
-    "name": "TicaVision",
-    "sources": {
-      "streams": [
-        "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "46bhWZVm1EdjmB",
-    "name": "TV Cartago Digital",
-    "sources": {
-      "streams": [
-        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oFBYYfrHTKyW0r",
     "name": "TV Nosara",
     "sources": {
@@ -729,11 +688,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KTfqjR2nJysy7l",
-    "name": "VM Latino",
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
     "sources": {
       "streams": [
-        "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+        "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
       ]
     },
     "languages": [
@@ -753,6 +712,18 @@
     "languages": [
       "spa"
     ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qWUmlZKBNU8HB",
+    "name": "Xpresso Joven Radio",
+    "sources": {
+      "streams": [
+        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

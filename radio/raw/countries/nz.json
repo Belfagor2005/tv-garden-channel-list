@@ -274,7 +274,8 @@
     "name": "East FM",
     "sources": {
       "streams": [
-        "https://listen.eastfm.nz/stream.aac"
+        "https://listen.eastfm.nz/stream.aac",
+        "https://listen.eastfm.nz/stream-aac-64"
       ]
     },
     "languages": [
@@ -552,20 +553,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SI5BXbmxZ05VH4",
-    "name": "Mix FM 87.9",
-    "sources": {
-      "streams": [
-        "https://stream.mixfm.nz/"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WSFFSB11p36hJp",
     "name": "More FM Nelson",
     "sources": {
@@ -617,20 +604,6 @@
     },
     "languages": [
       "zho"
-    ],
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T3z1rxtgUtfMmu",
-    "name": "New Zealand Net Radio",
-    "sources": {
-      "streams": [
-        "https://radio.nznetradio.net.nz/stream3"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "nz",
     "isGeoBlocked": false
@@ -937,6 +910,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bWjRIdsRLNHBDZ",
+    "name": "Radio Samoa 1593 AM",
+    "sources": {
+      "streams": [
+        "https://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k"
+      ]
+    },
+    "languages": [
+      "eng",
+      "smo"
     ],
     "country": "nz",
     "isGeoBlocked": false

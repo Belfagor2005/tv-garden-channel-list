@@ -376,7 +376,6 @@
     "name": "antenne SACHSEN",
     "sources": {
       "streams": [
-        "https://edge13.radio.antennesachsen.de/antsa-dresden",
         "https://edge69.radio.antennesachsen.de/antsa-dresden",
         "https://hermes.bcs-systems.de/antenne-sachsen_192k_mp3"
       ]
@@ -392,8 +391,8 @@
     "name": "antenne SACHSEN - Leipzig",
     "sources": {
       "streams": [
-        "https://edge84.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
         "https://edge01.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
+        "https://edge84.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
         "https://web.radio.antennesachsen.de/antsa-leipzig/stream/mp3"
       ]
     },
@@ -619,8 +618,8 @@
     "name": "Classic FM",
     "sources": {
       "streams": [
-        "https://webradio.classicfm.dk/classichorsens",
-        "https://netradio.classicfm.dk/cla8d"
+        "https://netradio.classicfm.dk/cla8d",
+        "https://webradio.classicfm.dk/classichorsens"
       ]
     },
     "languages": [
@@ -867,9 +866,9 @@
     "name": "Funky Radio",
     "sources": {
       "streams": [
-        "https://my.streamingmedia.it/listen/discofunk/play",
+        "https://my.streamingmedia.it:8020/play",
         "https://discofunk.streamingmedia.it/play",
-        "https://my.streamingmedia.it:8020/play"
+        "https://my.streamingmedia.it/listen/discofunk/play"
       ]
     },
     "languages": [
@@ -916,8 +915,8 @@
     "sources": {
       "streams": [
         "https://centova.svdns.com.br:19418/stream",
-        "https://centova.svdns.com.br:19418/stream2",
-        "https://centova.svdns.com.br:19418/stream1"
+        "https://centova.svdns.com.br:19418/stream1",
+        "https://centova.svdns.com.br:19418/stream2"
       ]
     },
     "languages": [
@@ -1040,6 +1039,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "38RFpcANcm5cQQ",
+    "name": "Hot Gold",
+    "sources": {
+      "streams": [
+        "https://stream1.hippynet.co.uk/stream/hotgold/dorset"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IRvKTP1Gy4MUCO",
     "name": "iHeart Real Oldies",
     "sources": {
@@ -1115,9 +1128,9 @@
     "name": "Joe",
     "sources": {
       "streams": [
-        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac",
-        "https://stream.joe.nl/joe/mp3",
-        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3"
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+        "https://stream.joe.nl/joe/aachigh",
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac"
       ]
     },
     "languages": [
@@ -1339,20 +1352,6 @@
       "por"
     ],
     "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YjjJKaJj3QozT5",
-    "name": "Majestic Jukebox Radio",
-    "sources": {
-      "streams": [
-        "https://uk3.internet-radio.com/proxy/majesticjukebox/live"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1578,7 +1577,7 @@
       "streams": [
         "https://s1-webradio.oldie-antenne.de/oldie-antenne",
         "https://s6-webradio.antenne.de/oldies-but-goldies",
-        "https://mp3channels.webradio.antenne.de/oldies-but-goldies"
+        "https://stream.oldie-antenne.de/oldie-antenne/stream/mp3"
       ]
     },
     "languages": [
@@ -1592,8 +1591,8 @@
     "name": "Oldies 104",
     "sources": {
       "streams": [
-        "https://streaming.live365.com/b09584_128mp3",
         "https://das-edge27-sa23-lax02.cdnstream.com/1076_128",
+        "https://streaming.live365.com/b09584_128mp3",
         "https://ais-edge65-lon01.cdnstream.com/1radio_oldies_128"
       ]
     },
@@ -1674,6 +1673,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TNcp5x3I40Bts1",
+    "name": "ON Oldies",
+    "sources": {
+      "streams": [
+        "https://0n-oldies.radionetz.de/0n-oldies.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Wi4K3RGn4p4zhw",
     "name": "OnlyHit Gold",
     "sources": {
@@ -1720,7 +1733,7 @@
     "name": "R.SA - 70er Oldies",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-192-1215651?sABC=6n78670r%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1786275598",
+        "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-192-1215651?sABC=6n7snq76%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1786752374",
         "https://streams.rsa-sachsen.de/70er/mp3-192",
         "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de"
       ]
@@ -1767,8 +1780,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac"
       ]
     },
     "languages": [
@@ -1782,9 +1795,9 @@
     "name": "Radio 10 60s & 70s Hits",
     "sources": {
       "streams": [
-        "https://22333.live.streamtheworld.com/TLPSTR18_SC",
-        "https://25233.live.streamtheworld.com/TLPSTR18_SC",
-        "https://28973.live.streamtheworld.com/TLPSTR18_SC"
+        "https://28973.live.streamtheworld.com/TLPSTR18_SC",
+        "https://29023.live.streamtheworld.com/TLPSTR18_SC",
+        "https://22603.live.streamtheworld.com/TLPSTR18_SC"
       ]
     },
     "languages": [
@@ -1843,6 +1856,7 @@
     "name": "RADIO BOB! 70er Rock",
     "sources": {
       "streams": [
+        "https://streams.radiobob.de/70errock/mp3-192/homepage",
         "https://streams.radiobob.de/70errock/mp3-192/streams.radiobob.de",
         "https://streams.radiobob.de/70errock/aac-64/streams.radiobob.de"
       ]
@@ -2090,7 +2104,7 @@
     "sources": {
       "streams": [
         "https://streams.norawebstreams.de/nora-oldies/mp3-192/streams.norawebstreams.de",
-        "https://norawebstreams-stream23.radiohost.de/nora-oldies_mp3-192",
+        "https://norawebstreams-stream22.radiohost.de/nora-oldies_mp3-128",
         "https://streams.norawebstreams.de/nora-oldies/mp3-128/homepage"
       ]
     },
@@ -2317,8 +2331,8 @@
     "name": "RauteMusik Goldies",
     "sources": {
       "streams": [
-        "https://goldies-high.rautemusik.fm/",
         "https://rautemusik-de-hz-fal-stream11.radiohost.de/goldies",
+        "https://goldies-high.rautemusik.fm/",
         "https://rautemusik-de-hz-fal-stream17.radiohost.de/goldies"
       ]
     },
@@ -2463,8 +2477,8 @@
     "name": "Ride Radio",
     "sources": {
       "streams": [
-        "https://ais-edge08-live365-dal02.cdnstream.com/a75084",
-        "https://streaming.live365.com/a75084"
+        "https://streaming.live365.com/a75084",
+        "https://ais-edge08-live365-dal02.cdnstream.com/a75084"
       ]
     },
     "languages": [
@@ -2563,8 +2577,8 @@
     "name": "RPR1. 70er Rock",
     "sources": {
       "streams": [
-        "https://stream.rpr1.de/70errock/mp3-128/radiobrowser",
-        "https://streams.rpr1.de/rpr-70errock-128-mp3"
+        "https://streams.rpr1.de/rpr-70errock-128-mp3",
+        "https://stream.rpr1.de/70errock/mp3-128/radiobrowser"
       ]
     },
     "languages": [
@@ -2678,8 +2692,8 @@
     "name": "That 70's Channel",
     "sources": {
       "streams": [
-        "https://ais-sa5.cdnstream1.com/b68000_128mp3",
-        "https://los.cdnstream.com/1101_128"
+        "https://los.cdnstream.com/1101_128",
+        "https://ais-sa5.cdnstream1.com/b68000_128mp3"
       ]
     },
     "languages": [
@@ -2918,8 +2932,8 @@
     "name": "Universal Stereo",
     "sources": {
       "streams": [
-        "https://14553.live.streamtheworld.com/XERC_FMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XERC_FMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XERC_FMAAC.aac",
+        "https://14553.live.streamtheworld.com/XERC_FMAAC.aac"
       ]
     },
     "languages": [
@@ -2975,8 +2989,8 @@
     "name": "VillageRadio.Net",
     "sources": {
       "streams": [
-        "https://ais-edge09-live365-dal02.cdnstream.com/a73319",
-        "https://streaming.live365.com/a73319"
+        "https://streaming.live365.com/a73319",
+        "https://ais-edge09-live365-dal02.cdnstream.com/a73319"
       ]
     },
     "languages": [
@@ -3071,6 +3085,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FfF2KBovRT2ATz",
+    "name": "Zoe FM",
+    "sources": {
+      "streams": [
+        "https://icecast.movemedia.be/zoe128"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DSGiFCeBTFzh5H",
     "name": "Дорожное радио - Ностальгия",
     "sources": {
@@ -3089,8 +3117,8 @@
     "name": "Радио ЗВЕЗДА",
     "sources": {
       "streams": [
-        "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128",
-        "https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128"
+        "https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128",
+        "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128"
       ]
     },
     "languages": [

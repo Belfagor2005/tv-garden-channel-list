@@ -154,20 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oh20dqyFkVNesT",
-    "name": "Dmoda Channel",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/dmoda/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MPRdraxaqhJO4v",
     "name": "EL DEBER",
     "sources": {
@@ -268,6 +254,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YIKke4PY7wnkdl",
+    "name": "Palenque TV",
+    "sources": {
+      "streams": [
+        "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ctXKtPRIVgnD2j",
     "name": "Poder de Dios TV",
     "sources": {
@@ -315,20 +315,6 @@
     "sources": {
       "streams": [
         "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yb5J2y39iS97LB",
-    "name": "Radio Gente",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/8068/index.m3u8"
       ]
     },
     "languages": [
@@ -409,20 +395,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "crhuDV1URlafW7",
-    "name": "Red Rubi",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yLB43ge13jrHoP",
     "name": "Red TV Shop",
     "sources": {
@@ -458,20 +430,6 @@
         "https://rtp.noxun.net/hls/stream.m3u8",
         "https://rtp.noxun.net/hls480/stream2.m3u8",
         "https://rtp.noxun.net/hls720/stream3.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "17VDedV3F7KkDk",
-    "name": "RTV Norte",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -681,11 +639,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8XmRascOPMJDcT",
-    "name": "Unitel Santa Cruz",
+    "nanoid": "N0kSUvzkeZXdmq",
+    "name": "Unitel La Paz",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8"
+        "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9u6WNgsEYDn11w",
+    "name": "Univalle Television",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/univalletv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -712,20 +684,6 @@
     "sources": {
       "streams": [
         "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uLnAaMvBQP6gl2",
-    "name": "Vos TV",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8"
       ]
     },
     "languages": [

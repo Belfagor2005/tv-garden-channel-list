@@ -56,7 +56,6 @@
     "name": "CBS News 24/7",
     "sources": {
       "streams": [
-        "https://40.160.24.56/CBS_NEWS/index.m3u8",
         "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
       ]
@@ -77,7 +76,7 @@
         "https://0472.org/hls/cgtn.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BOy2xDU1LC8"
+        "https://www.youtube-nocookie.com/embed/LJgXwC-AKu8"
       ]
     },
     "languages": [
@@ -146,7 +145,7 @@
       "streams": [
         "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
+        "https://170.83.16.50/FRANCE_24/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/HvZt-nh9sGg"
@@ -164,6 +163,7 @@
     "sources": {
       "streams": [
         "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8",
+        "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8"
       ],
       "youtube": [

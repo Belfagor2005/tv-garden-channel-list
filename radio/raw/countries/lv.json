@@ -325,6 +325,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PujzJMUZYMn7QY",
+    "name": "Radio Skonto",
+    "sources": {
+      "streams": [
+        "https://stream.radioskonto.lv:8443/stereo"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nAjDWJzesb5GS8",
     "name": "Radio Skonto Plus",
     "sources": {
@@ -363,6 +377,20 @@
     "languages": [
       "lav",
       "rus"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dBpWfZo2ZMiMfl",
+    "name": "Relax FM",
+    "sources": {
+      "streams": [
+        "https://live.relaxfm.lv/02"
+      ]
+    },
+    "languages": [
+      "lav"
     ],
     "country": "lv",
     "isGeoBlocked": false
@@ -470,20 +498,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vIGrGfidiiJ9ya",
-    "name": "XO FM",
-    "sources": {
-      "streams": [
-        "https://live.xo.fm/xofm128"
-      ]
-    },
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZLHojOWFKrHPjq",
     "name": "Your City Radio",
     "sources": {
@@ -494,6 +508,21 @@
     },
     "languages": [
       "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SMmgqjhUkS0Nj8",
+    "name": "Авторадио (Avtoradio)",
+    "sources": {
+      "streams": [
+        "https://live.relaxfm.lv/03"
+      ]
+    },
+    "languages": [
+      "lav",
+      "rus"
     ],
     "country": "lv",
     "isGeoBlocked": false

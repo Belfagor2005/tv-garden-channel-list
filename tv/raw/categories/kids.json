@@ -247,7 +247,7 @@
     "name": "BeJoy.kids",
     "sources": {
       "streams": [
-        "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
+        "https://stream.paroledivita.org/bejoy.m3u8"
       ]
     },
     "languages": [
@@ -416,9 +416,9 @@
     "name": "Carousel",
     "sources": {
       "streams": [
-        "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
         "https://stream.mcquack.net/120/index.m3u8",
-        "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8"
+        "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
       ]
     },
     "languages": [
@@ -638,34 +638,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "hboH9AkWIrBLT1",
-    "name": "Clifford the Big Red Dog: Classic",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/YFibLw5eR3M"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DWHNlPkSNnnnSG",
-    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/KfCQ5adSe1I"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DIYFiR27hwM7Fq",
     "name": "Dios Te Ve Kids",
     "sources": {
@@ -680,20 +652,19 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W96nD2jfO547gK",
-    "name": "Disney Channel East",
+    "nanoid": "WyQIvG6nRolbpZ",
+    "name": "Disney Channel Latin America Panregional HD",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8",
-        "https://tvsen5.aynaott.com/disney/index.m3u8"
+        "https://streamer.metronethn.com/DisneyChannel/index.m3u8"
       ]
     },
     "languages": [
-      "eng",
+      "por",
       "spa"
     ],
-    "country": "us",
-    "isGeoBlocked": true
+    "country": "ar",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "VJ5gw1qkZks4rp",
@@ -784,9 +755,9 @@
     "name": "Disney Junior East",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8",
         "https://tvsen5.aynascope.net/disney/index.m3u8",
-        "https://tvsen7.aynascope.net/disney/index.m3u8"
+        "https://tvsen7.aynascope.net/disney/index.m3u8",
+        "https://tvsen7.aynascope.net/disneyjr/index.m3u8"
       ]
     },
     "languages": [
@@ -937,26 +908,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fh4EovXVeHABlc",
-    "name": "Disney XD East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/DISNEY_XD_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Al1oV2CUIaUTJV",
     "name": "Dr. Seuss",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QC1cbLrRPFI"
+        "https://www.youtube-nocookie.com/embed/fwXj7kFFlGc"
       ]
     },
     "languages": [
@@ -1000,7 +956,9 @@
     "name": "DumDum",
     "sources": {
       "streams": [
-        "https://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
+        "https://168.197.104.22/ZOOMOO/index.m3u8",
+        "https://45.162.64.114/ZOOMOO_KIDS/index.m3u8",
+        "https://186.219.52.187/zoomoo/index.m3u8"
       ]
     },
     "languages": [
@@ -1024,20 +982,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nLjmNpKEQoalYU",
-    "name": "El Chavo TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "w1TyAWzZva88k1",
     "name": "ETV 2",
     "sources": {
@@ -1049,20 +993,6 @@
       "est"
     ],
     "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ejJZfMgOR7K5m8",
-    "name": "Extrema Kids TV",
-    "sources": {
-      "streams": [
-        "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1117,34 +1047,6 @@
     },
     "languages": [
       "zho"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "97TDYmlPdbsepe",
-    "name": "God Stands Kids Club TV English",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oXC3NCXK3UzLO5",
-    "name": "God Stands Kids Club TV Urdu",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -1255,7 +1157,7 @@
     "name": "Jetix",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ISZKW-UkJRo"
+        "https://www.youtube-nocookie.com/embed/GgmhgA34BeQ"
       ]
     },
     "languages": [
@@ -1324,6 +1226,20 @@
       "eng"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Jr_sWW86aI0"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1712,18 +1628,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ev2uIcLTDA86aM",
-    "name": "Nick Jr. East",
+    "nanoid": "LhLrzvZ35u0Jdu",
+    "name": "Nick Jr. Latin America Panregional",
     "sources": {
       "streams": [
-        "https://40.160.24.55/NICK_JR/index.m3u8",
-        "https://gpuserver5.tier1streams.com/NICK_JR/index.m3u8"
+        "https://streamer.metronethn.com/NickJr/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "spa"
     ],
-    "country": "us",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1770,18 +1685,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yfo1gJBb7MDFEI",
-    "name": "Nickelodeon East",
+    "nanoid": "nlsdaZ2L48vHzM",
+    "name": "Nickelodeon Latin America Panregional",
     "sources": {
       "streams": [
-        "https://40.160.24.55/NICKELODEON/index.m3u8",
-        "https://gpuserver5.tier1streams.com/NICKELODEON/index.m3u8"
+        "https://streamer.metronethn.com/Nickelodeon/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "spa"
     ],
-    "country": "us",
+    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -1803,7 +1717,7 @@
     "name": "Nicktoons",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/toD8HbxRjRE"
+        "https://www.youtube-nocookie.com/embed/aVs7bdB5wiU"
       ]
     },
     "languages": [
@@ -1841,21 +1755,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MSF3m0OZAj6WPP",
-    "name": "Nicktoons East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/NICKTOONS/index.m3u8",
-        "https://gpuserver5.tier1streams.com/NICKTOONS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tqpekqbtzkiahc",
     "name": "O!",
     "sources": {
@@ -1874,7 +1773,7 @@
     "name": "Oddbods",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hWTYDil8JB8"
+        "https://www.youtube-nocookie.com/embed/chPhiWev0nU"
       ]
     },
     "languages": [
@@ -2210,7 +2109,7 @@
     "name": "Pororo 뽀로로",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/512J9ZTkCXw"
+        "https://www.youtube-nocookie.com/embed/ZshH8LC5zXA"
       ]
     },
     "languages": [
@@ -2334,6 +2233,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E3BHAyBMKjTQ8M",
+    "name": "Sesame Street",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ymBJC-WbaJQ"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rdOkwBEFcArbvv",
     "name": "Skwad Play",
     "sources": {
@@ -2345,21 +2258,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JIPUpjryYJZoMO",
-    "name": "Smile TV",
-    "sources": {
-      "streams": [
-        "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
-        "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -2393,6 +2291,27 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "7ciyDUkvEk2Lrd",
+    "name": "Sony Yay!",
+    "sources": {
+      "streams": [
+        "https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8"
+      ]
+    },
+    "languages": [
+      "ben",
+      "hin",
+      "kan",
+      "mal",
+      "mar",
+      "ori",
+      "tam",
+      "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9O197zg8eEKLG6",
     "name": "Spacetoon Arabic",
     "sources": {
@@ -2411,7 +2330,7 @@
     "name": "SpongeBob SquarePants Official",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bwZ3uBYot60"
+        "https://www.youtube-nocookie.com/embed/v8CH1Sh3Mio"
       ]
     },
     "languages": [
@@ -2453,21 +2372,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N4r5TtmElHk"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GdyuPfPjDfUi5s",
-    "name": "Super Simple: Noodle and Pals",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/W1dfqgezcds"
+        "https://www.youtube-nocookie.com/embed/1_KHPJJRtSM"
       ]
     },
     "languages": [
@@ -2481,13 +2386,27 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jGiamrhQ9rg"
+        "https://www.youtube-nocookie.com/embed/Vdh8HAQLArI"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7mx54EPiDrr5mW",
+    "name": "Super!",
+    "sources": {
+      "streams": [
+        "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -2524,8 +2443,6 @@
     "name": "TeenNick East",
     "sources": {
       "streams": [
-        "https://gpuserver5.tier1streams.com/TEEN_NICK/index.m3u8",
-        "https://40.160.24.55/TEEN_NICK/index.m3u8",
         "https://tvsen7.aynascope.net/teennick/index.m3u8"
       ]
     },
@@ -2621,20 +2538,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rOQGdTPomjbnWK",
-    "name": "Tooku",
-    "sources": {
-      "streams": [
-        "https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -2743,7 +2646,7 @@
     "name": "Universal Jr: Curious George",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dVcYKgFrzs8"
+        "https://www.youtube-nocookie.com/embed/BT4S0AYVQds"
       ]
     },
     "languages": [
@@ -2778,20 +2681,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "at7QYcug7oV0tu",
-    "name": "WildBrain Max: LEGO",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/LAP302yWZGo"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -2865,6 +2754,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kz1QrxbntvR2ns",
+    "name": "Zig & Sharko",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0flIX2kXnZs"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zUBU1oLKMpdsiQ",
     "name": "Zoom",
     "sources": {
@@ -2913,7 +2816,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MFDjU2LUFcM"
+        "https://www.youtube-nocookie.com/embed/z7E3JYEhXno"
       ]
     },
     "languages": [

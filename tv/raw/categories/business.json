@@ -178,20 +178,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8jSnAgazSmGpyh",
-    "name": "BMG TV",
-    "sources": {
-      "streams": [
-        "https://tv.nucast.tv/lb/ge/bmg/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kat"
-    ],
-    "country": "ge",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "18AFI0l147pCm5",
     "name": "BT TV",
     "sources": {
@@ -269,7 +255,8 @@
     "name": "CGTN Global Biz",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
       ]
     },
     "languages": [
@@ -439,28 +426,13 @@
     "name": "Ekhon TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fY9eJwH_qeg"
+        "https://www.youtube-nocookie.com/embed/ss9BXe0AEFw"
       ]
     },
     "languages": [
       "ben"
     ],
     "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eNOYZvW4v10TNt",
-    "name": "Fox Business Network",
-    "sources": {
-      "streams": [
-        "https://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8",
-        "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -677,7 +649,7 @@
     "name": "서울경제TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JVBVZIUAAtI"
+        "https://www.youtube-nocookie.com/embed/ciA-0rInLwQ"
       ]
     },
     "languages": [

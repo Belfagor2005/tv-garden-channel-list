@@ -76,8 +76,8 @@
     "name": "88.5 WXPN",
     "sources": {
       "streams": [
-        "https://wxpnhi.xpn.org/xpnhi",
-        "https://wxpn.xpn.org/xpnmp3hi"
+        "https://wxpn.xpn.org/xpnmp3hi",
+        "https://wxpnhi.xpn.org/xpnhi"
       ]
     },
     "languages": [
@@ -356,21 +356,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OSIhbLejzrejdz",
-    "name": "BluesClub",
-    "sources": {
-      "streams": [
-        "https://bluesclub.stream.laut.fm/bluesclub"
-      ]
-    },
-    "languages": [
-      "deu",
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NC8EqN2lYsI05i",
     "name": "BluesRadio UK",
     "sources": {
@@ -403,6 +388,7 @@
     "name": "BluesWave Radio",
     "sources": {
       "streams": [
+        "https://blueswave.radio:8100/hifiblues",
         "https://blueswave.radio:8000/blueswave",
         "https://blueswave.radio:8100/icyblues"
       ]
@@ -476,9 +462,9 @@
     "name": "CBC Music Atlantic",
     "sources": {
       "streams": [
-        "https://29327.live.streamtheworld.com/CBH_CBC_SC",
+        "https://17813.live.streamtheworld.com/CBH_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
-        "https://17813.live.streamtheworld.com/CBH_CBC_SC"
+        "https://29327.live.streamtheworld.com/CBH_CBC_SC"
       ]
     },
     "languages": [
@@ -709,8 +695,8 @@
     "name": "Exclusively Muddy Waters",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/muddywaters/icecast.audio",
-        "https://2.mystreaming.net/er/muddywaters/icecast.audio"
+        "https://2.mystreaming.net/er/muddywaters/icecast.audio",
+        "https://streaming.exclusive.radio/er/muddywaters/icecast.audio"
       ]
     },
     "languages": [
@@ -746,22 +732,6 @@
       "eng"
     ],
     "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CaH6zkqeux88Nq",
-    "name": "FluxFM XJAZZ",
-    "sources": {
-      "streams": [
-        "https://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663",
-        "https://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412",
-        "https://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -923,7 +893,7 @@
   },
   {
     "nanoid": "aWaB8uima0qJy9",
-    "name": "ICI Musique (Moncton)",
+    "name": "ICI Musique Nouveau-Brunswick",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8"
@@ -1024,8 +994,8 @@
     "name": "JazzW3",
     "sources": {
       "streams": [
-        "https://air.jazz.w3.at/jazzw3.mp3",
-        "https://air.jazz.w3.at/jazzw3.ogg"
+        "https://air.jazz.w3.at/jazzw3.ogg",
+        "https://air.jazz.w3.at/jazzw3.mp3"
       ]
     },
     "languages": [
@@ -1035,26 +1005,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rp73QbjFiUFzH0",
-    "name": "JB Radio",
-    "sources": {
-      "streams": [
-        "https://mediacp.jb-radio.net:8001/aac"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BBvW542f5zOUyE",
     "name": "Joint Radio Blues",
     "sources": {
       "streams": [
-        "https://jointil.com/stream-blues",
-        "https://star.jointil.net/proxy/jrn_blues"
+        "https://star.jointil.net/proxy/jrn_blues",
+        "https://jointil.com/stream-blues"
       ]
     },
     "languages": [
@@ -1308,20 +1264,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "loWIy5Fkr53SfT",
-    "name": "Mixadance FM - Jazz",
-    "sources": {
-      "streams": [
-        "https://stream.mixadance.fm/mixadancejazz"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6vPIankPPQG3k8",
     "name": "Morena FM 98",
     "sources": {
@@ -1380,8 +1322,8 @@
     "name": "Music City Roadhouse",
     "sources": {
       "streams": [
-        "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
         "https://streaming.live365.com/a73754",
+        "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
         "https://ais-edge09-live365-dal02.cdnstream.com/a73754"
       ]
     },
@@ -1668,7 +1610,7 @@
       "streams": [
         "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554",
         "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage",
-        "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer"
+        "https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -2079,8 +2021,8 @@
     "name": "ROCK ANTENNE - Blues Rock",
     "sources": {
       "streams": [
-        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
         "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
+        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
         "https://stream.rockantenne.de/hair-metal/stream/mp3"
       ]
     },
@@ -2430,8 +2372,8 @@
     "sources": {
       "streams": [
         "https://wwoz-sc.streamguys1.com/wwoz-lo.mp3",
-        "https://www.wwoz.org/listen/hi",
-        "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3"
+        "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+        "https://www.wwoz.org/listen/hi"
       ]
     },
     "languages": [
@@ -2452,20 +2394,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vIGrGfidiiJ9ya",
-    "name": "XO FM",
-    "sources": {
-      "streams": [
-        "https://live.xo.fm/xofm128"
-      ]
-    },
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
     "isGeoBlocked": false
   }
 ]

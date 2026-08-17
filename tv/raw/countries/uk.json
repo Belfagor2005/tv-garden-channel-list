@@ -377,21 +377,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RGisQUNDzBMFhg",
-    "name": "Canaf54 TV",
-    "sources": {
-      "streams": [
-        "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qFvRLYDETWTBst",
     "name": "Cartoon Network",
     "sources": {
@@ -414,6 +399,21 @@
       ]
     },
     "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h25WUyBe4528fW",
+    "name": "Channel S",
+    "sources": {
+      "streams": [
+        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ben",
       "eng"
     ],
     "country": "uk",
@@ -910,6 +910,20 @@
     "sources": {
       "streams": [
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oS8yaG00faaZ9t",
+    "name": "Goodwood Road & Racing",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6IrRwryJv7I"
       ]
     },
     "languages": [
@@ -1491,25 +1505,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uUyFGrfi3LrrfU",
-    "name": "MTA1 World",
-    "sources": {
-      "streams": [
-        "https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "ben",
-      "deu",
-      "eng",
-      "fra",
-      "urd"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "840FgWNafPoU83",
     "name": "MTA2 Europe",
     "sources": {
@@ -1635,7 +1630,7 @@
   },
   {
     "nanoid": "T0TMY0MmpuHlBC",
-    "name": "Nature Time",
+    "name": "NatureTime UK",
     "sources": {
       "streams": [
         "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
@@ -1666,8 +1661,7 @@
     "name": "Ninja Warrior",
     "sources": {
       "streams": [
-        "https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00654-itv-amg00654c27-samsung-gb-5494.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -2103,20 +2097,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kfvf3u3DJLtcM5",
-    "name": "Shaun the Sheep Official",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/vvrRqhZZsrU"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M2QygmPlR8J2Gq",
     "name": "Sky Nature",
     "sources": {
@@ -2145,11 +2125,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CkqK0vHvwZKLiX",
-    "name": "Sky News Weather",
+    "nanoid": "phsubU1bC3E8Bv",
+    "name": "Sky Sports Cricket",
     "sources": {
       "streams": [
-        "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+        "https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8"
       ]
     },
     "languages": [
@@ -2270,6 +2250,7 @@
     "name": "Tennis+",
     "sources": {
       "streams": [
+        "https://amg01935-amg01935c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0002/playlist.m3u8",
         "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
       ]
     },
@@ -2789,20 +2770,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "at7QYcug7oV0tu",
-    "name": "WildBrain Max: LEGO",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/LAP302yWZGo"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MbPIxYg8e29Ojj",
     "name": "WildBrain: Inspector Gadget",
     "sources": {
@@ -2851,6 +2818,7 @@
     "name": "World War TV",
     "sources": {
       "streams": [
+        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },
