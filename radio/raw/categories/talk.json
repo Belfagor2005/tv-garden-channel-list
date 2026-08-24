@@ -14927,6 +14927,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5sDFNJeemaZ5dA",
+    "name": "Emarat FM",
+    "sources": {
+      "streams": [
+        "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lmAuHRjxVFMm9r",
     "name": "EMC Radio",
     "sources": {
@@ -19985,8 +19999,8 @@
     "name": "Historyradio.org",
     "sources": {
       "streams": [
-        "https://n03.radiojar.com/6bmecgg3wd5tv",
-        "https://stream.radiojar.com/6bmecgg3wd5tv"
+        "https://stream.radiojar.com/6bmecgg3wd5tv",
+        "https://n03.radiojar.com/6bmecgg3wd5tv"
       ]
     },
     "languages": [
@@ -32082,9 +32096,21 @@
     "name": "NRK Nyheter",
     "sources": {
       "streams": [
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h",
-        "https://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h",
-        "https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "34tRf8ucDKL0z1",
+    "name": "NRK P1 Innlandet",
+    "sources": {
+      "streams": [
+        "https://lyd.nrk.no/nrk_radio_p1_innlandet_mp3_h"
       ]
     },
     "languages": [
@@ -32098,9 +32124,7 @@
     "name": "NRK P2",
     "sources": {
       "streams": [
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
-        "https://lyd.nrk.no/nrk_radio_p2_aac_h",
-        "https://lyd.nrk.no/nrk_radio_p2_mp3_l"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p2"
       ]
     },
     "languages": [
@@ -32111,11 +32135,10 @@
   },
   {
     "nanoid": "2QuNdznWwzdfvU",
-    "name": "NRK Sápmi",
+    "name": "NRK Sámi radio",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_sami_aac_h",
-        "https://lyd.nrk.no/nrk_radio_sami_mp3_h"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/sapmi"
       ]
     },
     "languages": [
@@ -32130,8 +32153,7 @@
     "name": "NRK Sport",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_sport_aac_h",
-        "https://lyd.nrk.no/nrk_radio_sport_mp3_m"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/sport"
       ]
     },
     "languages": [
@@ -33156,9 +33178,7 @@
     "name": "P4 Lyden av Norge",
     "sources": {
       "streams": [
-        "https://p4.p4groupaudio.com/P04_AH",
-        "https://p4.p4groupaudio.com/P04_MH",
-        "https://p4.p4groupaudio.com/P04_MM"
+        "https://p4.p4groupaudio.com/P04_MH"
       ]
     },
     "languages": [
@@ -36225,6 +36245,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Twh83wNeQgMzvN",
+    "name": "Radio Asharq",
+    "sources": {
+      "streams": [
+        "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wrcN8igxlCycCu",
     "name": "Radio Asharq",
     "sources": {
@@ -38178,6 +38212,20 @@
       "spa"
     ],
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Gtr5AwiZBnyPna",
+    "name": "Radio del Mar 98.5 FM",
+    "sources": {
+      "streams": [
+        "https://sslstream.online/8344/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -43016,6 +43064,20 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NE2lYyMHj4gLHQ",
+    "name": "Ràdio Nacional d'Andorra",
+    "sources": {
+      "streams": [
+        "https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/audio_manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "ad",
     "isGeoBlocked": false
   },
   {

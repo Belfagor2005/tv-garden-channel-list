@@ -32,7 +32,8 @@
     "name": "Canal Motor",
     "sources": {
       "streams": [
-        "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8"
+        "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+        "https://digicom.hls.iptvdc.com/motorstv/index.m3u8"
       ]
     },
     "languages": [
@@ -57,6 +58,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Gq4mY3pzS19BJ0",
+    "name": "City Eden AutoGid",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47515/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tVKEKu2ttkc0Bj",
     "name": "Drive",
     "sources": {
@@ -75,6 +90,7 @@
     "name": "Fun Roads",
     "sources": {
       "streams": [
+        "https://www.funroads-hls1.com/funroads.m3u8",
         "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8",
         "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978"
       ]
@@ -97,20 +113,6 @@
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oS8yaG00faaZ9t",
-    "name": "Goodwood Road & Racing",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/6IrRwryJv7I"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {

@@ -56,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iAAKFVIzXYEola",
-    "name": "Fukuoka TNC News Broadcast",
+    "nanoid": "AY9El1RUmBJaPD",
+    "name": "Earthquake Alert Channel",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/A76bj7NZSs0"
+        "https://www.youtube-nocookie.com/embed/I5_vUnu1GN4"
       ]
     },
     "languages": [
@@ -70,11 +70,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EJU67zKw2oX8W5",
-    "name": "HBC Hokkaido News 24",
+    "nanoid": "iAAKFVIzXYEola",
+    "name": "Fukuoka TNC News Broadcast",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xoZNXyG_Zfc"
+        "https://www.youtube-nocookie.com/embed/A76bj7NZSs0"
       ]
     },
     "languages": [
@@ -116,7 +116,7 @@
     "name": "JapaNews24",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/B0XFMgAVw4Y"
+        "https://www.youtube-nocookie.com/embed/QjimiJNrkTM"
       ]
     },
     "languages": [
@@ -130,7 +130,7 @@
     "name": "KBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/4hpUbFP13-M"
+        "https://www.youtube-nocookie.com/embed/78U5gHL0yyo"
       ]
     },
     "languages": [
@@ -186,7 +186,7 @@
     "name": "MRO",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-wPJSPnKmIs"
+        "https://www.youtube-nocookie.com/embed/RJUr_miPLuI"
       ]
     },
     "languages": [
@@ -236,26 +236,6 @@
     ],
     "country": "jp",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bt1m1v4h1CmExI",
-    "name": "NHK World-Japan",
-    "sources": {
-      "streams": [
-        "https://cdn-7.pishow.tv/live/455/master.m3u8",
-        "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
-        "https://nhk.lls.pbs.org/index.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/f0lYkdA-Gtw"
-      ]
-    },
-    "languages": [
-      "eng",
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "vMc3oAwSMrTDCX",
@@ -314,6 +294,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PjUU6ZmfuLbOka",
+    "name": "RCC News 24",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/dIQMtVs6AoY"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dS0Hi9Oo1lT24W",
     "name": "RKB News 24",
     "sources": {
@@ -363,7 +357,7 @@
     "name": "STV News Hokkaido",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/C2o9YF4nXoI"
+        "https://www.youtube-nocookie.com/embed/1jh6CXpT4RU"
       ]
     },
     "languages": [

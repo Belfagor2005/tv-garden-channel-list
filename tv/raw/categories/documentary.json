@@ -85,20 +85,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "OULTM0gM1sr5Ul",
-    "name": "BBC Earth Turkiye",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/bbc/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eQ0MWZIQb0YBdg",
     "name": "BBC Earth US",
     "sources": {
@@ -456,6 +442,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "455SjvDokn1Rzo",
+    "name": "Epic Crimes",
+    "sources": {
+      "streams": [
+        "https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "J5HDeVjO016Oz1",
     "name": "EPlanet TV",
     "sources": {
@@ -517,9 +517,8 @@
     "name": "History",
     "sources": {
       "streams": [
-        "https://45.177.114.114/HISTORY/index.m3u8",
-        "https://170.83.16.50/HISTORY/index.m3u8",
-        "https://45.190.28.50/HISTORY_HD/index.m3u8"
+        "https://45.190.28.50/HISTORY_HD/index.m3u8",
+        "https://170.83.16.50/HISTORY/index.m3u8"
       ]
     },
     "languages": [
@@ -533,7 +532,6 @@
     "name": "History 2 Latin America Brazil",
     "sources": {
       "streams": [
-        "https://45.177.114.114/HISTORY_2/index.m3u8",
         "https://45.190.28.50/H2_HD/index.m3u8"
       ]
     },
@@ -549,6 +547,20 @@
     "sources": {
       "streams": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D0kxX68lMX7LDk",
+    "name": "History East",
+    "sources": {
+      "streams": [
+        "https://tvsen3.aynaott.com/np3JstRE/index.m3u8"
       ]
     },
     "languages": [
@@ -669,6 +681,21 @@
     "sources": {
       "streams": [
         "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "feuZPyWhX6la0P",
+    "name": "Law & Crime",
+    "sources": {
+      "streams": [
+        "https://cdn.lawandcrime.net/rewind/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -824,25 +851,26 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T6sJd0DONpZMP2",
-    "name": "National Geographic",
+    "nanoid": "hLMd0T3SoxEtoM",
+    "name": "National Geographic East",
     "sources": {
       "streams": [
-        "https://nord.ayakkabiparti.lol/natgeo/index.m3u8"
+        "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8"
       ]
     },
     "languages": [
-      "tur"
+      "eng"
     ],
-    "country": "tr",
-    "isGeoBlocked": true
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "g2bTTopTiGfPsS",
     "name": "National Geographic Latin America Panregional",
     "sources": {
       "streams": [
-        "https://45.162.193.35/NATGEO/index.m3u8"
+        "https://45.162.193.35/NATGEO/index.m3u8",
+        "https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8"
       ]
     },
     "languages": [
@@ -850,20 +878,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nc1DjS7LywoSFc",
-    "name": "National Geographic Wild",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "AbcJxYxf3cyf3H",
@@ -1114,8 +1128,7 @@
     "name": "UMSA TVU Internacional",
     "sources": {
       "streams": [
-        "https://edge.enhdtv.com/8026/index.m3u8",
-        "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
+        "https://edge.enhdtv.com/8026/index.m3u8"
       ]
     },
     "languages": [
@@ -1150,20 +1163,6 @@
       "bul"
     ],
     "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HU7t21P03xeEXV",
-    "name": "Viasat History",
-    "sources": {
-      "streams": [
-        "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {

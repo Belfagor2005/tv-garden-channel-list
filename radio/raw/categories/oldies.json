@@ -13421,6 +13421,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LV5ns6tIF7vD18",
+    "name": "Metro Classic",
+    "sources": {
+      "streams": [
+        "https://live-nors.sharp-stream.com/nors3.mp3"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6wbzvBg2UCaUiC",
     "name": "MGT Rádio Retrô",
     "sources": {
@@ -14891,9 +14905,7 @@
     "name": "NRK P1+",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1pluss_aac_h",
-        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_l",
-        "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1pluss"
       ]
     },
     "languages": [

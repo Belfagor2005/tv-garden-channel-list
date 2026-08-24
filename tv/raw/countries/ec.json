@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "1PJE0RldSK4FL3",
-    "name": "America Estereo Guayaquil",
-    "sources": {
-      "streams": [
-        "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S4rLEDzjcTuaYb",
     "name": "America Estereo Ibarra",
     "sources": {
@@ -89,34 +75,6 @@
     "sources": {
       "streams": [
         "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2sQYSoPrPdaYxc",
-    "name": "Bacan Te Veo",
-    "sources": {
-      "streams": [
-        "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XNa5AM5I0Mvv8Q",
-    "name": "Capricho TV",
-    "sources": {
-      "streams": [
-        "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
       ]
     },
     "languages": [
@@ -350,20 +308,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2UL8hACEyKl0pF",
-    "name": "Loreto TV",
-    "sources": {
-      "streams": [
-        "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "y0sG32hXHAVy2Q",
     "name": "Majestad Television",
     "sources": {
@@ -439,20 +383,6 @@
     "sources": {
       "streams": [
         "https://cloudvideo.servers10.com:8081/8118/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LRZplckRTbzRYe",
-    "name": "Oromar TV",
-    "sources": {
-      "streams": [
-        "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
       ]
     },
     "languages": [
@@ -551,20 +481,6 @@
     "sources": {
       "streams": [
         "https://tv3ecuador.site/hls/stream/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0Vw6NdTRGURL25",
-    "name": "RTU",
-    "sources": {
-      "streams": [
-        "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
       ]
     },
     "languages": [
@@ -698,6 +614,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MNXObrhpcNUXdr",
+    "name": "TVC",
+    "sources": {
+      "streams": [
+        "https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uhXaKy0zwMPJAb",
     "name": "UNIANDES TV",
     "sources": {
@@ -717,20 +647,6 @@
     "sources": {
       "streams": [
         "https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M10FM4kxvf869B",
-    "name": "Zaracay TV",
-    "sources": {
-      "streams": [
-        "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8"
       ]
     },
     "languages": [

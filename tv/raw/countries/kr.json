@@ -391,34 +391,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pnA1ESNuQBhdp0",
-    "name": "HLAT-DTV",
-    "sources": {
-      "streams": [
-        "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GCDtsdmWOrJKEn",
-    "name": "HLCQ-DTV",
-    "sources": {
-      "streams": [
-        "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jOYpv2cv2xRFLe",
     "name": "HLCT-DTV",
     "sources": {
@@ -452,6 +424,20 @@
     "sources": {
       "streams": [
         "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "klJTuuuc9Rkoag",
+    "name": "HLKJ-DTV",
+    "sources": {
+      "streams": [
+        "https://123.140.197.22/stream/1/play.m3u8"
       ]
     },
     "languages": [
@@ -507,7 +493,7 @@
     "name": "JTBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MkGwVxLmKhM"
+        "https://www.youtube-nocookie.com/embed/FfgkbWKF0HU"
       ]
     },
     "languages": [
@@ -521,7 +507,7 @@
     "name": "KBS News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1_c4DHK5TyA"
+        "https://www.youtube-nocookie.com/embed/I_HgnnykSLQ"
       ]
     },
     "languages": [
@@ -551,6 +537,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/OxQQsIvJTTU"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lvIrwQpUaM4Bib",
+    "name": "KTV",
+    "sources": {
+      "streams": [
+        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -676,7 +676,7 @@
     "name": "Pororo 뽀로로",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZshH8LC5zXA"
+        "https://www.youtube-nocookie.com/embed/0Q45YHWeeS4"
       ]
     },
     "languages": [
@@ -704,7 +704,7 @@
     "name": "SBS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/eQ-YOdNnYRc"
+        "https://www.youtube-nocookie.com/embed/_YAbT9L5r_Y"
       ]
     },
     "languages": [
@@ -788,7 +788,7 @@
     "name": "TVCHOSUN JOY",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rhweE3m3-hU"
+        "https://www.youtube-nocookie.com/embed/AQ5R3awb0SE"
       ]
     },
     "languages": [
@@ -802,7 +802,7 @@
     "name": "TVCHOSUN MUSIC",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fhVIAInvu4g"
+        "https://www.youtube-nocookie.com/embed/ecbAXLtY740"
       ]
     },
     "languages": [

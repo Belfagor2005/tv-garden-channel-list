@@ -120,8 +120,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -241,26 +240,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xMyWNZNLNYysjq",
-    "name": "Enlace",
+    "nanoid": "XI0tj0hHgDA4kn",
+    "name": "Extra TV 42",
     "sources": {
       "streams": [
-        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+        "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
-      "eng",
       "spa"
     ],
     "country": "cr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XI0tj0hHgDA4kn",
-    "name": "Extra TV 42",
+    "nanoid": "ejJZfMgOR7K5m8",
+    "name": "Extrema Kids TV",
     "sources": {
       "streams": [
-        "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8"
+        "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
       ]
     },
     "languages": [
@@ -368,6 +366,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hWONN4ANlWd0XQ",
+    "name": "La Potente Radio TV",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3626/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YEWQw0DloTzS1o",
     "name": "Limon TV",
     "sources": {
@@ -414,7 +426,7 @@
     "name": "Multimedios Costa Rica",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/WgMtJFFL-gs"
+        "https://www.youtube-nocookie.com/embed/1kePMjwgDaQ"
       ]
     },
     "languages": [
@@ -693,6 +705,20 @@
     "sources": {
       "streams": [
         "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KTfqjR2nJysy7l",
+    "name": "VM Latino",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
       ]
     },
     "languages": [

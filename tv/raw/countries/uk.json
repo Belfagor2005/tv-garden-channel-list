@@ -173,6 +173,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yqAqfz8NLIipuY",
+    "name": "Banijay Bluelight: Emergency",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/sQ7gOdqi8Xw"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "511xNHZg5Co5nc",
     "name": "BBC Arabic",
     "sources": {
@@ -232,6 +246,20 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "BUsm8kgtVtmneU",
+    "name": "BBC News North America",
+    "sources": {
+      "streams": [
+        "https://tvsen1.aynaott.com/shn6jGTk/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "JhHpiYec647IOL",
@@ -432,6 +460,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K1Rki2QXOUbCd5",
+    "name": "Classic Mr Bean",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/mF3s5-6mIH4"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UtpfVv78Uwxz3y",
     "name": "Clubbing TV UK",
     "sources": {
@@ -513,7 +555,7 @@
     "name": "Create & Craft TV Extra",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Pt9OR8CVyko"
+        "https://www.youtube-nocookie.com/embed/Ji8joCX8xaY"
       ]
     },
     "languages": [
@@ -778,6 +820,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "urg9cQ3k0EMhQV",
+    "name": "Eurochannel",
+    "sources": {
+      "streams": [
+        "https://cdn1tlinkgo.tlink.cl/eurochannel/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "por",
+      "spa"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "25vEC0I74MXlzM",
     "name": "Evolution Earth",
     "sources": {
@@ -786,6 +844,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZsfTQFg0CGnALp",
+    "name": "Faith UK",
+    "sources": {
+      "streams": [
+        "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -847,8 +919,8 @@
     "sources": {
       "streams": [
         "https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8",
-        "https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8",
-        "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8",
+        "https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/I8E6eDmhegY"
@@ -910,20 +982,6 @@
     "sources": {
       "streams": [
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oS8yaG00faaZ9t",
-    "name": "Goodwood Road & Racing",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/6IrRwryJv7I"
       ]
     },
     "languages": [
@@ -1179,6 +1237,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WNYH3Yw8Ugl7X8",
+    "name": "Iqra Bangla",
+    "sources": {
+      "streams": [
+        "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5oHHeA42AXWK92",
     "name": "Iran International",
     "sources": {
@@ -1299,18 +1371,6 @@
     "sources": {
       "streams": [
         "https://amg26277-amg26277c11-samsung-gb-11286.playouts.now.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oXkN6iKPl3YLFJ",
-    "name": "Location Location Location",
-    "sources": {
-      "streams": [
-        "https://d30q6vjmdwhh1y.cloudfront.net/LocationLocationLocation_GB.m3u8"
       ]
     },
     "languages": [],
@@ -2071,6 +2131,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dxmNzNdEqt5bY8",
+    "name": "Sangat TV",
+    "sources": {
+      "streams": [
+        "https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UuT4hF41jXyjM4",
     "name": "Sanskar UK",
     "sources": {
@@ -2085,6 +2159,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xbZXBsOIAbJVyE",
+    "name": "Setanta Sports",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/313/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ukr"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UFAu3UqV4xmpUm",
     "name": "Setareh TV",
     "sources": {
@@ -2093,6 +2182,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/dBloEq9d49A"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2130,6 +2233,20 @@
     "sources": {
       "streams": [
         "https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wMuz0OmtIOue4j",
+    "name": "Sky Sports News",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8"
       ]
     },
     "languages": [
@@ -2186,6 +2303,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nUIhrbSOF3kafa",
+    "name": "Star Vijay UK",
+    "sources": {
+      "streams": [
+        "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tam"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -2818,7 +2950,6 @@
     "name": "World War TV",
     "sources": {
       "streams": [
-        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

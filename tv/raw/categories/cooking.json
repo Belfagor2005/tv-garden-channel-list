@@ -101,6 +101,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wntm45mKoFnf41",
+    "name": "El Gourmet Panregional",
+    "sources": {
+      "streams": [
+        "https://cdn1tlinkgo.tlink.cl/elgourmethd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y8AFU7NIgn2ZOP",
+    "name": "El Gourmet South",
+    "sources": {
+      "streams": [
+        "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wKjb76m31kcro9",
     "name": "Food Food",
     "sources": {
@@ -170,20 +198,6 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mHg6rpXR6VaVXj",
-    "name": "Hello Taste",
-    "sources": {
-      "streams": [
-        "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
     "isGeoBlocked": false
   },
   {

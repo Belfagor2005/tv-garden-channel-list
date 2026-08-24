@@ -324,6 +324,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "m3jr5v4OZEAA0X",
+    "name": "Alaca Radyo",
+    "sources": {
+      "streams": [
+        "https://ssl22.radyotelekom.com/8314/stream"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hmp0jsxVva8J6O",
     "name": "Alepou Radio",
     "sources": {
@@ -5116,8 +5130,7 @@
     "name": "NRK Folkemusikk",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_folkemusikk_aac_h",
-        "https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_l"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/folkemusikk"
       ]
     },
     "languages": [

@@ -522,7 +522,8 @@
     "name": "Euronews Spanish",
     "sources": {
       "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8",
+        "https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8"
       ]
     },
     "languages": [
@@ -904,8 +905,8 @@
     "name": "Le Figaro TV Ile-de-France",
     "sources": {
       "streams": [
-        "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8",
-        "https://static.lefigaro.fr/secom/tnt.m3u8"
+        "https://static.lefigaro.fr/secom/tnt.m3u8",
+        "https://junhls.persiana.live/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -1005,20 +1006,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BMUX82mxnWd5Ru",
-    "name": "Mezzo",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Mezzo/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LMz39hxqiqUJdI",
     "name": "Mezzo Live",
     "sources": {
@@ -1066,6 +1053,18 @@
     "sources": {
       "streams": [
         "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "frxoUV6KIlJwd1",
+    "name": "MyTime Movie Network France",
+    "sources": {
+      "streams": [
+        "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -1319,20 +1318,6 @@
     "sources": {
       "streams": [
         "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/dvYreLu9xos"
       ]
     },
     "languages": [
@@ -1834,6 +1819,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DCLTXwqB1NQz9D",
+    "name": "TV5Monde Asia",
+    "sources": {
+      "streams": [
+        "https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "2gvbHx7OrU70G2",
     "name": "TV5MONDE Chefs",
     "sources": {
@@ -1958,6 +1957,7 @@
     "name": "zenith",
     "sources": {
       "streams": [
+        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },

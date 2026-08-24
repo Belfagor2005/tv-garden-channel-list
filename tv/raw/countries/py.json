@@ -172,6 +172,7 @@
     "name": "Farra Play",
     "sources": {
       "streams": [
+        "https://159.203.148.226/live/farra.m3u8",
         "https://stream.farra.com.py/live/farra_low.m3u8"
       ]
     },
@@ -463,6 +464,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Oy0RzzLMHXV3WJ",
+    "name": "Radio San Cristobal 88.7 FM",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TeqRUHz0t6Kdc6",
+    "name": "Radio TV El Arca del Pacto",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CghjvXX91l15l6",
     "name": "RB TV",
     "sources": {
@@ -547,11 +576,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZvkiWYEeuwp6wf",
-    "name": "Suceso TV",
+    "nanoid": "Y9Zfz6JHuFmN3C",
+    "name": "SNT",
     "sources": {
       "streams": [
-        "https://live.enhdtv.com:8081/8060/index.m3u8"
+        "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
@@ -566,6 +595,20 @@
     "sources": {
       "streams": [
         "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b3mt6RVBhhnDwq",
+    "name": "Tigo Sports+",
+    "sources": {
+      "streams": [
+        "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -622,6 +665,20 @@
     "sources": {
       "streams": [
         "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9KkStjSrl7VxIY",
+    "name": "Venus Media",
+    "sources": {
+      "streams": [
+        "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
       ]
     },
     "languages": [

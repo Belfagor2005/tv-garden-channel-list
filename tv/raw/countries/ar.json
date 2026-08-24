@@ -75,6 +75,7 @@
     "name": "AMC Latin America Panregional",
     "sources": {
       "streams": [
+        "https://cdn1tlinkgo.tlink.cl/amchd/index.m3u8",
         "https://streamer.metronethn.com/AMC/index.m3u8"
       ]
     },
@@ -240,6 +241,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CLWKjUa2Z9Mh15",
+    "name": "Cadena103.TV",
+    "sources": {
+      "streams": [
+        "https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DpnzXicEKSJJa1",
     "name": "Canal 2 Gualeguay",
     "sources": {
@@ -287,20 +302,6 @@
     "sources": {
       "streams": [
         "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MH4oTx0ElnuqXt",
-    "name": "Canal 3 La Pampa",
-    "sources": {
-      "streams": [
-        "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -450,20 +451,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RjGzeK99LgjrbF",
-    "name": "Canal 6 Posadas",
-    "sources": {
-      "streams": [
-        "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Dc90aqSkVbLUNa",
     "name": "Canal 6 Viento Recio",
     "sources": {
@@ -554,20 +541,6 @@
     "sources": {
       "streams": [
         "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tVyuCkicjZdJB8",
-    "name": "Canal 9 Litoral",
-    "sources": {
-      "streams": [
-        "https://stream.arcast.live/ahora/ahora/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1007,8 +980,7 @@
     "name": "Cosmos Tv",
     "sources": {
       "streams": [
-        "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
-        "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
+        "https://canaletaplus.com:3922/live/cosmoslive.m3u8"
       ]
     },
     "languages": [
@@ -1064,7 +1036,8 @@
     "name": "Disney Channel Latin America Panregional HD",
     "sources": {
       "streams": [
-        "https://streamer.metronethn.com/DisneyChannel/index.m3u8"
+        "https://streamer.metronethn.com/DisneyChannel/index.m3u8",
+        "https://cdn1tlinkgo.tlink.cl/disneychannelhd/mono.m3u8"
       ]
     },
     "languages": [
@@ -1079,7 +1052,8 @@
     "name": "Disney Jr. Latin America South",
     "sources": {
       "streams": [
-        "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+        "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "https://cdn1tlinkgo.tlink.cl/disneyjr/index.m3u8"
       ]
     },
     "languages": [
@@ -1117,6 +1091,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wntm45mKoFnf41",
+    "name": "El Gourmet Panregional",
+    "sources": {
+      "streams": [
+        "https://cdn1tlinkgo.tlink.cl/elgourmethd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y8AFU7NIgn2ZOP",
+    "name": "El Gourmet South",
+    "sources": {
+      "streams": [
+        "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GdDjRTp2cOF0FH",
     "name": "El Ocho",
     "sources": {
@@ -1135,7 +1137,7 @@
     "name": "El Once Radio",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fB14fRbFA_Y"
+        "https://www.youtube-nocookie.com/embed/lh4wNpPVQe8"
       ]
     },
     "languages": [
@@ -1149,7 +1151,7 @@
     "name": "El Once TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BKM0uB463mM"
+        "https://www.youtube-nocookie.com/embed/gPXFcQJdPys"
       ]
     },
     "languages": [
@@ -1167,6 +1169,22 @@
       ]
     },
     "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VX5kVJoRiCmbKU",
+    "name": "Europa Europa",
+    "sources": {
+      "streams": [
+        "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8",
+        "https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "ar",
@@ -1370,6 +1388,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "83vfpPczQc0o3d",
+    "name": "Neo TV",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nCjEym27rIb7Sc",
+    "name": "NET TV",
+    "sources": {
+      "streams": [
+        "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yzztzhg09dFhfS",
     "name": "NG Federal",
     "sources": {
@@ -1388,7 +1435,7 @@
     "name": "Pop Radio 101.5",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ehlqDJAb3zc"
+        "https://www.youtube-nocookie.com/embed/ywG0M-oMr7s"
       ]
     },
     "languages": [
@@ -1539,20 +1586,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qtaPOAnUqcYU1F",
-    "name": "Radio Yguazu TV",
-    "sources": {
-      "streams": [
-        "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OHcrWMUWjd8Gk0",
     "name": "Retroclub",
     "sources": {
@@ -1586,20 +1619,6 @@
     "sources": {
       "streams": [
         "https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4D71cx5fvZCZ53",
-    "name": "San Pedro TV",
-    "sources": {
-      "streams": [
-        "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1712,7 +1731,7 @@
     "name": "Telediario Digital",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/KX_nKfKPuR0"
+        "https://www.youtube-nocookie.com/embed/qvAMs1XG3ow"
       ]
     },
     "languages": [
@@ -1750,11 +1769,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4INN3f93tsfyG",
-    "name": "Televisión Pública",
+    "nanoid": "KqdPHNGkrFTBeG",
+    "name": "Telesol",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/v6ERloHoXBE"
+      "streams": [
+        "https://cdn1.tvlin.net/open/telesol/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1764,11 +1783,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0RDZ86LiXSDIjn",
-    "name": "TIV Television",
+    "nanoid": "C4INN3f93tsfyG",
+    "name": "Televisión Pública",
     "sources": {
-      "streams": [
-        "https://videohd.live:19360/8008/8008.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/zOCZ8Bj5nJ4"
       ]
     },
     "languages": [
@@ -1923,7 +1942,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/OvCLpHktDjU"
+        "https://www.youtube-nocookie.com/embed/bfvxiWbKeMc"
       ]
     },
     "languages": [

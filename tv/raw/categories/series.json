@@ -259,6 +259,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46209/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -420,6 +434,7 @@
     "name": "Don't Tell The Bride",
     "sources": {
       "streams": [
+        "https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8"
       ]
@@ -487,6 +502,36 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "aUMgSxs4t83jMD",
+    "name": "Emret Komutanım",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/b4U9nt3s128"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VX5kVJoRiCmbKU",
+    "name": "Europa Europa",
+    "sources": {
+      "streams": [
+        "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8",
+        "https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "kQcoVGJEguMaJQ",
@@ -597,7 +642,7 @@
     "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ye0aJuSMPRo"
+        "https://www.youtube-nocookie.com/embed/Gq4tXnGLEQw"
       ]
     },
     "languages": [
@@ -752,6 +797,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sJ8ODiRHG7k4yH",
+    "name": "Mega Ficcion",
+    "sources": {
+      "streams": [
+        "https://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U81csRB9YHDFcc",
     "name": "Mireasa",
     "sources": {
@@ -784,7 +843,7 @@
     "name": "Muhteşem Yüzyıl",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/OefcAkar12A"
+        "https://www.youtube-nocookie.com/embed/tZxD_s29JZc"
       ]
     },
     "languages": [
@@ -975,17 +1034,45 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AEW5rUSukyBObX",
-    "name": "Smotrim 100% Lyubov",
+    "nanoid": "MmvGAkIJ1Y1or8",
+    "name": "Shout! Studios: Dennis the Menace",
     "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/cq-WzdQT-m0"
       ]
     },
     "languages": [
-      "rus"
+      "eng"
     ],
-    "country": "ru",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JfdQ8GXk8vD883",
+    "name": "Shout! Studios: Father Knows Best",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MpHW5N3l_sM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rkSBlkz2deLyQZ",
+    "name": "Shout! Studios: Get A Life",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/VIMz97cnpVk"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1050,6 +1137,7 @@
     "name": "Star Channel Latin America Panregional",
     "sources": {
       "streams": [
+        "https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8",
         "https://45.162.193.35/STAR_CHANNEL/index.m3u8"
       ]
     },
@@ -1162,6 +1250,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "5SXjpCaq35k9dq",
+    "name": "The Doctors",
+    "sources": {
+      "streams": [
+        "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wxBGFlZApAgv7M",
     "name": "TNT Novelas Brazil",
     "sources": {
@@ -1192,11 +1294,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "5zMPOhKUR72wAc",
-    "name": "TokuSHOUTsu: Kamen Rider",
+    "nanoid": "jCCrC4uMCnnFWp",
+    "name": "TokuSHOUTsu: Kamen Rider Ryuki",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/k_Kso-7TZX4"
+        "https://www.youtube-nocookie.com/embed/W_aN_56zFaA"
       ]
     },
     "languages": [
@@ -1297,6 +1399,20 @@
     "sources": {
       "streams": [
         "https://d31z96rdrmwfsp.cloudfront.net/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lKPGETEt2FJ6ge",
+    "name": "USA Network East",
+    "sources": {
+      "streams": [
+        "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8"
       ]
     },
     "languages": [

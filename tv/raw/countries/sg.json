@@ -73,6 +73,9 @@
     "nanoid": "WGiKSjCar1BvSz",
     "name": "CNA International",
     "sources": {
+      "streams": [
+        "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/XWq5kBlakcQ"
       ]
@@ -97,20 +100,6 @@
     ],
     "country": "sg",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G00HUpBKHxckzh",
-    "name": "CNBC Asia",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "sg",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "y1OGn4C9pf6ycf",

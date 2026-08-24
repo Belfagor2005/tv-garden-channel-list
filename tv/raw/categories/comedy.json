@@ -14,34 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CYPaX2UVL5PBUV",
-    "name": "13 Humor",
-    "sources": {
-      "streams": [
-        "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C7SK0S2RgKNZGi",
-    "name": "AFV",
-    "sources": {
-      "streams": [
-        "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "miNrjenD6E2QJg",
     "name": "alpha Cinema",
     "sources": {
@@ -113,6 +85,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K1Rki2QXOUbCd5",
+    "name": "Classic Mr Bean",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/mF3s5-6mIH4"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lwOO3yKfQFwVFA",
+    "name": "Comedy Central East",
+    "sources": {
+      "streams": [
+        "https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8j5W4jKa2q9Ms3",
     "name": "Comedy Dynamics",
     "sources": {
@@ -126,6 +126,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QDT0Nt5qZTPoXG",
+    "name": "Comedy Play",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -245,6 +259,7 @@
     "name": "Laff",
     "sources": {
       "streams": [
+        "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
         "https://tvsen7.aynascope.net/laff/index.m3u8"
       ]
     },
@@ -366,6 +381,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2gR04ExHT9Yw4o",
+    "name": "Shout! Studios: MST3K",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/B55Oz3Yq61Q"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4VE8AYBTYbd8ii",
     "name": "Sirippoli TV",
     "sources": {
@@ -430,6 +459,20 @@
     "sources": {
       "streams": [
         "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lKPGETEt2FJ6ge",
+    "name": "USA Network East",
+    "sources": {
+      "streams": [
+        "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8"
       ]
     },
     "languages": [

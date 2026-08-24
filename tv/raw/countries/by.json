@@ -15,15 +15,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VtHTEOxTK0CD0C",
-    "name": "Belarus-3",
+    "nanoid": "sZmkKrrkQZCHvn",
+    "name": "Belarus-4 Gomel",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+        "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8"
       ]
     },
     "languages": [
-      "bel",
       "rus"
     ],
     "country": "by",
@@ -132,6 +131,20 @@
     },
     "languages": [
       "bel",
+      "rus"
+    ],
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qXDjb50le3QgvB",
+    "name": "Vitebsk",
+    "sources": {
+      "streams": [
+        "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
       "rus"
     ],
     "country": "by",

@@ -113,6 +113,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uOcj7SNsYLGnvO",
+    "name": "Dit is Helmond",
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8",
+        "https://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uC0jraL1VNPnXr",
     "name": "DocuBox",
     "sources": {
@@ -318,6 +333,20 @@
     },
     "languages": [
       "eng",
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vZH696VcUAzk3F",
+    "name": "Ideaal TV",
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
       "nld"
     ],
     "country": "nl",
@@ -569,6 +598,20 @@
     "sources": {
       "streams": [
         "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Mgcwl4ZNsvp5P5",
+    "name": "Omroep Peelrand",
+    "sources": {
+      "streams": [
+        "https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8"
       ]
     },
     "languages": [

@@ -23983,8 +23983,8 @@
     "sources": {
       "streams": [
         "https://lyd.nrk.no/nrk_radio_p13_aac_h",
-        "https://lyd.nrk.no/nrk_radio_p13_mp3_l",
-        "https://lyd.nrk.no/nrk_radio_p13_mp3_h"
+        "https://lyd.nrk.no/nrk_radio_p13_mp3_h",
+        "https://lyd.nrk.no/nrk_radio_p13_mp3_l"
       ]
     },
     "languages": [
@@ -25206,21 +25206,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sMr0neOpE177bb",
-    "name": "P11 Bandit",
-    "sources": {
-      "streams": [
-        "https://p11.p4groupaudio.com/P11_AH",
-        "https://p11.p4groupaudio.com/P11_MM"
-      ]
-    },
-    "languages": [
-      "nor"
-    ],
-    "country": "no",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8RrE24eHV9zSVb",
     "name": "Paekākāriki FM 88.2",
     "sources": {
@@ -25971,6 +25956,20 @@
       "ell"
     ],
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DmDvSjrKkxJBRH",
+    "name": "Power Rock Radio",
+    "sources": {
+      "streams": [
+        "https://live-nors.sharp-stream.com/nors4.mp3"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
     "isGeoBlocked": false
   },
   {
@@ -33774,6 +33773,20 @@
       "pol"
     ],
     "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f3Het6wUjXOtIe",
+    "name": "Radio Sol Classic",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/radiosol"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
