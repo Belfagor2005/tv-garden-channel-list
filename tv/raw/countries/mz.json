@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "pRWBJuGYx6Sqyn",
+    "name": "MNTV",
+    "sources": {
+      "streams": [
+        "https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "mz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GzjkBwRPP1x8dy",
     "name": "Reino Infantil",
     "sources": {
@@ -19,20 +33,6 @@
     "sources": {
       "streams": [
         "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "mz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HY7rVLsoZbudni",
-    "name": "TV Vitoria",
-    "sources": {
-      "streams": [
-        "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8"
       ]
     },
     "languages": [

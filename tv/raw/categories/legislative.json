@@ -144,7 +144,6 @@
     "name": "Canal Gov",
     "sources": {
       "streams": [
-        "https://45.177.114.115/TV_BRASIL_2/index.m3u8",
         "https://canalgov-stream.ebc.com.br/index.m3u8",
         "https://168.197.104.22/TV_BRASIL_2/index.m3u8"
       ],
@@ -455,6 +454,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "54APtzgfl8rhY2",
+    "name": "CT-N Live Stream 2",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9Cb1QitN6W4Cqb",
     "name": "CT-N TV Conneticut",
     "sources": {
@@ -709,6 +722,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tsY7Oi70RUlWEA",
+    "name": "Icrtv Colima",
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kDus67YWLDmlSH",
     "name": "JNE TV",
     "sources": {
@@ -807,35 +834,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6uCCfd71b4oev",
-    "name": "Legislative Assembly of Ontario",
-    "sources": {
-      "streams": [
-        "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "sources": {
-      "streams": [
-        "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hXk0VgitqbFza7",
     "name": "Leominster TV Government",
     "sources": {
@@ -897,20 +895,6 @@
     "sources": {
       "streams": [
         "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J49I0cja3V1GVG",
-    "name": "Midpen Media Center Channel 29",
-    "sources": {
-      "streams": [
-        "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1164,7 +1148,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/epqTHqopADQ"
+        "https://www.youtube-nocookie.com/embed/RnhBCPJ9598"
       ]
     },
     "languages": [
@@ -1310,7 +1294,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/EIDozH6LHfU"
+        "https://www.youtube-nocookie.com/embed/laGo2kJTLjQ"
       ]
     },
     "languages": [
@@ -1354,7 +1338,7 @@
     "name": "TV Câmara Porto Alegre",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SqTmUndYu9M"
+        "https://www.youtube-nocookie.com/embed/kjfOAQMgbtU"
       ]
     },
     "languages": [
@@ -1383,7 +1367,7 @@
     "name": "TV Justiça",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Loa9DFv2dpA"
+        "https://www.youtube-nocookie.com/embed/NMa5fwMcI9w"
       ]
     },
     "languages": [

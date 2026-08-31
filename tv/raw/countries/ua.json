@@ -382,20 +382,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CTBxkwzhvGuqRH",
-    "name": "FILMBOX+ One Ukraine & Baltics",
-    "sources": {
-      "streams": [
-        "https://s70378.cdn.ngenix.net/filmbox/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ua",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "xbUgKyNJkUd9WG",
     "name": "FilmUA Live",
     "sources": {
@@ -805,6 +791,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gGmezQHr5OATdq",
+    "name": "My-Ukraina TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/442/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "z8FvdMLmvlmUrc",
     "name": "Nashe Lubimoe Kino Ukraine",
     "sources": {
@@ -1118,20 +1118,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "ZqrDz64QgMJgYB",
-    "name": "Sonata TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/I2mWqNL0IsY"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U9nAYOR0oRufhL",
     "name": "Sport 1",
     "sources": {
@@ -1358,6 +1344,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WcoZqsaKguXix1",
+    "name": "TUSO",
+    "sources": {
+      "streams": [
+        "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TSbUr1OhqLkxuT",
     "name": "TVA",
     "sources": {
@@ -1476,7 +1476,7 @@
     "name": "Телеканал Конкурент TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PNges9b_tiA"
+        "https://www.youtube-nocookie.com/embed/A10kKPuo3vA"
       ]
     },
     "languages": [

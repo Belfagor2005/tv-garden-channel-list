@@ -391,11 +391,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jOYpv2cv2xRFLe",
-    "name": "HLCT-DTV",
+    "nanoid": "pnA1ESNuQBhdp0",
+    "name": "HLAT-DTV",
     "sources": {
       "streams": [
-        "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
+        "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GCDtsdmWOrJKEn",
+    "name": "HLCQ-DTV",
+    "sources": {
+      "streams": [
+        "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -493,7 +507,7 @@
     "name": "JTBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/FfgkbWKF0HU"
+        "https://www.youtube-nocookie.com/embed/yHMQZ3YcSpM"
       ]
     },
     "languages": [
@@ -507,7 +521,7 @@
     "name": "KBS News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/I_HgnnykSLQ"
+        "https://www.youtube-nocookie.com/embed/LNE0bDl-bRA"
       ]
     },
     "languages": [
@@ -676,7 +690,7 @@
     "name": "Pororo 뽀로로",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0Q45YHWeeS4"
+        "https://www.youtube-nocookie.com/embed/-kKDTOyhGHY"
       ]
     },
     "languages": [
@@ -704,7 +718,7 @@
     "name": "SBS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_YAbT9L5r_Y"
+        "https://www.youtube-nocookie.com/embed/F_n9cVU3MLs"
       ]
     },
     "languages": [
@@ -788,7 +802,7 @@
     "name": "TVCHOSUN JOY",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/AQ5R3awb0SE"
+        "https://www.youtube-nocookie.com/embed/jJedrfR63Vk"
       ]
     },
     "languages": [
@@ -802,7 +816,7 @@
     "name": "TVCHOSUN MUSIC",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ecbAXLtY740"
+        "https://www.youtube-nocookie.com/embed/cznhibcx-S8"
       ]
     },
     "languages": [

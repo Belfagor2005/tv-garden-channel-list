@@ -482,20 +482,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9q1j3z93yot0xE",
-    "name": "CHCO-TV",
-    "sources": {
-      "streams": [
-        "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "vtr0l4afegewa9",
     "name": "CityNews Calgary",
     "sources": {
@@ -625,6 +611,20 @@
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "jqqev1sDHlkMw9",
+    "name": "CKTV-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
       ]
     },
     "languages": [
@@ -791,11 +791,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
     "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/c-h3NC7COzs"
       ]
     },
     "languages": [
@@ -837,9 +837,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8",
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -986,71 +986,6 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "I6uCCfd71b4oev",
-    "name": "Legislative Assembly of Ontario",
-    "sources": {
-      "streams": [
-        "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uUGOxH0a6eS5ZE",
-    "name": "Legislative Assembly of Ontario Committees (room 1)",
-    "sources": {
-      "streams": [
-        "https://temp2.isilive.ca/live/_definst_/ontla/committee_1-en/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dxr4tHRhpiu8Xi",
-    "name": "Legislative Assembly of Ontario Committees (room 2)",
-    "sources": {
-      "streams": [
-        "https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0KUROtebe5Hr0N",
-    "name": "Legislative Assembly of Ontario Committees (room 151)",
-    "sources": {
-      "streams": [
-        "https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "sources": {
-      "streams": [
-        "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "lQWrqWxPSBgWUI",
@@ -2092,7 +2027,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/nc55lzPhkw0"
+        "https://www.youtube-nocookie.com/embed/mCMXi5dFQpE"
       ]
     },
     "languages": [
@@ -2106,7 +2041,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xpejGKzChQo"
+        "https://www.youtube-nocookie.com/embed/3WKq2QdkftU"
       ]
     },
     "languages": [
@@ -2287,7 +2222,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/d_LPdGzmR3E"
+        "https://www.youtube-nocookie.com/embed/H2ZwwT4fzYs"
       ]
     },
     "languages": [

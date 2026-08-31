@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "w9iKnoeRBQ99pR",
+    "name": "Can Tho TV 2",
+    "sources": {
+      "streams": [
+        "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9mkVX2EDgu3ZHf",
     "name": "Can Tho TV 3",
     "sources": {
@@ -50,20 +64,6 @@
       ]
     },
     "languages": [],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VCFZo6dbs3n20W",
-    "name": "DGV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/0KkkKDak3jQ"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
     "country": "vn",
     "isGeoBlocked": false
   },
@@ -108,6 +108,34 @@
     ],
     "country": "vn",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QnYbafq8SSO9v0",
+    "name": "HanoiTV1",
+    "sources": {
+      "streams": [
+        "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "MO8deGVLY2zQ9f",
+    "name": "HanoiTV2",
+    "sources": {
+      "streams": [
+        "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "mBI5by4rAF4VMT",

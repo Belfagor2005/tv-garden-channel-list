@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ISKyzZHCXL6rvO",
-    "name": "13Rec",
-    "sources": {
-      "streams": [
-        "https://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aPpjoxS7Oyu4bM",
     "name": "AWTV",
     "sources": {
@@ -130,28 +116,13 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/goeRRwG3OsU"
+        "https://www.youtube-nocookie.com/embed/HpQWvSPjLbo"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Gjmjoa2VOJKV6E",
-    "name": "Movify Kino",
-    "sources": {
-      "streams": [
-        "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8"
-      ]
-    },
-    "languages": [
-      "lav",
-      "rus"
-    ],
-    "country": "lv",
     "isGeoBlocked": false
   },
   {
@@ -214,20 +185,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9WIN5KhtEj3GSs",
     "name": "Shout! Studios: Bonanza",
     "sources": {
@@ -253,34 +210,6 @@
       "spa"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZUiCxfI2YHTlLz",
-    "name": "Shout! Studios: Elvira's Movie Macabre",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/wKD5eBWQlds"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6UMqfCWAL6fJyw",
-    "name": "Smotrim 100% Klassika",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -312,11 +241,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vsipvP55Drqkn2",
-    "name": "Timeless TV",
+    "nanoid": "i5p0X5SsyFECKS",
+    "name": "The Loop",
     "sources": {
       "streams": [
-        "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8"
+        "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8"
       ]
     },
     "languages": [
@@ -326,15 +255,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MYHc3ofoTIdcA8",
-    "name": "TokuSHOUTsu: Kamen Rider Series",
+    "nanoid": "vsipvP55Drqkn2",
+    "name": "Timeless TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Q10ILrG2eOM"
+      "streams": [
+        "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8"
       ]
     },
     "languages": [
-      "jpn"
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -463,6 +392,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XwiDGKdsH20Bju",
+    "name": "TVS Retro",
+    "sources": {
+      "streams": [
+        "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
     "isGeoBlocked": false
   },
   {

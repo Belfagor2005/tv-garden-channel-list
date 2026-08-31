@@ -5,6 +5,9 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XhgIFZIQLW8"
       ]
     },
     "languages": [
@@ -155,6 +158,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UXWOiM2L1q57AI",
+    "name": "Camp Lakebottom",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/LBoTtQXGTqY"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tIGqdwnTT3ZqJq",
     "name": "Cartoon Network: Adventure Time",
     "sources": {
@@ -197,22 +228,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WyQIvG6nRolbpZ",
-    "name": "Disney Channel Latin America Panregional HD",
-    "sources": {
-      "streams": [
-        "https://streamer.metronethn.com/DisneyChannel/index.m3u8",
-        "https://cdn1tlinkgo.tlink.cl/disneychannelhd/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "por",
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xhpSHNk65C34T5",
     "name": "Disney Channel: Gravity Falls",
     "sources": {
@@ -231,8 +246,7 @@
     "name": "Disney Jr. Latin America South",
     "sources": {
       "streams": [
-        "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-        "https://cdn1tlinkgo.tlink.cl/disneyjr/index.m3u8"
+        "https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
       ]
     },
     "languages": [
@@ -267,20 +281,6 @@
       "spa"
     ],
     "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x0Wxh4JOzOl6RO",
-    "name": "ETC TV",
-    "sources": {
-      "streams": [
-        "https://cdn1tlinkgo.tlink.cl/etc/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -409,34 +409,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "6LMZLvrPTalkLd",
-    "name": "Hasbro Pulse: Transformers Gen 1",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/YGbsgUXdelE"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0ivoQLrHJOMC00",
-    "name": "Hasbro Pulse: Transformers Generation 1",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/aTCYFcsbsxo"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "dLuyF7ipbY6e1u",
@@ -665,6 +637,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
+    "sources": {
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VvHhOWwHL2G6fH",
     "name": "NickToons Brasil",
     "sources": {
@@ -796,7 +782,7 @@
     "name": "Shaun the Sheep Official",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dBloEq9d49A"
+        "https://www.youtube-nocookie.com/embed/PvWa9XUzOz8"
       ]
     },
     "languages": [
@@ -806,17 +792,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "P0LU27eSLAz1HY",
-    "name": "Shout! Studios: Speed Racer",
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/J2pmbVoW1IM"
+        "https://www.youtube-nocookie.com/embed/0bPyiYjhf_U"
       ]
     },
     "languages": [
-      "eng"
+      "fra"
     ],
-    "country": "us",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -922,34 +908,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7ou9OY1nQUGsSq",
-    "name": "Tiguerito TV",
-    "sources": {
-      "streams": [
-        "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vxuvNL1pu9DfjK",
-    "name": "TokuSHOUTsu: Speed Racer",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/r8MZmb-IcoQ"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rOQGdTPomjbnWK",
     "name": "Tooku",
     "sources": {
@@ -1029,6 +987,34 @@
     },
     "languages": [
       "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OZ8dubpH2v68hz",
+    "name": "WOW Kidz Tamil",
+    "sources": {
+      "streams": [
+        "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nbCodEoVNT8ubp",
+    "name": "WOW Kidz Telugu",
+    "sources": {
+      "streams": [
+        "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+      ]
+    },
+    "languages": [
+      "tel"
     ],
     "country": "in",
     "isGeoBlocked": false

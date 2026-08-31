@@ -120,7 +120,7 @@
     "name": "KTN News Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8BcE7PfUx-w"
+        "https://www.youtube-nocookie.com/embed/V7vZqfW7hcE"
       ]
     },
     "languages": [
@@ -130,11 +130,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y7vYe1yqK0sxRF",
-    "name": "MERU TV",
+    "nanoid": "nnVl6vXmVVFvf3",
+    "name": "MOF TV",
     "sources": {
       "streams": [
-        "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8"
+        "https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8"
       ]
     },
     "languages": [
@@ -164,6 +164,34 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/6Qj6kqBhflc"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QNrQ5ZEGUQREnZ",
+    "name": "Ramogi TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/psVkNkTa8uI"
+      ]
+    },
+    "languages": [
+      "luo"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xv7XuF3Jqnre1p",
+    "name": "YOUNIB Media TV",
+    "sources": {
+      "streams": [
+        "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8"
       ]
     },
     "languages": [

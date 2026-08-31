@@ -168,20 +168,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LX1jOBuAPab8Ct",
-    "name": "Nim TV",
-    "sources": {
-      "streams": [
-        "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xzHB1m21hm0Vtm",
     "name": "Nuestra Imagen TV",
     "sources": {
@@ -266,11 +252,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AXMHX6tuUnfRvm",
-    "name": "SIL TV",
+    "nanoid": "OsYebOtVABr4xl",
+    "name": "Sol TV",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8"
+        "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8"
       ]
     },
     "languages": [
@@ -280,11 +266,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HkrrOjtIUJU4ad",
-    "name": "Star Channel Latin America Central America",
+    "nanoid": "sjT63Yqrczmdqs",
+    "name": "Telecosta",
     "sources": {
       "streams": [
-        "https://streamer.metronethn.com/StarChannel/index.m3u8"
+        "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8"
       ]
     },
     "languages": [
@@ -313,6 +299,48 @@
     "sources": {
       "streams": [
         "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "r1oGqxJA7bXTXS",
+    "name": "TV Maya",
+    "sources": {
+      "streams": [
+        "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "yua"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XwiDGKdsH20Bju",
+    "name": "TVS Retro",
+    "sources": {
+      "streams": [
+        "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CIC3OB0eRrwRa3",
+    "name": "Vision TV",
+    "sources": {
+      "streams": [
+        "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8"
       ]
     },
     "languages": [

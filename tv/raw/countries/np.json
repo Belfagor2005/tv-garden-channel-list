@@ -96,5 +96,36 @@
     "languages": [],
     "country": "np",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SkFJ0oflDSmfA2",
+    "name": "Ray TV HD",
+    "sources": {
+      "streams": [
+        "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8"
+      ]
+    },
+    "languages": [
+      "mai",
+      "nep"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zoKJMDHzQaixA6",
+    "name": "TV Today Janakpur",
+    "sources": {
+      "streams": [
+        "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "mai",
+      "nep"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
   }
 ]

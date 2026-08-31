@@ -4,7 +4,7 @@
     "name": "24 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iMksWMP-ECs"
+        "https://www.youtube-nocookie.com/embed/aze3UolDBx0"
       ]
     },
     "languages": [
@@ -73,6 +73,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sF8x4UncscLIdo",
+    "name": "Aik News",
+    "sources": {
+      "streams": [
+        "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fZMrOzjLW2s1eB",
     "name": "ARY News",
     "sources": {
@@ -132,25 +146,10 @@
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2Pyc8Bw3J-Q"
+        "https://www.youtube-nocookie.com/embed/CcI1r26hXP0"
       ]
     },
     "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SMZ90GrudLpWdN",
-    "name": "City 41",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/8P5NceZvaUU"
-      ]
-    },
-    "languages": [
-      "eng",
       "urd"
     ],
     "country": "pk",
@@ -161,7 +160,7 @@
     "name": "City 42",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rhTm9SkF-EU"
+        "https://www.youtube-nocookie.com/embed/-XyRgjjq1UA"
       ]
     },
     "languages": [
@@ -254,6 +253,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MODjjERDzpT3OS",
+    "name": "Filmax",
+    "sources": {
+      "streams": [
+        "https://s3.ideationtec.live/Filmax/Filmax.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -414,6 +427,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "udYM5OktKE92Dh",
+    "name": "God Stands TV Punjabi",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
+      ]
+    },
+    "languages": [
+      "pan"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5jBZcISN5C325C",
     "name": "God Stands TV Tagalog",
     "sources": {
@@ -471,11 +498,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TuY2V6p7ao7BEP",
-    "name": "Isaac TV",
+    "nanoid": "ZIW6JObjbTmBLX",
+    "name": "Jalwa TV",
     "sources": {
       "streams": [
-        "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8"
+        "https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8"
       ]
     },
     "languages": [
@@ -560,7 +587,7 @@
     "name": "KTN NEWS TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QUBbw-V7KIg"
+        "https://www.youtube-nocookie.com/embed/xvM0yofi8GM"
       ]
     },
     "languages": [
@@ -616,7 +643,9 @@
     "name": "M Sports",
     "sources": {
       "streams": [
-        "https://cdn.rabta.stream/M-Sports/index.m3u8"
+        "https://cdn.rabta.stream/M-Sports/index.m3u8",
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+        "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8"
       ]
     },
     "languages": [
@@ -648,7 +677,7 @@
         "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/D6A_bRYllDQ"
+        "https://www.youtube-nocookie.com/embed/9O8fzv-0H2A"
       ]
     },
     "languages": [
@@ -693,7 +722,7 @@
         "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fpQj5en0_3o"
+        "https://www.youtube-nocookie.com/embed/i8EgftSRJpQ"
       ]
     },
     "languages": [
@@ -708,6 +737,20 @@
     "sources": {
       "streams": [
         "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zzEkf9yZmrhUaA",
+    "name": "PK Sports",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -819,39 +862,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3iCM6TWrro0iqg",
-    "name": "Sindh TV News",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/sWqkIgQuZS4"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WXuOh2YwSDNDLT",
     "name": "Sky News Urdu",
     "sources": {
       "streams": [
         "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oy323hi3qdqwPY",
-    "name": "Such TV",
-    "sources": {
-      "streams": [
-        "https://video.primexsports.com/suchnews/live/playlist.m3u8"
       ]
     },
     "languages": [

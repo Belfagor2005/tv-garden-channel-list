@@ -53,7 +53,7 @@
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HVSxZ7TCqz0"
+        "https://www.youtube-nocookie.com/embed/9pGruMw_21g"
       ]
     },
     "languages": [
@@ -240,10 +240,11 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Kjg1HulXQfw"
+        "https://www.youtube-nocookie.com/embed/k3XQjUx2gXE"
       ]
     },
     "languages": [
@@ -648,6 +649,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NaLDKK2n9zWTIs",
+    "name": "Erciyes TV",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GJHn2TfHunPgwd",
+    "name": "ERTV",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "WHkVQZYPgkweaG",
     "name": "Erzurum Web TV",
     "sources": {
@@ -710,6 +739,20 @@
     "sources": {
       "streams": [
         "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M7iic35BRSxsTh",
+    "name": "Flash Haber TV",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -883,7 +926,7 @@
     "name": "ibrahimlive",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-d6kI_g4Lmg"
+        "https://www.youtube-nocookie.com/embed/inIQo62ogBU"
       ]
     },
     "languages": [
@@ -1275,7 +1318,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8nt4AKdiMqM"
+        "https://www.youtube-nocookie.com/embed/YkgYX8Qelqg"
       ]
     },
     "languages": [
@@ -1430,20 +1473,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/tZxD_s29JZc"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BO4YypoB7kcaVn",
-    "name": "Neo Haber",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/neohaber/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1649,36 +1678,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oQ5AK419QlFTfh",
-    "name": "S Sport",
-    "sources": {
-      "streams": [
-        "https://corestream.siteyaptim.live/s-sport/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tBhHjWUW81vL3u",
-    "name": "S Sport 2",
-    "sources": {
-      "streams": [
-        "https://corestream.siteyaptim.live/s-sport2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "73xSFKpT68qZuL",
     "name": "Semerkand TV",
     "sources": {
@@ -1869,6 +1868,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hpuZXRpbDes"
       ]
     },
     "languages": [
@@ -2038,20 +2040,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "soJFcTUgH4WD3b",
-    "name": "TRT Spor",
-    "sources": {
-      "streams": [
-        "https://corestream.siteyaptim.live/trt-spor/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3plQYqBTSXG2ii",
     "name": "TRT Turk",
     "sources": {
@@ -2169,9 +2157,6 @@
     "nanoid": "W5plAUUYqWIZ2k",
     "name": "TV 100",
     "sources": {
-      "streams": [
-        "https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4WSvLRk83-c"
       ]

@@ -99,53 +99,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ESeEpgafREEMIe",
-    "name": "La-X",
-    "sources": {
-      "streams": [
-        "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8vjdEy4opeeKWC",
-    "name": "NG Radio TV",
-    "sources": {
-      "streams": [
-        "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7W5fz3owCOtino",
     "name": "Nueva Vida FM",
     "sources": {
       "streams": [
         "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fxoiDSXZnOUswM",
-    "name": "Paraiso TV",
-    "sources": {
-      "streams": [
-        "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -174,20 +132,6 @@
     "sources": {
       "streams": [
         "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LNGJVkOrgPhVTB",
-    "name": "Salvacion TV",
-    "sources": {
-      "streams": [
-        "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -322,43 +266,37 @@
   },
   {
     "nanoid": "pK67X1nTuCfVIB",
-    "name": "WRUA-DT1",
+    "name": "WRUA-DT1 (Tiva TV)",
     "sources": {
       "streams": [
         "https://link.frontlayer.com/services/hls2/fl496518/index.m3u8"
       ]
     },
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "pr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "zi89aJl9FoLNYA",
-    "name": "WWXY-DT1",
+    "name": "WWXY-DT1 (Boricua TV)",
     "sources": {
       "streams": [
         "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8"
       ]
     },
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "pr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "IiR71uuMJmqUVL",
-    "name": "WWXY-DT3",
+    "name": "WWXY-DT3 (Maranatha Radio Ministries)",
     "sources": {
       "streams": [
         "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8"
       ]
     },
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "pr",
     "isGeoBlocked": false
   },

@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uzMnROBDMiNzKY",
+    "name": "Anhui TV",
+    "sources": {
+      "streams": [
+        "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gcM2WWZ06H1U7r",
     "name": "Baicheng TV",
     "sources": {
@@ -147,7 +161,7 @@
       "streams": [
         "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
         "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
-        "https://0472.org/hls/cgtn.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/LJgXwC-AKu8"
@@ -181,7 +195,7 @@
       "streams": [
         "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
         "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
-        "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8"
       ]
     },
     "languages": [
@@ -375,6 +389,7 @@
     "name": "Hebei TV",
     "sources": {
       "streams": [
+        "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
         "https://event.pull.hebtv.com/live/live101.m3u8"
       ]
     },
@@ -418,20 +433,6 @@
     "sources": {
       "streams": [
         "https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sxmEu2IrHYwAmm",
-    "name": "Lanzhou Comprehensive News Channel",
-    "sources": {
-      "streams": [
-        "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8"
       ]
     },
     "languages": [
@@ -583,11 +584,71 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PQS6mmZySzL6Rf",
+    "name": "上虞1新闻综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2Fb8Um99xfgPRq",
+    "name": "上虞3新商都",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZMTYKvEKk1dmYw",
+    "name": "上虞經濟文化",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HzvN0O8csJFrwx",
     "name": "之江纪录",
     "sources": {
       "streams": [
         "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4gpT2C61YO4gJy",
+    "name": "余姚姚江文化",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z6LINyrJx59mNs",
+    "name": "余姚新闻综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
       ]
     },
     "languages": [],
@@ -643,6 +704,42 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "G8jMlVl14mEiZk",
+    "name": "宿州公共",
+    "sources": {
+      "streams": [
+        "https://live.ahsz.tv/video/s10001-ggpd/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LhzYAfOxktXLl3",
+    "name": "宿州新闻综合",
+    "sources": {
+      "streams": [
+        "https://live.ahsz.tv/video/s10001-szzh/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ez5NBYjpiihwmc",
+    "name": "宿州科教",
+    "sources": {
+      "streams": [
+        "https://live.ahsz.tv/video/s10001-kxjy/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0REjP55mYk4y0F",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
@@ -657,6 +754,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9wRBNHe95BnBON",
+    "name": "嵊州综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OV9fgTIJjuEnHm",
     "name": "延边新闻综合",
     "sources": {
@@ -667,6 +776,30 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "LWZapZpACANZ13",
+    "name": "新昌休闲影视",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4rBoFSFcNpIZxe",
+    "name": "新昌新聞綜合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "UKPg4OIuLFiPtH",

@@ -84,20 +84,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KtUOjtUN5J2cOR",
-    "name": "Csurgo TV",
-    "sources": {
-      "streams": [
-        "https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7lZXVo773nUBKh",
     "name": "ESTV",
     "sources": {
@@ -239,11 +225,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zfJa4qfi7LBJ6S",
-    "name": "M4 Sport",
+    "nanoid": "1Dqq1nFJv7bDfM",
+    "name": "Komaromi Televizio",
     "sources": {
       "streams": [
-        "https://7nyaler.streamhostingcdn.top/stream/80/index.m3u8"
+        "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -328,6 +314,34 @@
     "sources": {
       "streams": [
         "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UxOgU5kfFfuxCm",
+    "name": "Tatai TV",
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uOI7Fr7hGWDmjp",
+    "name": "TelePaks",
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
       ]
     },
     "languages": [

@@ -28,11 +28,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JAreuKNijuO7ug",
-    "name": "Bruno Masi TV",
+    "nanoid": "uGCjnDiIPhWb6B",
+    "name": "Alt Media TV",
     "sources": {
       "streams": [
-        "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
+        "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8"
       ]
     },
     "languages": [
@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iyKm6r3aZi9gVV",
-    "name": "CAD TV",
+    "nanoid": "JAreuKNijuO7ug",
+    "name": "Bruno Masi TV",
     "sources": {
       "streams": [
-        "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8"
+        "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -380,11 +380,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zFyIVU3GskBml9",
-    "name": "Occidental TV",
+    "nanoid": "HxsHxTV92v3WvN",
+    "name": "Oviedo TV",
     "sources": {
       "streams": [
-        "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
+        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
       ]
     },
     "languages": [
@@ -394,14 +394,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HxsHxTV92v3WvN",
-    "name": "Oviedo TV",
+    "nanoid": "DTGn1oGPUrbYoj",
+    "name": "Paraguay TV",
     "sources": {
       "streams": [
-        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
+        "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
       ]
     },
     "languages": [
+      "gug",
       "spa"
     ],
     "country": "py",
@@ -464,39 +465,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oy0RzzLMHXV3WJ",
-    "name": "Radio San Cristobal 88.7 FM",
-    "sources": {
-      "streams": [
-        "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TeqRUHz0t6Kdc6",
     "name": "Radio TV El Arca del Pacto",
     "sources": {
       "streams": [
         "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CghjvXX91l15l6",
-    "name": "RB TV",
-    "sources": {
-      "streams": [
-        "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8"
       ]
     },
     "languages": [
@@ -525,20 +498,6 @@
     "sources": {
       "streams": [
         "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3UsrfCo6SJ3Ltz",
-    "name": "Red Interior TV",
-    "sources": {
-      "streams": [
-        "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8"
       ]
     },
     "languages": [

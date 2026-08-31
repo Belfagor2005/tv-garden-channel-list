@@ -246,9 +246,9 @@
     "name": "Fish TV",
     "sources": {
       "streams": [
+        "https://45.190.28.50/FISH_TV_HD/index.m3u8",
         "https://168.197.104.22/FISH_TV/index.m3u8",
-        "https://45.162.64.114/FISH_TV/index.m3u8",
-        "https://170.83.16.50/FISH_TV/index.m3u8"
+        "https://45.162.64.114/FISH_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -263,8 +263,7 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
-        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -288,20 +287,6 @@
     ],
     "country": "nl",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "R8E994mqmmDshs",
-    "name": "Italian Fishing TV",
-    "sources": {
-      "streams": [
-        "https://fms.premio.link/fishingtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "lQWrqWxPSBgWUI",
@@ -375,6 +360,7 @@
     "name": "Okhota i rybalka",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/155/index.m3u8",
         "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -672,6 +658,20 @@
       "ukr"
     ],
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lOEoXHnp8Sj0dx",
+    "name": "UMC TV",
+    "sources": {
+      "streams": [
+        "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
     "isGeoBlocked": false
   },
   {
